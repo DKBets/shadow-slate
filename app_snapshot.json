@@ -1,26 +1,9 @@
 {
- "generated_utc": "2026-09-04T21:09:13.664235Z",
- "slate_generated_utc": "2026-09-04T21:01:19.024967Z",
+ "generated_utc": "2026-09-04T21:13:57.854362Z",
+ "slate_generated_utc": "2026-09-04T21:13:23.587960Z",
  "date": "2026-09-04",
+ "source": "board",
  "games": [
-  {
-   "home": "Rams Başakşehir FK",
-   "away": "Galatasaray SK",
-   "league_name": "Super Lig",
-   "kickoff_utc": "2026-09-04T17:00Z",
-   "kickoff_local": "1:00 PM",
-   "status": "post",
-   "pm_slug": "tur-iba-gal-2026-09-04-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
   {
    "home": "Sparta Rotterdam",
    "away": "PEC Zwolle",
@@ -29,11 +12,56 @@
    "kickoff_local": "2:00 PM",
    "status": "post",
    "pm_slug": "ere-spa-zwo-2026-09-04-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
+   "lamH": 1.758,
+   "lamA": 1.249,
+   "hasModel": true,
    "news_adj": null,
-   "top_scores": [],
+   "top_scores": [
+    {
+     "score": "1-1",
+     "prob": 0.1154
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0957
+    },
+    {
+     "score": "1-0",
+     "prob": 0.0806
+    },
+    {
+     "score": "2-0",
+     "prob": 0.0766
+    },
+    {
+     "score": "1-2",
+     "prob": 0.068
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.0005,
+    "0-1": 0.0005,
+    "1-0": 0.0005,
+    "0-2": 0.004,
+    "1-1": 0.0035,
+    "2-0": 0.0005,
+    "0-3": 0.0045,
+    "1-2": 0.0035,
+    "2-1": 0.0045,
+    "3-0": 0.004,
+    "1-3": 0.0025,
+    "2-2": 0.996,
+    "3-1": 0.004,
+    "2-3": 0.0035,
+    "3-2": 0.003,
+    "3-3": 0.0035,
+    "Other": 0.004
+   },
+   "edge_bets": [],
+   "cur_home": 2,
+   "cur_away": 2,
+   "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
@@ -47,11 +75,56 @@
    "kickoff_local": "2:45 PM",
    "status": "post",
    "pm_slug": "bel1-lom-bru-2026-09-04-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
+   "lamH": 1.403,
+   "lamA": 1.172,
+   "hasModel": true,
    "news_adj": null,
-   "top_scores": [],
+   "top_scores": [
+    {
+     "score": "1-1",
+     "prob": 0.1328
+    },
+    {
+     "score": "1-0",
+     "prob": 0.0994
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0879
+    },
+    {
+     "score": "0-0",
+     "prob": 0.0837
+    },
+    {
+     "score": "0-1",
+     "prob": 0.0818
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.0005,
+    "0-1": 0.9955,
+    "1-0": 0.0005,
+    "0-2": 0.0045,
+    "1-1": 0.0045,
+    "2-0": 0.0045,
+    "0-3": 0.0045,
+    "1-2": 0.0045,
+    "2-1": 0.0045,
+    "3-0": 0.0045,
+    "1-3": 0.0005,
+    "2-2": 0.0045,
+    "3-1": 0.0045,
+    "2-3": 0.0045,
+    "3-2": 0.0045,
+    "3-3": 0.0045,
+    "Other": 0.005
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 1,
+   "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
@@ -65,11 +138,56 @@
    "kickoff_local": "2:45 PM",
    "status": "post",
    "pm_slug": "nor-bra-lil-2026-09-05-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
+   "lamH": 1.817,
+   "lamA": 0.783,
+   "hasModel": true,
    "news_adj": null,
-   "top_scores": [],
+   "top_scores": [
+    {
+     "score": "1-0",
+     "prob": 0.129
+    },
+    {
+     "score": "2-0",
+     "prob": 0.1229
+    },
+    {
+     "score": "1-1",
+     "prob": 0.1123
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0963
+    },
+    {
+     "score": "0-0",
+     "prob": 0.0808
+    }
+   ],
+   "provisional": true,
+   "market": {
+    "0-0": 0.04,
+    "0-1": 0.045,
+    "1-0": 0.07,
+    "0-2": 0.0325,
+    "1-1": 0.1,
+    "2-0": 0.07,
+    "0-3": 0.016,
+    "1-2": 0.06,
+    "2-1": 0.095,
+    "3-0": 0.0475,
+    "1-3": 0.029,
+    "2-2": 0.07,
+    "3-1": 0.06,
+    "2-3": 0.029,
+    "3-2": 0.045,
+    "3-3": 0.0205,
+    "Other": 0.125
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 1,
+   "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
@@ -83,11 +201,56 @@
    "kickoff_local": "3:00 PM",
    "status": "post",
    "pm_slug": "epl-ips-liv-2026-09-04-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
+   "lamH": 1.435,
+   "lamA": 1.448,
+   "hasModel": true,
    "news_adj": null,
-   "top_scores": [],
+   "top_scores": [
+    {
+     "score": "1-1",
+     "prob": 0.1235
+    },
+    {
+     "score": "1-2",
+     "prob": 0.0843
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0836
+    },
+    {
+     "score": "0-1",
+     "prob": 0.0742
+    },
+    {
+     "score": "1-0",
+     "prob": 0.0734
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.0005,
+    "0-1": 0.0005,
+    "1-0": 0.0005,
+    "0-2": 0.9995,
+    "1-1": 0.0005,
+    "2-0": 0.0005,
+    "0-3": 0.0005,
+    "1-2": 0.0005,
+    "2-1": 0.0005,
+    "3-0": 0.0005,
+    "1-3": 0.0005,
+    "2-2": 0.0005,
+    "3-1": 0.0005,
+    "2-3": 0.0005,
+    "3-2": 0.0005,
+    "3-3": 0.0005,
+    "Other": 0.0005
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 2,
+   "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
@@ -99,13 +262,58 @@
    "league_name": "La Liga",
    "kickoff_utc": "2026-09-04T19:00Z",
    "kickoff_local": "3:00 PM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "lal-bet-rea-2026-09-04-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
+   "lamH": 1.489,
+   "lamA": 1.322,
+   "hasModel": true,
    "news_adj": null,
-   "top_scores": [],
+   "top_scores": [
+    {
+     "score": "1-1",
+     "prob": 0.1257
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0883
+    },
+    {
+     "score": "1-0",
+     "prob": 0.0826
+    },
+    {
+     "score": "1-2",
+     "prob": 0.0784
+    },
+    {
+     "score": "0-1",
+     "prob": 0.0725
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.0005,
+    "0-1": 0.0005,
+    "1-0": 0.9995,
+    "0-2": 0.0005,
+    "1-1": 0.0005,
+    "2-0": 0.0005,
+    "0-3": 0.0005,
+    "1-2": 0.0005,
+    "2-1": 0.0005,
+    "3-0": 0.0005,
+    "1-3": 0.0005,
+    "2-2": 0.0005,
+    "3-1": 0.0005,
+    "2-3": 0.0005,
+    "3-2": 0.0005,
+    "3-3": 0.0005,
+    "Other": 0.0005
+   },
+   "edge_bets": [],
+   "cur_home": 1,
+   "cur_away": 0,
+   "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
@@ -119,11 +327,56 @@
    "kickoff_local": "3:00 PM",
    "status": "post",
    "pm_slug": "nor-san-vik-2026-09-04-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
+   "lamH": 1.194,
+   "lamA": 1.453,
+   "hasModel": true,
    "news_adj": null,
-   "top_scores": [],
+   "top_scores": [
+    {
+     "score": "1-1",
+     "prob": 0.1304
+    },
+    {
+     "score": "0-1",
+     "prob": 0.0957
+    },
+    {
+     "score": "1-2",
+     "prob": 0.0894
+    },
+    {
+     "score": "0-0",
+     "prob": 0.0783
+    },
+    {
+     "score": "1-0",
+     "prob": 0.0773
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.0005,
+    "0-1": 0.0005,
+    "1-0": 0.0005,
+    "0-2": 0.0005,
+    "1-1": 0.996,
+    "2-0": 0.0005,
+    "0-3": 0.0005,
+    "1-2": 0.0005,
+    "2-1": 0.0005,
+    "3-0": 0.0005,
+    "1-3": 0.0005,
+    "2-2": 0.0005,
+    "3-1": 0.0005,
+    "2-3": 0.0005,
+    "3-2": 0.0005,
+    "3-3": 0.0005,
+    "Other": 0.0045
+   },
+   "edge_bets": [],
+   "cur_home": 1,
+   "cur_away": 1,
+   "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
@@ -135,13 +388,58 @@
    "league_name": "Ligue 1",
    "kickoff_utc": "2026-09-04T19:05Z",
    "kickoff_local": "3:05 PM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "fl1-psg-asm-2026-09-04-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
+   "lamH": 1.511,
+   "lamA": 1.296,
+   "hasModel": true,
    "news_adj": null,
-   "top_scores": [],
+   "top_scores": [
+    {
+     "score": "1-1",
+     "prob": 0.1255
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0895
+    },
+    {
+     "score": "1-0",
+     "prob": 0.0843
+    },
+    {
+     "score": "1-2",
+     "prob": 0.0767
+    },
+    {
+     "score": "0-1",
+     "prob": 0.0713
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.0005,
+    "0-1": 0.0005,
+    "1-0": 0.0005,
+    "0-2": 0.0005,
+    "1-1": 0.0005,
+    "2-0": 0.0005,
+    "0-3": 0.0005,
+    "1-2": 0.9995,
+    "2-1": 0.0005,
+    "3-0": 0.0005,
+    "1-3": 0.0005,
+    "2-2": 0.0005,
+    "3-1": 0.0005,
+    "2-3": 0.0005,
+    "3-2": 0.0005,
+    "3-3": 0.0005,
+    "Other": 0.0045
+   },
+   "edge_bets": [],
+   "cur_home": 1,
+   "cur_away": 2,
+   "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
@@ -155,11 +453,56 @@
    "kickoff_local": "3:15 PM",
    "status": "in",
    "pm_slug": "por-por-mor-2026-09-04-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
+   "lamH": 1.773,
+   "lamA": 1.055,
+   "hasModel": true,
    "news_adj": null,
-   "top_scores": [],
+   "top_scores": [
+    {
+     "score": "1-1",
+     "prob": 0.1175
+    },
+    {
+     "score": "1-0",
+     "prob": 0.0984
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0983
+    },
+    {
+     "score": "2-0",
+     "prob": 0.0932
+    },
+    {
+     "score": "0-0",
+     "prob": 0.0659
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.004,
+    "0-1": 0.0045,
+    "1-0": 0.0045,
+    "0-2": 0.0045,
+    "1-1": 0.0045,
+    "2-0": 0.004,
+    "0-3": 0.0045,
+    "1-2": 0.0005,
+    "2-1": 0.78,
+    "3-0": 0.0045,
+    "1-3": 0.004,
+    "2-2": 0.018,
+    "3-1": 0.171,
+    "2-3": 0.499,
+    "3-2": 0.0105,
+    "3-3": 0.0065,
+    "Other": 0.5
+   },
+   "edge_bets": [],
+   "cur_home": 2,
+   "cur_away": 1,
+   "minute": 93,
    "shadow_bet": true,
    "shadow_status": "open",
    "shadow_pending": false,
@@ -178,6 +521,30 @@
    "hasModel": false,
    "news_adj": null,
    "top_scores": [],
+   "provisional": false,
+   "market": {
+    "0-0": 0.05,
+    "0-1": 0.09,
+    "1-0": 0.065,
+    "0-2": 0.07,
+    "1-1": 0.12,
+    "2-0": 0.041,
+    "0-3": 0.041,
+    "1-2": 0.1,
+    "2-1": 0.075,
+    "3-0": 0.0185,
+    "1-3": 0.0505,
+    "2-2": 0.07,
+    "3-1": 0.0275,
+    "2-3": 0.033,
+    "3-2": 0.0245,
+    "3-3": 0.0205,
+    "Other": 0.095
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
@@ -191,11 +558,56 @@
    "kickoff_local": "7:30 PM",
    "status": "pre",
    "pm_slug": "mls-nyc-nas-2026-09-04-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
+   "lamH": 1.377,
+   "lamA": 1.493,
+   "hasModel": true,
    "news_adj": null,
-   "top_scores": [],
+   "top_scores": [
+    {
+     "score": "1-1",
+     "prob": 0.1237
+    },
+    {
+     "score": "1-2",
+     "prob": 0.0871
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0804
+    },
+    {
+     "score": "0-1",
+     "prob": 0.0778
+    },
+    {
+     "score": "1-0",
+     "prob": 0.0712
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.065,
+    "0-1": 0.09,
+    "1-0": 0.075,
+    "0-2": 0.065,
+    "1-1": 0.125,
+    "2-0": 0.045,
+    "0-3": 0.034,
+    "1-2": 0.095,
+    "2-1": 0.075,
+    "3-0": 0.0205,
+    "1-3": 0.045,
+    "2-2": 0.065,
+    "3-1": 0.0325,
+    "2-3": 0.031,
+    "3-2": 0.026,
+    "3-3": 0.014,
+    "Other": 0.105
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
@@ -214,6 +626,30 @@
    "hasModel": false,
    "news_adj": null,
    "top_scores": [],
+   "provisional": false,
+   "market": {
+    "0-0": 0.033,
+    "0-1": 0.0355,
+    "1-0": 0.07,
+    "0-2": 0.0225,
+    "1-1": 0.09,
+    "2-0": 0.08,
+    "0-3": 0.011,
+    "1-2": 0.05,
+    "2-1": 0.095,
+    "3-0": 0.0605,
+    "1-3": 0.0215,
+    "2-2": 0.06,
+    "3-1": 0.07,
+    "2-3": 0.0245,
+    "3-2": 0.045,
+    "3-3": 0.0245,
+    "Other": 0.125
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
@@ -232,6 +668,30 @@
    "hasModel": false,
    "news_adj": null,
    "top_scores": [],
+   "provisional": false,
+   "market": {
+    "0-0": 0.042,
+    "0-1": 0.07,
+    "1-0": 0.0545,
+    "0-2": 0.06,
+    "1-1": 0.105,
+    "2-0": 0.0385,
+    "0-3": 0.041,
+    "1-2": 0.095,
+    "2-1": 0.07,
+    "3-0": 0.028,
+    "1-3": 0.0535,
+    "2-2": 0.07,
+    "3-1": 0.031,
+    "2-3": 0.0395,
+    "3-2": 0.03,
+    "3-3": 0.028,
+    "Other": 0.11
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
@@ -245,11 +705,56 @@
    "kickoff_local": "11:00 PM",
    "status": "pre",
    "pm_slug": "mex-jua-pac-2026-09-04-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
+   "lamH": 1.412,
+   "lamA": 1.469,
+   "hasModel": true,
    "news_adj": null,
-   "top_scores": [],
+   "top_scores": [
+    {
+     "score": "1-1",
+     "prob": 0.1235
+    },
+    {
+     "score": "1-2",
+     "prob": 0.0856
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0822
+    },
+    {
+     "score": "0-1",
+     "prob": 0.0755
+    },
+    {
+     "score": "1-0",
+     "prob": 0.0723
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.075,
+    "0-1": 0.105,
+    "1-0": 0.07,
+    "0-2": 0.085,
+    "1-1": 0.135,
+    "2-0": 0.037,
+    "0-3": 0.041,
+    "1-2": 0.095,
+    "2-1": 0.065,
+    "3-0": 0.016,
+    "1-3": 0.05,
+    "2-2": 0.055,
+    "3-1": 0.023,
+    "2-3": 0.0305,
+    "3-2": 0.0215,
+    "3-3": 0.0115,
+    "Other": 0.1
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
