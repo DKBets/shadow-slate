@@ -1,0 +1,756 @@
+{
+ "generated_utc": "2026-09-04T21:09:09.353265Z",
+ "slate_generated_utc": "2026-09-04T21:01:19.024967Z",
+ "date": "2026-09-04",
+ "games": [
+  {
+   "home": "Rams Başakşehir FK",
+   "away": "Galatasaray SK",
+   "league_name": "Super Lig",
+   "kickoff_utc": "2026-09-04T17:00Z",
+   "kickoff_local": "1:00 PM",
+   "status": "post",
+   "pm_slug": "tur-iba-gal-2026-09-04-exact-score",
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
+   "news_adj": null,
+   "top_scores": [],
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Sparta Rotterdam",
+   "away": "PEC Zwolle",
+   "league_name": "Eredivisie",
+   "kickoff_utc": "2026-09-04T18:00Z",
+   "kickoff_local": "2:00 PM",
+   "status": "post",
+   "pm_slug": "ere-spa-zwo-2026-09-04-exact-score",
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
+   "news_adj": null,
+   "top_scores": [],
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Lommel SK",
+   "away": "Club Brugge",
+   "league_name": "Belgian Pro League",
+   "kickoff_utc": "2026-09-04T18:45Z",
+   "kickoff_local": "2:45 PM",
+   "status": "post",
+   "pm_slug": "bel1-lom-bru-2026-09-04-exact-score",
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
+   "news_adj": null,
+   "top_scores": [],
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "SK Brann",
+   "away": "Lillestrøm SK",
+   "league_name": "Belgian Pro League",
+   "kickoff_utc": "2026-09-04T18:45Z",
+   "kickoff_local": "2:45 PM",
+   "status": "post",
+   "pm_slug": "nor-bra-lil-2026-09-05-exact-score",
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
+   "news_adj": null,
+   "top_scores": [],
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Ipswich Town FC",
+   "away": "Liverpool FC",
+   "league_name": "Premier League",
+   "kickoff_utc": "2026-09-04T19:00Z",
+   "kickoff_local": "3:00 PM",
+   "status": "post",
+   "pm_slug": "epl-ips-liv-2026-09-04-exact-score",
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
+   "news_adj": null,
+   "top_scores": [],
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Real Betis Balompié",
+   "away": "Real Madrid CF",
+   "league_name": "La Liga",
+   "kickoff_utc": "2026-09-04T19:00Z",
+   "kickoff_local": "3:00 PM",
+   "status": "in",
+   "pm_slug": "lal-bet-rea-2026-09-04-exact-score",
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
+   "news_adj": null,
+   "top_scores": [],
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Sandefjord Fotball",
+   "away": "Viking FK",
+   "league_name": "Eliteserien",
+   "kickoff_utc": "2026-09-04T19:00Z",
+   "kickoff_local": "3:00 PM",
+   "status": "post",
+   "pm_slug": "nor-san-vik-2026-09-04-exact-score",
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
+   "news_adj": null,
+   "top_scores": [],
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Paris Saint-Germain FC",
+   "away": "AS Monaco FC",
+   "league_name": "Ligue 1",
+   "kickoff_utc": "2026-09-04T19:05Z",
+   "kickoff_local": "3:05 PM",
+   "status": "in",
+   "pm_slug": "fl1-psg-asm-2026-09-04-exact-score",
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
+   "news_adj": null,
+   "top_scores": [],
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "FC Porto",
+   "away": "Moreirense FC",
+   "league_name": "Primeira Liga",
+   "kickoff_utc": "2026-09-04T19:15Z",
+   "kickoff_local": "3:15 PM",
+   "status": "in",
+   "pm_slug": "por-por-mor-2026-09-04-exact-score",
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
+   "news_adj": null,
+   "top_scores": [],
+   "shadow_bet": true,
+   "shadow_status": "open",
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Loudoun United FC",
+   "away": "Colorado Springs Switchbacks FC",
+   "league_name": "USL Championship",
+   "kickoff_utc": "2026-09-04T23:00:00Z",
+   "kickoff_local": "7:00 PM",
+   "status": "pre",
+   "pm_slug": "uslc-lou-css-2026-09-04-exact-score",
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
+   "news_adj": null,
+   "top_scores": [],
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "New York City FC",
+   "away": "Nashville SC",
+   "league_name": "MLS",
+   "kickoff_utc": "2026-09-04T23:30Z",
+   "kickoff_local": "7:30 PM",
+   "status": "pre",
+   "pm_slug": "mls-nyc-nas-2026-09-04-exact-score",
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
+   "news_adj": null,
+   "top_scores": [],
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Utah Royals FC",
+   "away": "Boston Legacy FC",
+   "league_name": "NWSL",
+   "kickoff_utc": "2026-09-05T01:30Z",
+   "kickoff_local": "9:30 PM",
+   "status": "pre",
+   "pm_slug": "nwsl-roy-bos-2026-09-04-exact-score",
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
+   "news_adj": null,
+   "top_scores": [],
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Bay FC",
+   "away": "Kansas City Current",
+   "league_name": "NWSL",
+   "kickoff_utc": "2026-09-05T02:00Z",
+   "kickoff_local": "10:00 PM",
+   "status": "pre",
+   "pm_slug": "nwsl-bay-kcc-2026-09-04-exact-score",
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
+   "news_adj": null,
+   "top_scores": [],
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "FC Juárez",
+   "away": "CF Pachuca",
+   "league_name": "Liga MX",
+   "kickoff_utc": "2026-09-05T03:00Z",
+   "kickoff_local": "11:00 PM",
+   "status": "pre",
+   "pm_slug": "mex-jua-pac-2026-09-04-exact-score",
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
+   "news_adj": null,
+   "top_scores": [],
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  }
+ ],
+ "shadow": {
+  "recent": [
+   {
+    "home": "Crystal Palace FC",
+    "away": "Manchester City FC",
+    "league": "Premier League",
+    "kickoff_utc": "2026-08-28T19:00Z",
+    "status": "settled",
+    "stake": 500.0,
+    "hit_pre": 0.509,
+    "legs": [
+     {
+      "score": "1-1",
+      "price": 0.11
+     },
+     {
+      "score": "1-2",
+      "price": 0.11
+     },
+     {
+      "score": "0-1",
+      "price": 0.1
+     },
+     {
+      "score": "0-2",
+      "price": 0.1
+     },
+     {
+      "score": "2-1",
+      "price": 0.051
+     },
+     {
+      "score": "2-2",
+      "price": 0.059
+     }
+    ],
+    "won": false,
+    "pnl": -500.0,
+    "final": "1-4",
+    "reason": "top-of-day pick — Core 50%"
+   },
+   {
+    "home": "KRC Genk",
+    "away": "SK Beveren",
+    "league": "Belgian Pro League",
+    "kickoff_utc": "2026-08-28T18:45Z",
+    "status": "settled",
+    "stake": 500.0,
+    "hit_pre": 0.6025,
+    "legs": [
+     {
+      "score": "0-3",
+      "price": 0.483
+     },
+     {
+      "score": "2-1",
+      "price": 0.11
+     },
+     {
+      "score": "1-1",
+      "price": 0.1
+     },
+     {
+      "score": "1-0",
+      "price": 0.09
+     },
+     {
+      "score": "2-0",
+      "price": 0.09
+     }
+    ],
+    "won": false,
+    "pnl": -500.0,
+    "final": "4-0",
+    "reason": "top-of-day pick — Core 56%"
+   },
+   {
+    "home": "Rio Ave FC",
+    "away": "Sporting CP",
+    "league": "Primeira Liga",
+    "kickoff_utc": "2026-08-28T19:15Z",
+    "status": "settled",
+    "stake": 500.0,
+    "hit_pre": 0.525,
+    "legs": [
+     {
+      "score": "0-2",
+      "price": 0.14
+     },
+     {
+      "score": "0-1",
+      "price": 0.12
+     },
+     {
+      "score": "1-2",
+      "price": 0.11
+     },
+     {
+      "score": "1-1",
+      "price": 0.09
+     },
+     {
+      "score": "0-3",
+      "price": 0.1
+     }
+    ],
+    "won": false,
+    "pnl": -500.0,
+    "final": "0-4",
+    "reason": "top-of-day pick — Core 58%"
+   },
+   {
+    "home": "Deportivo Alavés",
+    "away": "Villarreal CF",
+    "league": "La Liga",
+    "kickoff_utc": "2026-08-28T19:30Z",
+    "status": "settled",
+    "stake": 500.0,
+    "hit_pre": 0.54,
+    "legs": [
+     {
+      "score": "1-1",
+      "price": 0.14
+     },
+     {
+      "score": "1-2",
+      "price": 0.1
+     },
+     {
+      "score": "0-1",
+      "price": 0.1
+     },
+     {
+      "score": "1-0",
+      "price": 0.08
+     },
+     {
+      "score": "2-1",
+      "price": 0.08
+     },
+     {
+      "score": "0-0",
+      "price": 0.07
+     }
+    ],
+    "won": true,
+    "pnl": 443.59,
+    "final": "1-0",
+    "reason": "top-of-day pick — Core 51%"
+   },
+   {
+    "home": "Juventus FC",
+    "away": "Parma Calcio 1913",
+    "league": "Serie A",
+    "kickoff_utc": "2026-08-29T18:45Z",
+    "status": "settled",
+    "stake": 500.0,
+    "hit_pre": 0.56,
+    "legs": [
+     {
+      "score": "2-0",
+      "price": 0.17
+     },
+     {
+      "score": "1-0",
+      "price": 0.13
+     },
+     {
+      "score": "3-0",
+      "price": 0.13
+     },
+     {
+      "score": "2-1",
+      "price": 0.09
+     },
+     {
+      "score": "1-1",
+      "price": 0.07
+     }
+    ],
+    "won": true,
+    "pnl": 287.43,
+    "final": "2-0",
+    "reason": "top-of-day pick — Core 65%"
+   },
+   {
+    "home": "Real Madrid CF",
+    "away": "Málaga CF",
+    "league": "La Liga",
+    "kickoff_utc": "2026-08-30T15:00Z",
+    "status": "settled",
+    "stake": 500.0,
+    "hit_pre": 0.425,
+    "legs": [
+     {
+      "score": "3-0",
+      "price": 0.13
+     },
+     {
+      "score": "2-0",
+      "price": 0.11
+     },
+     {
+      "score": "3-1",
+      "price": 0.08
+     },
+     {
+      "score": "2-1",
+      "price": 0.07
+     },
+     {
+      "score": "1-0",
+      "price": 0.06
+     }
+    ],
+    "won": false,
+    "pnl": -500.0,
+    "final": "4-0",
+    "reason": "top-of-day pick — Core 68%"
+   },
+   {
+    "home": "Sport Lisboa e Benfica",
+    "away": "Estoril Praia",
+    "league": "Primeira Liga",
+    "kickoff_utc": "2026-08-31T19:15Z",
+    "status": "settled",
+    "stake": 500.0,
+    "hit_pre": 0.445,
+    "legs": [
+     {
+      "score": "3-0",
+      "price": 0.13
+     },
+     {
+      "score": "2-0",
+      "price": 0.11
+     },
+     {
+      "score": "2-1",
+      "price": 0.08
+     },
+     {
+      "score": "3-1",
+      "price": 0.08
+     },
+     {
+      "score": "1-0",
+      "price": 0.07
+     }
+    ],
+    "won": true,
+    "pnl": 619.14,
+    "final": "2-1",
+    "reason": "top-of-day pick — Core 66%"
+   },
+   {
+    "home": "FC Barcelona",
+    "away": "Rayo Vallecano de Madrid",
+    "league": "La Liga",
+    "kickoff_utc": "2026-08-31T19:30Z",
+    "status": "settled",
+    "stake": 500.0,
+    "hit_pre": 0.385,
+    "legs": [
+     {
+      "score": "3-0",
+      "price": 0.11
+     },
+     {
+      "score": "2-0",
+      "price": 0.1
+     },
+     {
+      "score": "3-1",
+      "price": 0.08
+     },
+     {
+      "score": "2-1",
+      "price": 0.07
+     },
+     {
+      "score": "1-0",
+      "price": 0.05
+     }
+    ],
+    "won": false,
+    "pnl": -500.0,
+    "final": "5-2",
+    "reason": "top-of-day pick — Core 65%"
+   },
+   {
+    "home": "Manchester City FC",
+    "away": "Coventry City FC",
+    "league": "Championship",
+    "kickoff_utc": "2026-09-01T19:00Z",
+    "status": "settled",
+    "stake": 500.0,
+    "hit_pre": 0.485,
+    "legs": [
+     {
+      "score": "2-0",
+      "price": 0.12
+     },
+     {
+      "score": "3-0",
+      "price": 0.12
+     },
+     {
+      "score": "2-1",
+      "price": 0.1
+     },
+     {
+      "score": "1-0",
+      "price": 0.09
+     },
+     {
+      "score": "3-1",
+      "price": 0.09
+     }
+    ],
+    "won": true,
+    "pnl": 488.59,
+    "final": "1-0",
+    "reason": "top-of-day pick — Core 63%"
+   },
+   {
+    "home": "CR Flamengo",
+    "away": "Mirassol FC",
+    "league": "Brasileirao",
+    "kickoff_utc": "2026-09-02T22:30Z",
+    "status": "settled",
+    "stake": 500.0,
+    "hit_pre": 0.51,
+    "legs": [
+     {
+      "score": "2-0",
+      "price": 0.14
+     },
+     {
+      "score": "3-0",
+      "price": 0.13
+     },
+     {
+      "score": "1-0",
+      "price": 0.11
+     },
+     {
+      "score": "2-1",
+      "price": 0.09
+     },
+     {
+      "score": "1-1",
+      "price": 0.07
+     }
+    ],
+    "won": true,
+    "pnl": 407.91,
+    "final": "2-0",
+    "reason": "top-of-day pick — Core 65%"
+   },
+   {
+    "home": "KAA Gent",
+    "away": "Oud-Heverlee Leuven",
+    "league": "Belgian Pro League",
+    "kickoff_utc": "2026-09-03T18:30Z",
+    "status": "settled",
+    "stake": 500.0,
+    "hit_pre": 0.535,
+    "legs": [
+     {
+      "score": "1-0",
+      "price": 0.14
+     },
+     {
+      "score": "1-1",
+      "price": 0.13
+     },
+     {
+      "score": "2-0",
+      "price": 0.12
+     },
+     {
+      "score": "2-1",
+      "price": 0.11
+     },
+     {
+      "score": "0-0",
+      "price": 0.08
+     }
+    ],
+    "won": true,
+    "pnl": 334.78,
+    "final": "1-0",
+    "reason": "top-of-day pick — Core 56%"
+   },
+   {
+    "home": "FC Porto",
+    "away": "Moreirense FC",
+    "league": "Primeira Liga",
+    "kickoff_utc": "2026-09-04T19:15Z",
+    "status": "open",
+    "stake": 500.0,
+    "hit_pre": 0.585,
+    "legs": [
+     {
+      "score": "2-0",
+      "price": 0.17
+     },
+     {
+      "score": "3-0",
+      "price": 0.16
+     },
+     {
+      "score": "1-0",
+      "price": 0.13
+     },
+     {
+      "score": "2-1",
+      "price": 0.08
+     },
+     {
+      "score": "3-1",
+      "price": 0.07
+     }
+    ],
+    "won": null,
+    "pnl": null,
+    "final": null,
+    "reason": "top-of-day pick — Core 68%"
+   }
+  ],
+  "pending": [
+   {
+    "home": "FC Schalke 04",
+    "away": "FC Bayern München",
+    "league": "Bundesliga",
+    "kickoff_utc": "2026-09-05T16:30Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.8366,
+      "price": 0.925,
+      "stake": 200.0,
+      "ev_pct": -9.6
+     }
+    ]
+   },
+   {
+    "home": "Stade Rennais FC 1901",
+    "away": "Olympique de Marseille",
+    "league": "Ligue 1",
+    "kickoff_utc": "2026-09-11T18:45:00Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.7603,
+      "price": 0.83,
+      "stake": 200.0,
+      "ev_pct": -8.4
+     }
+    ]
+   },
+   {
+    "home": "Cruzeiro EC",
+    "away": "CA Paranaense",
+    "league": "Brasileirao",
+    "kickoff_utc": "2026-09-06T19:00:00Z",
+    "totals": [
+     {
+      "sel": "Under 3.5",
+      "prob": 0.8153,
+      "price": 0.765,
+      "stake": 200.0,
+      "ev_pct": 6.6
+     }
+    ]
+   },
+   {
+    "home": "CS Cienciano",
+    "away": "Montevideo City Torque",
+    "league": "Copa Sudamericana",
+    "kickoff_utc": "2026-09-11T00:30:00Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.7223,
+      "price": 0.76,
+      "stake": 200.0,
+      "ev_pct": -5.0
+     }
+    ]
+   }
+  ],
+  "net": -10906.59,
+  "n_settled": 439,
+  "n_won": 231
+ }
+}
