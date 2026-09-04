@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-09-04T22:25:51.644595Z",
- "slate_generated_utc": "2026-09-04T22:21:46.232161Z",
+ "generated_utc": "2026-09-04T22:31:00.561585Z",
+ "slate_generated_utc": "2026-09-04T22:28:43.112975Z",
  "date": "2026-09-04",
  "source": "board",
  "games": [
@@ -392,7 +392,7 @@
     "2-3": 0.024,
     "3-2": 0.045,
     "3-3": 0.025,
-    "Other": 0.13
+    "Other": 0.125
    },
    "edge_bets": [],
    "cur_home": 0,
@@ -434,7 +434,7 @@
     "2-3": 0.033,
     "3-2": 0.0275,
     "3-3": 0.016,
-    "Other": 0.115
+    "Other": 0.11
    },
    "edge_bets": [],
    "cur_home": 0,
@@ -492,12 +492,12 @@
     "2-1": 0.065,
     "3-0": 0.016,
     "1-3": 0.05,
-    "2-2": 0.06,
+    "2-2": 0.055,
     "3-1": 0.023,
     "2-3": 0.0285,
     "3-2": 0.0215,
     "3-3": 0.011,
-    "Other": 0.09
+    "Other": 0.095
    },
    "edge_bets": [],
    "cur_home": 0,
@@ -949,32 +949,25 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.837,
+      "prob": 0.8364,
       "price": 0.925,
       "stake": 200.0,
-      "ev_pct": -9.5
+      "ev_pct": -9.6
      }
     ]
    },
    {
-    "home": "Gimcheon Sangmu FC",
-    "away": "Gwangju FC",
-    "league": "K-League",
-    "kickoff_utc": "2026-09-06T10:00:00Z",
+    "home": "Cruzeiro EC",
+    "away": "CA Paranaense",
+    "league": "Brasileirao",
+    "kickoff_utc": "2026-09-06T19:00:00Z",
     "totals": [
      {
       "sel": "Under 3.5",
-      "prob": 0.8062,
-      "price": 0.72,
+      "prob": 0.8164,
+      "price": 0.755,
       "stake": 200.0,
-      "ev_pct": 12.0
-     },
-     {
-      "sel": "Over 1.5",
-      "prob": 0.7188,
-      "price": 0.76,
-      "stake": 200.0,
-      "ev_pct": -5.4
+      "ev_pct": 8.1
      }
     ]
    },
