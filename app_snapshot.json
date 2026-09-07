@@ -1,261 +1,9 @@
 {
- "generated_utc": "2026-09-07T21:07:05.835551Z",
- "slate_generated_utc": "2026-09-07T21:02:31.463660Z",
+ "generated_utc": "2026-09-07T21:12:17.473120Z",
+ "slate_generated_utc": "2026-09-07T21:08:21.401798Z",
  "date": "2026-09-07",
  "source": "board",
  "games": [
-  {
-   "home": "Göztepe SK",
-   "away": "Gaziantep FK",
-   "league_name": "Super Lig",
-   "kickoff_utc": "2026-09-07T17:00Z",
-   "kickoff_local": "1:00 PM",
-   "status": "post",
-   "pm_slug": "tur-goz-gfk-2026-09-07-exact-score",
-   "lamH": 0.959,
-   "lamA": 1.146,
-   "hasModel": true,
-   "news_adj": null,
-   "top_scores": [
-    {
-     "score": "1-1",
-     "prob": 0.142
-    },
-    {
-     "score": "0-1",
-     "prob": 0.1316
-    },
-    {
-     "score": "0-0",
-     "prob": 0.1299
-    },
-    {
-     "score": "1-0",
-     "prob": 0.1088
-    },
-    {
-     "score": "0-2",
-     "prob": 0.08
-    }
-   ],
-   "provisional": false,
-   "market": {
-    "0-0": 0.003,
-    "0-1": 0.003,
-    "1-0": 0.0035,
-    "0-2": 0.003,
-    "1-1": 0.0035,
-    "2-0": 0.003,
-    "0-3": 0.0005,
-    "1-2": 0.003,
-    "2-1": 0.003,
-    "3-0": 0.003,
-    "1-3": 0.0005,
-    "2-2": 0.003,
-    "3-1": 0.003,
-    "2-3": 0.0005,
-    "3-2": 0.003,
-    "3-3": 0.0005,
-    "Other": 0.9965
-   },
-   "edge_bets": [],
-   "cur_home": 2,
-   "cur_away": 4,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
-   "home": "Malmo FF",
-   "away": "AIK",
-   "league_name": "Allsvenskan",
-   "kickoff_utc": "2026-09-07T17:00Z",
-   "kickoff_local": "1:00 PM",
-   "status": "post",
-   "pm_slug": "swe-mal-aik-2026-09-07-exact-score",
-   "lamH": 1.44,
-   "lamA": 2.182,
-   "hasModel": true,
-   "news_adj": null,
-   "top_scores": [
-    {
-     "score": "1-2",
-     "prob": 0.0924
-    },
-    {
-     "score": "1-1",
-     "prob": 0.0897
-    },
-    {
-     "score": "1-3",
-     "prob": 0.0672
-    },
-    {
-     "score": "2-2",
-     "prob": 0.0665
-    },
-    {
-     "score": "0-2",
-     "prob": 0.0641
-    }
-   ],
-   "provisional": false,
-   "market": {
-    "0-0": 0.9995,
-    "0-1": 0.002,
-    "1-0": 0.0025,
-    "0-2": 0.5,
-    "1-1": 0.003,
-    "2-0": 0.004,
-    "0-3": 0.003,
-    "1-2": 0.003,
-    "2-1": 0.003,
-    "3-0": 0.003,
-    "1-3": 0.003,
-    "2-2": 0.0025,
-    "3-1": 0.5,
-    "2-3": 0.0025,
-    "3-2": 0.0025,
-    "3-3": 0.5,
-    "Other": 0.0045
-   },
-   "edge_bets": [],
-   "cur_home": 0,
-   "cur_away": 0,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
-   "home": "FC Midtjylland",
-   "away": "FC Nordsjælland",
-   "league_name": "Danish Superliga",
-   "kickoff_utc": "2026-09-07T17:00Z",
-   "kickoff_local": "1:00 PM",
-   "status": "post",
-   "pm_slug": "den-mid-nor-2026-09-07-exact-score",
-   "lamH": 1.294,
-   "lamA": 0.865,
-   "hasModel": true,
-   "news_adj": null,
-   "top_scores": [
-    {
-     "score": "1-0",
-     "prob": 0.1417
-    },
-    {
-     "score": "1-1",
-     "prob": 0.137
-    },
-    {
-     "score": "0-0",
-     "prob": 0.1232
-    },
-    {
-     "score": "2-0",
-     "prob": 0.0967
-    },
-    {
-     "score": "0-1",
-     "prob": 0.0921
-    }
-   ],
-   "provisional": false,
-   "market": {
-    "0-0": 0.0035,
-    "0-1": 0.003,
-    "1-0": 0.003,
-    "0-2": 0.003,
-    "1-1": 0.0035,
-    "2-0": 0.003,
-    "0-3": 0.003,
-    "1-2": 0.0005,
-    "2-1": 0.0035,
-    "3-0": 0.003,
-    "1-3": 0.0035,
-    "2-2": 0.9995,
-    "3-1": 0.0035,
-    "2-3": 0.002,
-    "3-2": 0.002,
-    "3-3": 0.002,
-    "Other": 0.5
-   },
-   "edge_bets": [],
-   "cur_home": 2,
-   "cur_away": 2,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
-   "home": "Udinese Calcio",
-   "away": "SS Lazio",
-   "league_name": "Serie A",
-   "kickoff_utc": "2026-09-07T18:45Z",
-   "kickoff_local": "2:45 PM",
-   "status": "post",
-   "pm_slug": "sea-udi-laz-2026-09-07-exact-score",
-   "lamH": 1.234,
-   "lamA": 1.139,
-   "hasModel": true,
-   "news_adj": null,
-   "top_scores": [
-    {
-     "score": "1-1",
-     "prob": 0.1389
-    },
-    {
-     "score": "1-0",
-     "prob": 0.1072
-    },
-    {
-     "score": "0-0",
-     "prob": 0.1011
-    },
-    {
-     "score": "0-1",
-     "prob": 0.0983
-    },
-    {
-     "score": "2-1",
-     "prob": 0.0809
-    }
-   ],
-   "provisional": false,
-   "market": {
-    "0-0": 0.0005,
-    "0-1": 0.0,
-    "1-0": 0.0,
-    "0-2": 0.0,
-    "1-1": 0.0,
-    "2-0": 0.0,
-    "0-3": 0.0,
-    "1-2": 0.9995,
-    "2-1": 0.0,
-    "3-0": 0.0005,
-    "1-3": 0.0,
-    "2-2": 0.0,
-    "3-1": 0.0,
-    "2-3": 0.0,
-    "3-2": 0.0,
-    "3-3": 0.0,
-    "Other": 0.0
-   },
-   "edge_bets": [],
-   "cur_home": 1,
-   "cur_away": 2,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
   {
    "home": "Estoril Praia",
    "away": "FC Arouca",
@@ -293,14 +41,14 @@
    "provisional": false,
    "market": {
     "0-0": 0.5,
-    "0-1": 0.055,
-    "1-0": 0.485,
-    "0-2": 0.4905,
-    "1-1": 0.3835,
-    "2-0": 0.3035,
+    "0-1": 0.5,
+    "1-0": 0.5,
+    "0-2": 0.5,
+    "1-1": 0.5,
+    "2-0": 0.5,
     "0-3": 0.5,
-    "1-2": 0.4995,
-    "2-1": 0.4995,
+    "1-2": 0.5,
+    "2-1": 0.5,
     "3-0": 0.5,
     "1-3": 0.5,
     "2-2": 0.5,
@@ -313,7 +61,7 @@
    "edge_bets": [],
    "cur_home": 0,
    "cur_away": 0,
-   "minute": 86,
+   "minute": 92,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
@@ -355,28 +103,28 @@
    ],
    "provisional": false,
    "market": {
-    "0-0": 0.0015,
+    "0-0": 0.002,
     "0-1": 0.0005,
     "1-0": 0.002,
-    "0-2": 0.0025,
-    "1-1": 0.0045,
+    "0-2": 0.0005,
+    "1-1": 0.005,
     "2-0": 0.003,
-    "0-3": 0.003,
-    "1-2": 0.395,
+    "0-3": 0.004,
+    "1-2": 0.005,
     "2-1": 0.0005,
     "3-0": 0.002,
-    "1-3": 0.115,
-    "2-2": 0.2775,
+    "1-3": 0.005,
+    "2-2": 0.4445,
     "3-1": 0.0005,
-    "2-3": 0.0705,
-    "3-2": 0.079,
-    "3-3": 0.0185,
-    "Other": 0.15
+    "2-3": 0.0955,
+    "3-2": 0.413,
+    "3-3": 0.2475,
+    "Other": 0.445
    },
    "edge_bets": [],
-   "cur_home": 1,
+   "cur_home": 2,
    "cur_away": 2,
-   "minute": 72,
+   "minute": 77,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
@@ -430,7 +178,7 @@
     "3-0": 0.0335,
     "1-3": 0.021,
     "2-2": 0.0545,
-    "3-1": 0.041,
+    "3-1": 0.0405,
     "2-3": 0.017,
     "3-2": 0.024,
     "3-3": 0.009,
