@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-09-07T11:59:06.319312Z",
- "slate_generated_utc": "2026-09-07T11:54:11.512980Z",
+ "generated_utc": "2026-09-07T12:04:03.519420Z",
+ "slate_generated_utc": "2026-09-07T11:59:59.740220Z",
  "date": "2026-09-07",
  "source": "board",
  "games": [
@@ -194,7 +194,7 @@
    "shadow_totals": [
     {
      "sel": "Under 3.5",
-     "prob": 0.8527,
+     "prob": 0.8534,
      "price": 0.865,
      "stake": 200.0
     }
@@ -425,7 +425,7 @@
    ],
    "provisional": false,
    "market": {
-    "0-0": 0.0435,
+    "0-0": 0.0475,
     "0-1": 0.047,
     "1-0": 0.075,
     "0-2": 0.026,
@@ -439,7 +439,7 @@
     "2-2": 0.065,
     "3-1": 0.065,
     "2-3": 0.0225,
-    "3-2": 0.04,
+    "3-2": 0.039,
     "3-3": 0.0155,
     "Other": 0.175
    },
@@ -1260,6 +1260,28 @@
   ],
   "pending": [
    {
+    "home": "Sunderland AFC",
+    "away": "Arsenal FC",
+    "league": "Premier League",
+    "kickoff_utc": "2026-09-12T19:00:00Z",
+    "totals": [
+     {
+      "sel": "Under 3.5",
+      "prob": 0.809,
+      "price": 0.73,
+      "stake": 200.0,
+      "ev_pct": 10.8
+     },
+     {
+      "sel": "Over 1.5",
+      "prob": 0.7135,
+      "price": 0.725,
+      "stake": 200.0,
+      "ev_pct": -1.6
+     }
+    ]
+   },
+   {
     "home": "Getafe CF",
     "away": "RC Celta de Vigo",
     "league": "La Liga",
@@ -1267,32 +1289,10 @@
     "totals": [
      {
       "sel": "Under 3.5",
-      "prob": 0.8527,
+      "prob": 0.8534,
       "price": 0.865,
       "stake": 200.0,
-      "ev_pct": -1.4
-     }
-    ]
-   },
-   {
-    "home": "Atalanta BC",
-    "away": "Cagliari Calcio",
-    "league": "Serie A",
-    "kickoff_utc": "2026-09-12T18:45:00Z",
-    "totals": [
-     {
-      "sel": "Under 3.5",
-      "prob": 0.7997,
-      "price": 0.73,
-      "stake": 200.0,
-      "ev_pct": 9.5
-     },
-     {
-      "sel": "Over 1.5",
-      "prob": 0.718,
-      "price": 0.74,
-      "stake": 200.0,
-      "ev_pct": -3.0
+      "ev_pct": -1.3
      }
     ]
    },
@@ -1304,10 +1304,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.7682,
+      "prob": 0.7729,
       "price": 0.775,
       "stake": 200.0,
-      "ev_pct": -0.9
+      "ev_pct": -0.3
      }
     ]
    }
