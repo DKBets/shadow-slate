@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-09-09T00:08:49.468636Z",
- "slate_generated_utc": "2026-09-09T00:05:05.364836Z",
+ "generated_utc": "2026-09-09T00:13:54.296952Z",
+ "slate_generated_utc": "2026-09-09T00:10:31.686961Z",
  "date": "2026-09-08",
  "source": "board",
  "games": [
@@ -12,30 +12,30 @@
    "kickoff_local": "3:00 PM",
    "status": "post",
    "pm_slug": "lal-rea-ray-2026-09-12-exact-score",
-   "lamH": 1.902,
-   "lamA": 1.195,
+   "lamH": 3.657,
+   "lamA": 1.03,
    "hasModel": true,
    "news_adj": null,
    "top_scores": [
     {
-     "score": "1-1",
-     "prob": 0.1093
+     "score": "3-1",
+     "prob": 0.0839
+    },
+    {
+     "score": "3-0",
+     "prob": 0.0815
+    },
+    {
+     "score": "4-1",
+     "prob": 0.0767
+    },
+    {
+     "score": "4-0",
+     "prob": 0.0745
     },
     {
      "score": "2-1",
-     "prob": 0.098
-    },
-    {
-     "score": "2-0",
-     "prob": 0.082
-    },
-    {
-     "score": "1-0",
-     "prob": 0.0801
-    },
-    {
-     "score": "3-1",
-     "prob": 0.0622
+     "prob": 0.0688
     }
    ],
    "provisional": false,
@@ -75,30 +75,30 @@
    "kickoff_local": "3:00 PM",
    "status": "post",
    "pm_slug": "lal-rso-mad-2026-09-13-exact-score",
-   "lamH": 1.576,
-   "lamA": 1.289,
+   "lamH": 1.5,
+   "lamA": 1.015,
    "hasModel": true,
    "news_adj": null,
    "top_scores": [
     {
      "score": "1-1",
-     "prob": 0.1229
-    },
-    {
-     "score": "2-1",
-     "prob": 0.0914
+     "prob": 0.1306
     },
     {
      "score": "1-0",
-     "prob": 0.083
+     "prob": 0.114
     },
     {
-     "score": "1-2",
-     "prob": 0.0747
+     "score": "2-1",
+     "prob": 0.0924
     },
     {
      "score": "2-0",
-     "prob": 0.0709
+     "prob": 0.0911
+    },
+    {
+     "score": "0-0",
+     "prob": 0.0883
     }
    ],
    "provisional": false,
@@ -138,30 +138,30 @@
    "kickoff_local": "6:00 PM",
    "status": "post",
    "pm_slug": "lib-flu-cp-2026-09-08-exact-score",
-   "lamH": 1.686,
-   "lamA": 1.085,
+   "lamH": 1.315,
+   "lamA": 0.819,
    "hasModel": true,
    "news_adj": null,
    "top_scores": [
     {
-     "score": "1-1",
-     "prob": 0.1216
-    },
-    {
      "score": "1-0",
-     "prob": 0.0989
+     "prob": 0.1481
     },
     {
-     "score": "2-1",
-     "prob": 0.0967
-    },
-    {
-     "score": "2-0",
-     "prob": 0.0891
+     "score": "1-1",
+     "prob": 0.1352
     },
     {
      "score": "0-0",
-     "prob": 0.0696
+     "prob": 0.1261
+    },
+    {
+     "score": "2-0",
+     "prob": 0.1024
+    },
+    {
+     "score": "0-1",
+     "prob": 0.0893
     }
    ],
    "provisional": false,
@@ -178,7 +178,7 @@
     "3-0": 0.0005,
     "1-3": 0.0005,
     "2-2": 0.0005,
-    "3-1": 0.0005,
+    "3-1": 0.003,
     "2-3": 0.0005,
     "3-2": 0.0005,
     "3-3": 0.0005,
@@ -201,30 +201,30 @@
    "kickoff_local": "6:00 PM",
    "status": "post",
    "pm_slug": "lib-cp-flu-2026-09-15-exact-score",
-   "lamH": 1.41,
-   "lamA": 1.297,
+   "lamH": 1.328,
+   "lamA": 1.879,
    "hasModel": true,
    "news_adj": null,
    "top_scores": [
     {
      "score": "1-1",
-     "prob": 0.1295
-    },
-    {
-     "score": "1-0",
-     "prob": 0.0869
-    },
-    {
-     "score": "2-1",
-     "prob": 0.0861
-    },
-    {
-     "score": "0-1",
-     "prob": 0.0793
+     "prob": 0.1075
     },
     {
      "score": "1-2",
-     "prob": 0.0792
+     "prob": 0.0952
+    },
+    {
+     "score": "0-2",
+     "prob": 0.0717
+    },
+    {
+     "score": "0-1",
+     "prob": 0.0703
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0673
     }
    ],
    "provisional": false,
@@ -264,30 +264,30 @@
    "kickoff_local": "6:00 PM",
    "status": "post",
    "pm_slug": "sud-san1-vas-2026-09-08-exact-score",
-   "lamH": 1.73,
-   "lamA": 1.079,
+   "lamH": 1.679,
+   "lamA": 0.64,
    "hasModel": true,
    "news_adj": null,
    "top_scores": [
     {
-     "score": "1-1",
-     "prob": 0.1195
-    },
-    {
      "score": "1-0",
-     "prob": 0.0977
-    },
-    {
-     "score": "2-1",
-     "prob": 0.0975
+     "prob": 0.1591
     },
     {
      "score": "2-0",
-     "prob": 0.0904
+     "prob": 0.1389
+    },
+    {
+     "score": "1-1",
+     "prob": 0.1122
     },
     {
      "score": "0-0",
-     "prob": 0.0672
+     "prob": 0.1049
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0889
     }
    ],
    "provisional": false,
@@ -327,14 +327,14 @@
    "kickoff_local": "6:00 PM",
    "status": "post",
    "pm_slug": "sud-vas-san1-2026-09-15-exact-score",
-   "lamH": 1.403,
-   "lamA": 1.331,
+   "lamH": 1.4,
+   "lamA": 1.323,
    "hasModel": true,
    "news_adj": null,
    "top_scores": [
     {
      "score": "1-1",
-     "prob": 0.1287
+     "prob": 0.1291
     },
     {
      "score": "2-1",
@@ -342,20 +342,20 @@
     },
     {
      "score": "1-0",
-     "prob": 0.084
+     "prob": 0.0847
     },
     {
      "score": "1-2",
-     "prob": 0.0808
+     "prob": 0.0806
     },
     {
      "score": "0-1",
-     "prob": 0.0793
+     "prob": 0.0797
     }
    ],
    "provisional": false,
    "market": {
-    "0-0": 0.48,
+    "0-0": 0.49,
     "0-1": 0.48,
     "1-0": 0.48,
     "0-2": 0.48,
@@ -371,7 +371,7 @@
     "2-3": 0.48,
     "3-2": 0.48,
     "3-3": 0.075,
-    "Other": 0.49
+    "Other": 0.485
    },
    "edge_bets": [],
    "cur_home": 0,
@@ -390,30 +390,30 @@
    "kickoff_local": "8:30 PM",
    "status": "pre",
    "pm_slug": "sud-boc-sao-2026-09-08-exact-score",
-   "lamH": 1.386,
-   "lamA": 1.133,
+   "lamH": 1.146,
+   "lamA": 0.542,
    "hasModel": true,
    "news_adj": null,
    "top_scores": [
     {
-     "score": "1-1",
-     "prob": 0.1342
-    },
-    {
      "score": "1-0",
-     "prob": 0.1041
+     "prob": 0.205
     },
     {
      "score": "0-0",
-     "prob": 0.0882
+     "prob": 0.1918
     },
     {
-     "score": "2-1",
-     "prob": 0.0877
+     "score": "1-1",
+     "prob": 0.1218
+    },
+    {
+     "score": "2-0",
+     "prob": 0.1214
     },
     {
      "score": "0-1",
-     "prob": 0.0837
+     "prob": 0.0933
     }
    ],
    "provisional": false,
@@ -421,20 +421,20 @@
     "0-0": 0.14,
     "0-1": 0.085,
     "1-0": 0.175,
-    "0-2": 0.0275,
+    "0-2": 0.028,
     "1-1": 0.14,
-    "2-0": 0.115,
-    "0-3": 0.0075,
-    "1-2": 0.043,
+    "2-0": 0.11,
+    "0-3": 0.006,
+    "1-2": 0.0435,
     "2-1": 0.09,
     "3-0": 0.045,
     "1-3": 0.0095,
     "2-2": 0.036,
     "3-1": 0.036,
     "2-3": 0.0085,
-    "3-2": 0.014,
+    "3-2": 0.0145,
     "3-3": 0.0035,
-    "Other": 0.0405
+    "Other": 0.042
    },
    "edge_bets": [],
    "cur_home": 0,
@@ -453,30 +453,30 @@
    "kickoff_local": "8:30 PM",
    "status": "pre",
    "pm_slug": "sud-sao-boc-2026-09-15-exact-score",
-   "lamH": 1.473,
-   "lamA": 1.066,
+   "lamH": 1.518,
+   "lamA": 0.894,
    "hasModel": true,
    "news_adj": null,
    "top_scores": [
     {
      "score": "1-1",
-     "prob": 0.1315
+     "prob": 0.1291
     },
     {
      "score": "1-0",
-     "prob": 0.109
-    },
-    {
-     "score": "2-1",
-     "prob": 0.0914
-    },
-    {
-     "score": "0-0",
-     "prob": 0.0865
+     "prob": 0.1289
     },
     {
      "score": "2-0",
-     "prob": 0.0857
+     "prob": 0.1034
+    },
+    {
+     "score": "0-0",
+     "prob": 0.097
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0924
     }
    ],
    "provisional": false,
