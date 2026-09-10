@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-09-10T09:24:03.790519Z",
- "slate_generated_utc": "2026-09-10T09:19:42.308483Z",
+ "generated_utc": "2026-09-10T09:29:15.164982Z",
+ "slate_generated_utc": "2026-09-10T09:26:27.265407Z",
  "date": "2026-09-10",
  "source": "board",
  "games": [
@@ -324,7 +324,7 @@
     "0-1": 0.009,
     "1-0": 0.055,
     "0-2": 0.004,
-    "1-1": 0.034,
+    "1-1": 0.0335,
     "2-0": 0.09,
     "0-3": 0.002,
     "1-2": 0.0105,
@@ -348,7 +348,7 @@
    "shadow_totals": [
     {
      "sel": "Over 1.5",
-     "prob": 0.851,
+     "prob": 0.8509,
      "price": 0.925,
      "stake": 200.0
     }
@@ -1150,6 +1150,21 @@
     ]
    },
    {
+    "home": "Club Puebla",
+    "away": "Deportivo Toluca FC",
+    "league": "Liga MX",
+    "kickoff_utc": "2026-09-16T01:00:00Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.7592,
+      "price": 0.84,
+      "stake": 200.0,
+      "ev_pct": -9.6
+     }
+    ]
+   },
+   {
     "home": "FC Bayern München",
     "away": "FK Bodø/Glimt",
     "league": "Champions League",
@@ -1172,7 +1187,7 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.851,
+      "prob": 0.8509,
       "price": 0.925,
       "stake": 200.0,
       "ev_pct": -8.0
