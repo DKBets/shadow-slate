@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-09-10T02:04:59.507214Z",
- "slate_generated_utc": "2026-09-10T02:03:49.233970Z",
+ "generated_utc": "2026-09-10T02:10:03.388956Z",
+ "slate_generated_utc": "2026-09-10T02:05:53.095759Z",
  "date": "2026-09-09",
  "source": "board",
  "games": [
@@ -46,7 +46,7 @@
     "0-2": 0.0055,
     "1-1": 0.0395,
     "2-0": 0.11,
-    "0-3": 0.0125,
+    "0-3": 0.0105,
     "1-2": 0.0135,
     "2-1": 0.075,
     "3-0": 0.115,
@@ -166,132 +166,6 @@
    "edge_bets": [],
    "cur_home": 2,
    "cur_away": 3,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
-   "home": "CF Montréal",
-   "away": "Charlotte FC",
-   "league_name": "MLS",
-   "kickoff_utc": "2026-09-09T23:30Z",
-   "kickoff_local": "7:30 PM",
-   "status": "post",
-   "pm_slug": "mls-mim-clt-2026-09-09-exact-score",
-   "lamH": 1.208,
-   "lamA": 1.81,
-   "hasModel": true,
-   "news_adj": null,
-   "top_scores": [
-    {
-     "score": "1-1",
-     "prob": 0.1137
-    },
-    {
-     "score": "1-2",
-     "prob": 0.097
-    },
-    {
-     "score": "0-1",
-     "prob": 0.0823
-    },
-    {
-     "score": "0-2",
-     "prob": 0.0803
-    },
-    {
-     "score": "2-1",
-     "prob": 0.0648
-    }
-   ],
-   "provisional": false,
-   "market": {
-    "0-0": 0.5,
-    "0-1": 0.0,
-    "1-0": 0.0,
-    "0-2": 0.0,
-    "1-1": 0.0,
-    "2-0": 0.5,
-    "0-3": 0.5,
-    "1-2": 0.9995,
-    "2-1": 0.0035,
-    "3-0": 0.0,
-    "1-3": 0.0005,
-    "2-2": 0.0,
-    "3-1": 0.0,
-    "2-3": 0.0,
-    "3-2": 0.0005,
-    "3-3": 0.0,
-    "Other": 0.0
-   },
-   "edge_bets": [],
-   "cur_home": 1,
-   "cur_away": 2,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
-   "home": "D.C. United SC",
-   "away": "Columbus Crew",
-   "league_name": "MLS",
-   "kickoff_utc": "2026-09-09T23:30Z",
-   "kickoff_local": "7:30 PM",
-   "status": "post",
-   "pm_slug": "mls-dcu-clb-2026-09-09-exact-score",
-   "lamH": 1.76,
-   "lamA": 1.586,
-   "hasModel": true,
-   "news_adj": null,
-   "top_scores": [
-    {
-     "score": "1-1",
-     "prob": 0.1046
-    },
-    {
-     "score": "2-1",
-     "prob": 0.0868
-    },
-    {
-     "score": "1-2",
-     "prob": 0.0782
-    },
-    {
-     "score": "2-2",
-     "prob": 0.0689
-    },
-    {
-     "score": "1-0",
-     "prob": 0.0563
-    }
-   ],
-   "provisional": false,
-   "market": {
-    "0-0": 0.0005,
-    "0-1": 0.0005,
-    "1-0": 0.0005,
-    "0-2": 0.0005,
-    "1-1": 0.0005,
-    "2-0": 0.0005,
-    "0-3": 0.0005,
-    "1-2": 0.003,
-    "2-1": 0.9955,
-    "3-0": 0.0,
-    "1-3": 0.0005,
-    "2-2": 0.0005,
-    "3-1": 0.0,
-    "2-3": 0.0005,
-    "3-2": 0.0,
-    "3-3": 0.0,
-    "Other": 0.0
-   },
-   "edge_bets": [],
-   "cur_home": 2,
-   "cur_away": 1,
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
@@ -463,25 +337,151 @@
     "0-0": 0.0045,
     "0-1": 0.0045,
     "1-0": 0.0045,
-    "0-2": 0.004,
-    "1-1": 0.705,
+    "0-2": 0.003,
+    "1-1": 0.115,
     "2-0": 0.0045,
-    "0-3": 0.004,
-    "1-2": 0.15,
-    "2-1": 0.12,
+    "0-3": 0.003,
+    "1-2": 0.775,
+    "2-1": 0.085,
     "3-0": 0.004,
-    "1-3": 0.254,
-    "2-2": 0.255,
-    "3-1": 0.255,
-    "2-3": 0.2445,
-    "3-2": 0.2445,
-    "3-3": 0.125,
-    "Other": 0.095
+    "1-3": 0.09,
+    "2-2": 0.135,
+    "3-1": 0.095,
+    "2-3": 0.095,
+    "3-2": 0.095,
+    "3-3": 0.09,
+    "Other": 0.12
    },
    "edge_bets": [],
    "cur_home": 1,
-   "cur_away": 2,
-   "minute": 87,
+   "cur_away": 1,
+   "minute": 92,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Houston Dynamo",
+   "away": "Real Salt Lake",
+   "league_name": "MLS",
+   "kickoff_utc": "2026-09-10T00:30Z",
+   "kickoff_local": "8:30 PM",
+   "status": "in",
+   "pm_slug": "mls-hou-rsl-2026-09-09-exact-score",
+   "lamH": 1.513,
+   "lamA": 0.555,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-0",
+     "prob": 0.1851
+    },
+    {
+     "score": "2-0",
+     "prob": 0.1449
+    },
+    {
+     "score": "0-0",
+     "prob": 0.1329
+    },
+    {
+     "score": "1-1",
+     "prob": 0.1127
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0804
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.0005,
+    "0-1": 0.0035,
+    "1-0": 0.24,
+    "0-2": 0.003,
+    "1-1": 0.2,
+    "2-0": 0.14,
+    "0-3": 0.0005,
+    "1-2": 0.115,
+    "2-1": 0.105,
+    "3-0": 0.055,
+    "1-3": 0.1105,
+    "2-2": 0.125,
+    "3-1": 0.125,
+    "2-3": 0.0945,
+    "3-2": 0.1105,
+    "3-3": 0.1,
+    "Other": 0.5
+   },
+   "edge_bets": [],
+   "cur_home": 1,
+   "cur_away": 0,
+   "minute": 65,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Austin FC",
+   "away": "Colorado Rapids SC",
+   "league_name": "MLS",
+   "kickoff_utc": "2026-09-10T00:30Z",
+   "kickoff_local": "8:30 PM",
+   "status": "in",
+   "pm_slug": "mls-aus-col-2026-09-09-exact-score",
+   "lamH": 1.933,
+   "lamA": 0.634,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "2-0",
+     "prob": 0.144
+    },
+    {
+     "score": "1-0",
+     "prob": 0.1433
+    },
+    {
+     "score": "1-1",
+     "prob": 0.1001
+    },
+    {
+     "score": "3-0",
+     "prob": 0.0928
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0913
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.0045,
+    "0-1": 0.39,
+    "1-0": 0.0035,
+    "0-2": 0.16,
+    "1-1": 0.225,
+    "2-0": 0.0045,
+    "0-3": 0.1055,
+    "1-2": 0.075,
+    "2-1": 0.055,
+    "3-0": 0.004,
+    "1-3": 0.121,
+    "2-2": 0.125,
+    "3-1": 0.095,
+    "2-3": 0.095,
+    "3-2": 0.095,
+    "3-3": 0.095,
+    "Other": 0.5
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 1,
+   "minute": 63,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
@@ -527,11 +527,11 @@
     "0-1": 0.0035,
     "1-0": 0.004,
     "0-2": 0.0005,
-    "1-1": 0.6,
+    "1-1": 0.66,
     "2-0": 0.0035,
     "0-3": 0.0035,
-    "1-2": 0.1105,
-    "2-1": 0.2,
+    "1-2": 0.101,
+    "2-1": 0.17,
     "3-0": 0.0035,
     "1-3": 0.5,
     "2-2": 0.5,
@@ -544,7 +544,7 @@
    "edge_bets": [],
    "cur_home": 1,
    "cur_away": 1,
-   "minute": 71,
+   "minute": 77,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
@@ -607,7 +607,7 @@
    "edge_bets": [],
    "cur_home": 1,
    "cur_away": 1,
-   "minute": 71,
+   "minute": 77,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
