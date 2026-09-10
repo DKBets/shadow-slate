@@ -1,9 +1,72 @@
 {
- "generated_utc": "2026-09-10T00:00:11.024387Z",
- "slate_generated_utc": "2026-09-09T23:55:33.911184Z",
+ "generated_utc": "2026-09-10T00:05:08.594312Z",
+ "slate_generated_utc": "2026-09-10T00:03:54.001163Z",
  "date": "2026-09-09",
  "source": "board",
  "games": [
+  {
+   "home": "Real Madrid CF",
+   "away": "Rayo Vallecano de Madrid",
+   "league_name": "Champions League",
+   "kickoff_utc": "2026-09-09T19:00Z",
+   "kickoff_local": "3:00 PM",
+   "status": "post",
+   "pm_slug": "lal-rea-ray-2026-09-12-exact-score",
+   "lamH": 1.9,
+   "lamA": 1.194,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-1",
+     "prob": 0.1094
+    },
+    {
+     "score": "2-1",
+     "prob": 0.098
+    },
+    {
+     "score": "2-0",
+     "prob": 0.0821
+    },
+    {
+     "score": "1-0",
+     "prob": 0.0802
+    },
+    {
+     "score": "3-1",
+     "prob": 0.0621
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.0195,
+    "0-1": 0.013,
+    "1-0": 0.065,
+    "0-2": 0.0055,
+    "1-1": 0.038,
+    "2-0": 0.11,
+    "0-3": 0.0105,
+    "1-2": 0.0135,
+    "2-1": 0.075,
+    "3-0": 0.115,
+    "1-3": 0.0045,
+    "2-2": 0.027,
+    "3-1": 0.075,
+    "2-3": 0.045,
+    "3-2": 0.027,
+    "3-3": 0.045,
+    "Other": 0.255
+   },
+   "edge_bets": [],
+   "cur_home": 2,
+   "cur_away": 1,
+   "minute": null,
+   "shadow_bet": true,
+   "shadow_status": "settled",
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
   {
    "home": "Santos FC",
    "away": "CA Mineiro",
@@ -24,7 +87,7 @@
     "1-0": 0.0005,
     "0-2": 0.0005,
     "1-1": 0.0005,
-    "2-0": 0.995,
+    "2-0": 0.9995,
     "0-3": 0.0005,
     "1-2": 0.0005,
     "2-1": 0.005,
@@ -138,30 +201,30 @@
    "kickoff_local": "7:30 PM",
    "status": "in",
    "pm_slug": "epl-mun-mac-2026-09-13-exact-score",
-   "lamH": 2.223,
-   "lamA": 2.199,
+   "lamH": 1.611,
+   "lamA": 1.351,
    "hasModel": true,
    "news_adj": null,
    "top_scores": [
     {
-     "score": "2-2",
-     "prob": 0.0729
+     "score": "1-1",
+     "prob": 0.1195
     },
     {
      "score": "2-1",
-     "prob": 0.0663
+     "prob": 0.0908
+    },
+    {
+     "score": "1-0",
+     "prob": 0.0767
     },
     {
      "score": "1-2",
-     "prob": 0.0656
+     "prob": 0.0762
     },
     {
-     "score": "1-1",
-     "prob": 0.0632
-    },
-    {
-     "score": "3-2",
-     "prob": 0.054
+     "score": "2-0",
+     "prob": 0.0672
     }
    ],
    "provisional": false,
@@ -182,12 +245,12 @@
     "2-3": 0.0405,
     "3-2": 0.0325,
     "3-3": 0.0215,
-    "Other": 0.27
+    "Other": 0.155
    },
    "edge_bets": [],
    "cur_home": 1,
    "cur_away": 0,
-   "minute": 15,
+   "minute": 20,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
@@ -201,56 +264,56 @@
    "kickoff_local": "7:30 PM",
    "status": "in",
    "pm_slug": "mls-mim-clt-2026-09-09-exact-score",
-   "lamH": 1.21,
-   "lamA": 1.818,
+   "lamH": 1.534,
+   "lamA": 1.632,
    "hasModel": true,
    "news_adj": null,
    "top_scores": [
     {
      "score": "1-1",
-     "prob": 0.1132
+     "prob": 0.1122
     },
     {
      "score": "1-2",
-     "prob": 0.0971
-    },
-    {
-     "score": "0-1",
-     "prob": 0.0819
-    },
-    {
-     "score": "0-2",
-     "prob": 0.0802
+     "prob": 0.0864
     },
     {
      "score": "2-1",
-     "prob": 0.0646
+     "prob": 0.0812
+    },
+    {
+     "score": "2-2",
+     "prob": 0.0662
+    },
+    {
+     "score": "0-1",
+     "prob": 0.0626
     }
    ],
    "provisional": false,
    "market": {
-    "0-0": 0.0665,
-    "0-1": 0.082,
-    "1-0": 0.0905,
-    "0-2": 0.0505,
-    "1-1": 0.13,
-    "2-0": 0.0595,
-    "0-3": 0.024,
-    "1-2": 0.08,
-    "2-1": 0.09,
-    "3-0": 0.0305,
-    "1-3": 0.034,
+    "0-0": 0.063,
+    "0-1": 0.085,
+    "1-0": 0.085,
+    "0-2": 0.058,
+    "1-1": 0.105,
+    "2-0": 0.064,
+    "0-3": 0.1055,
+    "1-2": 0.075,
+    "2-1": 0.08,
+    "3-0": 0.121,
+    "1-3": 0.1495,
     "2-2": 0.06,
-    "3-1": 0.04,
-    "2-3": 0.023,
-    "3-2": 0.027,
-    "3-3": 0.012,
+    "3-1": 0.035,
+    "2-3": 0.1575,
+    "3-2": 0.1575,
+    "3-3": 0.121,
     "Other": 0.5
    },
    "edge_bets": [],
    "cur_home": 0,
    "cur_away": 0,
-   "minute": 15,
+   "minute": 20,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
@@ -264,56 +327,56 @@
    "kickoff_local": "7:30 PM",
    "status": "in",
    "pm_slug": "mls-tor-nas-2026-09-09-exact-score",
-   "lamH": 1.332,
-   "lamA": 1.582,
+   "lamH": 1.326,
+   "lamA": 1.653,
    "hasModel": true,
    "news_adj": null,
    "top_scores": [
     {
      "score": "1-1",
-     "prob": 0.1214
+     "prob": 0.1184
     },
     {
      "score": "1-2",
-     "prob": 0.0906
+     "prob": 0.0923
     },
     {
      "score": "0-1",
-     "prob": 0.0791
+     "prob": 0.0775
     },
     {
      "score": "2-1",
-     "prob": 0.0763
+     "prob": 0.074
     },
     {
      "score": "0-2",
-     "prob": 0.068
+     "prob": 0.0696
     }
    ],
    "provisional": false,
    "market": {
     "0-0": 0.0025,
-    "0-1": 0.0685,
+    "0-1": 0.086,
     "1-0": 0.0045,
-    "0-2": 0.095,
-    "1-1": 0.09,
+    "0-2": 0.11,
+    "1-1": 0.11,
     "2-0": 0.0045,
-    "0-3": 0.068,
-    "1-2": 0.13,
-    "2-1": 0.06,
+    "0-3": 0.0705,
+    "1-2": 0.135,
+    "2-1": 0.0605,
     "3-0": 0.0045,
-    "1-3": 0.0835,
-    "2-2": 0.09,
-    "3-1": 0.023,
-    "2-3": 0.058,
-    "3-2": 0.034,
-    "3-3": 0.0245,
+    "1-3": 0.0795,
+    "2-2": 0.08,
+    "3-1": 0.021,
+    "2-3": 0.0505,
+    "3-2": 0.028,
+    "3-3": 0.0195,
     "Other": 0.5
    },
    "edge_bets": [],
    "cur_home": 0,
    "cur_away": 1,
-   "minute": 15,
+   "minute": 20,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
@@ -327,56 +390,56 @@
    "kickoff_local": "7:30 PM",
    "status": "in",
    "pm_slug": "mls-dcu-clb-2026-09-09-exact-score",
-   "lamH": 1.764,
-   "lamA": 1.593,
+   "lamH": 1.663,
+   "lamA": 1.337,
    "hasModel": true,
    "news_adj": null,
    "top_scores": [
     {
      "score": "1-1",
-     "prob": 0.1042
+     "prob": 0.1176
     },
     {
      "score": "2-1",
-     "prob": 0.0867
-    },
-    {
-     "score": "1-2",
-     "prob": 0.0783
-    },
-    {
-     "score": "2-2",
-     "prob": 0.069
+     "prob": 0.0922
     },
     {
      "score": "1-0",
-     "prob": 0.0558
+     "prob": 0.0763
+    },
+    {
+     "score": "1-2",
+     "prob": 0.0742
+    },
+    {
+     "score": "2-0",
+     "prob": 0.069
     }
    ],
    "provisional": false,
    "market": {
-    "0-0": 0.051,
-    "0-1": 0.065,
-    "1-0": 0.065,
-    "0-2": 0.055,
-    "1-1": 0.135,
-    "2-0": 0.0765,
-    "0-3": 0.015,
-    "1-2": 0.095,
-    "2-1": 0.09,
-    "3-0": 0.133,
-    "1-3": 0.196,
-    "2-2": 0.075,
-    "3-1": 0.204,
-    "2-3": 0.167,
-    "3-2": 0.167,
-    "3-3": 0.1195,
-    "Other": 0.445
+    "0-0": 0.0955,
+    "0-1": 0.11,
+    "1-0": 0.105,
+    "0-2": 0.063,
+    "1-1": 0.145,
+    "2-0": 0.0605,
+    "0-3": 0.026,
+    "1-2": 0.085,
+    "2-1": 0.08,
+    "3-0": 0.023,
+    "1-3": 0.029,
+    "2-2": 0.05,
+    "3-1": 0.028,
+    "2-3": 0.0185,
+    "3-2": 0.016,
+    "3-3": 0.007,
+    "Other": 0.49
    },
    "edge_bets": [],
    "cur_home": 0,
    "cur_away": 0,
-   "minute": 15,
+   "minute": 20,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
@@ -390,98 +453,56 @@
    "kickoff_local": "7:30 PM",
    "status": "in",
    "pm_slug": "mls-atl-orl-2026-09-09-exact-score",
-   "lamH": 1.903,
-   "lamA": 2.271,
+   "lamH": 1.905,
+   "lamA": 1.451,
    "hasModel": true,
    "news_adj": null,
    "top_scores": [
     {
-     "score": "1-2",
-     "prob": 0.0765
-    },
-    {
-     "score": "2-2",
-     "prob": 0.0728
-    },
-    {
      "score": "1-1",
-     "prob": 0.0714
+     "prob": 0.1026
     },
     {
      "score": "2-1",
-     "prob": 0.0641
+     "prob": 0.0922
     },
     {
-     "score": "1-3",
-     "prob": 0.0579
+     "score": "1-2",
+     "prob": 0.0702
+    },
+    {
+     "score": "2-2",
+     "prob": 0.0669
+    },
+    {
+     "score": "2-0",
+     "prob": 0.0636
     }
    ],
    "provisional": false,
    "market": {
-    "0-0": 0.003,
+    "0-0": 0.0025,
     "0-1": 0.0045,
-    "1-0": 0.041,
+    "1-0": 0.0435,
     "0-2": 0.0035,
-    "1-1": 0.0675,
-    "2-0": 0.0565,
+    "1-1": 0.074,
+    "2-0": 0.0675,
     "0-3": 0.0035,
-    "1-2": 0.05,
-    "2-1": 0.11,
-    "3-0": 0.049,
-    "1-3": 0.0265,
-    "2-2": 0.09,
-    "3-1": 0.075,
-    "2-3": 0.0435,
-    "3-2": 0.0595,
-    "3-3": 0.0325,
+    "1-2": 0.07,
+    "2-1": 0.12,
+    "3-0": 0.159,
+    "1-3": 0.1365,
+    "2-2": 0.17,
+    "3-1": 0.17,
+    "2-3": 0.1955,
+    "3-2": 0.2515,
+    "3-3": 0.1985,
     "Other": 0.475
    },
    "edge_bets": [],
    "cur_home": 1,
    "cur_away": 0,
-   "minute": 15,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
-   "home": "Kansas City Current",
-   "away": "Orlando Pride",
-   "league_name": "MLS",
-   "kickoff_utc": "2026-09-09T23:30Z",
-   "kickoff_local": "7:30 PM",
-   "status": "in",
-   "pm_slug": "nwsl-kcc-pri-2026-09-11-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": {
-    "0-0": 0.485,
-    "0-1": 0.485,
-    "1-0": 0.475,
-    "0-2": 0.485,
-    "1-1": 0.495,
-    "2-0": 0.485,
-    "0-3": 0.46,
-    "1-2": 0.475,
-    "2-1": 0.48,
-    "3-0": 0.48,
-    "1-3": 0.485,
-    "2-2": 0.475,
-    "3-1": 0.485,
-    "2-3": 0.495,
-    "3-2": 0.495,
-    "3-3": 0.47,
-    "Other": 0.49
-   },
-   "edge_bets": [],
-   "cur_home": 1,
-   "cur_away": 0,
-   "minute": 15,
+   "minute": 20,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
@@ -493,58 +514,58 @@
    "league_name": "MLS",
    "kickoff_utc": "2026-09-09T23:45Z",
    "kickoff_local": "7:45 PM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "mls-phi-fcc-2026-09-09-exact-score",
-   "lamH": 2.83,
-   "lamA": 0.989,
+   "lamH": 2.125,
+   "lamA": 1.661,
    "hasModel": true,
    "news_adj": null,
    "top_scores": [
     {
-     "score": "2-0",
-     "prob": 0.0902
-    },
-    {
      "score": "2-1",
-     "prob": 0.0892
-    },
-    {
-     "score": "3-0",
-     "prob": 0.0851
-    },
-    {
-     "score": "3-1",
-     "prob": 0.0842
+     "prob": 0.0858
     },
     {
      "score": "1-1",
-     "prob": 0.0668
+     "prob": 0.0856
+    },
+    {
+     "score": "2-2",
+     "prob": 0.0712
+    },
+    {
+     "score": "1-2",
+     "prob": 0.067
+    },
+    {
+     "score": "3-1",
+     "prob": 0.0607
     }
    ],
    "provisional": false,
    "market": {
     "0-0": 0.03,
-    "0-1": 0.0195,
-    "1-0": 0.05,
-    "0-2": 0.1315,
-    "1-1": 0.075,
-    "2-0": 0.06,
-    "0-3": 0.1,
-    "1-2": 0.05,
-    "2-1": 0.115,
-    "3-0": 0.05,
-    "1-3": 0.1315,
+    "0-1": 0.0335,
+    "1-0": 0.0655,
+    "0-2": 0.0215,
+    "1-1": 0.09,
+    "2-0": 0.074,
+    "0-3": 0.01,
+    "1-2": 0.0515,
+    "2-1": 0.1,
+    "3-0": 0.0505,
+    "1-3": 0.0205,
     "2-2": 0.065,
     "3-1": 0.065,
-    "2-3": 0.1935,
+    "2-3": 0.0235,
     "3-2": 0.05,
-    "3-3": 0.188,
+    "3-3": 0.018,
     "Other": 0.495
    },
    "edge_bets": [],
    "cur_home": 0,
    "cur_away": 0,
-   "minute": null,
+   "minute": 5,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
@@ -558,46 +579,46 @@
    "kickoff_local": "8:30 PM",
    "status": "pre",
    "pm_slug": "lib-est-cor-2026-09-09-exact-score",
-   "lamH": 1.276,
-   "lamA": 0.761,
+   "lamH": 1.289,
+   "lamA": 1.011,
    "hasModel": true,
    "news_adj": null,
    "top_scores": [
     {
+     "score": "1-1",
+     "prob": 0.1386
+    },
+    {
      "score": "1-0",
-     "prob": 0.1589
+     "prob": 0.1215
     },
     {
      "score": "0-0",
-     "prob": 0.1381
-    },
-    {
-     "score": "1-1",
-     "prob": 0.1343
-    },
-    {
-     "score": "2-0",
-     "prob": 0.1062
+     "prob": 0.1081
     },
     {
      "score": "0-1",
-     "prob": 0.0917
+     "prob": 0.0936
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0842
     }
    ],
    "provisional": false,
    "market": {
-    "0-0": 0.19,
+    "0-0": 0.195,
     "0-1": 0.125,
     "1-0": 0.185,
-    "0-2": 0.0415,
+    "0-2": 0.0405,
     "1-1": 0.135,
     "2-0": 0.085,
-    "0-3": 0.0085,
-    "1-2": 0.0515,
+    "0-3": 0.0095,
+    "1-2": 0.049,
     "2-1": 0.065,
-    "3-0": 0.0225,
-    "1-3": 0.0095,
-    "2-2": 0.026,
+    "3-0": 0.0235,
+    "1-3": 0.01,
+    "2-2": 0.0255,
     "3-1": 0.018,
     "2-3": 0.005,
     "3-2": 0.0085,
@@ -621,30 +642,30 @@
    "kickoff_local": "8:30 PM",
    "status": "pre",
    "pm_slug": "lib-cor-est-2026-09-16-exact-score",
-   "lamH": 1.14,
-   "lamA": 0.491,
+   "lamH": 1.315,
+   "lamA": 0.991,
    "hasModel": true,
    "news_adj": null,
    "top_scores": [
     {
+     "score": "1-1",
+     "prob": 0.1377
+    },
+    {
      "score": "1-0",
-     "prob": 0.2166
+     "prob": 0.1233
     },
     {
      "score": "0-0",
-     "prob": 0.2023
-    },
-    {
-     "score": "2-0",
-     "prob": 0.1272
-    },
-    {
-     "score": "1-1",
-     "prob": 0.1162
+     "prob": 0.1075
     },
     {
      "score": "0-1",
-     "prob": 0.0895
+     "prob": 0.091
+    },
+    {
+     "score": "2-0",
+     "prob": 0.0862
     }
    ],
    "provisional": false,
