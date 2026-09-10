@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-09-10T11:38:03.620670Z",
- "slate_generated_utc": "2026-09-10T11:33:59.373953Z",
+ "generated_utc": "2026-09-10T11:43:17.901832Z",
+ "slate_generated_utc": "2026-09-10T11:41:25.040751Z",
  "date": "2026-09-10",
  "source": "board",
  "games": [
@@ -243,7 +243,7 @@
     "2-2": 0.075,
     "3-1": 0.039,
     "2-3": 0.033,
-    "3-2": 0.032,
+    "3-2": 0.0325,
     "3-3": 0.0185,
     "Other": 0.125
    },
@@ -1191,6 +1191,21 @@
       "price": 0.925,
       "stake": 200.0,
       "ev_pct": -8.1
+     }
+    ]
+   },
+   {
+    "home": "Ararat-Armenia FA",
+    "away": "AC Sparta Praha",
+    "league": "Europa League",
+    "kickoff_utc": "2026-09-16T16:45:00Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.7166,
+      "price": 0.79,
+      "stake": 200.0,
+      "ev_pct": -9.3
      }
     ]
    }
