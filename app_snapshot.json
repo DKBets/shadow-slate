@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-09-11T06:35:37.760847Z",
- "slate_generated_utc": "2026-09-11T06:33:20.002617Z",
+ "generated_utc": "2026-09-11T06:40:44.409863Z",
+ "slate_generated_utc": "2026-09-11T06:40:31.545005Z",
  "date": "2026-09-11",
  "source": "board",
  "games": [
@@ -12,30 +12,30 @@
    "kickoff_local": "6:00 AM",
    "status": "pre",
    "pm_slug": "jap-kyo-rey-2026-09-11-exact-score",
-   "lamH": 1.538,
-   "lamA": 1.33,
+   "lamH": 1.323,
+   "lamA": 1.573,
    "hasModel": true,
    "news_adj": null,
    "top_scores": [
     {
      "score": "1-1",
-     "prob": 0.1234
-    },
-    {
-     "score": "2-1",
-     "prob": 0.0895
-    },
-    {
-     "score": "1-0",
-     "prob": 0.0805
+     "prob": 0.1221
     },
     {
      "score": "1-2",
-     "prob": 0.0774
+     "prob": 0.0906
     },
     {
      "score": "0-1",
-     "prob": 0.0687
+     "prob": 0.0801
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0762
+    },
+    {
+     "score": "0-2",
+     "prob": 0.0685
     }
    ],
    "provisional": false,
@@ -45,14 +45,14 @@
     "1-0": 0.05,
     "0-2": 0.095,
     "1-1": 0.115,
-    "2-0": 0.025,
+    "2-0": 0.026,
     "0-3": 0.06,
     "1-2": 0.105,
     "2-1": 0.05,
     "3-0": 0.0105,
     "1-3": 0.065,
     "2-2": 0.055,
-    "3-1": 0.018,
+    "3-1": 0.0185,
     "2-3": 0.035,
     "3-2": 0.0185,
     "3-3": 0.012,
@@ -75,30 +75,30 @@
    "kickoff_local": "6:00 AM",
    "status": "pre",
    "pm_slug": "jap-vis-kas-2026-09-11-exact-score",
-   "lamH": 1.696,
-   "lamA": 1.222,
+   "lamH": 2.288,
+   "lamA": 1.555,
    "hasModel": true,
    "news_adj": null,
    "top_scores": [
     {
-     "score": "1-1",
-     "prob": 0.119
-    },
-    {
      "score": "2-1",
-     "prob": 0.0952
+     "prob": 0.0881
     },
     {
-     "score": "1-0",
-     "prob": 0.0851
+     "score": "1-1",
+     "prob": 0.0817
     },
     {
-     "score": "2-0",
-     "prob": 0.0779
+     "score": "2-2",
+     "prob": 0.0685
+    },
+    {
+     "score": "3-1",
+     "prob": 0.0672
     },
     {
      "score": "1-2",
-     "prob": 0.0686
+     "prob": 0.0599
     }
    ],
    "provisional": false,
@@ -112,7 +112,7 @@
     "0-3": 0.024,
     "1-2": 0.085,
     "2-1": 0.085,
-    "3-0": 0.0245,
+    "3-0": 0.025,
     "1-3": 0.0315,
     "2-2": 0.0585,
     "3-1": 0.034,
@@ -222,30 +222,30 @@
    "kickoff_local": "1:00 PM",
    "status": "pre",
    "pm_slug": "swe-hac-mja-2026-09-11-exact-score",
-   "lamH": 1.856,
-   "lamA": 1.209,
+   "lamH": 2.234,
+   "lamA": 1.405,
    "hasModel": true,
    "news_adj": null,
    "top_scores": [
     {
-     "score": "1-1",
-     "prob": 0.1113
+     "score": "2-1",
+     "prob": 0.0929
     },
     {
-     "score": "2-1",
-     "prob": 0.0975
+     "score": "1-1",
+     "prob": 0.0882
+    },
+    {
+     "score": "3-1",
+     "prob": 0.0692
     },
     {
      "score": "2-0",
-     "prob": 0.0806
+     "prob": 0.0662
     },
     {
-     "score": "1-0",
-     "prob": 0.0806
-    },
-    {
-     "score": "1-2",
-     "prob": 0.0635
+     "score": "2-2",
+     "prob": 0.0653
     }
    ],
    "provisional": false,
@@ -285,35 +285,35 @@
    "kickoff_local": "1:00 PM",
    "status": "pre",
    "pm_slug": "den-kob-hor-2026-09-11-exact-score",
-   "lamH": 1.985,
-   "lamA": 1.256,
+   "lamH": 2.472,
+   "lamA": 1.673,
    "hasModel": true,
    "news_adj": null,
    "top_scores": [
     {
-     "score": "1-1",
-     "prob": 0.1039
-    },
-    {
      "score": "2-1",
-     "prob": 0.0973
+     "prob": 0.0822
     },
     {
-     "score": "2-0",
-     "prob": 0.0774
+     "score": "1-1",
+     "prob": 0.0705
     },
     {
-     "score": "1-0",
-     "prob": 0.0721
+     "score": "2-2",
+     "prob": 0.0688
     },
     {
      "score": "3-1",
-     "prob": 0.0644
+     "prob": 0.0678
+    },
+    {
+     "score": "3-2",
+     "prob": 0.0567
     }
    ],
    "provisional": false,
    "market": {
-    "0-0": 0.0405,
+    "0-0": 0.041,
     "0-1": 0.028,
     "1-0": 0.105,
     "0-2": 0.0115,
@@ -324,7 +324,7 @@
     "2-1": 0.1,
     "3-0": 0.095,
     "1-3": 0.0065,
-    "2-2": 0.0385,
+    "2-2": 0.039,
     "3-1": 0.075,
     "2-3": 0.0105,
     "3-2": 0.0315,
@@ -348,30 +348,30 @@
    "kickoff_local": "2:00 PM",
    "status": "pre",
    "pm_slug": "ere-az-wii-2026-09-11-exact-score",
-   "lamH": 2.176,
-   "lamA": 1.138,
+   "lamH": 4.03,
+   "lamA": 1.032,
    "hasModel": true,
    "news_adj": null,
    "top_scores": [
     {
-     "score": "2-1",
-     "prob": 0.0987
-    },
-    {
-     "score": "1-1",
-     "prob": 0.0962
-    },
-    {
-     "score": "2-0",
-     "prob": 0.0867
-    },
-    {
-     "score": "1-0",
-     "prob": 0.0743
+     "score": "4-1",
+     "prob": 0.0811
     },
     {
      "score": "3-1",
-     "prob": 0.0716
+     "prob": 0.0805
+    },
+    {
+     "score": "4-0",
+     "prob": 0.0785
+    },
+    {
+     "score": "3-0",
+     "prob": 0.078
+    },
+    {
+     "score": "5-1",
+     "prob": 0.0653
     }
    ],
    "provisional": false,
@@ -411,30 +411,30 @@
    "kickoff_local": "2:30 PM",
    "status": "pre",
    "pm_slug": "bun-uni-s04-2026-09-11-exact-score",
-   "lamH": 1.612,
-   "lamA": 1.26,
+   "lamH": 2.122,
+   "lamA": 1.254,
    "hasModel": true,
    "news_adj": null,
    "top_scores": [
     {
-     "score": "1-1",
-     "prob": 0.122
-    },
-    {
      "score": "2-1",
-     "prob": 0.0928
+     "prob": 0.0971
     },
     {
-     "score": "1-0",
-     "prob": 0.0845
+     "score": "1-1",
+     "prob": 0.0971
     },
     {
      "score": "2-0",
-     "prob": 0.0736
+     "prob": 0.0775
     },
     {
-     "score": "1-2",
-     "prob": 0.0725
+     "score": "3-1",
+     "prob": 0.0687
+    },
+    {
+     "score": "1-0",
+     "prob": 0.0675
     }
    ],
    "provisional": false,
@@ -474,30 +474,30 @@
    "kickoff_local": "2:45 PM",
    "status": "pre",
    "pm_slug": "fl1-ren-olm-2026-09-11-exact-score",
-   "lamH": 1.722,
-   "lamA": 1.298,
+   "lamH": 2.061,
+   "lamA": 1.127,
    "hasModel": true,
    "news_adj": null,
    "top_scores": [
     {
      "score": "1-1",
-     "prob": 0.1159
+     "prob": 0.1021
     },
     {
      "score": "2-1",
-     "prob": 0.0941
-    },
-    {
-     "score": "1-0",
-     "prob": 0.0777
+     "prob": 0.0993
     },
     {
      "score": "2-0",
-     "prob": 0.0725
+     "prob": 0.0881
     },
     {
-     "score": "1-2",
-     "prob": 0.071
+     "score": "1-0",
+     "prob": 0.0797
+    },
+    {
+     "score": "3-1",
+     "prob": 0.0682
     }
    ],
    "provisional": false,
@@ -505,14 +505,14 @@
     "0-0": 0.0395,
     "0-1": 0.045,
     "1-0": 0.065,
-    "0-2": 0.034,
+    "0-2": 0.0345,
     "1-1": 0.105,
-    "2-0": 0.065,
+    "2-0": 0.06,
     "0-3": 0.018,
     "1-2": 0.065,
     "2-1": 0.095,
-    "3-0": 0.039,
-    "1-3": 0.032,
+    "3-0": 0.0375,
+    "1-3": 0.033,
     "2-2": 0.075,
     "3-1": 0.055,
     "2-3": 0.0305,
@@ -537,30 +537,30 @@
    "kickoff_local": "2:45 PM",
    "status": "pre",
    "pm_slug": "sea-ven-fio-2026-09-11-exact-score",
-   "lamH": 1.678,
-   "lamA": 1.213,
+   "lamH": 1.7,
+   "lamA": 1.039,
    "hasModel": true,
    "news_adj": null,
    "top_scores": [
     {
      "score": "1-1",
-     "prob": 0.12
-    },
-    {
-     "score": "2-1",
-     "prob": 0.095
+     "prob": 0.1213
     },
     {
      "score": "1-0",
-     "prob": 0.0866
+     "prob": 0.1032
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0972
     },
     {
      "score": "2-0",
-     "prob": 0.0783
+     "prob": 0.0936
     },
     {
-     "score": "1-2",
-     "prob": 0.0687
+     "score": "0-0",
+     "prob": 0.0716
     }
    ],
    "provisional": false,
@@ -600,30 +600,30 @@
    "kickoff_local": "2:45 PM",
    "status": "pre",
    "pm_slug": "bel1-yrm-rsc-2026-09-11-exact-score",
-   "lamH": 1.469,
-   "lamA": 1.265,
+   "lamH": 1.648,
+   "lamA": 1.224,
    "hasModel": true,
    "news_adj": null,
    "top_scores": [
     {
      "score": "1-1",
-     "prob": 0.1281
+     "prob": 0.1212
     },
     {
      "score": "2-1",
-     "prob": 0.0888
+     "prob": 0.0942
     },
     {
      "score": "1-0",
-     "prob": 0.0883
+     "prob": 0.0866
+    },
+    {
+     "score": "2-0",
+     "prob": 0.077
     },
     {
      "score": "1-2",
-     "prob": 0.0764
-    },
-    {
-     "score": "0-1",
-     "prob": 0.075
+     "prob": 0.07
     }
    ],
    "provisional": false,
@@ -644,7 +644,7 @@
     "2-3": 0.037,
     "3-2": 0.0225,
     "3-3": 0.015,
-    "Other": 0.145
+    "Other": 0.14
    },
    "edge_bets": [],
    "cur_home": 0,
@@ -663,30 +663,30 @@
    "kickoff_local": "3:00 PM",
    "status": "pre",
    "pm_slug": "lal-sev-val-2026-09-11-exact-score",
-   "lamH": 1.759,
-   "lamA": 1.119,
+   "lamH": 2.154,
+   "lamA": 1.264,
    "hasModel": true,
    "news_adj": null,
    "top_scores": [
     {
-     "score": "1-1",
-     "prob": 0.1176
-    },
-    {
      "score": "2-1",
-     "prob": 0.0976
+     "prob": 0.0968
     },
     {
-     "score": "1-0",
-     "prob": 0.0925
+     "score": "1-1",
+     "prob": 0.0953
     },
     {
      "score": "2-0",
-     "prob": 0.0872
+     "prob": 0.0766
     },
     {
-     "score": "0-0",
-     "prob": 0.063
+     "score": "3-1",
+     "prob": 0.0695
+    },
+    {
+     "score": "1-0",
+     "prob": 0.0657
     }
    ],
    "provisional": false,
@@ -810,30 +810,30 @@
    "kickoff_local": "9:00 PM",
    "status": "pre",
    "pm_slug": "mex-nec-pue-2026-09-11-exact-score",
-   "lamH": 1.588,
-   "lamA": 1.293,
+   "lamH": 1.562,
+   "lamA": 1.514,
    "hasModel": true,
    "news_adj": null,
    "top_scores": [
     {
      "score": "1-1",
-     "prob": 0.1223
+     "prob": 0.1159
     },
     {
      "score": "2-1",
-     "prob": 0.0916
-    },
-    {
-     "score": "1-0",
-     "prob": 0.0823
+     "prob": 0.0854
     },
     {
      "score": "1-2",
-     "prob": 0.0746
+     "prob": 0.0828
     },
     {
-     "score": "2-0",
-     "prob": 0.0708
+     "score": "1-0",
+     "prob": 0.0657
+    },
+    {
+     "score": "2-2",
+     "prob": 0.0647
     }
    ],
    "provisional": false,
@@ -884,7 +884,7 @@
     "0-1": 0.06,
     "1-0": 0.065,
     "0-2": 0.04,
-    "1-1": 0.115,
+    "1-1": 0.11,
     "2-0": 0.06,
     "0-3": 0.0245,
     "1-2": 0.08,
@@ -915,30 +915,30 @@
    "kickoff_local": "9:30 PM",
    "status": "pre",
    "pm_slug": "lib-uni-tol-2026-05-26-exact-score",
-   "lamH": 1.704,
-   "lamA": 1.272,
+   "lamH": 1.584,
+   "lamA": 1.429,
    "hasModel": true,
    "news_adj": null,
    "top_scores": [
     {
      "score": "1-1",
-     "prob": 0.1174
+     "prob": 0.1181
     },
     {
      "score": "2-1",
-     "prob": 0.0944
-    },
-    {
-     "score": "1-0",
-     "prob": 0.0804
-    },
-    {
-     "score": "2-0",
-     "prob": 0.0742
+     "prob": 0.0883
     },
     {
      "score": "1-2",
-     "prob": 0.0705
+     "prob": 0.0796
+    },
+    {
+     "score": "1-0",
+     "prob": 0.0713
+    },
+    {
+     "score": "0-1",
+     "prob": 0.0637
     }
    ],
    "provisional": false,
@@ -997,7 +997,7 @@
     "3-0": 0.0375,
     "1-3": 0.024,
     "2-2": 0.053,
-    "3-1": 0.0385,
+    "3-1": 0.038,
     "2-3": 0.022,
     "3-2": 0.0255,
     "3-3": 0.017,
@@ -1027,12 +1027,12 @@
    "top_scores": [],
    "provisional": false,
    "market": {
-    "0-0": 0.0565,
+    "0-0": 0.056,
     "0-1": 0.08,
     "1-0": 0.05,
-    "0-2": 0.069,
+    "0-2": 0.0685,
     "1-1": 0.11,
-    "2-0": 0.0525,
+    "2-0": 0.052,
     "0-3": 0.031,
     "1-2": 0.095,
     "2-1": 0.055,
@@ -1062,30 +1062,30 @@
    "kickoff_local": "11:00 PM",
    "status": "pre",
    "pm_slug": "mex-atla-pac-2026-09-11-exact-score",
-   "lamH": 1.456,
-   "lamA": 1.212,
+   "lamH": 0.748,
+   "lamA": 1.013,
    "hasModel": true,
    "news_adj": null,
    "top_scores": [
     {
-     "score": "1-1",
-     "prob": 0.1299
-    },
-    {
-     "score": "1-0",
-     "prob": 0.0938
-    },
-    {
-     "score": "2-1",
-     "prob": 0.0892
+     "score": "0-0",
+     "prob": 0.1797
     },
     {
      "score": "0-1",
-     "prob": 0.0768
+     "prob": 0.1663
     },
     {
-     "score": "0-0",
-     "prob": 0.0768
+     "score": "1-1",
+     "prob": 0.1381
+    },
+    {
+     "score": "1-0",
+     "prob": 0.1208
+    },
+    {
+     "score": "0-2",
+     "prob": 0.0882
     }
    ],
    "provisional": false,
@@ -1103,7 +1103,7 @@
     "1-3": 0.0435,
     "2-2": 0.065,
     "3-1": 0.029,
-    "2-3": 0.027,
+    "2-3": 0.029,
     "3-2": 0.025,
     "3-3": 0.014,
     "Other": 0.095
@@ -1125,30 +1125,30 @@
    "kickoff_local": "11:10 PM",
    "status": "pre",
    "pm_slug": "mex-tij-que-2026-09-11-exact-score",
-   "lamH": 1.599,
-   "lamA": 1.207,
+   "lamH": 1.379,
+   "lamA": 1.033,
    "hasModel": true,
    "news_adj": null,
    "top_scores": [
     {
      "score": "1-1",
-     "prob": 0.1239
-    },
-    {
-     "score": "2-1",
-     "prob": 0.0934
+     "prob": 0.1354
     },
     {
      "score": "1-0",
-     "prob": 0.0898
+     "prob": 0.116
+    },
+    {
+     "score": "0-0",
+     "prob": 0.0974
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0881
     },
     {
      "score": "2-0",
-     "prob": 0.0774
-    },
-    {
-     "score": "1-2",
-     "prob": 0.0705
+     "prob": 0.0853
     }
    ],
    "provisional": false,
