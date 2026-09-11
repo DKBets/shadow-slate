@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-09-11T00:13:35.973252Z",
- "slate_generated_utc": "2026-09-11T00:09:02.100663Z",
+ "generated_utc": "2026-09-11T00:18:57.450586Z",
+ "slate_generated_utc": "2026-09-11T00:14:37.647840Z",
  "date": "2026-09-10",
  "source": "board",
  "games": [
@@ -12,30 +12,30 @@
    "kickoff_local": "8:30 PM",
    "status": "pre",
    "pm_slug": "lib-ind1-fla-2026-09-10-exact-score",
-   "lamH": 1.725,
-   "lamA": 1.277,
+   "lamH": 1.765,
+   "lamA": 1.494,
    "hasModel": true,
    "news_adj": null,
    "top_scores": [
     {
      "score": "1-1",
-     "prob": 0.1163
+     "prob": 0.1078
     },
     {
      "score": "2-1",
-     "prob": 0.0946
-    },
-    {
-     "score": "1-0",
-     "prob": 0.0793
-    },
-    {
-     "score": "2-0",
-     "prob": 0.0741
+     "prob": 0.0897
     },
     {
      "score": "1-2",
-     "prob": 0.0701
+     "prob": 0.0759
+    },
+    {
+     "score": "2-2",
+     "prob": 0.067
+    },
+    {
+     "score": "1-0",
+     "prob": 0.0619
     }
    ],
    "provisional": false,
@@ -49,14 +49,14 @@
     "0-3": 0.0295,
     "1-2": 0.085,
     "2-1": 0.075,
-    "3-0": 0.015,
+    "3-0": 0.0145,
     "1-3": 0.0335,
     "2-2": 0.051,
     "3-1": 0.0235,
     "2-3": 0.019,
     "3-2": 0.017,
     "3-3": 0.0075,
-    "Other": 0.045
+    "Other": 0.0385
    },
    "edge_bets": [],
    "cur_home": 0,
@@ -75,30 +75,30 @@
    "kickoff_local": "8:30 PM",
    "status": "pre",
    "pm_slug": "lib-fla-ind1-2026-09-17-exact-score",
-   "lamH": 1.66,
-   "lamA": 1.327,
+   "lamH": 1.705,
+   "lamA": 0.993,
    "hasModel": true,
    "news_adj": null,
    "top_scores": [
     {
      "score": "1-1",
-     "prob": 0.118
-    },
-    {
-     "score": "2-1",
-     "prob": 0.0924
+     "prob": 0.1211
     },
     {
      "score": "1-0",
-     "prob": 0.0772
-    },
-    {
-     "score": "1-2",
-     "prob": 0.0739
+     "prob": 0.1082
     },
     {
      "score": "2-0",
-     "prob": 0.0696
+     "prob": 0.0981
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0974
+    },
+    {
+     "score": "0-0",
+     "prob": 0.0743
     }
    ],
    "provisional": false,
@@ -146,22 +146,22 @@
    "provisional": false,
    "market": {
     "0-0": 0.065,
-    "0-1": 0.042,
+    "0-1": 0.041,
     "1-0": 0.125,
     "0-2": 0.0155,
     "1-1": 0.105,
     "2-0": 0.125,
     "0-3": 0.0045,
-    "1-2": 0.0375,
+    "1-2": 0.036,
     "2-1": 0.095,
     "3-0": 0.08,
     "1-3": 0.009,
     "2-2": 0.0435,
     "3-1": 0.065,
-    "2-3": 0.0095,
+    "2-3": 0.009,
     "3-2": 0.027,
-    "3-3": 0.007,
-    "Other": 0.14
+    "3-3": 0.006,
+    "Other": 0.145
    },
    "edge_bets": [],
    "cur_home": 0,
@@ -222,36 +222,36 @@
    "kickoff_local": "11:05 PM",
    "status": "pre",
    "pm_slug": "mex-pum-leo-2026-09-06-exact-score",
-   "lamH": 1.507,
-   "lamA": 1.207,
+   "lamH": 0.935,
+   "lamA": 1.111,
    "hasModel": true,
    "news_adj": null,
    "top_scores": [
     {
      "score": "1-1",
-     "prob": 0.1279
-    },
-    {
-     "score": "1-0",
-     "prob": 0.0928
-    },
-    {
-     "score": "2-1",
-     "prob": 0.0909
-    },
-    {
-     "score": "2-0",
-     "prob": 0.0753
+     "prob": 0.1424
     },
     {
      "score": "0-0",
-     "prob": 0.0736
+     "prob": 0.1373
+    },
+    {
+     "score": "0-1",
+     "prob": 0.1356
+    },
+    {
+     "score": "1-0",
+     "prob": 0.1128
+    },
+    {
+     "score": "0-2",
+     "prob": 0.0798
     }
    ],
    "provisional": false,
    "market": {
     "0-0": 0.06,
-    "0-1": 0.07,
+    "0-1": 0.065,
     "1-0": 0.085,
     "0-2": 0.043,
     "1-1": 0.12,
@@ -278,7 +278,7 @@
    "shadow_totals": [
     {
      "sel": "Over 1.5",
-     "prob": 0.7623,
+     "prob": 0.7655,
      "price": 0.785,
      "stake": 200.0
     }
@@ -721,7 +721,7 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8045,
+      "prob": 0.8041,
       "price": 0.865,
       "stake": 200.0,
       "ev_pct": -7.0
@@ -752,9 +752,9 @@
      {
       "sel": "Over 1.5",
       "prob": 0.7979,
-      "price": 0.825,
+      "price": 0.82,
       "stake": 200.0,
-      "ev_pct": -3.3
+      "ev_pct": -2.7
      }
     ]
    },
@@ -766,10 +766,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.7623,
+      "prob": 0.7655,
       "price": 0.785,
       "stake": 200.0,
-      "ev_pct": -2.9
+      "ev_pct": -2.5
      }
     ]
    }
