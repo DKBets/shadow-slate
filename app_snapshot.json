@@ -1,8 +1,8 @@
 {
- "generated_utc": "2026-09-11T06:20:11.182497Z",
- "slate_generated_utc": "2026-09-11T06:19:58.094092Z",
+ "generated_utc": "2026-09-11T06:25:30.697762Z",
+ "slate_generated_utc": "2026-09-11T06:21:07.921643Z",
  "date": "2026-09-11",
- "source": "board",
+ "source": "files",
  "games": [
   {
    "home": "Kyōto Sanga FC",
@@ -12,55 +12,16 @@
    "kickoff_local": "6:00 AM",
    "status": "pre",
    "pm_slug": "jap-kyo-rey-2026-09-11-exact-score",
-   "lamH": 1.324,
-   "lamA": 1.573,
-   "hasModel": true,
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
    "news_adj": null,
-   "top_scores": [
-    {
-     "score": "1-1",
-     "prob": 0.122
-    },
-    {
-     "score": "1-2",
-     "prob": 0.0905
-    },
-    {
-     "score": "0-1",
-     "prob": 0.08
-    },
-    {
-     "score": "2-1",
-     "prob": 0.0762
-    },
-    {
-     "score": "0-2",
-     "prob": 0.0684
-    }
-   ],
+   "top_scores": [],
    "provisional": false,
-   "market": {
-    "0-0": 0.055,
-    "0-1": 0.105,
-    "1-0": 0.055,
-    "0-2": 0.095,
-    "1-1": 0.115,
-    "2-0": 0.0255,
-    "0-3": 0.06,
-    "1-2": 0.105,
-    "2-1": 0.055,
-    "3-0": 0.0105,
-    "1-3": 0.06,
-    "2-2": 0.055,
-    "3-1": 0.0185,
-    "2-3": 0.035,
-    "3-2": 0.018,
-    "3-3": 0.0125,
-    "Other": 0.135
-   },
+   "market": null,
    "edge_bets": [],
-   "cur_home": 0,
-   "cur_away": 0,
+   "cur_home": null,
+   "cur_away": null,
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
@@ -75,55 +36,16 @@
    "kickoff_local": "6:00 AM",
    "status": "pre",
    "pm_slug": "jap-vis-kas-2026-09-11-exact-score",
-   "lamH": 2.289,
-   "lamA": 1.555,
-   "hasModel": true,
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
    "news_adj": null,
-   "top_scores": [
-    {
-     "score": "2-1",
-     "prob": 0.0881
-    },
-    {
-     "score": "1-1",
-     "prob": 0.0816
-    },
-    {
-     "score": "2-2",
-     "prob": 0.0685
-    },
-    {
-     "score": "3-1",
-     "prob": 0.0672
-    },
-    {
-     "score": "1-2",
-     "prob": 0.0599
-    }
-   ],
+   "top_scores": [],
    "provisional": false,
-   "market": {
-    "0-0": 0.095,
-    "0-1": 0.1,
-    "1-0": 0.105,
-    "0-2": 0.065,
-    "1-1": 0.145,
-    "2-0": 0.055,
-    "0-3": 0.024,
-    "1-2": 0.085,
-    "2-1": 0.085,
-    "3-0": 0.024,
-    "1-3": 0.0295,
-    "2-2": 0.055,
-    "3-1": 0.03,
-    "2-3": 0.0225,
-    "3-2": 0.023,
-    "3-3": 0.0105,
-    "Other": 0.065
-   },
+   "market": null,
    "edge_bets": [],
-   "cur_home": 0,
-   "cur_away": 0,
+   "cur_home": null,
+   "cur_away": null,
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
@@ -144,28 +66,10 @@
    "news_adj": null,
    "top_scores": [],
    "provisional": false,
-   "market": {
-    "0-0": 0.1,
-    "0-1": 0.115,
-    "1-0": 0.095,
-    "0-2": 0.075,
-    "1-1": 0.145,
-    "2-0": 0.048,
-    "0-3": 0.0305,
-    "1-2": 0.085,
-    "2-1": 0.07,
-    "3-0": 0.0155,
-    "1-3": 0.0345,
-    "2-2": 0.053,
-    "3-1": 0.023,
-    "2-3": 0.022,
-    "3-2": 0.0175,
-    "3-3": 0.007,
-    "Other": 0.055
-   },
+   "market": null,
    "edge_bets": [],
-   "cur_home": 0,
-   "cur_away": 0,
+   "cur_home": null,
+   "cur_away": null,
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
@@ -186,28 +90,10 @@
    "news_adj": null,
    "top_scores": [],
    "provisional": false,
-   "market": {
-    "0-0": 0.0335,
-    "0-1": 0.0225,
-    "1-0": 0.095,
-    "0-2": 0.009,
-    "1-1": 0.065,
-    "2-0": 0.12,
-    "0-3": 0.003,
-    "1-2": 0.024,
-    "2-1": 0.095,
-    "3-0": 0.11,
-    "1-3": 0.006,
-    "2-2": 0.0355,
-    "3-1": 0.075,
-    "2-3": 0.0095,
-    "3-2": 0.031,
-    "3-3": 0.0085,
-    "Other": 0.26
-   },
+   "market": null,
    "edge_bets": [],
-   "cur_home": 0,
-   "cur_away": 0,
+   "cur_home": null,
+   "cur_away": null,
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
@@ -222,55 +108,16 @@
    "kickoff_local": "1:00 PM",
    "status": "pre",
    "pm_slug": "swe-hac-mja-2026-09-11-exact-score",
-   "lamH": 2.234,
-   "lamA": 1.405,
-   "hasModel": true,
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
    "news_adj": null,
-   "top_scores": [
-    {
-     "score": "2-1",
-     "prob": 0.0929
-    },
-    {
-     "score": "1-1",
-     "prob": 0.0882
-    },
-    {
-     "score": "3-1",
-     "prob": 0.0692
-    },
-    {
-     "score": "2-0",
-     "prob": 0.0662
-    },
-    {
-     "score": "2-2",
-     "prob": 0.0653
-    }
-   ],
+   "top_scores": [],
    "provisional": false,
-   "market": {
-    "0-0": 0.0445,
-    "0-1": 0.044,
-    "1-0": 0.09,
-    "0-2": 0.0235,
-    "1-1": 0.105,
-    "2-0": 0.09,
-    "0-3": 0.01,
-    "1-2": 0.05,
-    "2-1": 0.1,
-    "3-0": 0.06,
-    "1-3": 0.0185,
-    "2-2": 0.06,
-    "3-1": 0.07,
-    "2-3": 0.0195,
-    "3-2": 0.04,
-    "3-3": 0.0145,
-    "Other": 0.175
-   },
+   "market": null,
    "edge_bets": [],
-   "cur_home": 0,
-   "cur_away": 0,
+   "cur_home": null,
+   "cur_away": null,
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
@@ -285,55 +132,16 @@
    "kickoff_local": "1:00 PM",
    "status": "pre",
    "pm_slug": "den-kob-hor-2026-09-11-exact-score",
-   "lamH": 2.473,
-   "lamA": 1.672,
-   "hasModel": true,
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
    "news_adj": null,
-   "top_scores": [
-    {
-     "score": "2-1",
-     "prob": 0.0822
-    },
-    {
-     "score": "1-1",
-     "prob": 0.0705
-    },
-    {
-     "score": "2-2",
-     "prob": 0.0688
-    },
-    {
-     "score": "3-1",
-     "prob": 0.0678
-    },
-    {
-     "score": "3-2",
-     "prob": 0.0567
-    }
-   ],
+   "top_scores": [],
    "provisional": false,
-   "market": {
-    "0-0": 0.0405,
-    "0-1": 0.028,
-    "1-0": 0.105,
-    "0-2": 0.0115,
-    "1-1": 0.075,
-    "2-0": 0.12,
-    "0-3": 0.004,
-    "1-2": 0.029,
-    "2-1": 0.1,
-    "3-0": 0.095,
-    "1-3": 0.0065,
-    "2-2": 0.038,
-    "3-1": 0.075,
-    "2-3": 0.0105,
-    "3-2": 0.031,
-    "3-3": 0.0085,
-    "Other": 0.23
-   },
+   "market": null,
    "edge_bets": [],
-   "cur_home": 0,
-   "cur_away": 0,
+   "cur_home": null,
+   "cur_away": null,
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
@@ -348,55 +156,16 @@
    "kickoff_local": "2:00 PM",
    "status": "pre",
    "pm_slug": "ere-az-wii-2026-09-11-exact-score",
-   "lamH": 4.031,
-   "lamA": 1.031,
-   "hasModel": true,
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
    "news_adj": null,
-   "top_scores": [
-    {
-     "score": "4-1",
-     "prob": 0.0811
-    },
-    {
-     "score": "3-1",
-     "prob": 0.0804
-    },
-    {
-     "score": "4-0",
-     "prob": 0.0786
-    },
-    {
-     "score": "3-0",
-     "prob": 0.078
-    },
-    {
-     "score": "5-1",
-     "prob": 0.0654
-    }
-   ],
+   "top_scores": [],
    "provisional": false,
-   "market": {
-    "0-0": 0.019,
-    "0-1": 0.0145,
-    "1-0": 0.065,
-    "0-2": 0.0065,
-    "1-1": 0.045,
-    "2-0": 0.095,
-    "0-3": 0.003,
-    "1-2": 0.017,
-    "2-1": 0.075,
-    "3-0": 0.105,
-    "1-3": 0.0055,
-    "2-2": 0.0305,
-    "3-1": 0.08,
-    "2-3": 0.0085,
-    "3-2": 0.0305,
-    "3-3": 0.0085,
-    "Other": 0.385
-   },
+   "market": null,
    "edge_bets": [],
-   "cur_home": 0,
-   "cur_away": 0,
+   "cur_home": null,
+   "cur_away": null,
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
@@ -411,55 +180,16 @@
    "kickoff_local": "2:30 PM",
    "status": "pre",
    "pm_slug": "bun-uni-s04-2026-09-11-exact-score",
-   "lamH": 2.122,
-   "lamA": 1.254,
-   "hasModel": true,
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
    "news_adj": null,
-   "top_scores": [
-    {
-     "score": "2-1",
-     "prob": 0.0971
-    },
-    {
-     "score": "1-1",
-     "prob": 0.0971
-    },
-    {
-     "score": "2-0",
-     "prob": 0.0775
-    },
-    {
-     "score": "3-1",
-     "prob": 0.0687
-    },
-    {
-     "score": "1-0",
-     "prob": 0.0675
-    }
-   ],
+   "top_scores": [],
    "provisional": false,
-   "market": {
-    "0-0": 0.055,
-    "0-1": 0.065,
-    "1-0": 0.075,
-    "0-2": 0.046,
-    "1-1": 0.125,
-    "2-0": 0.055,
-    "0-3": 0.022,
-    "1-2": 0.075,
-    "2-1": 0.09,
-    "3-0": 0.0305,
-    "1-3": 0.0365,
-    "2-2": 0.075,
-    "3-1": 0.045,
-    "2-3": 0.0315,
-    "3-2": 0.035,
-    "3-3": 0.018,
-    "Other": 0.125
-   },
+   "market": null,
    "edge_bets": [],
-   "cur_home": 0,
-   "cur_away": 0,
+   "cur_home": null,
+   "cur_away": null,
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
@@ -474,55 +204,16 @@
    "kickoff_local": "2:45 PM",
    "status": "pre",
    "pm_slug": "fl1-ren-olm-2026-09-11-exact-score",
-   "lamH": 2.062,
-   "lamA": 1.127,
-   "hasModel": true,
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
    "news_adj": null,
-   "top_scores": [
-    {
-     "score": "1-1",
-     "prob": 0.1021
-    },
-    {
-     "score": "2-1",
-     "prob": 0.0993
-    },
-    {
-     "score": "2-0",
-     "prob": 0.0881
-    },
-    {
-     "score": "1-0",
-     "prob": 0.0797
-    },
-    {
-     "score": "3-1",
-     "prob": 0.0682
-    }
-   ],
+   "top_scores": [],
    "provisional": false,
-   "market": {
-    "0-0": 0.0395,
-    "0-1": 0.045,
-    "1-0": 0.065,
-    "0-2": 0.0335,
-    "1-1": 0.105,
-    "2-0": 0.065,
-    "0-3": 0.016,
-    "1-2": 0.065,
-    "2-1": 0.095,
-    "3-0": 0.0395,
-    "1-3": 0.0305,
-    "2-2": 0.075,
-    "3-1": 0.055,
-    "2-3": 0.0305,
-    "3-2": 0.0445,
-    "3-3": 0.0195,
-    "Other": 0.175
-   },
+   "market": null,
    "edge_bets": [],
-   "cur_home": 0,
-   "cur_away": 0,
+   "cur_home": null,
+   "cur_away": null,
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
@@ -537,55 +228,16 @@
    "kickoff_local": "2:45 PM",
    "status": "pre",
    "pm_slug": "sea-ven-fio-2026-09-11-exact-score",
-   "lamH": 1.701,
-   "lamA": 1.039,
-   "hasModel": true,
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
    "news_adj": null,
-   "top_scores": [
-    {
-     "score": "1-1",
-     "prob": 0.1212
-    },
-    {
-     "score": "1-0",
-     "prob": 0.1032
-    },
-    {
-     "score": "2-1",
-     "prob": 0.0973
-    },
-    {
-     "score": "2-0",
-     "prob": 0.0936
-    },
-    {
-     "score": "0-0",
-     "prob": 0.0716
-    }
-   ],
+   "top_scores": [],
    "provisional": false,
-   "market": {
-    "0-0": 0.065,
-    "0-1": 0.08,
-    "1-0": 0.075,
-    "0-2": 0.055,
-    "1-1": 0.13,
-    "2-0": 0.05,
-    "0-3": 0.029,
-    "1-2": 0.09,
-    "2-1": 0.08,
-    "3-0": 0.0235,
-    "1-3": 0.0405,
-    "2-2": 0.07,
-    "3-1": 0.0335,
-    "2-3": 0.032,
-    "3-2": 0.0285,
-    "3-3": 0.0155,
-    "Other": 0.1
-   },
+   "market": null,
    "edge_bets": [],
-   "cur_home": 0,
-   "cur_away": 0,
+   "cur_home": null,
+   "cur_away": null,
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
@@ -600,55 +252,16 @@
    "kickoff_local": "2:45 PM",
    "status": "pre",
    "pm_slug": "bel1-yrm-rsc-2026-09-11-exact-score",
-   "lamH": 1.649,
-   "lamA": 1.224,
-   "hasModel": true,
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
    "news_adj": null,
-   "top_scores": [
-    {
-     "score": "1-1",
-     "prob": 0.1212
-    },
-    {
-     "score": "2-1",
-     "prob": 0.0942
-    },
-    {
-     "score": "1-0",
-     "prob": 0.0865
-    },
-    {
-     "score": "2-0",
-     "prob": 0.077
-    },
-    {
-     "score": "1-2",
-     "prob": 0.07
-    }
-   ],
+   "top_scores": [],
    "provisional": false,
-   "market": {
-    "0-0": 0.055,
-    "0-1": 0.09,
-    "1-0": 0.055,
-    "0-2": 0.085,
-    "1-1": 0.115,
-    "2-0": 0.03,
-    "0-3": 0.05,
-    "1-2": 0.1,
-    "2-1": 0.06,
-    "3-0": 0.014,
-    "1-3": 0.0585,
-    "2-2": 0.065,
-    "3-1": 0.0225,
-    "2-3": 0.037,
-    "3-2": 0.0235,
-    "3-3": 0.0145,
-    "Other": 0.13
-   },
+   "market": null,
    "edge_bets": [],
-   "cur_home": 0,
-   "cur_away": 0,
+   "cur_home": null,
+   "cur_away": null,
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
@@ -663,55 +276,16 @@
    "kickoff_local": "3:00 PM",
    "status": "pre",
    "pm_slug": "lal-sev-val-2026-09-11-exact-score",
-   "lamH": 2.155,
-   "lamA": 1.263,
-   "hasModel": true,
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
    "news_adj": null,
-   "top_scores": [
-    {
-     "score": "2-1",
-     "prob": 0.0968
-    },
-    {
-     "score": "1-1",
-     "prob": 0.0952
-    },
-    {
-     "score": "2-0",
-     "prob": 0.0767
-    },
-    {
-     "score": "3-1",
-     "prob": 0.0695
-    },
-    {
-     "score": "1-0",
-     "prob": 0.0657
-    }
-   ],
+   "top_scores": [],
    "provisional": false,
-   "market": {
-    "0-0": 0.105,
-    "0-1": 0.08,
-    "1-0": 0.135,
-    "0-2": 0.0335,
-    "1-1": 0.135,
-    "2-0": 0.095,
-    "0-3": 0.0105,
-    "1-2": 0.055,
-    "2-1": 0.095,
-    "3-0": 0.0425,
-    "1-3": 0.0155,
-    "2-2": 0.048,
-    "3-1": 0.0425,
-    "2-3": 0.0135,
-    "3-2": 0.021,
-    "3-3": 0.007,
-    "Other": 0.06
-   },
+   "market": null,
    "edge_bets": [],
-   "cur_home": 0,
-   "cur_away": 0,
+   "cur_home": null,
+   "cur_away": null,
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
@@ -732,28 +306,10 @@
    "news_adj": null,
    "top_scores": [],
    "provisional": false,
-   "market": {
-    "0-0": 0.0545,
-    "0-1": 0.085,
-    "1-0": 0.0495,
-    "0-2": 0.09,
-    "1-1": 0.085,
-    "2-0": 0.0355,
-    "0-3": 0.057,
-    "1-2": 0.095,
-    "2-1": 0.04,
-    "3-0": 0.0185,
-    "1-3": 0.065,
-    "2-2": 0.04,
-    "3-1": 0.0265,
-    "2-3": 0.038,
-    "3-2": 0.027,
-    "3-3": 0.023,
-    "Other": 0.14
-   },
+   "market": null,
    "edge_bets": [],
-   "cur_home": 0,
-   "cur_away": 0,
+   "cur_home": null,
+   "cur_away": null,
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
@@ -774,28 +330,10 @@
    "news_adj": null,
    "top_scores": [],
    "provisional": false,
-   "market": {
-    "0-0": 0.075,
-    "0-1": 0.0395,
-    "1-0": 0.06,
-    "0-2": 0.031,
-    "1-1": 0.08,
-    "2-0": 0.07,
-    "0-3": 0.02,
-    "1-2": 0.04,
-    "2-1": 0.07,
-    "3-0": 0.04,
-    "1-3": 0.02,
-    "2-2": 0.04,
-    "3-1": 0.04,
-    "2-3": 0.025,
-    "3-2": 0.0295,
-    "3-3": 0.02,
-    "Other": 0.205
-   },
+   "market": null,
    "edge_bets": [],
-   "cur_home": 0,
-   "cur_away": 0,
+   "cur_home": null,
+   "cur_away": null,
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
@@ -810,55 +348,16 @@
    "kickoff_local": "9:00 PM",
    "status": "pre",
    "pm_slug": "mex-nec-pue-2026-09-11-exact-score",
-   "lamH": 1.563,
-   "lamA": 1.514,
-   "hasModel": true,
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
    "news_adj": null,
-   "top_scores": [
-    {
-     "score": "1-1",
-     "prob": 0.1159
-    },
-    {
-     "score": "2-1",
-     "prob": 0.0854
-    },
-    {
-     "score": "1-2",
-     "prob": 0.0828
-    },
-    {
-     "score": "1-0",
-     "prob": 0.0656
-    },
-    {
-     "score": "2-2",
-     "prob": 0.0647
-    }
-   ],
+   "top_scores": [],
    "provisional": false,
-   "market": {
-    "0-0": 0.065,
-    "0-1": 0.07,
-    "1-0": 0.1,
-    "0-2": 0.039,
-    "1-1": 0.125,
-    "2-0": 0.08,
-    "0-3": 0.0155,
-    "1-2": 0.065,
-    "2-1": 0.095,
-    "3-0": 0.0415,
-    "1-3": 0.025,
-    "2-2": 0.06,
-    "3-1": 0.05,
-    "2-3": 0.0225,
-    "3-2": 0.0325,
-    "3-3": 0.0145,
-    "Other": 0.095
-   },
+   "market": null,
    "edge_bets": [],
-   "cur_home": 0,
-   "cur_away": 0,
+   "cur_home": null,
+   "cur_away": null,
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
@@ -879,28 +378,10 @@
    "news_adj": null,
    "top_scores": [],
    "provisional": false,
-   "market": {
-    "0-0": 0.0505,
-    "0-1": 0.06,
-    "1-0": 0.065,
-    "0-2": 0.04,
-    "1-1": 0.115,
-    "2-0": 0.06,
-    "0-3": 0.0245,
-    "1-2": 0.08,
-    "2-1": 0.075,
-    "3-0": 0.0295,
-    "1-3": 0.0295,
-    "2-2": 0.065,
-    "3-1": 0.036,
-    "2-3": 0.028,
-    "3-2": 0.0295,
-    "3-3": 0.0215,
-    "Other": 0.195
-   },
+   "market": null,
    "edge_bets": [],
-   "cur_home": 0,
-   "cur_away": 0,
+   "cur_home": null,
+   "cur_away": null,
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
@@ -915,55 +396,16 @@
    "kickoff_local": "9:30 PM",
    "status": "pre",
    "pm_slug": "lib-uni-tol-2026-05-26-exact-score",
-   "lamH": 1.585,
-   "lamA": 1.428,
-   "hasModel": true,
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
    "news_adj": null,
-   "top_scores": [
-    {
-     "score": "1-1",
-     "prob": 0.1181
-    },
-    {
-     "score": "2-1",
-     "prob": 0.0883
-    },
-    {
-     "score": "1-2",
-     "prob": 0.0796
-    },
-    {
-     "score": "1-0",
-     "prob": 0.0714
-    },
-    {
-     "score": "0-1",
-     "prob": 0.0636
-    }
-   ],
+   "top_scores": [],
    "provisional": false,
-   "market": {
-    "0-0": 1.0,
-    "0-1": 0.0,
-    "1-0": 0.0,
-    "0-2": 0.0,
-    "1-1": 0.0,
-    "2-0": 0.0,
-    "0-3": 0.0,
-    "1-2": 0.0,
-    "2-1": 0.316,
-    "3-0": 0.0,
-    "1-3": 0.0,
-    "2-2": 0.0,
-    "3-1": 0.0,
-    "2-3": 0.0,
-    "3-2": 0.0,
-    "3-3": 0.0,
-    "Other": 0.0
-   },
+   "market": null,
    "edge_bets": [],
-   "cur_home": 0,
-   "cur_away": 0,
+   "cur_home": null,
+   "cur_away": null,
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
@@ -984,28 +426,10 @@
    "news_adj": null,
    "top_scores": [],
    "provisional": false,
-   "market": {
-    "0-0": 0.07,
-    "0-1": 0.07,
-    "1-0": 0.115,
-    "0-2": 0.0375,
-    "1-1": 0.125,
-    "2-0": 0.085,
-    "0-3": 0.0185,
-    "1-2": 0.06,
-    "2-1": 0.095,
-    "3-0": 0.037,
-    "1-3": 0.024,
-    "2-2": 0.053,
-    "3-1": 0.04,
-    "2-3": 0.022,
-    "3-2": 0.0255,
-    "3-3": 0.017,
-    "Other": 0.17
-   },
+   "market": null,
    "edge_bets": [],
-   "cur_home": 0,
-   "cur_away": 0,
+   "cur_home": null,
+   "cur_away": null,
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
@@ -1026,28 +450,10 @@
    "news_adj": null,
    "top_scores": [],
    "provisional": false,
-   "market": {
-    "0-0": 0.052,
-    "0-1": 0.08,
-    "1-0": 0.05,
-    "0-2": 0.0695,
-    "1-1": 0.11,
-    "2-0": 0.053,
-    "0-3": 0.0315,
-    "1-2": 0.095,
-    "2-1": 0.055,
-    "3-0": 0.024,
-    "1-3": 0.035,
-    "2-2": 0.059,
-    "3-1": 0.0295,
-    "2-3": 0.0275,
-    "3-2": 0.0255,
-    "3-3": 0.0195,
-    "Other": 0.145
-   },
+   "market": null,
    "edge_bets": [],
-   "cur_home": 0,
-   "cur_away": 0,
+   "cur_home": null,
+   "cur_away": null,
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
@@ -1062,55 +468,16 @@
    "kickoff_local": "11:00 PM",
    "status": "pre",
    "pm_slug": "mex-atla-pac-2026-09-11-exact-score",
-   "lamH": 0.748,
-   "lamA": 1.012,
-   "hasModel": true,
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
    "news_adj": null,
-   "top_scores": [
-    {
-     "score": "0-0",
-     "prob": 0.1799
-    },
-    {
-     "score": "0-1",
-     "prob": 0.1663
-    },
-    {
-     "score": "1-1",
-     "prob": 0.1381
-    },
-    {
-     "score": "1-0",
-     "prob": 0.1209
-    },
-    {
-     "score": "0-2",
-     "prob": 0.0881
-    }
-   ],
+   "top_scores": [],
    "provisional": false,
-   "market": {
-    "0-0": 0.065,
-    "0-1": 0.09,
-    "1-0": 0.075,
-    "0-2": 0.07,
-    "1-1": 0.13,
-    "2-0": 0.045,
-    "0-3": 0.0325,
-    "1-2": 0.09,
-    "2-1": 0.075,
-    "3-0": 0.0195,
-    "1-3": 0.0435,
-    "2-2": 0.065,
-    "3-1": 0.029,
-    "2-3": 0.03,
-    "3-2": 0.025,
-    "3-3": 0.014,
-    "Other": 0.095
-   },
+   "market": null,
    "edge_bets": [],
-   "cur_home": 0,
-   "cur_away": 0,
+   "cur_home": null,
+   "cur_away": null,
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
@@ -1125,55 +492,16 @@
    "kickoff_local": "11:10 PM",
    "status": "pre",
    "pm_slug": "mex-tij-que-2026-09-11-exact-score",
-   "lamH": 1.379,
-   "lamA": 1.033,
-   "hasModel": true,
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
    "news_adj": null,
-   "top_scores": [
-    {
-     "score": "1-1",
-     "prob": 0.1354
-    },
-    {
-     "score": "1-0",
-     "prob": 0.116
-    },
-    {
-     "score": "0-0",
-     "prob": 0.0974
-    },
-    {
-     "score": "2-1",
-     "prob": 0.0881
-    },
-    {
-     "score": "2-0",
-     "prob": 0.0853
-    }
-   ],
+   "top_scores": [],
    "provisional": false,
-   "market": {
-    "0-0": 0.07,
-    "0-1": 0.06,
-    "1-0": 0.105,
-    "0-2": 0.0345,
-    "1-1": 0.13,
-    "2-0": 0.08,
-    "0-3": 0.012,
-    "1-2": 0.06,
-    "2-1": 0.1,
-    "3-0": 0.0455,
-    "1-3": 0.021,
-    "2-2": 0.06,
-    "3-1": 0.0525,
-    "2-3": 0.0185,
-    "3-2": 0.032,
-    "3-3": 0.0125,
-    "Other": 0.095
-   },
+   "market": null,
    "edge_bets": [],
-   "cur_home": 0,
-   "cur_away": 0,
+   "cur_home": null,
+   "cur_away": null,
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
@@ -1651,7 +979,7 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.7979,
+      "prob": 0.7977,
       "price": 0.83,
       "stake": 200.0,
       "ev_pct": -3.9
