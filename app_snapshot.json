@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-09-11T02:25:13.604318Z",
- "slate_generated_utc": "2026-09-11T02:21:36.305543Z",
+ "generated_utc": "2026-09-11T02:30:26.898027Z",
+ "slate_generated_utc": "2026-09-11T02:29:40.184902Z",
  "date": "2026-09-10",
  "source": "board",
  "games": [
@@ -43,25 +43,25 @@
     "0-0": 0.0005,
     "0-1": 0.0005,
     "1-0": 0.0005,
-    "0-2": 0.5,
+    "0-2": 0.9315,
     "1-1": 0.0005,
     "2-0": 0.0005,
-    "0-3": 0.25,
-    "1-2": 0.26,
+    "0-3": 0.0215,
+    "1-2": 0.0435,
     "2-1": 0.004,
     "3-0": 0.0005,
-    "1-3": 0.4595,
-    "2-2": 0.25,
+    "1-3": 0.4995,
+    "2-2": 0.017,
     "3-1": 0.0005,
     "2-3": 0.0035,
-    "3-2": 0.5,
+    "3-2": 0.4995,
     "3-3": 0.25,
     "Other": 0.05
    },
    "edge_bets": [],
    "cur_home": 0,
    "cur_away": 2,
-   "minute": 89,
+   "minute": 94,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
@@ -124,7 +124,7 @@
    "edge_bets": [],
    "cur_home": 2,
    "cur_away": 0,
-   "minute": 89,
+   "minute": 94,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
@@ -147,17 +147,17 @@
    "market": {
     "0-0": 0.0035,
     "0-1": 0.0035,
-    "1-0": 0.0035,
+    "1-0": 0.0005,
     "0-2": 0.0025,
-    "1-1": 0.0025,
+    "1-1": 0.0005,
     "2-0": 0.5,
     "0-3": 0.0035,
     "1-2": 0.0035,
-    "2-1": 0.045,
-    "3-0": 0.07,
+    "2-1": 0.04,
+    "3-0": 0.5,
     "1-3": 0.0025,
     "2-2": 0.5,
-    "3-1": 0.01,
+    "3-1": 0.5,
     "2-3": 0.25,
     "3-2": 0.25,
     "3-3": 0.25,
@@ -166,7 +166,7 @@
    "edge_bets": [],
    "cur_home": 2,
    "cur_away": 0,
-   "minute": 89,
+   "minute": 93,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
@@ -208,7 +208,7 @@
    "edge_bets": [],
    "cur_home": 0,
    "cur_away": 2,
-   "minute": 89,
+   "minute": 93,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
@@ -253,7 +253,7 @@
     "0-0": 0.055,
     "0-1": 0.075,
     "1-0": 0.085,
-    "0-2": 0.042,
+    "0-2": 0.043,
     "1-1": 0.115,
     "2-0": 0.065,
     "0-3": 0.019,
@@ -264,7 +264,7 @@
     "2-2": 0.065,
     "3-1": 0.05,
     "2-3": 0.0265,
-    "3-2": 0.0345,
+    "3-2": 0.034,
     "3-3": 0.0155,
     "Other": 0.115
    },
@@ -272,56 +272,14 @@
    "cur_home": 0,
    "cur_away": 0,
    "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": true,
-   "shadow_totals": [
-    {
-     "sel": "Over 1.5",
-     "prob": 0.7608,
-     "price": 0.8,
-     "stake": 200.0
-    }
-   ]
+   "shadow_bet": true,
+   "shadow_status": "open",
+   "shadow_pending": false,
+   "shadow_totals": []
   }
  ],
  "shadow": {
   "recent": [
-   {
-    "home": "Real Madrid CF",
-    "away": "Málaga CF",
-    "league": "La Liga",
-    "kickoff_utc": "2026-08-30T15:00Z",
-    "status": "settled",
-    "stake": 500.0,
-    "hit_pre": 0.425,
-    "legs": [
-     {
-      "score": "3-0",
-      "price": 0.13
-     },
-     {
-      "score": "2-0",
-      "price": 0.11
-     },
-     {
-      "score": "3-1",
-      "price": 0.08
-     },
-     {
-      "score": "2-1",
-      "price": 0.07
-     },
-     {
-      "score": "1-0",
-      "price": 0.06
-     }
-    ],
-    "won": false,
-    "pnl": -500.0,
-    "final": "4-0",
-    "reason": "top-of-day pick — Core 68%"
-   },
    {
     "home": "Sport Lisboa e Benfica",
     "away": "Estoril Praia",
@@ -710,6 +668,45 @@
     "pnl": -500.0,
     "final": "6-1",
     "reason": "top-of-day pick — Core 73%"
+   },
+   {
+    "home": "Pumas de la UNAM",
+    "away": "Club León FC",
+    "league": "Liga MX",
+    "kickoff_utc": "2026-09-11T03:05Z",
+    "status": "open",
+    "stake": 500.0,
+    "hit_pre": 0.51,
+    "legs": [
+     {
+      "score": "1-1",
+      "price": 0.12
+     },
+     {
+      "score": "2-1",
+      "price": 0.1
+     },
+     {
+      "score": "1-0",
+      "price": 0.09
+     },
+     {
+      "score": "1-2",
+      "price": 0.08
+     },
+     {
+      "score": "0-1",
+      "price": 0.08
+     },
+     {
+      "score": "2-0",
+      "price": 0.07
+     }
+    ],
+    "won": null,
+    "pnl": null,
+    "final": null,
+    "reason": "top-of-day pick — Core 49%"
    }
   ],
   "pending": [
@@ -755,21 +752,6 @@
       "price": 0.825,
       "stake": 200.0,
       "ev_pct": -3.3
-     }
-    ]
-   },
-   {
-    "home": "Pumas de la UNAM",
-    "away": "Club León FC",
-    "league": "Liga MX",
-    "kickoff_utc": "2026-09-11T03:05Z",
-    "totals": [
-     {
-      "sel": "Over 1.5",
-      "prob": 0.7608,
-      "price": 0.8,
-      "stake": 200.0,
-      "ev_pct": -4.9
      }
     ]
    }
