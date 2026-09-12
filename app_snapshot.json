@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-09-12T00:11:03.875267Z",
- "slate_generated_utc": "2026-09-12T00:08:13.821813Z",
+ "generated_utc": "2026-09-12T00:16:26.357284Z",
+ "slate_generated_utc": "2026-09-12T00:11:24.415610Z",
  "date": "2026-09-11",
  "source": "board",
  "games": [
@@ -10,7 +10,7 @@
    "league_name": "Brasileirao",
    "kickoff_utc": "2026-09-11T12:00:00Z",
    "kickoff_local": "8:00 AM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "bra-cor-cap-2026-09-11-exact-score",
    "lamH": null,
    "lamA": null,
@@ -19,28 +19,28 @@
    "top_scores": [],
    "provisional": false,
    "market": {
-    "0-0": 0.115,
+    "0-0": 0.12,
     "0-1": 0.12,
-    "1-0": 0.11,
-    "0-2": 0.075,
-    "1-1": 0.16,
-    "2-0": 0.269,
-    "0-3": 0.254,
-    "1-2": 0.095,
-    "2-1": 0.065,
-    "3-0": 0.2585,
-    "1-3": 0.259,
-    "2-2": 0.0415,
-    "3-1": 0.259,
-    "2-3": 0.2545,
-    "3-2": 0.25,
-    "3-3": 0.2565,
-    "Other": 0.315
+    "1-0": 0.1,
+    "0-2": 0.065,
+    "1-1": 0.155,
+    "2-0": 0.051,
+    "0-3": 0.0275,
+    "1-2": 0.085,
+    "2-1": 0.075,
+    "3-0": 0.0165,
+    "1-3": 0.0285,
+    "2-2": 0.052,
+    "3-1": 0.023,
+    "2-3": 0.018,
+    "3-2": 0.015,
+    "3-3": 0.007,
+    "Other": 0.47
    },
    "edge_bets": [],
    "cur_home": 0,
    "cur_away": 0,
-   "minute": null,
+   "minute": 2,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
@@ -82,7 +82,7 @@
    "edge_bets": [],
    "cur_home": 1,
    "cur_away": 2,
-   "minute": 70,
+   "minute": 75,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
@@ -104,21 +104,21 @@
    "provisional": false,
    "market": {
     "0-0": 0.4995,
-    "0-1": 0.4875,
-    "1-0": 0.44,
-    "0-2": 0.4875,
-    "1-1": 0.475,
-    "2-0": 0.49,
+    "0-1": 0.487,
+    "1-0": 0.465,
+    "0-2": 0.4995,
+    "1-1": 0.47,
+    "2-0": 0.48,
     "0-3": 0.4445,
-    "1-2": 0.49,
+    "1-2": 0.485,
     "2-1": 0.45,
     "3-0": 0.44,
     "1-3": 0.4995,
     "2-2": 0.4995,
-    "3-1": 0.49,
+    "3-1": 0.485,
     "2-3": 0.4995,
     "3-2": 0.4995,
-    "3-3": 0.4875,
+    "3-3": 0.4995,
     "Other": 0.495
    },
    "edge_bets": [],
@@ -138,30 +138,30 @@
    "kickoff_local": "9:00 PM",
    "status": "pre",
    "pm_slug": "mex-nec-pue-2026-09-11-exact-score",
-   "lamH": 1.588,
-   "lamA": 1.292,
+   "lamH": 1.564,
+   "lamA": 1.514,
    "hasModel": true,
    "news_adj": null,
    "top_scores": [
     {
      "score": "1-1",
-     "prob": 0.1223
+     "prob": 0.1158
     },
     {
      "score": "2-1",
-     "prob": 0.0916
-    },
-    {
-     "score": "1-0",
-     "prob": 0.0824
+     "prob": 0.0855
     },
     {
      "score": "1-2",
-     "prob": 0.0745
+     "prob": 0.0827
     },
     {
-     "score": "2-0",
-     "prob": 0.0709
+     "score": "1-0",
+     "prob": 0.0656
+    },
+    {
+     "score": "2-2",
+     "prob": 0.0647
     }
    ],
    "provisional": false,
@@ -243,30 +243,30 @@
    "kickoff_local": "9:30 PM",
    "status": "pre",
    "pm_slug": "lib-uni-tol-2026-05-26-exact-score",
-   "lamH": 1.704,
-   "lamA": 1.272,
+   "lamH": 1.589,
+   "lamA": 1.428,
    "hasModel": true,
    "news_adj": null,
    "top_scores": [
     {
      "score": "1-1",
-     "prob": 0.1174
+     "prob": 0.118
     },
     {
      "score": "2-1",
-     "prob": 0.0944
-    },
-    {
-     "score": "1-0",
-     "prob": 0.0804
-    },
-    {
-     "score": "2-0",
-     "prob": 0.0742
+     "prob": 0.0884
     },
     {
      "score": "1-2",
-     "prob": 0.0705
+     "prob": 0.0795
+    },
+    {
+     "score": "1-0",
+     "prob": 0.0713
+    },
+    {
+     "score": "0-1",
+     "prob": 0.0634
     }
    ],
    "provisional": false,
@@ -279,7 +279,7 @@
     "2-0": 0.0,
     "0-3": 0.0,
     "1-2": 0.0,
-    "2-1": 0.207,
+    "2-1": 0.202,
     "3-0": 0.0,
     "1-3": 0.0,
     "2-2": 0.0,
@@ -319,7 +319,7 @@
     "0-2": 0.0425,
     "1-1": 0.13,
     "2-0": 0.085,
-    "0-3": 0.02,
+    "0-3": 0.0155,
     "1-2": 0.065,
     "2-1": 0.095,
     "3-0": 0.042,
@@ -390,30 +390,30 @@
    "kickoff_local": "11:00 PM",
    "status": "pre",
    "pm_slug": "mex-atla-pac-2026-09-11-exact-score",
-   "lamH": 1.456,
-   "lamA": 1.211,
+   "lamH": 0.753,
+   "lamA": 1.015,
    "hasModel": true,
    "news_adj": null,
    "top_scores": [
     {
-     "score": "1-1",
-     "prob": 0.13
-    },
-    {
-     "score": "1-0",
-     "prob": 0.0939
-    },
-    {
-     "score": "2-1",
-     "prob": 0.0893
-    },
-    {
      "score": "0-0",
-     "prob": 0.0769
+     "prob": 0.1785
     },
     {
      "score": "0-1",
-     "prob": 0.0768
+     "prob": 0.1654
+    },
+    {
+     "score": "1-1",
+     "prob": 0.1383
+    },
+    {
+     "score": "1-0",
+     "prob": 0.1207
+    },
+    {
+     "score": "0-2",
+     "prob": 0.0879
     }
    ],
    "provisional": false,
@@ -453,30 +453,30 @@
    "kickoff_local": "11:10 PM",
    "status": "pre",
    "pm_slug": "mex-tij-que-2026-09-11-exact-score",
-   "lamH": 1.599,
-   "lamA": 1.206,
+   "lamH": 1.382,
+   "lamA": 1.035,
    "hasModel": true,
    "news_adj": null,
    "top_scores": [
     {
      "score": "1-1",
-     "prob": 0.1239
-    },
-    {
-     "score": "2-1",
-     "prob": 0.0934
+     "prob": 0.1353
     },
     {
      "score": "1-0",
-     "prob": 0.0899
+     "prob": 0.1157
+    },
+    {
+     "score": "0-0",
+     "prob": 0.0969
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0882
     },
     {
      "score": "2-0",
-     "prob": 0.0775
-    },
-    {
-     "score": "1-2",
-     "prob": 0.0705
+     "prob": 0.0852
     }
    ],
    "provisional": false,
