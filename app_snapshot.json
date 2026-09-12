@@ -1,17 +1,17 @@
 {
- "generated_utc": "2026-09-12T03:55:20.778586Z",
- "slate_generated_utc": "2026-09-12T03:54:46.149889Z",
- "date": "2026-09-11",
+ "generated_utc": "2026-09-12T04:00:33.763419Z",
+ "slate_generated_utc": "2026-09-12T03:56:09.834791Z",
+ "date": "2026-09-12",
  "source": "board",
  "games": [
   {
-   "home": "Coritiba FBC",
-   "away": "CA Paranaense",
-   "league_name": "Brasileirao",
-   "kickoff_utc": "2026-09-11T12:00:00Z",
-   "kickoff_local": "8:00 AM",
-   "status": "in",
-   "pm_slug": "bra-cor-cap-2026-09-11-exact-score",
+   "home": "Bucheon FC 1995",
+   "away": "Jeju SK FC",
+   "league_name": "K-League",
+   "kickoff_utc": "2026-09-12T07:30:00Z",
+   "kickoff_local": "3:30 AM",
+   "status": "pre",
+   "pm_slug": "kor-bch-jej-2026-09-12-exact-score",
    "lamH": null,
    "lamA": null,
    "hasModel": false,
@@ -19,27 +19,27 @@
    "top_scores": [],
    "provisional": false,
    "market": {
-    "0-0": 0.0005,
-    "0-1": 0.0005,
-    "1-0": 0.0005,
-    "0-2": 0.0005,
-    "1-1": 0.0005,
-    "2-0": 0.0005,
-    "0-3": 0.0005,
-    "1-2": 0.0005,
-    "2-1": 0.0005,
-    "3-0": 0.0005,
-    "1-3": 0.0005,
-    "2-2": 0.0005,
-    "3-1": 0.0005,
-    "2-3": 0.0005,
-    "3-2": 0.0005,
-    "3-3": 0.9995,
-    "Other": 0.0005
+    "0-0": 0.085,
+    "0-1": 0.1,
+    "1-0": 0.095,
+    "0-2": 0.065,
+    "1-1": 0.135,
+    "2-0": 0.055,
+    "0-3": 0.027,
+    "1-2": 0.085,
+    "2-1": 0.08,
+    "3-0": 0.0225,
+    "1-3": 0.033,
+    "2-2": 0.058,
+    "3-1": 0.0305,
+    "2-3": 0.0235,
+    "3-2": 0.0225,
+    "3-3": 0.011,
+    "Other": 0.07
    },
    "edge_bets": [],
-   "cur_home": 3,
-   "cur_away": 3,
+   "cur_home": 0,
+   "cur_away": 0,
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
@@ -47,13 +47,13 @@
    "shadow_totals": []
   },
   {
-   "home": "Kansas City Current",
-   "away": "Orlando Pride",
-   "league_name": "NWSL",
-   "kickoff_utc": "2026-09-12T00:00Z",
-   "kickoff_local": "8:00 PM",
-   "status": "post",
-   "pm_slug": "nwsl-kcc-pri-2026-09-11-exact-score",
+   "home": "Jeonbuk Hyundai Motors FC",
+   "away": "FC Seoul",
+   "league_name": "K-League",
+   "kickoff_utc": "2026-09-12T07:30:00Z",
+   "kickoff_local": "3:30 AM",
+   "status": "pre",
+   "pm_slug": "kor-jeo-seo-2026-09-12-exact-score",
    "lamH": null,
    "lamA": null,
    "hasModel": false,
@@ -61,27 +61,27 @@
    "top_scores": [],
    "provisional": false,
    "market": {
-    "0-0": 0.0025,
-    "0-1": 0.003,
-    "1-0": 0.003,
-    "0-2": 0.003,
-    "1-1": 0.003,
-    "2-0": 0.003,
-    "0-3": 0.003,
-    "1-2": 0.003,
-    "2-1": 0.003,
-    "3-0": 0.003,
-    "1-3": 0.0005,
-    "2-2": 0.9995,
-    "3-1": 0.003,
-    "2-3": 0.0005,
-    "3-2": 0.0005,
-    "3-3": 0.0005,
-    "Other": 0.0045
+    "0-0": 0.075,
+    "0-1": 0.09,
+    "1-0": 0.08,
+    "0-2": 0.065,
+    "1-1": 0.135,
+    "2-0": 0.05,
+    "0-3": 0.0305,
+    "1-2": 0.09,
+    "2-1": 0.075,
+    "3-0": 0.0225,
+    "1-3": 0.04,
+    "2-2": 0.065,
+    "3-1": 0.032,
+    "2-3": 0.028,
+    "3-2": 0.0245,
+    "3-3": 0.013,
+    "Other": 0.09
    },
    "edge_bets": [],
-   "cur_home": 2,
-   "cur_away": 2,
+   "cur_home": 0,
+   "cur_away": 0,
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
@@ -89,21 +89,1071 @@
    "shadow_totals": []
   },
   {
-   "home": "Club Necaxa",
-   "away": "Club Puebla",
-   "league_name": "Liga MX",
-   "kickoff_utc": "2026-09-12T01:00Z",
-   "kickoff_local": "9:00 PM",
-   "status": "post",
-   "pm_slug": "mex-nec-pue-2026-09-11-exact-score",
-   "lamH": 1.564,
-   "lamA": 1.514,
+   "home": "Ulsan HD FC",
+   "away": "Incheon United FC",
+   "league_name": "K-League",
+   "kickoff_utc": "2026-09-12T07:30:00Z",
+   "kickoff_local": "3:30 AM",
+   "status": "pre",
+   "pm_slug": "kor-uls-inc-2026-09-12-exact-score",
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
+   "news_adj": null,
+   "top_scores": [],
+   "provisional": false,
+   "market": {
+    "0-0": 0.075,
+    "0-1": 0.08,
+    "1-0": 0.1,
+    "0-2": 0.044,
+    "1-1": 0.13,
+    "2-0": 0.07,
+    "0-3": 0.017,
+    "1-2": 0.0725,
+    "2-1": 0.095,
+    "3-0": 0.0355,
+    "1-3": 0.0275,
+    "2-2": 0.065,
+    "3-1": 0.045,
+    "2-3": 0.023,
+    "3-2": 0.029,
+    "3-3": 0.012,
+    "Other": 0.09
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "FC Mito Holly Hock",
+   "away": "Kawasaki Frontale",
+   "league_name": "J-League",
+   "kickoff_utc": "2026-09-12T09:00Z",
+   "kickoff_local": "5:00 AM",
+   "status": "pre",
+   "pm_slug": "jap-hol-kaw-2026-09-12-exact-score",
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
+   "news_adj": null,
+   "top_scores": [],
+   "provisional": false,
+   "market": {
+    "0-0": 0.05,
+    "0-1": 0.08,
+    "1-0": 0.06,
+    "0-2": 0.07,
+    "1-1": 0.115,
+    "2-0": 0.0375,
+    "0-3": 0.042,
+    "1-2": 0.095,
+    "2-1": 0.07,
+    "3-0": 0.018,
+    "1-3": 0.055,
+    "2-2": 0.065,
+    "3-1": 0.03,
+    "2-3": 0.037,
+    "3-2": 0.027,
+    "3-3": 0.0175,
+    "Other": 0.15
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Shimizu S-Pulse",
+   "away": "Avispa Fukuoka",
+   "league_name": "J-League",
+   "kickoff_utc": "2026-09-12T09:30Z",
+   "kickoff_local": "5:30 AM",
+   "status": "pre",
+   "pm_slug": "jap-ssp-avi-2026-09-12-exact-score",
+   "lamH": 1.246,
+   "lamA": 1.179,
    "hasModel": true,
    "news_adj": null,
    "top_scores": [
     {
      "score": "1-1",
-     "prob": 0.1158
+     "prob": 0.1379
+    },
+    {
+     "score": "1-0",
+     "prob": 0.1025
+    },
+    {
+     "score": "0-1",
+     "prob": 0.0966
+    },
+    {
+     "score": "0-0",
+     "prob": 0.0963
+    },
+    {
+     "score": "2-1",
+     "prob": 0.081
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.1,
+    "0-1": 0.115,
+    "1-0": 0.105,
+    "0-2": 0.065,
+    "1-1": 0.145,
+    "2-0": 0.055,
+    "0-3": 0.0265,
+    "1-2": 0.085,
+    "2-1": 0.08,
+    "3-0": 0.022,
+    "1-3": 0.032,
+    "2-2": 0.055,
+    "3-1": 0.0265,
+    "2-3": 0.0215,
+    "3-2": 0.0195,
+    "3-3": 0.0095,
+    "Other": 0.055
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Daejeon Hana Citizen FC",
+   "away": "Pohang Steelers FC",
+   "league_name": "K-League",
+   "kickoff_utc": "2026-09-12T10:00:00Z",
+   "kickoff_local": "6:00 AM",
+   "status": "pre",
+   "pm_slug": "kor-dae1-poh-2026-09-12-exact-score",
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
+   "news_adj": null,
+   "top_scores": [],
+   "provisional": false,
+   "market": {
+    "0-0": 0.07,
+    "0-1": 0.07,
+    "1-0": 0.115,
+    "0-2": 0.0325,
+    "1-1": 0.12,
+    "2-0": 0.095,
+    "0-3": 0.013,
+    "1-2": 0.06,
+    "2-1": 0.1,
+    "3-0": 0.0495,
+    "1-3": 0.0185,
+    "2-2": 0.0515,
+    "3-1": 0.0515,
+    "2-3": 0.018,
+    "3-2": 0.0285,
+    "3-3": 0.0105,
+    "Other": 0.095
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Sanfrecce Hiroshima",
+   "away": "Cerezo Ōsaka",
+   "league_name": "J-League",
+   "kickoff_utc": "2026-09-12T10:00Z",
+   "kickoff_local": "6:00 AM",
+   "status": "pre",
+   "pm_slug": "jap-san-cer-2026-09-12-exact-score",
+   "lamH": 2.201,
+   "lamA": 0.417,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "2-0",
+     "prob": 0.178
+    },
+    {
+     "score": "1-0",
+     "prob": 0.1577
+    },
+    {
+     "score": "3-0",
+     "prob": 0.1306
+    },
+    {
+     "score": "0-0",
+     "prob": 0.0775
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0742
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.0385,
+    "0-1": 0.0405,
+    "1-0": 0.08,
+    "0-2": 0.0215,
+    "1-1": 0.095,
+    "2-0": 0.085,
+    "0-3": 0.0095,
+    "1-2": 0.049,
+    "2-1": 0.11,
+    "3-0": 0.06,
+    "1-3": 0.0185,
+    "2-2": 0.06,
+    "3-1": 0.07,
+    "2-3": 0.0205,
+    "3-2": 0.041,
+    "3-3": 0.017,
+    "Other": 0.185
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Gamba Ōsaka",
+   "away": "FC Tōkyō",
+   "league_name": "J-League",
+   "kickoff_utc": "2026-09-12T10:00Z",
+   "kickoff_local": "6:00 AM",
+   "status": "pre",
+   "pm_slug": "jap-gam-fct-2026-09-12-exact-score",
+   "lamH": 1.44,
+   "lamA": 1.658,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-1",
+     "prob": 0.1145
+    },
+    {
+     "score": "1-2",
+     "prob": 0.0896
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0778
+    },
+    {
+     "score": "0-1",
+     "prob": 0.0685
+    },
+    {
+     "score": "2-2",
+     "prob": 0.0645
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.06,
+    "0-1": 0.1,
+    "1-0": 0.065,
+    "0-2": 0.08,
+    "1-1": 0.12,
+    "2-0": 0.0345,
+    "0-3": 0.045,
+    "1-2": 0.1,
+    "2-1": 0.065,
+    "3-0": 0.013,
+    "1-3": 0.055,
+    "2-2": 0.065,
+    "3-1": 0.0235,
+    "2-3": 0.0335,
+    "3-2": 0.022,
+    "3-3": 0.0135,
+    "Other": 0.105
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "FC Machida Zelvia",
+   "away": "Yokohama F·Marinos",
+   "league_name": "J-League",
+   "kickoff_utc": "2026-09-12T10:00Z",
+   "kickoff_local": "6:00 AM",
+   "status": "pre",
+   "pm_slug": "jap-zel-yom-2026-09-12-exact-score",
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
+   "news_adj": null,
+   "top_scores": [],
+   "provisional": false,
+   "market": {
+    "0-0": 0.06,
+    "0-1": 0.055,
+    "1-0": 0.11,
+    "0-2": 0.0285,
+    "1-1": 0.12,
+    "2-0": 0.09,
+    "0-3": 0.0115,
+    "1-2": 0.06,
+    "2-1": 0.1,
+    "3-0": 0.05,
+    "1-3": 0.0205,
+    "2-2": 0.055,
+    "3-1": 0.055,
+    "2-3": 0.019,
+    "3-2": 0.032,
+    "3-3": 0.0115,
+    "Other": 0.11
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "V-Varen Nagasaki",
+   "away": "Nagoya Grampus",
+   "league_name": "J-League",
+   "kickoff_utc": "2026-09-12T10:00Z",
+   "kickoff_local": "6:00 AM",
+   "status": "pre",
+   "pm_slug": "jap-vva-ngr-2026-09-12-exact-score",
+   "lamH": 1.93,
+   "lamA": 1.154,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-1",
+     "prob": 0.1085
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0988
+    },
+    {
+     "score": "2-0",
+     "prob": 0.0856
+    },
+    {
+     "score": "1-0",
+     "prob": 0.0826
+    },
+    {
+     "score": "3-1",
+     "prob": 0.0635
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.055,
+    "0-1": 0.08,
+    "1-0": 0.06,
+    "0-2": 0.065,
+    "1-1": 0.12,
+    "2-0": 0.04,
+    "0-3": 0.037,
+    "1-2": 0.095,
+    "2-1": 0.075,
+    "3-0": 0.02,
+    "1-3": 0.051,
+    "2-2": 0.07,
+    "3-1": 0.0315,
+    "2-3": 0.036,
+    "3-2": 0.0275,
+    "3-3": 0.017,
+    "Other": 0.115
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Real Racing Club",
+   "away": "Deportivo Alavés",
+   "league_name": "La Liga",
+   "kickoff_utc": "2026-09-12T12:00Z",
+   "kickoff_local": "8:00 AM",
+   "status": "pre",
+   "pm_slug": "lal-rrc-ala-2026-09-12-exact-score",
+   "lamH": 1.068,
+   "lamA": 1.407,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-1",
+     "prob": 0.1342
+    },
+    {
+     "score": "0-1",
+     "prob": 0.1109
+    },
+    {
+     "score": "0-0",
+     "prob": 0.0918
+    },
+    {
+     "score": "1-2",
+     "prob": 0.089
+    },
+    {
+     "score": "0-2",
+     "prob": 0.0834
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.055,
+    "0-1": 0.075,
+    "1-0": 0.075,
+    "0-2": 0.05,
+    "1-1": 0.125,
+    "2-0": 0.055,
+    "0-3": 0.023,
+    "1-2": 0.085,
+    "2-1": 0.095,
+    "3-0": 0.0275,
+    "1-3": 0.037,
+    "2-2": 0.075,
+    "3-1": 0.0425,
+    "2-3": 0.031,
+    "3-2": 0.0335,
+    "3-3": 0.017,
+    "Other": 0.105
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Genoa CFC",
+   "away": "Frosinone Calcio",
+   "league_name": "Serie A",
+   "kickoff_utc": "2026-09-12T13:00Z",
+   "kickoff_local": "9:00 AM",
+   "status": "pre",
+   "pm_slug": "sea-gen-fro-2026-09-12-exact-score",
+   "lamH": 0.962,
+   "lamA": 2.23,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "0-2",
+     "prob": 0.103
+    },
+    {
+     "score": "1-2",
+     "prob": 0.0991
+    },
+    {
+     "score": "1-1",
+     "prob": 0.0942
+    },
+    {
+     "score": "0-1",
+     "prob": 0.087
+    },
+    {
+     "score": "0-3",
+     "prob": 0.0766
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.075,
+    "0-1": 0.075,
+    "1-0": 0.1,
+    "0-2": 0.0415,
+    "1-1": 0.135,
+    "2-0": 0.075,
+    "0-3": 0.015,
+    "1-2": 0.07,
+    "2-1": 0.095,
+    "3-0": 0.0365,
+    "1-3": 0.0255,
+    "2-2": 0.065,
+    "3-1": 0.045,
+    "2-3": 0.0215,
+    "3-2": 0.028,
+    "3-3": 0.012,
+    "Other": 0.095
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Gençlerbirliği SK",
+   "away": "Kasımpaşa SK",
+   "league_name": "Allsvenskan",
+   "kickoff_utc": "2026-09-12T13:00Z",
+   "kickoff_local": "9:00 AM",
+   "status": "pre",
+   "pm_slug": "tur-gen-kas-2026-09-13-exact-score",
+   "lamH": 1.371,
+   "lamA": 1.229,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-1",
+     "prob": 0.1328
+    },
+    {
+     "score": "1-0",
+     "prob": 0.0944
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0859
+    },
+    {
+     "score": "0-1",
+     "prob": 0.0838
+    },
+    {
+     "score": "0-0",
+     "prob": 0.0819
+    }
+   ],
+   "provisional": true,
+   "market": {
+    "0-0": 0.1,
+    "0-1": 0.08,
+    "1-0": 0.105,
+    "0-2": 0.055,
+    "1-1": 0.145,
+    "2-0": 0.08,
+    "0-3": 0.021,
+    "1-2": 0.07,
+    "2-1": 0.08,
+    "3-0": 0.031,
+    "1-3": 0.0245,
+    "2-2": 0.0505,
+    "3-1": 0.0335,
+    "2-3": 0.0205,
+    "3-2": 0.0225,
+    "3-3": 0.0375,
+    "Other": 0.115
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "AIK",
+   "away": "Vasteraas SK",
+   "league_name": "Allsvenskan",
+   "kickoff_utc": "2026-09-12T13:00Z",
+   "kickoff_local": "9:00 AM",
+   "status": "pre",
+   "pm_slug": "swe-aik-vas-2026-09-12-exact-score",
+   "lamH": 1.708,
+   "lamA": 0.892,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-0",
+     "prob": 0.1203
+    },
+    {
+     "score": "1-1",
+     "prob": 0.1202
+    },
+    {
+     "score": "2-0",
+     "prob": 0.1086
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0968
+    },
+    {
+     "score": "0-0",
+     "prob": 0.0812
+    }
+   ],
+   "provisional": true,
+   "market": {
+    "0-0": 0.0565,
+    "0-1": 0.0575,
+    "1-0": 0.085,
+    "0-2": 0.0355,
+    "1-1": 0.12,
+    "2-0": 0.07,
+    "0-3": 0.0155,
+    "1-2": 0.065,
+    "2-1": 0.1,
+    "3-0": 0.043,
+    "1-3": 0.0265,
+    "2-2": 0.065,
+    "3-1": 0.055,
+    "2-3": 0.024,
+    "3-2": 0.0365,
+    "3-3": 0.0155,
+    "Other": 0.14
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "TSG 1899 Hoffenheim",
+   "away": "VfB Stuttgart",
+   "league_name": "Bundesliga",
+   "kickoff_utc": "2026-09-12T13:30Z",
+   "kickoff_local": "9:30 AM",
+   "status": "pre",
+   "pm_slug": "bun-hof-stu-2026-09-12-exact-score",
+   "lamH": 2.402,
+   "lamA": 1.571,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "2-1",
+     "prob": 0.0864
+    },
+    {
+     "score": "1-1",
+     "prob": 0.0762
+    },
+    {
+     "score": "3-1",
+     "prob": 0.0692
+    },
+    {
+     "score": "2-2",
+     "prob": 0.0679
+    },
+    {
+     "score": "1-2",
+     "prob": 0.0565
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.024,
+    "0-1": 0.0375,
+    "1-0": 0.04,
+    "0-2": 0.035,
+    "1-1": 0.085,
+    "2-0": 0.04,
+    "0-3": 0.0225,
+    "1-2": 0.075,
+    "2-1": 0.075,
+    "3-0": 0.028,
+    "1-3": 0.045,
+    "2-2": 0.08,
+    "3-1": 0.05,
+    "2-3": 0.045,
+    "3-2": 0.045,
+    "3-3": 0.032,
+    "Other": 0.23
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "BV Borussia 09 Dortmund",
+   "away": "SC Paderborn 07",
+   "league_name": "Bundesliga",
+   "kickoff_utc": "2026-09-12T13:30Z",
+   "kickoff_local": "9:30 AM",
+   "status": "pre",
+   "pm_slug": "bun-dor-scp-2026-09-12-exact-score",
+   "lamH": 1.413,
+   "lamA": 0.811,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-0",
+     "prob": 0.1455
+    },
+    {
+     "score": "1-1",
+     "prob": 0.1315
+    },
+    {
+     "score": "0-0",
+     "prob": 0.1157
+    },
+    {
+     "score": "2-0",
+     "prob": 0.1081
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0876
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.0255,
+    "0-1": 0.017,
+    "1-0": 0.07,
+    "0-2": 0.008,
+    "1-1": 0.055,
+    "2-0": 0.095,
+    "0-3": 0.0025,
+    "1-2": 0.023,
+    "2-1": 0.085,
+    "3-0": 0.095,
+    "1-3": 0.0075,
+    "2-2": 0.0385,
+    "3-1": 0.08,
+    "2-3": 0.01,
+    "3-2": 0.0365,
+    "3-3": 0.01,
+    "Other": 0.33
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "1. FSV Mainz 05",
+   "away": "Eintracht Frankfurt",
+   "league_name": "Bundesliga",
+   "kickoff_utc": "2026-09-12T13:30Z",
+   "kickoff_local": "9:30 AM",
+   "status": "pre",
+   "pm_slug": "bun-mai-ein-2026-09-12-exact-score",
+   "lamH": 1.738,
+   "lamA": 1.2,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-1",
+     "prob": 0.1174
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0962
+    },
+    {
+     "score": "1-0",
+     "prob": 0.0856
+    },
+    {
+     "score": "2-0",
+     "prob": 0.0802
+    },
+    {
+     "score": "1-2",
+     "prob": 0.0664
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.0375,
+    "0-1": 0.045,
+    "1-0": 0.065,
+    "0-2": 0.0315,
+    "1-1": 0.105,
+    "2-0": 0.065,
+    "0-3": 0.016,
+    "1-2": 0.065,
+    "2-1": 0.095,
+    "3-0": 0.045,
+    "1-3": 0.0295,
+    "2-2": 0.075,
+    "3-1": 0.06,
+    "2-3": 0.0295,
+    "3-2": 0.045,
+    "3-3": 0.021,
+    "Other": 0.175
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "SC Freiburg",
+   "away": "Borussia Mönchengladbach",
+   "league_name": "Bundesliga",
+   "kickoff_utc": "2026-09-12T13:30Z",
+   "kickoff_local": "9:30 AM",
+   "status": "pre",
+   "pm_slug": "bun-fre-moe-2026-09-12-exact-score",
+   "lamH": 2.527,
+   "lamA": 0.974,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "2-0",
+     "prob": 0.0978
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0952
+    },
+    {
+     "score": "3-0",
+     "prob": 0.0824
+    },
+    {
+     "score": "3-1",
+     "prob": 0.0802
+    },
+    {
+     "score": "1-1",
+     "prob": 0.0799
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.045,
+    "0-1": 0.045,
+    "1-0": 0.08,
+    "0-2": 0.0245,
+    "1-1": 0.1,
+    "2-0": 0.08,
+    "0-3": 0.011,
+    "1-2": 0.055,
+    "2-1": 0.105,
+    "3-0": 0.055,
+    "1-3": 0.0205,
+    "2-2": 0.065,
+    "3-1": 0.065,
+    "2-3": 0.021,
+    "3-2": 0.041,
+    "3-3": 0.016,
+    "Other": 0.175
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "FC Augsburg",
+   "away": "Bayer 04 Leverkusen",
+   "league_name": "Bundesliga",
+   "kickoff_utc": "2026-09-12T13:30Z",
+   "kickoff_local": "9:30 AM",
+   "status": "pre",
+   "pm_slug": "bun-aug-b04-2026-09-12-exact-score",
+   "lamH": 2.257,
+   "lamA": 1.144,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "2-1",
+     "prob": 0.098
+    },
+    {
+     "score": "1-1",
+     "prob": 0.092
+    },
+    {
+     "score": "2-0",
+     "prob": 0.0857
+    },
+    {
+     "score": "3-1",
+     "prob": 0.0737
+    },
+    {
+     "score": "1-0",
+     "prob": 0.0707
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.0315,
+    "0-1": 0.06,
+    "1-0": 0.037,
+    "0-2": 0.065,
+    "1-1": 0.095,
+    "2-0": 0.0265,
+    "0-3": 0.045,
+    "1-2": 0.095,
+    "2-1": 0.065,
+    "3-0": 0.014,
+    "1-3": 0.065,
+    "2-2": 0.075,
+    "3-1": 0.027,
+    "2-3": 0.047,
+    "3-2": 0.0295,
+    "3-3": 0.0235,
+    "Other": 0.21
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Lillestrøm SK",
+   "away": "Vålerenga Fotball",
+   "league_name": "Eliteserien",
+   "kickoff_utc": "2026-09-12T14:00:00Z",
+   "kickoff_local": "10:00 AM",
+   "status": "pre",
+   "pm_slug": "nor-lil-vif-2026-09-12-exact-score",
+   "lamH": 1.415,
+   "lamA": 1.185,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-1",
+     "prob": 0.1321
+    },
+    {
+     "score": "1-0",
+     "prob": 0.0977
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0882
+    },
+    {
+     "score": "0-0",
+     "prob": 0.0818
+    },
+    {
+     "score": "0-1",
+     "prob": 0.0806
+    }
+   ],
+   "provisional": true,
+   "market": {
+    "0-0": 0.0345,
+    "0-1": 0.0425,
+    "1-0": 0.06,
+    "0-2": 0.033,
+    "1-1": 0.1,
+    "2-0": 0.06,
+    "0-3": 0.016,
+    "1-2": 0.07,
+    "2-1": 0.095,
+    "3-0": 0.0415,
+    "1-3": 0.031,
+    "2-2": 0.07,
+    "3-1": 0.06,
+    "2-3": 0.032,
+    "3-2": 0.0455,
+    "3-3": 0.0235,
+    "Other": 0.19
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Chelsea FC",
+   "away": "Hull City AFC",
+   "league_name": "Premier League",
+   "kickoff_utc": "2026-09-12T14:00Z",
+   "kickoff_local": "10:00 AM",
+   "status": "pre",
+   "pm_slug": "epl-che-hul-2026-09-12-exact-score",
+   "lamH": 1.61,
+   "lamA": 1.549,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-1",
+     "prob": 0.1125
     },
     {
      "score": "2-1",
@@ -111,78 +1161,106 @@
     },
     {
      "score": "1-2",
-     "prob": 0.0827
-    },
-    {
-     "score": "1-0",
-     "prob": 0.0656
+     "prob": 0.0822
     },
     {
      "score": "2-2",
-     "prob": 0.0647
+     "prob": 0.0662
+    },
+    {
+     "score": "1-0",
+     "prob": 0.0622
     }
    ],
    "provisional": false,
    "market": {
-    "0-0": 0.0005,
-    "0-1": 0.9995,
-    "1-0": 0.0005,
-    "0-2": 0.0005,
-    "1-1": 0.0005,
-    "2-0": 0.0005,
-    "0-3": 0.0005,
-    "1-2": 0.0005,
-    "2-1": 0.0005,
-    "3-0": 0.0005,
-    "1-3": 0.0005,
-    "2-2": 0.0005,
-    "3-1": 0.0005,
-    "2-3": 0.0005,
-    "3-2": 0.0005,
-    "3-3": 0.0005,
-    "Other": 0.0035
+    "0-0": 0.0265,
+    "0-1": 0.0175,
+    "1-0": 0.085,
+    "0-2": 0.0075,
+    "1-1": 0.065,
+    "2-0": 0.115,
+    "0-3": 0.0025,
+    "1-2": 0.0215,
+    "2-1": 0.09,
+    "3-0": 0.105,
+    "1-3": 0.0055,
+    "2-2": 0.036,
+    "3-1": 0.085,
+    "2-3": 0.008,
+    "3-2": 0.0315,
+    "3-3": 0.009,
+    "Other": 0.315
    },
    "edge_bets": [],
    "cur_home": 0,
-   "cur_away": 1,
+   "cur_away": 0,
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
+   "shadow_pending": true,
+   "shadow_totals": [
+    {
+     "sel": "Over 1.5",
+     "prob": 0.8094,
+     "price": 0.875,
+     "stake": 200.0
+    }
+   ]
   },
   {
-   "home": "New Mexico United",
-   "away": "Indy Eleven",
-   "league_name": "USL Championship",
-   "kickoff_utc": "2026-09-12T01:30:00Z",
-   "kickoff_local": "9:30 PM",
+   "home": "Liverpool FC",
+   "away": "Fulham FC",
+   "league_name": "Premier League",
+   "kickoff_utc": "2026-09-12T14:00Z",
+   "kickoff_local": "10:00 AM",
    "status": "pre",
-   "pm_slug": "uslc-new-iel-2026-09-11-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
+   "pm_slug": "epl-liv-ful-2026-09-12-exact-score",
+   "lamH": 1.764,
+   "lamA": 0.691,
+   "hasModel": true,
    "news_adj": null,
-   "top_scores": [],
+   "top_scores": [
+    {
+     "score": "1-0",
+     "prob": 0.1455
+    },
+    {
+     "score": "2-0",
+     "prob": 0.1339
+    },
+    {
+     "score": "1-1",
+     "prob": 0.1112
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0925
+    },
+    {
+     "score": "0-0",
+     "prob": 0.0924
+    }
+   ],
    "provisional": false,
    "market": {
-    "0-0": 0.0005,
-    "0-1": 0.0005,
-    "1-0": 0.0005,
-    "0-2": 0.0005,
-    "1-1": 0.002,
-    "2-0": 0.0005,
-    "0-3": 0.002,
-    "1-2": 0.0025,
-    "2-1": 0.0025,
-    "3-0": 0.0005,
-    "1-3": 0.0005,
-    "2-2": 0.9955,
-    "3-1": 0.003,
-    "2-3": 0.0045,
-    "3-2": 0.0045,
-    "3-3": 0.0045,
-    "Other": 0.005
+    "0-0": 0.0335,
+    "0-1": 0.0305,
+    "1-0": 0.085,
+    "0-2": 0.0155,
+    "1-1": 0.085,
+    "2-0": 0.095,
+    "0-3": 0.0065,
+    "1-2": 0.0425,
+    "2-1": 0.105,
+    "3-0": 0.075,
+    "1-3": 0.0125,
+    "2-2": 0.055,
+    "3-1": 0.075,
+    "2-3": 0.0175,
+    "3-2": 0.041,
+    "3-3": 0.015,
+    "Other": 0.225
    },
    "edge_bets": [],
    "cur_home": 0,
@@ -194,100 +1272,1003 @@
    "shadow_totals": []
   },
   {
-   "home": "Club Universitario de Deportes",
-   "away": "CD Tolima",
-   "league_name": "Colombia Primera",
-   "kickoff_utc": "2026-09-12T01:30Z",
-   "kickoff_local": "9:30 PM",
-   "status": "post",
-   "pm_slug": "lib-uni-tol-2026-05-26-exact-score",
-   "lamH": 1.589,
-   "lamA": 1.428,
+   "home": "AFC Bournemouth",
+   "away": "Brentford FC",
+   "league_name": "Premier League",
+   "kickoff_utc": "2026-09-12T14:00Z",
+   "kickoff_local": "10:00 AM",
+   "status": "pre",
+   "pm_slug": "epl-bou-bre-2026-09-12-exact-score",
+   "lamH": 1.299,
+   "lamA": 1.143,
    "hasModel": true,
    "news_adj": null,
    "top_scores": [
     {
      "score": "1-1",
-     "prob": 0.118
+     "prob": 0.137
+    },
+    {
+     "score": "1-0",
+     "prob": 0.1053
+    },
+    {
+     "score": "0-0",
+     "prob": 0.0948
+    },
+    {
+     "score": "0-1",
+     "prob": 0.0917
     },
     {
      "score": "2-1",
+     "prob": 0.0839
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.045,
+    "0-1": 0.065,
+    "1-0": 0.075,
+    "0-2": 0.045,
+    "1-1": 0.115,
+    "2-0": 0.055,
+    "0-3": 0.0255,
+    "1-2": 0.085,
+    "2-1": 0.085,
+    "3-0": 0.028,
+    "1-3": 0.0395,
+    "2-2": 0.075,
+    "3-1": 0.0425,
+    "2-3": 0.0335,
+    "3-2": 0.035,
+    "3-3": 0.0185,
+    "Other": 0.13
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Crystal Palace FC",
+   "away": "Ipswich Town FC",
+   "league_name": "Premier League",
+   "kickoff_utc": "2026-09-12T14:00Z",
+   "kickoff_local": "10:00 AM",
+   "status": "pre",
+   "pm_slug": "epl-cry-ips-2026-09-12-exact-score",
+   "lamH": 2.307,
+   "lamA": 2.13,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "2-2",
+     "prob": 0.0726
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0681
+    },
+    {
+     "score": "1-2",
+     "prob": 0.0629
+    },
+    {
+     "score": "1-1",
+     "prob": 0.0626
+    },
+    {
+     "score": "3-2",
+     "prob": 0.0558
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.065,
+    "0-1": 0.065,
+    "1-0": 0.105,
+    "0-2": 0.034,
+    "1-1": 0.12,
+    "2-0": 0.085,
+    "0-3": 0.0125,
+    "1-2": 0.065,
+    "2-1": 0.105,
+    "3-0": 0.045,
+    "1-3": 0.0225,
+    "2-2": 0.055,
+    "3-1": 0.055,
+    "2-3": 0.02,
+    "3-2": 0.0325,
+    "3-3": 0.0115,
+    "Other": 0.115
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Aston Villa FC",
+   "away": "Nottingham Forest FC",
+   "league_name": "Premier League",
+   "kickoff_utc": "2026-09-12T14:00Z",
+   "kickoff_local": "10:00 AM",
+   "status": "pre",
+   "pm_slug": "epl-ast-not-2026-09-12-exact-score",
+   "lamH": 1.179,
+   "lamA": 1.293,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-1",
+     "prob": 0.1365
+    },
+    {
+     "score": "0-1",
+     "prob": 0.1015
+    },
+    {
+     "score": "0-0",
+     "prob": 0.0922
+    },
+    {
+     "score": "1-0",
+     "prob": 0.0919
+    },
+    {
+     "score": "1-2",
+     "prob": 0.0832
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.075,
+    "0-1": 0.085,
+    "1-0": 0.105,
+    "0-2": 0.047,
+    "1-1": 0.135,
+    "2-0": 0.075,
+    "0-3": 0.018,
+    "1-2": 0.075,
+    "2-1": 0.095,
+    "3-0": 0.0335,
+    "1-3": 0.027,
+    "2-2": 0.055,
+    "3-1": 0.045,
+    "2-3": 0.021,
+    "3-2": 0.0265,
+    "3-3": 0.011,
+    "Other": 0.085
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Eyüpspor",
+   "away": "Çaykur Rizespor",
+   "league_name": "Super Lig",
+   "kickoff_utc": "2026-09-12T14:00Z",
+   "kickoff_local": "10:00 AM",
+   "status": "pre",
+   "pm_slug": "tur-eyu-riz-2026-09-12-exact-score",
+   "lamH": 1.064,
+   "lamA": 1.18,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-1",
+     "prob": 0.1412
+    },
+    {
+     "score": "0-1",
+     "prob": 0.1172
+    },
+    {
+     "score": "0-0",
+     "prob": 0.1141
+    },
+    {
+     "score": "1-0",
+     "prob": 0.1049
+    },
+    {
+     "score": "1-2",
+     "prob": 0.0786
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.08,
+    "0-1": 0.12,
+    "1-0": 0.07,
+    "0-2": 0.095,
+    "1-1": 0.13,
+    "2-0": 0.034,
+    "0-3": 0.047,
+    "1-2": 0.1,
+    "2-1": 0.06,
+    "3-0": 0.0115,
+    "1-3": 0.0505,
+    "2-2": 0.051,
+    "3-1": 0.0195,
+    "2-3": 0.028,
+    "3-2": 0.016,
+    "3-3": 0.0095,
+    "Other": 0.085
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Samsunspor",
+   "away": "Çorum FK",
+   "league_name": "Super Lig",
+   "kickoff_utc": "2026-09-12T14:00Z",
+   "kickoff_local": "10:00 AM",
+   "status": "pre",
+   "pm_slug": "tur-sam-cf-2026-09-12-exact-score",
+   "lamH": 2.399,
+   "lamA": 1.87,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "2-1",
+     "prob": 0.0764
+    },
+    {
+     "score": "2-2",
+     "prob": 0.0715
+    },
+    {
+     "score": "1-1",
+     "prob": 0.0675
+    },
+    {
+     "score": "3-1",
+     "prob": 0.0611
+    },
+    {
+     "score": "1-2",
+     "prob": 0.0596
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.07,
+    "0-1": 0.07,
+    "1-0": 0.09,
+    "0-2": 0.039,
+    "1-1": 0.13,
+    "2-0": 0.065,
+    "0-3": 0.0185,
+    "1-2": 0.07,
+    "2-1": 0.095,
+    "3-0": 0.0355,
+    "1-3": 0.0275,
+    "2-2": 0.07,
+    "3-1": 0.0475,
+    "2-3": 0.0245,
+    "3-2": 0.0305,
+    "3-3": 0.0145,
+    "Other": 0.105
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "SK Beveren",
+   "away": "St. Truidense VV",
+   "league_name": "Belgian Pro League",
+   "kickoff_utc": "2026-09-12T14:00Z",
+   "kickoff_local": "10:00 AM",
+   "status": "pre",
+   "pm_slug": "bel1-bev-stt-2026-09-12-exact-score",
+   "lamH": 0.987,
+   "lamA": 1.613,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-1",
+     "prob": 0.1255
+    },
+    {
+     "score": "0-1",
+     "prob": 0.1129
+    },
+    {
+     "score": "0-2",
+     "prob": 0.0968
+    },
+    {
+     "score": "1-2",
+     "prob": 0.0955
+    },
+    {
+     "score": "0-0",
+     "prob": 0.0815
+    }
+   ],
+   "provisional": true,
+   "market": {
+    "0-0": 0.0535,
+    "0-1": 0.07,
+    "1-0": 0.0595,
+    "0-2": 0.06,
+    "1-1": 0.12,
+    "2-0": 0.041,
+    "0-3": 0.037,
+    "1-2": 0.09,
+    "2-1": 0.07,
+    "3-0": 0.021,
+    "1-3": 0.0515,
+    "2-2": 0.07,
+    "3-1": 0.0335,
+    "2-3": 0.0375,
+    "3-2": 0.0295,
+    "3-3": 0.02,
+    "Other": 0.135
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "CA Osasuna",
+   "away": "RCD Espanyol de Barcelona",
+   "league_name": "La Liga",
+   "kickoff_utc": "2026-09-12T14:15Z",
+   "kickoff_local": "10:15 AM",
+   "status": "pre",
+   "pm_slug": "lal-osa-esp-2026-09-12-exact-score",
+   "lamH": 0.817,
+   "lamA": 1.769,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "0-1",
+     "prob": 0.127
+    },
+    {
+     "score": "0-2",
+     "prob": 0.1181
+    },
+    {
+     "score": "1-1",
+     "prob": 0.1157
+    },
+    {
+     "score": "1-2",
+     "prob": 0.0965
+    },
+    {
+     "score": "0-0",
+     "prob": 0.082
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.095,
+    "0-1": 0.095,
+    "1-0": 0.125,
+    "0-2": 0.045,
+    "1-1": 0.145,
+    "2-0": 0.085,
+    "0-3": 0.014,
+    "1-2": 0.065,
+    "2-1": 0.095,
+    "3-0": 0.0345,
+    "1-3": 0.02,
+    "2-2": 0.055,
+    "3-1": 0.0385,
+    "2-3": 0.016,
+    "3-2": 0.0215,
+    "3-3": 0.0085,
+    "Other": 0.065
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "FC Twente",
+   "away": "ADO Den Haag",
+   "league_name": "Eredivisie",
+   "kickoff_utc": "2026-09-12T14:30Z",
+   "kickoff_local": "10:30 AM",
+   "status": "pre",
+   "pm_slug": "ere-twe-ado-2026-09-12-exact-score",
+   "lamH": 2.306,
+   "lamA": 0.837,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "2-0",
+     "prob": 0.1158
+    },
+    {
+     "score": "2-1",
+     "prob": 0.097
+    },
+    {
+     "score": "1-0",
+     "prob": 0.0954
+    },
+    {
+     "score": "1-1",
+     "prob": 0.0891
+    },
+    {
+     "score": "3-0",
+     "prob": 0.089
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.021,
+    "0-1": 0.017,
+    "1-0": 0.07,
+    "0-2": 0.0075,
+    "1-1": 0.055,
+    "2-0": 0.09,
+    "0-3": 0.0045,
+    "1-2": 0.026,
+    "2-1": 0.085,
+    "3-0": 0.09,
+    "1-3": 0.0085,
+    "2-2": 0.042,
+    "3-1": 0.08,
+    "2-3": 0.0115,
+    "3-2": 0.0385,
+    "3-3": 0.012,
+    "Other": 0.33
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "CD Nacional",
+   "away": "FC Alverca",
+   "league_name": "Primeira Liga",
+   "kickoff_utc": "2026-09-12T14:30Z",
+   "kickoff_local": "10:30 AM",
+   "status": "pre",
+   "pm_slug": "por-nac-alv-2026-09-12-exact-score",
+   "lamH": 2.224,
+   "lamA": 1.031,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "2-1",
+     "prob": 0.0992
+    },
+    {
+     "score": "2-0",
+     "prob": 0.0962
+    },
+    {
+     "score": "1-1",
+     "prob": 0.0945
+    },
+    {
+     "score": "1-0",
+     "prob": 0.0811
+    },
+    {
+     "score": "3-1",
+     "prob": 0.0735
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.085,
+    "0-1": 0.095,
+    "1-0": 0.095,
+    "0-2": 0.055,
+    "1-1": 0.14,
+    "2-0": 0.06,
+    "0-3": 0.0235,
+    "1-2": 0.08,
+    "2-1": 0.085,
+    "3-0": 0.0245,
+    "1-3": 0.0325,
+    "2-2": 0.06,
+    "3-1": 0.033,
+    "2-3": 0.0245,
+    "3-2": 0.0245,
+    "3-3": 0.0115,
+    "Other": 0.075
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "RC Strasbourg Alsace",
+   "away": "AS Monaco FC",
+   "league_name": "Ligue 1",
+   "kickoff_utc": "2026-09-12T15:15Z",
+   "kickoff_local": "11:15 AM",
+   "status": "pre",
+   "pm_slug": "fl1-str-asm-2026-09-12-exact-score",
+   "lamH": 1.443,
+   "lamA": 1.296,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-1",
+     "prob": 0.1283
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0873
+    },
+    {
+     "score": "1-0",
+     "prob": 0.0861
+    },
+    {
+     "score": "1-2",
+     "prob": 0.0784
+    },
+    {
+     "score": "0-1",
+     "prob": 0.0766
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.045,
+    "0-1": 0.075,
+    "1-0": 0.055,
+    "0-2": 0.065,
+    "1-1": 0.115,
+    "2-0": 0.038,
+    "0-3": 0.0355,
+    "1-2": 0.095,
+    "2-1": 0.075,
+    "3-0": 0.019,
+    "1-3": 0.055,
+    "2-2": 0.07,
+    "3-1": 0.033,
+    "2-3": 0.039,
+    "3-2": 0.0305,
+    "3-3": 0.019,
+    "Other": 0.155
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "IFK Goteborg",
+   "away": "Halmstads BK",
+   "league_name": "Allsvenskan",
+   "kickoff_utc": "2026-09-12T15:30Z",
+   "kickoff_local": "11:30 AM",
+   "status": "pre",
+   "pm_slug": "swe-ifk-hal-2026-09-12-exact-score",
+   "lamH": 1.774,
+   "lamA": 0.638,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-0",
+     "prob": 0.1533
+    },
+    {
+     "score": "2-0",
+     "prob": 0.1414
+    },
+    {
+     "score": "1-1",
+     "prob": 0.1078
+    },
+    {
+     "score": "0-0",
+     "prob": 0.096
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0902
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.04,
+    "0-1": 0.0355,
+    "1-0": 0.09,
+    "0-2": 0.017,
+    "1-1": 0.09,
+    "2-0": 0.105,
+    "0-3": 0.0065,
+    "1-2": 0.039,
+    "2-1": 0.1,
+    "3-0": 0.08,
+    "1-3": 0.0125,
+    "2-2": 0.051,
+    "3-1": 0.075,
+    "2-3": 0.015,
+    "3-2": 0.0385,
+    "3-3": 0.0125,
+    "Other": 0.205
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Rosenborg BK",
+   "away": "Tromsø IL",
+   "league_name": "Eliteserien",
+   "kickoff_utc": "2026-09-12T16:00:00Z",
+   "kickoff_local": "12:00 PM",
+   "status": "pre",
+   "pm_slug": "nor-rbk-tro-2026-09-12-exact-score",
+   "lamH": 1.291,
+   "lamA": 1.309,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-1",
+     "prob": 0.1332
+    },
+    {
+     "score": "0-1",
+     "prob": 0.0898
+    },
+    {
+     "score": "1-0",
      "prob": 0.0884
     },
     {
      "score": "1-2",
-     "prob": 0.0795
+     "prob": 0.0822
+    },
+    {
+     "score": "0-0",
+     "prob": 0.0819
+    }
+   ],
+   "provisional": true,
+   "market": {
+    "0-0": 0.05,
+    "0-1": 0.045,
+    "1-0": 0.09,
+    "0-2": 0.026,
+    "1-1": 0.1,
+    "2-0": 0.09,
+    "0-3": 0.0125,
+    "1-2": 0.05,
+    "2-1": 0.105,
+    "3-0": 0.06,
+    "1-3": 0.017,
+    "2-2": 0.06,
+    "3-1": 0.065,
+    "2-3": 0.02,
+    "3-2": 0.0365,
+    "3-3": 0.013,
+    "Other": 0.17
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "SS Lazio",
+   "away": "AC Milan",
+   "league_name": "Serie A",
+   "kickoff_utc": "2026-09-12T16:00Z",
+   "kickoff_local": "12:00 PM",
+   "status": "pre",
+   "pm_slug": "sea-laz-mil-2026-09-12-exact-score",
+   "lamH": 1.297,
+   "lamA": 0.926,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-1",
+     "prob": 0.1379
     },
     {
      "score": "1-0",
-     "prob": 0.0713
+     "prob": 0.1327
+    },
+    {
+     "score": "0-0",
+     "prob": 0.1161
     },
     {
      "score": "0-1",
+     "prob": 0.0925
+    },
+    {
+     "score": "2-0",
+     "prob": 0.0911
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.1,
+    "0-1": 0.125,
+    "1-0": 0.095,
+    "0-2": 0.075,
+    "1-1": 0.145,
+    "2-0": 0.045,
+    "0-3": 0.0315,
+    "1-2": 0.09,
+    "2-1": 0.065,
+    "3-0": 0.014,
+    "1-3": 0.036,
+    "2-2": 0.05,
+    "3-1": 0.02,
+    "2-3": 0.021,
+    "3-2": 0.016,
+    "3-3": 0.0085,
+    "Other": 0.06
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "KVC Westerlo",
+   "away": "Standard Liege",
+   "league_name": "Belgian Pro League",
+   "kickoff_utc": "2026-09-12T16:15Z",
+   "kickoff_local": "12:15 PM",
+   "status": "pre",
+   "pm_slug": "bel1-wes-sta-2026-09-12-exact-score",
+   "lamH": 1.78,
+   "lamA": 2.83,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-2",
+     "prob": 0.073
+    },
+    {
+     "score": "1-3",
+     "prob": 0.0688
+    },
+    {
+     "score": "2-2",
+     "prob": 0.065
+    },
+    {
+     "score": "2-3",
+     "prob": 0.0613
+    },
+    {
+     "score": "1-1",
+     "prob": 0.0547
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.05,
+    "0-1": 0.06,
+    "1-0": 0.06,
+    "0-2": 0.051,
+    "1-1": 0.12,
+    "2-0": 0.0535,
+    "0-3": 0.0275,
+    "1-2": 0.08,
+    "2-1": 0.08,
+    "3-0": 0.03,
+    "1-3": 0.041,
+    "2-2": 0.07,
+    "3-1": 0.045,
+    "2-3": 0.0355,
+    "3-2": 0.0365,
+    "3-3": 0.019,
+    "Other": 0.13
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Tottenham Hotspur FC",
+   "away": "Everton FC",
+   "league_name": "Premier League",
+   "kickoff_utc": "2026-09-12T16:30Z",
+   "kickoff_local": "12:30 PM",
+   "status": "pre",
+   "pm_slug": "epl-tot-eve-2026-09-12-exact-score",
+   "lamH": 1.016,
+   "lamA": 1.352,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-1",
+     "prob": 0.1365
+    },
+    {
+     "score": "0-1",
+     "prob": 0.119
+    },
+    {
+     "score": "0-0",
+     "prob": 0.1014
+    },
+    {
+     "score": "1-0",
+     "prob": 0.0875
+    },
+    {
+     "score": "1-2",
+     "prob": 0.087
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.065,
+    "0-1": 0.075,
+    "1-0": 0.105,
+    "0-2": 0.0385,
+    "1-1": 0.125,
+    "2-0": 0.085,
+    "0-3": 0.015,
+    "1-2": 0.065,
+    "2-1": 0.095,
+    "3-0": 0.043,
+    "1-3": 0.0245,
+    "2-2": 0.055,
+    "3-1": 0.05,
+    "2-3": 0.021,
+    "3-2": 0.0305,
+    "3-3": 0.012,
+    "Other": 0.105
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Athletic Club",
+   "away": "Elche CF",
+   "league_name": "La Liga",
+   "kickoff_utc": "2026-09-12T16:30Z",
+   "kickoff_local": "12:30 PM",
+   "status": "pre",
+   "pm_slug": "lal-bil-elc-2026-09-12-exact-score",
+   "lamH": 2.109,
+   "lamA": 1.319,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-1",
+     "prob": 0.0963
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0958
+    },
+    {
+     "score": "2-0",
+     "prob": 0.0726
+    },
+    {
+     "score": "3-1",
+     "prob": 0.0674
+    },
+    {
+     "score": "1-0",
      "prob": 0.0634
     }
    ],
    "provisional": false,
    "market": {
-    "0-0": 1.0,
-    "0-1": 0.0,
-    "1-0": 0.0,
-    "0-2": 0.0,
-    "1-1": 0.0,
-    "2-0": 0.0,
-    "0-3": 0.0,
-    "1-2": 0.0,
-    "2-1": 0.197,
-    "3-0": 0.0,
-    "1-3": 0.0,
-    "2-2": 0.0,
-    "3-1": 0.0,
-    "2-3": 0.0,
-    "3-2": 0.0,
-    "3-3": 0.0,
-    "Other": 0.0
-   },
-   "edge_bets": [],
-   "cur_home": 1,
-   "cur_away": 0,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
-   "home": "Colorado Springs Switchbacks FC",
-   "away": "San Antonio FC",
-   "league_name": "USL Championship",
-   "kickoff_utc": "2026-09-12T02:00:00Z",
-   "kickoff_local": "10:00 PM",
-   "status": "pre",
-   "pm_slug": "uslc-css-san-2026-09-11-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": {
-    "0-0": 0.0005,
-    "0-1": 0.0005,
-    "1-0": 0.0045,
-    "0-2": 0.0005,
-    "1-1": 0.0045,
-    "2-0": 0.5,
-    "0-3": 0.0005,
-    "1-2": 0.0045,
-    "2-1": 0.5,
-    "3-0": 0.5,
-    "1-3": 0.0045,
-    "2-2": 0.5,
-    "3-1": 0.5,
-    "2-3": 0.25,
-    "3-2": 0.25,
-    "3-3": 0.25,
-    "Other": 0.5
+    "0-0": 0.05,
+    "0-1": 0.038,
+    "1-0": 0.115,
+    "0-2": 0.0145,
+    "1-1": 0.09,
+    "2-0": 0.115,
+    "0-3": 0.0045,
+    "1-2": 0.0345,
+    "2-1": 0.105,
+    "3-0": 0.085,
+    "1-3": 0.009,
+    "2-2": 0.0415,
+    "3-1": 0.07,
+    "2-3": 0.0105,
+    "3-2": 0.0295,
+    "3-3": 0.0085,
+    "Other": 0.175
    },
    "edge_bets": [],
    "cur_home": 0,
@@ -299,168 +2280,2100 @@
    "shadow_totals": []
   },
   {
-   "home": "Angel City FC",
-   "away": "Denver Summit FC",
-   "league_name": "NWSL",
-   "kickoff_utc": "2026-09-12T02:00Z",
-   "kickoff_local": "10:00 PM",
-   "status": "in",
-   "pm_slug": "nwsl-ang-den-2026-09-11-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": {
-    "0-0": 0.0005,
-    "0-1": 0.0005,
-    "1-0": 0.0005,
-    "0-2": 0.0005,
-    "1-1": 0.0005,
-    "2-0": 0.0005,
-    "0-3": 0.0005,
-    "1-2": 0.0005,
-    "2-1": 0.0005,
-    "3-0": 0.0005,
-    "1-3": 0.0005,
-    "2-2": 0.0045,
-    "3-1": 0.0005,
-    "2-3": 0.005,
-    "3-2": 0.005,
-    "3-3": 0.6065,
-    "Other": 0.5
-   },
-   "edge_bets": [],
-   "cur_home": 3,
-   "cur_away": 3,
-   "minute": 87,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
-   "home": "Atlante FC",
-   "away": "CF Pachuca",
-   "league_name": "Liga MX",
-   "kickoff_utc": "2026-09-12T03:00Z",
-   "kickoff_local": "11:00 PM",
-   "status": "in",
-   "pm_slug": "mex-atla-pac-2026-09-11-exact-score",
-   "lamH": 0.753,
-   "lamA": 1.015,
+   "home": "1. FC Köln",
+   "away": "SV Werder Bremen",
+   "league_name": "Bundesliga",
+   "kickoff_utc": "2026-09-12T16:30Z",
+   "kickoff_local": "12:30 PM",
+   "status": "pre",
+   "pm_slug": "bun-koe-wer-2026-09-12-exact-score",
+   "lamH": 2.41,
+   "lamA": 1.394,
    "hasModel": true,
    "news_adj": null,
    "top_scores": [
     {
-     "score": "0-0",
-     "prob": 0.1785
-    },
-    {
-     "score": "0-1",
-     "prob": 0.1654
+     "score": "2-1",
+     "prob": 0.0913
     },
     {
      "score": "1-1",
-     "prob": 0.1383
+     "prob": 0.0803
     },
     {
-     "score": "1-0",
-     "prob": 0.1207
+     "score": "3-1",
+     "prob": 0.0734
     },
     {
-     "score": "0-2",
-     "prob": 0.0879
+     "score": "2-0",
+     "prob": 0.0655
+    },
+    {
+     "score": "2-2",
+     "prob": 0.0637
     }
    ],
    "provisional": false,
    "market": {
-    "0-0": 0.0005,
-    "0-1": 0.0005,
-    "1-0": 0.0005,
-    "0-2": 0.0025,
-    "1-1": 0.0005,
-    "2-0": 0.0005,
-    "0-3": 0.0955,
-    "1-2": 0.0025,
-    "2-1": 0.0005,
-    "3-0": 0.0005,
-    "1-3": 0.13,
-    "2-2": 0.0025,
-    "3-1": 0.0005,
-    "2-3": 0.0995,
-    "3-2": 0.0025,
-    "3-3": 0.0685,
-    "Other": 0.5
+    "0-0": 0.045,
+    "0-1": 0.055,
+    "1-0": 0.075,
+    "0-2": 0.036,
+    "1-1": 0.115,
+    "2-0": 0.065,
+    "0-3": 0.0185,
+    "1-2": 0.07,
+    "2-1": 0.095,
+    "3-0": 0.04,
+    "1-3": 0.031,
+    "2-2": 0.075,
+    "3-1": 0.055,
+    "2-3": 0.029,
+    "3-2": 0.0395,
+    "3-3": 0.02,
+    "Other": 0.15
    },
    "edge_bets": [],
    "cur_home": 0,
-   "cur_away": 3,
-   "minute": 50,
+   "cur_away": 0,
+   "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
    "shadow_totals": []
   },
   {
-   "home": "Club Tijuana",
-   "away": "Querétaro FC",
-   "league_name": "Liga MX",
-   "kickoff_utc": "2026-09-12T03:10Z",
-   "kickoff_local": "11:10 PM",
-   "status": "in",
-   "pm_slug": "mex-tij-que-2026-09-11-exact-score",
-   "lamH": 1.382,
-   "lamA": 1.035,
+   "home": "Go Ahead Eagles",
+   "away": "FC Groningen",
+   "league_name": "Eredivisie",
+   "kickoff_utc": "2026-09-12T16:45Z",
+   "kickoff_local": "12:45 PM",
+   "status": "pre",
+   "pm_slug": "ere-goa-gro-2026-09-12-exact-score",
+   "lamH": 3.503,
+   "lamA": 1.678,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "3-1",
+     "prob": 0.0725
+    },
+    {
+     "score": "4-1",
+     "prob": 0.0635
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0621
+    },
+    {
+     "score": "3-2",
+     "prob": 0.0608
+    },
+    {
+     "score": "4-2",
+     "prob": 0.0532
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.0335,
+    "0-1": 0.05,
+    "1-0": 0.055,
+    "0-2": 0.0415,
+    "1-1": 0.1,
+    "2-0": 0.049,
+    "0-3": 0.0245,
+    "1-2": 0.075,
+    "2-1": 0.08,
+    "3-0": 0.033,
+    "1-3": 0.0425,
+    "2-2": 0.075,
+    "3-1": 0.05,
+    "2-3": 0.037,
+    "3-2": 0.0425,
+    "3-3": 0.023,
+    "Other": 0.18
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Casa Pia AC",
+   "away": "FC Porto",
+   "league_name": "Primeira Liga",
+   "kickoff_utc": "2026-09-12T17:00Z",
+   "kickoff_local": "1:00 PM",
+   "status": "pre",
+   "pm_slug": "por-cas-por-2026-09-12-exact-score",
+   "lamH": 0.497,
+   "lamA": 3.057,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "0-3",
+     "prob": 0.1414
+    },
+    {
+     "score": "0-2",
+     "prob": 0.1387
+    },
+    {
+     "score": "0-4",
+     "prob": 0.108
+    },
+    {
+     "score": "0-1",
+     "prob": 0.0881
+    },
+    {
+     "score": "1-3",
+     "prob": 0.0703
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.0525,
+    "0-1": 0.14,
+    "1-0": 0.0265,
+    "0-2": 0.15,
+    "1-1": 0.07,
+    "2-0": 0.007,
+    "0-3": 0.12,
+    "1-2": 0.095,
+    "2-1": 0.0205,
+    "3-0": 0.0035,
+    "1-3": 0.065,
+    "2-2": 0.0235,
+    "3-1": 0.006,
+    "2-3": 0.0205,
+    "3-2": 0.004,
+    "3-3": 0.005,
+    "Other": 0.2
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Alanyaspor",
+   "away": "Göztepe SK",
+   "league_name": "Super Lig",
+   "kickoff_utc": "2026-09-12T17:00Z",
+   "kickoff_local": "1:00 PM",
+   "status": "pre",
+   "pm_slug": "tur-ala-goz-2026-09-12-exact-score",
+   "lamH": 1.901,
+   "lamA": 1.064,
    "hasModel": true,
    "news_adj": null,
    "top_scores": [
     {
      "score": "1-1",
-     "prob": 0.1353
+     "prob": 0.1109
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0995
+    },
+    {
+     "score": "2-0",
+     "prob": 0.0935
     },
     {
      "score": "1-0",
-     "prob": 0.1157
+     "prob": 0.0921
+    },
+    {
+     "score": "3-1",
+     "prob": 0.063
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.08,
+    "0-1": 0.08,
+    "1-0": 0.105,
+    "0-2": 0.0445,
+    "1-1": 0.14,
+    "2-0": 0.08,
+    "0-3": 0.017,
+    "1-2": 0.07,
+    "2-1": 0.09,
+    "3-0": 0.036,
+    "1-3": 0.0255,
+    "2-2": 0.055,
+    "3-1": 0.045,
+    "2-3": 0.019,
+    "3-2": 0.0265,
+    "3-3": 0.014,
+    "Other": 0.075
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Konyaspor",
+   "away": "Trabzonspor",
+   "league_name": "Super Lig",
+   "kickoff_utc": "2026-09-12T17:00Z",
+   "kickoff_local": "1:00 PM",
+   "status": "pre",
+   "pm_slug": "tur-kon-tra-2026-09-12-exact-score",
+   "lamH": 1.201,
+   "lamA": 1.324,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-1",
+     "prob": 0.135
+    },
+    {
+     "score": "0-1",
+     "prob": 0.0984
+    },
+    {
+     "score": "1-0",
+     "prob": 0.0886
     },
     {
      "score": "0-0",
+     "prob": 0.0878
+    },
+    {
+     "score": "1-2",
+     "prob": 0.0843
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.055,
+    "0-1": 0.09,
+    "1-0": 0.06,
+    "0-2": 0.07,
+    "1-1": 0.12,
+    "2-0": 0.036,
+    "0-3": 0.0435,
+    "1-2": 0.095,
+    "2-1": 0.07,
+    "3-0": 0.017,
+    "1-3": 0.055,
+    "2-2": 0.065,
+    "3-1": 0.0265,
+    "2-3": 0.0345,
+    "3-2": 0.0245,
+    "3-3": 0.0155,
+    "Other": 0.125
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Fortuna Sittard",
+   "away": "AFC Ajax",
+   "league_name": "Eredivisie",
+   "kickoff_utc": "2026-09-12T18:00Z",
+   "kickoff_local": "2:00 PM",
+   "status": "pre",
+   "pm_slug": "ere-sit-aja-2026-09-12-exact-score",
+   "lamH": 1.165,
+   "lamA": 1.953,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-1",
+     "prob": 0.1072
+    },
+    {
+     "score": "1-2",
+     "prob": 0.0987
+    },
+    {
+     "score": "0-2",
+     "prob": 0.0847
+    },
+    {
+     "score": "0-1",
+     "prob": 0.0807
+    },
+    {
+     "score": "1-3",
+     "prob": 0.0643
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.0295,
+    "0-1": 0.07,
+    "1-0": 0.028,
+    "0-2": 0.085,
+    "1-1": 0.075,
+    "2-0": 0.0165,
+    "0-3": 0.07,
+    "1-2": 0.095,
+    "2-1": 0.04,
+    "3-0": 0.007,
+    "1-3": 0.075,
+    "2-2": 0.0565,
+    "3-1": 0.0155,
+    "2-3": 0.0445,
+    "3-2": 0.02,
+    "3-3": 0.017,
+    "Other": 0.255
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Paris FC",
+   "away": "Olympique Lyonnais",
+   "league_name": "Ligue 1",
+   "kickoff_utc": "2026-09-12T18:45Z",
+   "kickoff_local": "2:45 PM",
+   "status": "pre",
+   "pm_slug": "fl1-pfc-lyo-2026-09-12-exact-score",
+   "lamH": 1.472,
+   "lamA": 1.048,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-1",
+     "prob": 0.1317
+    },
+    {
+     "score": "1-0",
+     "prob": 0.1111
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0914
+    },
+    {
+     "score": "0-0",
+     "prob": 0.088
+    },
+    {
+     "score": "2-0",
+     "prob": 0.0873
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.055,
+    "0-1": 0.075,
+    "1-0": 0.075,
+    "0-2": 0.055,
+    "1-1": 0.125,
+    "2-0": 0.055,
+    "0-3": 0.026,
+    "1-2": 0.085,
+    "2-1": 0.085,
+    "3-0": 0.0265,
+    "1-3": 0.0395,
+    "2-2": 0.065,
+    "3-1": 0.04,
+    "2-3": 0.031,
+    "3-2": 0.0315,
+    "3-3": 0.0175,
+    "Other": 0.115
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Le Havre AC",
+   "away": "Angers SCO",
+   "league_name": "Ligue 1",
+   "kickoff_utc": "2026-09-12T18:45Z",
+   "kickoff_local": "2:45 PM",
+   "status": "pre",
+   "pm_slug": "fl1-hac-ang-2026-09-12-exact-score",
+   "lamH": 1.217,
+   "lamA": 1.665,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-1",
+     "prob": 0.1206
+    },
+    {
+     "score": "1-2",
+     "prob": 0.0947
+    },
+    {
+     "score": "0-1",
+     "prob": 0.0866
+    },
+    {
+     "score": "0-2",
+     "prob": 0.0778
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0692
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.09,
+    "0-1": 0.1,
+    "1-0": 0.1,
+    "0-2": 0.055,
+    "1-1": 0.14,
+    "2-0": 0.06,
+    "0-3": 0.0225,
+    "1-2": 0.08,
+    "2-1": 0.085,
+    "3-0": 0.0245,
+    "1-3": 0.03,
+    "2-2": 0.057,
+    "3-1": 0.0325,
+    "2-3": 0.022,
+    "3-2": 0.023,
+    "3-3": 0.0105,
+    "Other": 0.07
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "AJ Auxerre",
+   "away": "OGC Nice",
+   "league_name": "Ligue 1",
+   "kickoff_utc": "2026-09-12T18:45Z",
+   "kickoff_local": "2:45 PM",
+   "status": "pre",
+   "pm_slug": "fl1-aja-ogc-2026-09-12-exact-score",
+   "lamH": 1.78,
+   "lamA": 1.255,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-1",
+     "prob": 0.1142
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0958
+    },
+    {
+     "score": "1-0",
+     "prob": 0.0793
+    },
+    {
+     "score": "2-0",
+     "prob": 0.0764
+    },
+    {
+     "score": "1-2",
+     "prob": 0.0676
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.075,
+    "0-1": 0.09,
+    "1-0": 0.095,
+    "0-2": 0.055,
+    "1-1": 0.135,
+    "2-0": 0.06,
+    "0-3": 0.0235,
+    "1-2": 0.085,
+    "2-1": 0.085,
+    "3-0": 0.0265,
+    "1-3": 0.0325,
+    "2-2": 0.06,
+    "3-1": 0.0355,
+    "2-3": 0.0245,
+    "3-2": 0.0255,
+    "3-3": 0.0115,
+    "Other": 0.085
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "FC Lorient",
+   "away": "Toulouse FC",
+   "league_name": "Ligue 1",
+   "kickoff_utc": "2026-09-12T18:45Z",
+   "kickoff_local": "2:45 PM",
+   "status": "pre",
+   "pm_slug": "fl1-lor-tou-2026-09-12-exact-score",
+   "lamH": 1.53,
+   "lamA": 1.462,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-1",
+     "prob": 0.1192
+    },
+    {
+     "score": "2-1",
+     "prob": 0.086
+    },
+    {
+     "score": "1-2",
+     "prob": 0.0822
+    },
+    {
+     "score": "1-0",
+     "prob": 0.0702
+    },
+    {
+     "score": "0-1",
+     "prob": 0.0668
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.08,
+    "0-1": 0.09,
+    "1-0": 0.095,
+    "0-2": 0.055,
+    "1-1": 0.135,
+    "2-0": 0.06,
+    "0-3": 0.0215,
+    "1-2": 0.08,
+    "2-1": 0.085,
+    "3-0": 0.0275,
+    "1-3": 0.031,
+    "2-2": 0.055,
+    "3-1": 0.036,
+    "2-3": 0.0235,
+    "3-2": 0.0255,
+    "3-3": 0.011,
+    "Other": 0.085
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Atalanta BC",
+   "away": "Cagliari Calcio",
+   "league_name": "Serie A",
+   "kickoff_utc": "2026-09-12T18:45Z",
+   "kickoff_local": "2:45 PM",
+   "status": "pre",
+   "pm_slug": "sea-ata-cag-2026-09-12-exact-score",
+   "lamH": 1.139,
+   "lamA": 0.943,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-1",
+     "prob": 0.142
+    },
+    {
+     "score": "1-0",
+     "prob": 0.134
+    },
+    {
+     "score": "0-0",
+     "prob": 0.1327
+    },
+    {
+     "score": "0-1",
+     "prob": 0.1096
+    },
+    {
+     "score": "2-0",
+     "prob": 0.0809
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.07,
+    "0-1": 0.055,
+    "1-0": 0.125,
+    "0-2": 0.023,
+    "1-1": 0.115,
+    "2-0": 0.115,
+    "0-3": 0.0075,
+    "1-2": 0.045,
+    "2-1": 0.1,
+    "3-0": 0.065,
+    "1-3": 0.0125,
+    "2-2": 0.045,
+    "3-1": 0.06,
+    "2-3": 0.013,
+    "3-2": 0.0265,
+    "3-3": 0.008,
+    "Other": 0.12
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Union Saint-Gilloise",
+   "away": "Lommel SK",
+   "league_name": "Belgian Pro League",
+   "kickoff_utc": "2026-09-12T18:45Z",
+   "kickoff_local": "2:45 PM",
+   "status": "pre",
+   "pm_slug": "bel1-usg-lom-2026-09-12-exact-score",
+   "lamH": 1.23,
+   "lamA": 0.655,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-0",
+     "prob": 0.1795
+    },
+    {
+     "score": "0-0",
+     "prob": 0.1592
+    },
+    {
+     "score": "1-1",
+     "prob": 0.1297
+    },
+    {
+     "score": "2-0",
+     "prob": 0.1149
+    },
+    {
+     "score": "0-1",
+     "prob": 0.0921
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.035,
+    "0-1": 0.0225,
+    "1-0": 0.09,
+    "0-2": 0.0085,
+    "1-1": 0.06,
+    "2-0": 0.12,
+    "0-3": 0.004,
+    "1-2": 0.0205,
+    "2-1": 0.09,
+    "3-0": 0.11,
+    "1-3": 0.004,
+    "2-2": 0.032,
+    "3-1": 0.075,
+    "2-3": 0.005,
+    "3-2": 0.027,
+    "3-3": 0.005,
+    "Other": 0.29
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Oud-Heverlee Leuven",
+   "away": "Cercle Brugge",
+   "league_name": "Belgian Pro League",
+   "kickoff_utc": "2026-09-12T18:45Z",
+   "kickoff_local": "2:45 PM",
+   "status": "pre",
+   "pm_slug": "bel1-ohl-cer-2026-09-12-exact-score",
+   "lamH": 1.47,
+   "lamA": 1.19,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-1",
+     "prob": 0.1298
+    },
+    {
+     "score": "1-0",
+     "prob": 0.0956
+    },
+    {
+     "score": "2-1",
+     "prob": 0.09
+    },
+    {
+     "score": "0-0",
+     "prob": 0.0774
+    },
+    {
+     "score": "0-1",
+     "prob": 0.076
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.055,
+    "0-1": 0.07,
+    "1-0": 0.07,
+    "0-2": 0.055,
+    "1-1": 0.125,
+    "2-0": 0.05,
+    "0-3": 0.026,
+    "1-2": 0.085,
+    "2-1": 0.08,
+    "3-0": 0.028,
+    "1-3": 0.038,
+    "2-2": 0.07,
+    "3-1": 0.0385,
+    "2-3": 0.0335,
+    "3-2": 0.0335,
+    "3-3": 0.017,
+    "Other": 0.115
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "CA Mineiro",
+   "away": "Fluminense FC",
+   "league_name": "Brasileirao",
+   "kickoff_utc": "2026-09-12T19:00:00Z",
+   "kickoff_local": "3:00 PM",
+   "status": "pre",
+   "pm_slug": "bra-cam-flu-2026-09-12-exact-score",
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
+   "news_adj": null,
+   "top_scores": [],
+   "provisional": false,
+   "market": {
+    "0-0": 0.1,
+    "0-1": 0.09,
+    "1-0": 0.12,
+    "0-2": 0.045,
+    "1-1": 0.14,
+    "2-0": 0.08,
+    "0-3": 0.016,
+    "1-2": 0.065,
+    "2-1": 0.09,
+    "3-0": 0.035,
+    "1-3": 0.021,
+    "2-2": 0.0455,
+    "3-1": 0.038,
+    "2-3": 0.016,
+    "3-2": 0.0195,
+    "3-3": 0.006,
+    "Other": 0.065
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Sunderland AFC",
+   "away": "Arsenal FC",
+   "league_name": "Premier League",
+   "kickoff_utc": "2026-09-12T19:00Z",
+   "kickoff_local": "3:00 PM",
+   "status": "pre",
+   "pm_slug": "epl-sun-ars-2026-09-12-exact-score",
+   "lamH": 1.038,
+   "lamA": 0.91,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "0-0",
+     "prob": 0.1507
+    },
+    {
+     "score": "1-1",
+     "prob": 0.1428
+    },
+    {
+     "score": "1-0",
+     "prob": 0.1399
+    },
+    {
+     "score": "0-1",
+     "prob": 0.1217
+    },
+    {
+     "score": "2-0",
+     "prob": 0.0768
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.075,
+    "0-1": 0.155,
+    "1-0": 0.045,
+    "0-2": 0.135,
+    "1-1": 0.105,
+    "2-0": 0.0155,
+    "0-3": 0.075,
+    "1-2": 0.105,
+    "2-1": 0.0335,
+    "3-0": 0.0045,
+    "1-3": 0.055,
+    "2-2": 0.0355,
+    "3-1": 0.008,
+    "2-3": 0.022,
+    "3-2": 0.008,
+    "3-3": 0.005,
+    "Other": 0.1
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Real Madrid CF",
+   "away": "Rayo Vallecano de Madrid",
+   "league_name": "La Liga",
+   "kickoff_utc": "2026-09-12T19:00Z",
+   "kickoff_local": "3:00 PM",
+   "status": "pre",
+   "pm_slug": "lal-rea-ray-2026-09-12-exact-score",
+   "lamH": 3.596,
+   "lamA": 1.032,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "3-1",
+     "prob": 0.0843
+    },
+    {
+     "score": "3-0",
+     "prob": 0.0817
+    },
+    {
+     "score": "4-1",
+     "prob": 0.0758
+    },
+    {
+     "score": "4-0",
+     "prob": 0.0735
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0704
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.017,
+    "0-1": 0.011,
+    "1-0": 0.065,
+    "0-2": 0.0045,
+    "1-1": 0.0395,
+    "2-0": 0.105,
+    "0-3": 0.0025,
+    "1-2": 0.013,
+    "2-1": 0.075,
+    "3-0": 0.115,
+    "1-3": 0.003,
+    "2-2": 0.022,
+    "3-1": 0.075,
+    "2-3": 0.005,
+    "3-2": 0.028,
+    "3-3": 0.006,
+    "Other": 0.4
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": true,
+   "shadow_status": "settled",
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "SC Cambuur-Leeuwarden",
+   "away": "NEC",
+   "league_name": "Eredivisie",
+   "kickoff_utc": "2026-09-12T19:00Z",
+   "kickoff_local": "3:00 PM",
+   "status": "pre",
+   "pm_slug": "ere-cam-nec-2026-09-12-exact-score",
+   "lamH": 1.251,
+   "lamA": 4.131,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-4",
+     "prob": 0.0798
+    },
+    {
+     "score": "1-3",
+     "prob": 0.0773
+    },
+    {
+     "score": "1-5",
+     "prob": 0.0659
+    },
+    {
+     "score": "0-4",
+     "prob": 0.0638
+    },
+    {
+     "score": "0-3",
+     "prob": 0.0618
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.025,
+    "0-1": 0.06,
+    "1-0": 0.028,
+    "0-2": 0.075,
+    "1-1": 0.075,
+    "2-0": 0.0185,
+    "0-3": 0.06,
+    "1-2": 0.095,
+    "2-1": 0.044,
+    "3-0": 0.013,
+    "1-3": 0.075,
+    "2-2": 0.065,
+    "3-1": 0.019,
+    "2-3": 0.049,
+    "3-2": 0.0235,
+    "3-3": 0.021,
+    "Other": 0.175
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Grêmio FBPA",
+   "away": "CR Vasco da Gama",
+   "league_name": "Brasileirao",
+   "kickoff_utc": "2026-09-12T19:00Z",
+   "kickoff_local": "3:00 PM",
+   "status": "pre",
+   "pm_slug": "bra-gre-vas-2026-09-12-exact-score",
+   "lamH": 1.688,
+   "lamA": 0.577,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-0",
+     "prob": 0.1695
+    },
+    {
+     "score": "2-0",
+     "prob": 0.1482
+    },
+    {
+     "score": "0-0",
+     "prob": 0.1101
+    },
+    {
+     "score": "1-1",
+     "prob": 0.1074
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0855
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.09,
+    "0-1": 0.1,
+    "1-0": 0.1,
+    "0-2": 0.057,
+    "1-1": 0.14,
+    "2-0": 0.06,
+    "0-3": 0.023,
+    "1-2": 0.08,
+    "2-1": 0.085,
+    "3-0": 0.026,
+    "1-3": 0.0295,
+    "2-2": 0.057,
+    "3-1": 0.0335,
+    "2-3": 0.0225,
+    "3-2": 0.023,
+    "3-3": 0.011,
+    "Other": 0.05
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Académico de Viseu FC",
+   "away": "Vitória SC",
+   "league_name": "Primeira Liga",
+   "kickoff_utc": "2026-09-12T19:30Z",
+   "kickoff_local": "3:30 PM",
+   "status": "pre",
+   "pm_slug": "por-acv-gui-2026-09-12-exact-score",
+   "lamH": 1.052,
+   "lamA": 1.288,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-1",
+     "prob": 0.1384
+    },
+    {
+     "score": "0-1",
+     "prob": 0.1163
+    },
+    {
+     "score": "0-0",
+     "prob": 0.1042
+    },
+    {
+     "score": "1-0",
+     "prob": 0.0936
+    },
+    {
+     "score": "1-2",
+     "prob": 0.0841
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.09,
+    "0-1": 0.12,
+    "1-0": 0.08,
+    "0-2": 0.085,
+    "1-1": 0.14,
+    "2-0": 0.038,
+    "0-3": 0.0395,
+    "1-2": 0.095,
+    "2-1": 0.06,
+    "3-0": 0.014,
+    "1-3": 0.044,
+    "2-2": 0.054,
+    "3-1": 0.021,
+    "2-3": 0.0245,
+    "3-2": 0.016,
+    "3-3": 0.0145,
+    "Other": 0.095
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Associação Chapecoense de Futebol",
+   "away": "SC Internacional",
+   "league_name": "Brasileirao",
+   "kickoff_utc": "2026-09-12T20:00Z",
+   "kickoff_local": "4:00 PM",
+   "status": "pre",
+   "pm_slug": "bra-cha-int-2026-09-12-exact-score",
+   "lamH": 1.338,
+   "lamA": 1.149,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-1",
+     "prob": 0.1356
+    },
+    {
+     "score": "1-0",
+     "prob": 0.1037
+    },
+    {
+     "score": "0-0",
+     "prob": 0.0909
+    },
+    {
+     "score": "0-1",
+     "prob": 0.0879
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0856
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.07,
+    "0-1": 0.09,
+    "1-0": 0.07,
+    "0-2": 0.07,
+    "1-1": 0.13,
+    "2-0": 0.0475,
+    "0-3": 0.034,
+    "1-2": 0.09,
+    "2-1": 0.07,
+    "3-0": 0.018,
+    "1-3": 0.0425,
+    "2-2": 0.06,
+    "3-1": 0.03,
+    "2-3": 0.0245,
+    "3-2": 0.0215,
+    "3-3": 0.014,
+    "Other": 0.13
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "SE Palmeiras",
+   "away": "São Paulo FC",
+   "league_name": "Brasileirao",
+   "kickoff_utc": "2026-09-12T21:30Z",
+   "kickoff_local": "5:30 PM",
+   "status": "pre",
+   "pm_slug": "bra-pal-sao-2026-09-12-exact-score",
+   "lamH": 1.606,
+   "lamA": 0.689,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-0",
+     "prob": 0.1553
+    },
+    {
+     "score": "2-0",
+     "prob": 0.1301
+    },
+    {
+     "score": "1-1",
+     "prob": 0.1183
+    },
+    {
+     "score": "0-0",
+     "prob": 0.1076
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0897
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.085,
+    "0-1": 0.055,
+    "1-0": 0.145,
+    "0-2": 0.0225,
+    "1-1": 0.115,
+    "2-0": 0.11,
+    "0-3": 0.006,
+    "1-2": 0.04,
+    "2-1": 0.105,
+    "3-0": 0.065,
+    "1-3": 0.0115,
+    "2-2": 0.046,
+    "3-1": 0.055,
+    "2-3": 0.011,
+    "3-2": 0.025,
+    "3-3": 0.0115,
+    "Other": 0.08
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "San Diego Wave FC",
+   "away": "North Carolina Courage",
+   "league_name": "NWSL",
+   "kickoff_utc": "2026-09-12T22:30Z",
+   "kickoff_local": "6:30 PM",
+   "status": "pre",
+   "pm_slug": "nwsl-wav-cou-2026-09-12-exact-score",
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
+   "news_adj": null,
+   "top_scores": [],
+   "provisional": false,
+   "market": {
+    "0-0": 0.05,
+    "0-1": 0.055,
+    "1-0": 0.065,
+    "0-2": 0.039,
+    "1-1": 0.095,
+    "2-0": 0.06,
+    "0-3": 0.0215,
+    "1-2": 0.065,
+    "2-1": 0.08,
+    "3-0": 0.035,
+    "1-3": 0.034,
+    "2-2": 0.055,
+    "3-1": 0.0395,
+    "2-3": 0.028,
+    "3-2": 0.0295,
+    "3-3": 0.0215,
+    "Other": 0.2
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Brooklyn FC",
+   "away": "Miami FC",
+   "league_name": "USL Championship",
+   "kickoff_utc": "2026-09-12T23:00:00Z",
+   "kickoff_local": "7:00 PM",
+   "status": "pre",
+   "pm_slug": "uslc-bro-mia-2026-09-12-exact-score",
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
+   "news_adj": null,
+   "top_scores": [],
+   "provisional": false,
+   "market": {
+    "0-0": 0.055,
+    "0-1": 0.06,
+    "1-0": 0.085,
+    "0-2": 0.0415,
+    "1-1": 0.125,
+    "2-0": 0.065,
+    "0-3": 0.0225,
+    "1-2": 0.06,
+    "2-1": 0.07,
+    "3-0": 0.0345,
+    "1-3": 0.0275,
+    "2-2": 0.065,
+    "3-1": 0.038,
+    "2-3": 0.0275,
+    "3-2": 0.0285,
+    "3-3": 0.021,
+    "Other": 0.16
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Hartford Athletic",
+   "away": "Tampa Bay Rowdies",
+   "league_name": "USL Championship",
+   "kickoff_utc": "2026-09-12T23:00:00Z",
+   "kickoff_local": "7:00 PM",
+   "status": "pre",
+   "pm_slug": "uslc-har-tam-2026-09-12-exact-score",
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
+   "news_adj": null,
+   "top_scores": [],
+   "provisional": false,
+   "market": {
+    "0-0": 0.07,
+    "0-1": 0.09,
+    "1-0": 0.055,
+    "0-2": 0.06,
+    "1-1": 0.12,
+    "2-0": 0.042,
+    "0-3": 0.0335,
+    "1-2": 0.075,
+    "2-1": 0.055,
+    "3-0": 0.0195,
+    "1-3": 0.036,
+    "2-2": 0.0525,
+    "3-1": 0.028,
+    "2-3": 0.0265,
+    "3-2": 0.0245,
+    "3-3": 0.0175,
+    "Other": 0.145
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Louisville City FC",
+   "away": "El Paso Locomotive FC",
+   "league_name": "USL Championship",
+   "kickoff_utc": "2026-09-12T23:00:00Z",
+   "kickoff_local": "7:00 PM",
+   "status": "pre",
+   "pm_slug": "uslc-lc-pas-2026-09-12-exact-score",
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
+   "news_adj": null,
+   "top_scores": [],
+   "provisional": false,
+   "market": {
+    "0-0": 0.05,
+    "0-1": 0.043,
+    "1-0": 0.07,
+    "0-2": 0.029,
+    "1-1": 0.095,
+    "2-0": 0.075,
+    "0-3": 0.015,
+    "1-2": 0.05,
+    "2-1": 0.075,
+    "3-0": 0.045,
+    "1-3": 0.0215,
+    "2-2": 0.045,
+    "3-1": 0.045,
+    "2-3": 0.023,
+    "3-2": 0.0295,
+    "3-3": 0.0175,
+    "Other": 0.18
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Pittsburgh Riverhounds",
+   "away": "Loudoun United FC",
+   "league_name": "USL Championship",
+   "kickoff_utc": "2026-09-12T23:00:00Z",
+   "kickoff_local": "7:00 PM",
+   "status": "pre",
+   "pm_slug": "uslc-pit-lou-2026-09-12-exact-score",
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
+   "news_adj": null,
+   "top_scores": [],
+   "provisional": false,
+   "market": {
+    "0-0": 0.075,
+    "0-1": 0.065,
+    "1-0": 0.125,
+    "0-2": 0.034,
+    "1-1": 0.115,
+    "2-0": 0.095,
+    "0-3": 0.01,
+    "1-2": 0.0555,
+    "2-1": 0.085,
+    "3-0": 0.0415,
+    "1-3": 0.0195,
+    "2-2": 0.045,
+    "3-1": 0.0395,
+    "2-3": 0.02,
+    "3-2": 0.0255,
+    "3-3": 0.015,
+    "Other": 0.145
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Columbus Crew",
+   "away": "New York Red Bulls",
+   "league_name": "MLS",
+   "kickoff_utc": "2026-09-12T23:30Z",
+   "kickoff_local": "7:30 PM",
+   "status": "pre",
+   "pm_slug": "mls-clb-nyr-2026-09-12-exact-score",
+   "lamH": 1.877,
+   "lamA": 0.943,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-1",
+     "prob": 0.1122
+    },
+    {
+     "score": "1-0",
+     "prob": 0.1059
+    },
+    {
+     "score": "2-0",
+     "prob": 0.1053
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0993
+    },
+    {
+     "score": "0-0",
+     "prob": 0.0662
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.033,
+    "0-1": 0.04,
+    "1-0": 0.065,
+    "0-2": 0.026,
+    "1-1": 0.09,
+    "2-0": 0.07,
+    "0-3": 0.014,
+    "1-2": 0.06,
+    "2-1": 0.1,
+    "3-0": 0.05,
+    "1-3": 0.0265,
+    "2-2": 0.07,
+    "3-1": 0.065,
+    "2-3": 0.0275,
+    "3-2": 0.0455,
+    "3-3": 0.022,
+    "Other": 0.145
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "FC Cincinnati",
+   "away": "Charlotte FC",
+   "league_name": "MLS",
+   "kickoff_utc": "2026-09-12T23:30Z",
+   "kickoff_local": "7:30 PM",
+   "status": "pre",
+   "pm_slug": "mls-fcc-clt-2026-09-12-exact-score",
+   "lamH": 1.79,
+   "lamA": 1.916,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-1",
+     "prob": 0.0899
+    },
+    {
+     "score": "1-2",
+     "prob": 0.0812
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0759
+    },
+    {
+     "score": "2-2",
+     "prob": 0.0727
+    },
+    {
+     "score": "1-3",
+     "prob": 0.0519
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.027,
+    "0-1": 0.0435,
+    "1-0": 0.05,
+    "0-2": 0.0345,
+    "1-1": 0.09,
+    "2-0": 0.05,
+    "0-3": 0.019,
+    "1-2": 0.07,
+    "2-1": 0.085,
+    "3-0": 0.0355,
+    "1-3": 0.0375,
+    "2-2": 0.075,
+    "3-1": 0.055,
+    "2-3": 0.0385,
+    "3-2": 0.045,
+    "3-3": 0.0265,
+    "Other": 0.135
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Inter Miami CF",
+   "away": "Nashville SC",
+   "league_name": "MLS",
+   "kickoff_utc": "2026-09-12T23:30Z",
+   "kickoff_local": "7:30 PM",
+   "status": "pre",
+   "pm_slug": "mls-mia-nas-2026-09-12-exact-score",
+   "lamH": 1.919,
+   "lamA": 1.397,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-1",
+     "prob": 0.1036
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0938
+    },
+    {
+     "score": "1-2",
+     "prob": 0.0683
+    },
+    {
+     "score": "2-0",
+     "prob": 0.0671
+    },
+    {
+     "score": "2-2",
+     "prob": 0.0655
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.031,
+    "0-1": 0.0435,
+    "1-0": 0.055,
+    "0-2": 0.031,
+    "1-1": 0.095,
+    "2-0": 0.055,
+    "0-3": 0.019,
+    "1-2": 0.07,
+    "2-1": 0.09,
+    "3-0": 0.0385,
+    "1-3": 0.0335,
+    "2-2": 0.075,
+    "3-1": 0.06,
+    "2-3": 0.037,
+    "3-2": 0.047,
+    "3-3": 0.027,
+    "Other": 0.17
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Orlando City SC",
+   "away": "Toronto FC",
+   "league_name": "MLS",
+   "kickoff_utc": "2026-09-12T23:30Z",
+   "kickoff_local": "7:30 PM",
+   "status": "pre",
+   "pm_slug": "mls-orl-tor-2026-09-12-exact-score",
+   "lamH": 1.245,
+   "lamA": 1.025,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-1",
+     "prob": 0.1398
+    },
+    {
+     "score": "1-0",
+     "prob": 0.1208
+    },
+    {
+     "score": "0-0",
+     "prob": 0.1113
+    },
+    {
+     "score": "0-1",
+     "prob": 0.098
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0821
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.0345,
+    "0-1": 0.0425,
+    "1-0": 0.065,
+    "0-2": 0.0285,
+    "1-1": 0.095,
+    "2-0": 0.06,
+    "0-3": 0.016,
+    "1-2": 0.06,
+    "2-1": 0.095,
+    "3-0": 0.0435,
+    "1-3": 0.0285,
+    "2-2": 0.07,
+    "3-1": 0.06,
+    "2-3": 0.0305,
+    "3-2": 0.0455,
+    "3-3": 0.023,
+    "Other": 0.16
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "D.C. United SC",
+   "away": "Atlanta United FC",
+   "league_name": "MLS",
+   "kickoff_utc": "2026-09-12T23:30Z",
+   "kickoff_local": "7:30 PM",
+   "status": "pre",
+   "pm_slug": "mls-dcu-atl-2026-09-12-exact-score",
+   "lamH": 1.731,
+   "lamA": 1.412,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-1",
+     "prob": 0.1121
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0915
+    },
+    {
+     "score": "1-2",
+     "prob": 0.0747
+    },
+    {
+     "score": "1-0",
+     "prob": 0.0686
+    },
+    {
+     "score": "2-0",
+     "prob": 0.0648
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.045,
+    "0-1": 0.065,
+    "1-0": 0.08,
+    "0-2": 0.045,
+    "1-1": 0.11,
+    "2-0": 0.06,
+    "0-3": 0.0225,
+    "1-2": 0.08,
+    "2-1": 0.09,
+    "3-0": 0.036,
+    "1-3": 0.033,
+    "2-2": 0.07,
+    "3-1": 0.048,
+    "2-3": 0.03,
+    "3-2": 0.036,
+    "3-3": 0.017,
+    "Other": 0.1
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Botafogo FR",
+   "away": "Red Bull Bragantino",
+   "league_name": "Brasileirao",
+   "kickoff_utc": "2026-09-12T23:30Z",
+   "kickoff_local": "7:30 PM",
+   "status": "pre",
+   "pm_slug": "bra-bot-bra-2026-09-12-exact-score",
+   "lamH": 1.057,
+   "lamA": 0.886,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "0-0",
+     "prob": 0.1513
+    },
+    {
+     "score": "1-0",
+     "prob": 0.1434
+    },
+    {
+     "score": "1-1",
+     "prob": 0.1422
+    },
+    {
+     "score": "0-1",
+     "prob": 0.1189
+    },
+    {
+     "score": "2-0",
+     "prob": 0.08
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.075,
+    "0-1": 0.075,
+    "1-0": 0.09,
+    "0-2": 0.0515,
+    "1-1": 0.13,
+    "2-0": 0.065,
+    "0-3": 0.0195,
+    "1-2": 0.08,
+    "2-1": 0.09,
+    "3-0": 0.026,
+    "1-3": 0.025,
+    "2-2": 0.055,
+    "3-1": 0.041,
+    "2-3": 0.023,
+    "3-2": 0.024,
+    "3-3": 0.014,
+    "Other": 0.13
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Santos FC",
+   "away": "Cruzeiro EC",
+   "league_name": "Brasileirao",
+   "kickoff_utc": "2026-09-13T00:00Z",
+   "kickoff_local": "8:00 PM",
+   "status": "pre",
+   "pm_slug": "bra-san-cru-2026-09-12-exact-score",
+   "lamH": 1.001,
+   "lamA": 1.277,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-1",
+     "prob": 0.1389
+    },
+    {
+     "score": "0-1",
+     "prob": 0.1231
+    },
+    {
+     "score": "0-0",
+     "prob": 0.1104
+    },
+    {
+     "score": "1-0",
+     "prob": 0.0948
+    },
+    {
+     "score": "1-2",
+     "prob": 0.0837
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.08,
+    "0-1": 0.1,
+    "1-0": 0.085,
+    "0-2": 0.07,
+    "1-1": 0.14,
+    "2-0": 0.05,
+    "0-3": 0.0295,
+    "1-2": 0.09,
+    "2-1": 0.08,
+    "3-0": 0.0205,
+    "1-3": 0.0365,
+    "2-2": 0.06,
+    "3-1": 0.03,
+    "2-3": 0.0255,
+    "3-2": 0.0205,
+    "3-3": 0.0125,
+    "Other": 0.115
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Seattle Reign FC",
+   "away": "Bay FC",
+   "league_name": "NWSL",
+   "kickoff_utc": "2026-09-13T00:00Z",
+   "kickoff_local": "8:00 PM",
+   "status": "pre",
+   "pm_slug": "nwsl-rei-bay-2026-09-12-exact-score",
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
+   "news_adj": null,
+   "top_scores": [],
+   "provisional": false,
+   "market": {
+    "0-0": 0.059,
+    "0-1": 0.07,
+    "1-0": 0.07,
+    "0-2": 0.045,
+    "1-1": 0.09,
+    "2-0": 0.05,
+    "0-3": 0.029,
+    "1-2": 0.055,
+    "2-1": 0.065,
+    "3-0": 0.029,
+    "1-3": 0.0285,
+    "2-2": 0.055,
+    "3-1": 0.0325,
+    "2-3": 0.0315,
+    "3-2": 0.0345,
+    "3-3": 0.02,
+    "Other": 0.15
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "St Mirren FC",
+   "away": "Dundee United FC",
+   "league_name": "MLS",
+   "kickoff_utc": "2026-09-13T00:30Z",
+   "kickoff_local": "8:30 PM",
+   "status": "pre",
+   "pm_slug": "scop-stm-dun-2026-09-19-exact-score",
+   "lamH": 2.047,
+   "lamA": 1.413,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-1",
      "prob": 0.0969
     },
     {
      "score": "2-1",
-     "prob": 0.0882
+     "prob": 0.0936
     },
     {
      "score": "2-0",
-     "prob": 0.0852
+     "prob": 0.0662
+    },
+    {
+     "score": "2-2",
+     "prob": 0.0661
+    },
+    {
+     "score": "1-2",
+     "prob": 0.0646
     }
    ],
    "provisional": false,
    "market": {
-    "0-0": 0.0045,
-    "0-1": 0.1445,
-    "1-0": 0.0045,
-    "0-2": 0.1035,
-    "1-1": 0.21,
-    "2-0": 0.004,
-    "0-3": 0.142,
-    "1-2": 0.1095,
-    "2-1": 0.145,
-    "3-0": 0.0025,
-    "1-3": 0.0785,
-    "2-2": 0.0695,
-    "3-1": 0.0315,
-    "2-3": 0.013,
-    "3-2": 0.018,
-    "3-3": 0.02,
-    "Other": 0.45
+    "0-0": 0.495,
+    "0-1": 0.495,
+    "1-0": 0.495,
+    "0-2": 0.495,
+    "1-1": 0.16,
+    "2-0": 0.495,
+    "0-3": 0.495,
+    "1-2": 0.495,
+    "2-1": 0.495,
+    "3-0": 0.495,
+    "1-3": 0.495,
+    "2-2": 0.09,
+    "3-1": 0.495,
+    "2-3": 0.075,
+    "3-2": 0.495,
+    "3-3": 0.075,
+    "Other": 0.495
    },
    "edge_bets": [],
    "cur_home": 0,
-   "cur_away": 1,
-   "minute": 39,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Houston Dash",
+   "away": "Utah Royals FC",
+   "league_name": "NWSL",
+   "kickoff_utc": "2026-09-13T00:45Z",
+   "kickoff_local": "8:45 PM",
+   "status": "pre",
+   "pm_slug": "nwsl-das-roy-2026-09-12-exact-score",
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
+   "news_adj": null,
+   "top_scores": [],
+   "provisional": false,
+   "market": {
+    "0-0": 0.06,
+    "0-1": 0.09,
+    "1-0": 0.075,
+    "0-2": 0.055,
+    "1-1": 0.115,
+    "2-0": 0.055,
+    "0-3": 0.03,
+    "1-2": 0.09,
+    "2-1": 0.08,
+    "3-0": 0.03,
+    "1-3": 0.03,
+    "2-2": 0.065,
+    "3-1": 0.03,
+    "2-3": 0.035,
+    "3-2": 0.03,
+    "3-3": 0.02,
+    "Other": 0.19
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
