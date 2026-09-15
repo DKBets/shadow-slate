@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-09-15T03:29:04.617040Z",
- "slate_generated_utc": "2026-09-15T03:24:40.667105Z",
+ "generated_utc": "2026-09-15T03:34:05.455060Z",
+ "slate_generated_utc": "2026-09-15T03:32:34.197276Z",
  "date": "2026-09-14",
  "source": "board",
  "games": [
@@ -523,25 +523,32 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8635,
+      "prob": 0.8619,
       "price": 0.945,
       "stake": 200.0,
-      "ev_pct": -8.6
+      "ev_pct": -8.8
      }
     ]
    },
    {
-    "home": "Udinese Calcio",
-    "away": "Cagliari Calcio",
+    "home": "Bologna FC 1909",
+    "away": "Torino FC",
     "league": "Serie A",
     "kickoff_utc": "2026-09-19T13:00:00Z",
     "totals": [
      {
       "sel": "Under 3.5",
-      "prob": 0.7976,
-      "price": 0.765,
+      "prob": 0.7859,
+      "price": 0.74,
       "stake": 200.0,
-      "ev_pct": 4.3
+      "ev_pct": 6.2
+     },
+     {
+      "sel": "Over 1.5",
+      "prob": 0.7212,
+      "price": 0.72,
+      "stake": 200.0,
+      "ev_pct": 0.2
      }
     ]
    }
