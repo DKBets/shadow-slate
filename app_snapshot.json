@@ -1,72 +1,9 @@
 {
- "generated_utc": "2026-09-15T03:23:50.811584Z",
- "slate_generated_utc": "2026-09-15T03:23:26.312854Z",
+ "generated_utc": "2026-09-15T03:29:04.617040Z",
+ "slate_generated_utc": "2026-09-15T03:24:40.667105Z",
  "date": "2026-09-14",
  "source": "board",
  "games": [
-  {
-   "home": "EC Bahia",
-   "away": "Clube do Remo",
-   "league_name": "Brasileirao",
-   "kickoff_utc": "2026-09-14T23:00Z",
-   "kickoff_local": "7:00 PM",
-   "status": "post",
-   "pm_slug": "bra-bah-cre-2026-09-14-exact-score",
-   "lamH": 1.937,
-   "lamA": 0.751,
-   "hasModel": true,
-   "news_adj": null,
-   "top_scores": [
-    {
-     "score": "2-0",
-     "prob": 0.1281
-    },
-    {
-     "score": "1-0",
-     "prob": 0.1263
-    },
-    {
-     "score": "1-1",
-     "prob": 0.1053
-    },
-    {
-     "score": "2-1",
-     "prob": 0.0962
-    },
-    {
-     "score": "3-0",
-     "prob": 0.0827
-    }
-   ],
-   "provisional": false,
-   "market": {
-    "0-0": 0.0005,
-    "0-1": 0.0005,
-    "1-0": 0.0005,
-    "0-2": 0.0005,
-    "1-1": 0.0005,
-    "2-0": 0.0005,
-    "0-3": 0.0005,
-    "1-2": 0.0005,
-    "2-1": 0.9995,
-    "3-0": 0.0005,
-    "1-3": 0.0005,
-    "2-2": 0.0005,
-    "3-1": 0.0005,
-    "2-3": 0.0005,
-    "3-2": 0.0005,
-    "3-3": 0.0005,
-    "Other": 0.003
-   },
-   "edge_bets": [],
-   "cur_home": 2,
-   "cur_away": 1,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
   {
    "home": "Club León FC",
    "away": "Atlético San Luis",
@@ -111,7 +48,7 @@
     "2-0": 0.9995,
     "0-3": 0.0005,
     "1-2": 0.0005,
-    "2-1": 0.002,
+    "2-1": 0.0005,
     "3-0": 0.0005,
     "1-3": 0.0005,
     "2-2": 0.0005,
