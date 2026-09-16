@@ -1,8 +1,8 @@
 {
- "generated_utc": "2026-09-16T02:15:23.849009Z",
- "slate_generated_utc": "2026-09-16T02:11:01.960807Z",
+ "generated_utc": "2026-09-16T02:22:05.262520Z",
+ "slate_generated_utc": "2026-09-16T02:17:51.848815Z",
  "date": "2026-09-15",
- "source": "board",
+ "source": "files",
  "games": [
   {
    "home": "Indy Eleven",
@@ -18,28 +18,10 @@
    "news_adj": null,
    "top_scores": [],
    "provisional": false,
-   "market": {
-    "0-0": 0.0005,
-    "0-1": 0.0005,
-    "1-0": 0.0005,
-    "0-2": 0.0005,
-    "1-1": 0.0005,
-    "2-0": 0.0005,
-    "0-3": 0.0005,
-    "1-2": 0.0005,
-    "2-1": 0.0005,
-    "3-0": 0.0005,
-    "1-3": 0.0005,
-    "2-2": 0.0005,
-    "3-1": 0.0025,
-    "2-3": 0.0005,
-    "3-2": 0.0005,
-    "3-3": 0.0015,
-    "Other": 0.9995
-   },
+   "market": null,
    "edge_bets": [],
-   "cur_home": 0,
-   "cur_away": 0,
+   "cur_home": null,
+   "cur_away": null,
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
@@ -54,56 +36,17 @@
    "kickoff_local": "8:30 PM",
    "status": "in",
    "pm_slug": "sud-sao-boc-2026-09-15-exact-score",
-   "lamH": 1.5,
-   "lamA": 0.917,
-   "hasModel": true,
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
    "news_adj": null,
-   "top_scores": [
-    {
-     "score": "1-1",
-     "prob": 0.1302
-    },
-    {
-     "score": "1-0",
-     "prob": 0.1265
-    },
-    {
-     "score": "2-0",
-     "prob": 0.1004
-    },
-    {
-     "score": "0-0",
-     "prob": 0.0966
-    },
-    {
-     "score": "2-1",
-     "prob": 0.0921
-    }
-   ],
+   "top_scores": [],
    "provisional": false,
-   "market": {
-    "0-0": 0.0005,
-    "0-1": 0.62,
-    "1-0": 0.003,
-    "0-2": 0.092,
-    "1-1": 0.11,
-    "2-0": 0.003,
-    "0-3": 0.026,
-    "1-2": 0.443,
-    "2-1": 0.0195,
-    "3-0": 0.003,
-    "1-3": 0.5,
-    "2-2": 0.5,
-    "3-1": 0.25,
-    "2-3": 0.352,
-    "3-2": 0.4825,
-    "3-3": 0.5,
-    "Other": 0.5
-   },
+   "market": null,
    "edge_bets": [],
-   "cur_home": 0,
-   "cur_away": 1,
-   "minute": 78,
+   "cur_home": null,
+   "cur_away": null,
+   "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
@@ -117,56 +60,17 @@
    "kickoff_local": "9:00 PM",
    "status": "in",
    "pm_slug": "mex-pue-tol-2026-09-04-exact-score",
-   "lamH": 1.157,
-   "lamA": 1.462,
-   "hasModel": true,
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
    "news_adj": null,
-   "top_scores": [
-    {
-     "score": "1-1",
-     "prob": 0.1308
-    },
-    {
-     "score": "0-1",
-     "prob": 0.0992
-    },
-    {
-     "score": "1-2",
-     "prob": 0.0902
-    },
-    {
-     "score": "0-0",
-     "prob": 0.0804
-    },
-    {
-     "score": "0-2",
-     "prob": 0.078
-    }
-   ],
+   "top_scores": [],
    "provisional": false,
-   "market": {
-    "0-0": 0.2065,
-    "0-1": 0.23,
-    "1-0": 0.1005,
-    "0-2": 0.12,
-    "1-1": 0.12,
-    "2-0": 0.024,
-    "0-3": 0.04,
-    "1-2": 0.06,
-    "2-1": 0.027,
-    "3-0": 0.0035,
-    "1-3": 0.0185,
-    "2-2": 0.014,
-    "3-1": 0.0045,
-    "2-3": 0.004,
-    "3-2": 0.0015,
-    "3-3": 0.0215,
-    "Other": 0.5
-   },
+   "market": null,
    "edge_bets": [],
-   "cur_home": 0,
-   "cur_away": 0,
-   "minute": 49,
+   "cur_home": null,
+   "cur_away": null,
+   "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
@@ -613,7 +517,7 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8686,
+      "prob": 0.8687,
       "price": 0.955,
       "stake": 200.0,
       "ev_pct": -9.0
