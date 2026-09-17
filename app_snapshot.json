@@ -1,177 +1,9 @@
 {
- "generated_utc": "2026-09-17T22:59:39.138472Z",
- "slate_generated_utc": "2026-09-17T22:55:04.492045Z",
+ "generated_utc": "2026-09-17T23:04:58.092420Z",
+ "slate_generated_utc": "2026-09-17T23:01:58.438004Z",
  "date": "2026-09-17",
  "source": "board",
  "games": [
-  {
-   "home": "Celtic FC",
-   "away": "Ferencvárosi TC",
-   "league_name": "Europa League",
-   "kickoff_utc": "2026-09-17T19:00:00Z",
-   "kickoff_local": "3:00 PM",
-   "status": "in",
-   "pm_slug": "uel-cel-ftc-2026-09-17-exact-score",
-   "lamH": 1.57,
-   "lamA": 1.03,
-   "hasModel": true,
-   "news_adj": null,
-   "top_scores": [
-    {
-     "score": "1-1",
-     "prob": 0.1275
-    },
-    {
-     "score": "1-0",
-     "prob": 0.1095
-    },
-    {
-     "score": "2-1",
-     "prob": 0.0944
-    },
-    {
-     "score": "2-0",
-     "prob": 0.0917
-    },
-    {
-     "score": "0-0",
-     "prob": 0.0816
-    }
-   ],
-   "provisional": true,
-   "market": {
-    "0-0": 0.0005,
-    "0-1": 0.0005,
-    "1-0": 0.0005,
-    "0-2": 0.0005,
-    "1-1": 0.0005,
-    "2-0": 0.0005,
-    "0-3": 0.0005,
-    "1-2": 0.0005,
-    "2-1": 0.0005,
-    "3-0": 0.0005,
-    "1-3": 0.5,
-    "2-2": 0.0005,
-    "3-1": 0.0005,
-    "2-3": 0.0005,
-    "3-2": 0.0005,
-    "3-3": 0.0005,
-    "Other": 0.0005
-   },
-   "edge_bets": [],
-   "cur_home": 1,
-   "cur_away": 3,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
-   "home": "Lillestrøm SK",
-   "away": "SC União Torreense",
-   "league_name": "Europa League",
-   "kickoff_utc": "2026-09-17T19:00:00Z",
-   "kickoff_local": "3:00 PM",
-   "status": "in",
-   "pm_slug": "uel-lil1-ut-2026-09-17-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": {
-    "0-0": 0.0005,
-    "0-1": 0.0005,
-    "1-0": 0.0005,
-    "0-2": 0.0005,
-    "1-1": 0.0005,
-    "2-0": 0.0005,
-    "0-3": 0.0005,
-    "1-2": 0.9995,
-    "2-1": 0.0005,
-    "3-0": 0.0005,
-    "1-3": 0.0005,
-    "2-2": 0.0005,
-    "3-1": 0.0005,
-    "2-3": 0.0005,
-    "3-2": 0.0005,
-    "3-3": 0.0005,
-    "Other": 0.0035
-   },
-   "edge_bets": [],
-   "cur_home": 1,
-   "cur_away": 2,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
-   "home": "Real Sociedad de Fútbol",
-   "away": "AFC Bournemouth",
-   "league_name": "Europa League",
-   "kickoff_utc": "2026-09-17T19:00Z",
-   "kickoff_local": "3:00 PM",
-   "status": "post",
-   "pm_slug": "uel-rso-bou-2026-09-17-exact-score",
-   "lamH": 1.282,
-   "lamA": 1.41,
-   "hasModel": true,
-   "news_adj": null,
-   "top_scores": [
-    {
-     "score": "1-1",
-     "prob": 0.1299
-    },
-    {
-     "score": "0-1",
-     "prob": 0.0883
-    },
-    {
-     "score": "1-2",
-     "prob": 0.0864
-    },
-    {
-     "score": "1-0",
-     "prob": 0.0796
-    },
-    {
-     "score": "2-1",
-     "prob": 0.0786
-    }
-   ],
-   "provisional": false,
-   "market": {
-    "0-0": 0.0005,
-    "0-1": 0.0005,
-    "1-0": 0.0005,
-    "0-2": 0.0005,
-    "1-1": 0.0005,
-    "2-0": 0.0005,
-    "0-3": 0.0005,
-    "1-2": 0.9995,
-    "2-1": 0.0005,
-    "3-0": 0.0005,
-    "1-3": 0.0005,
-    "2-2": 0.0005,
-    "3-1": 0.0005,
-    "2-3": 0.0005,
-    "3-2": 0.0005,
-    "3-3": 0.0005,
-    "Other": 0.0005
-   },
-   "edge_bets": [],
-   "cur_home": 1,
-   "cur_away": 2,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
   {
    "home": "Beşiktaş JK",
    "away": "Olympique de Marseille",
@@ -236,111 +68,6 @@
    "shadow_totals": []
   },
   {
-   "home": "FC Viktoria Plzeň",
-   "away": "RU Saint-Gilloise",
-   "league_name": "Europa League",
-   "kickoff_utc": "2026-09-17T19:00Z",
-   "kickoff_local": "3:00 PM",
-   "status": "post",
-   "pm_slug": "uel-plz-usg-2026-09-17-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": {
-    "0-0": 0.0005,
-    "0-1": 0.0005,
-    "1-0": 0.0005,
-    "0-2": 0.0005,
-    "1-1": 0.0005,
-    "2-0": 0.0005,
-    "0-3": 0.9995,
-    "1-2": 0.0005,
-    "2-1": 0.0005,
-    "3-0": 0.0005,
-    "1-3": 0.0005,
-    "2-2": 0.0005,
-    "3-1": 0.0005,
-    "2-3": 0.0005,
-    "3-2": 0.0005,
-    "3-3": 0.0005,
-    "Other": 0.003
-   },
-   "edge_bets": [],
-   "cur_home": 0,
-   "cur_away": 3,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
-   "home": "Juventus FC",
-   "away": "NEC",
-   "league_name": "Europa League",
-   "kickoff_utc": "2026-09-17T19:00Z",
-   "kickoff_local": "3:00 PM",
-   "status": "post",
-   "pm_slug": "uel-juv-nec-2026-09-17-exact-score",
-   "lamH": 1.767,
-   "lamA": 1.332,
-   "hasModel": true,
-   "news_adj": null,
-   "top_scores": [
-    {
-     "score": "1-1",
-     "prob": 0.1128
-    },
-    {
-     "score": "2-1",
-     "prob": 0.094
-    },
-    {
-     "score": "1-0",
-     "prob": 0.0735
-    },
-    {
-     "score": "1-2",
-     "prob": 0.0709
-    },
-    {
-     "score": "2-0",
-     "prob": 0.0706
-    }
-   ],
-   "provisional": false,
-   "market": {
-    "0-0": 0.0005,
-    "0-1": 0.0005,
-    "1-0": 0.0005,
-    "0-2": 0.0005,
-    "1-1": 0.0005,
-    "2-0": 0.0005,
-    "0-3": 0.0005,
-    "1-2": 0.0005,
-    "2-1": 0.0005,
-    "3-0": 0.0005,
-    "1-3": 0.0005,
-    "2-2": 0.0005,
-    "3-1": 0.0005,
-    "2-3": 0.0005,
-    "3-2": 0.0005,
-    "3-3": 0.0005,
-    "Other": 0.9995
-   },
-   "edge_bets": [],
-   "cur_home": 5,
-   "cur_away": 0,
-   "minute": null,
-   "shadow_bet": true,
-   "shadow_status": "settled",
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
    "home": "CR Flamengo",
    "away": "Independiente del Valle",
    "league_name": "Copa Libertadores",
@@ -387,11 +114,11 @@
     "2-1": 0.105,
     "3-0": 0.105,
     "1-3": 0.007,
-    "2-2": 0.0335,
+    "2-2": 0.0325,
     "3-1": 0.075,
     "2-3": 0.007,
     "3-2": 0.027,
-    "3-3": 0.006,
+    "3-3": 0.0065,
     "Other": 0.205
    },
    "edge_bets": [],
@@ -422,17 +149,17 @@
     "0-1": 0.045,
     "1-0": 0.115,
     "0-2": 0.021,
-    "1-1": 0.105,
+    "1-1": 0.095,
     "2-0": 0.115,
     "0-3": 0.007,
     "1-2": 0.0445,
     "2-1": 0.105,
     "3-0": 0.075,
     "1-3": 0.0125,
-    "2-2": 0.047,
+    "2-2": 0.0465,
     "3-1": 0.065,
     "2-3": 0.013,
-    "3-2": 0.0305,
+    "3-2": 0.0315,
     "3-3": 0.0095,
     "Other": 0.145
    },
@@ -917,9 +644,9 @@
      {
       "sel": "Over 1.5",
       "prob": 0.7938,
-      "price": 0.825,
+      "price": 0.745,
       "stake": 200.0,
-      "ev_pct": -3.8
+      "ev_pct": 6.6
      }
     ]
    }
