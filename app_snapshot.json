@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-09-19T18:12:21.574510Z",
- "slate_generated_utc": "2026-09-19T18:08:06.346801Z",
+ "generated_utc": "2026-09-19T18:17:25.957162Z",
+ "slate_generated_utc": "2026-09-19T18:14:30.138124Z",
  "date": "2026-09-19",
  "source": "board",
  "games": [
@@ -35,7 +35,7 @@
     "2-3": 0.0145,
     "3-2": 0.026,
     "3-3": 0.013,
-    "Other": 0.495
+    "Other": 0.5
    },
    "edge_bets": [],
    "cur_home": 2,
@@ -103,69 +103,6 @@
    "edge_bets": [],
    "cur_home": 2,
    "cur_away": 1,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
-   "home": "Everton FC",
-   "away": "Ipswich Town FC",
-   "league_name": "Premier League",
-   "kickoff_utc": "2026-09-19T14:00Z",
-   "kickoff_local": "10:00 AM",
-   "status": "post",
-   "pm_slug": "epl-eve-ips-2026-09-19-exact-score",
-   "lamH": 2.48,
-   "lamA": 1.484,
-   "hasModel": true,
-   "news_adj": null,
-   "top_scores": [
-    {
-     "score": "2-1",
-     "prob": 0.0879
-    },
-    {
-     "score": "1-1",
-     "prob": 0.0752
-    },
-    {
-     "score": "3-1",
-     "prob": 0.0727
-    },
-    {
-     "score": "2-2",
-     "prob": 0.0652
-    },
-    {
-     "score": "2-0",
-     "prob": 0.0592
-    }
-   ],
-   "provisional": false,
-   "market": {
-    "0-0": 0.0,
-    "0-1": 0.0,
-    "1-0": 1.0,
-    "0-2": 0.0,
-    "1-1": 0.0,
-    "2-0": 0.0005,
-    "0-3": 0.0,
-    "1-2": 0.0,
-    "2-1": 0.0005,
-    "3-0": 0.0025,
-    "1-3": 0.0025,
-    "2-2": 0.0005,
-    "3-1": 0.0005,
-    "2-3": 0.0025,
-    "3-2": 0.5,
-    "3-3": 0.0005,
-    "Other": 0.004
-   },
-   "edge_bets": [],
-   "cur_home": 1,
-   "cur_away": 0,
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
@@ -723,7 +660,7 @@
     "2-1": 0.5,
     "3-0": 0.0,
     "1-3": 0.0,
-    "2-2": 0.275,
+    "2-2": 0.5,
     "3-1": 0.5,
     "2-3": 0.0,
     "3-2": 0.5,
@@ -808,7 +745,7 @@
    "league_name": "Eliteserien",
    "kickoff_utc": "2026-09-19T16:00:00Z",
    "kickoff_local": "12:00 PM",
-   "status": "post",
+   "status": "in",
    "pm_slug": "nor-mol-aal-2026-09-19-exact-score",
    "lamH": 1.842,
    "lamA": 0.758,
@@ -997,7 +934,7 @@
    "league_name": "Belgian Pro League",
    "kickoff_utc": "2026-09-19T16:15Z",
    "kickoff_local": "12:15 PM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "bel1-rch-cer-2026-09-19-exact-score",
    "lamH": 1.936,
    "lamA": 1.088,
@@ -1048,7 +985,7 @@
    "edge_bets": [],
    "cur_home": 3,
    "cur_away": 2,
-   "minute": 91,
+   "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
@@ -1111,7 +1048,7 @@
    "edge_bets": [],
    "cur_home": 0,
    "cur_away": 1,
-   "minute": 81,
+   "minute": 86,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
@@ -1172,9 +1109,9 @@
     "Other": 0.5
    },
    "edge_bets": [],
-   "cur_home": 3,
+   "cur_home": 4,
    "cur_away": 0,
-   "minute": 75,
+   "minute": 79,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
@@ -1237,7 +1174,7 @@
    "edge_bets": [],
    "cur_home": 0,
    "cur_away": 1,
-   "minute": 79,
+   "minute": 84,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
@@ -1300,7 +1237,7 @@
    "edge_bets": [],
    "cur_home": 0,
    "cur_away": 3,
-   "minute": 66,
+   "minute": 71,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
@@ -1363,7 +1300,7 @@
    "edge_bets": [],
    "cur_home": 1,
    "cur_away": 0,
-   "minute": 64,
+   "minute": 69,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
@@ -1426,7 +1363,7 @@
    "edge_bets": [],
    "cur_home": 1,
    "cur_away": 0,
-   "minute": 46,
+   "minute": 50,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
@@ -1466,9 +1403,9 @@
     "Other": 0.5
    },
    "edge_bets": [],
-   "cur_home": 2,
+   "cur_home": 3,
    "cur_away": 0,
-   "minute": 51,
+   "minute": 56,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
@@ -1531,7 +1468,7 @@
    "edge_bets": [],
    "cur_home": 3,
    "cur_away": 0,
-   "minute": 49,
+   "minute": 50,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
@@ -1594,7 +1531,7 @@
    "edge_bets": [],
    "cur_home": 0,
    "cur_away": 0,
-   "minute": 8,
+   "minute": 12,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
@@ -2135,7 +2072,7 @@
     "2-3": 0.046,
     "3-2": 0.0145,
     "3-3": 0.0135,
-    "Other": 0.345
+    "Other": 0.35
    },
    "edge_bets": [],
    "cur_home": 0,
@@ -2429,7 +2366,7 @@
     "2-3": 0.0265,
     "3-2": 0.024,
     "3-3": 0.0125,
-    "Other": 0.1
+    "Other": 0.095
    },
    "edge_bets": [],
    "cur_home": 0,
@@ -2555,7 +2492,7 @@
     "2-3": 0.01,
     "3-2": 0.015,
     "3-3": 0.0065,
-    "Other": 0.46
+    "Other": 0.495
    },
    "edge_bets": [],
    "cur_home": 0,
@@ -3259,14 +3196,14 @@
     "0-2": 0.0315,
     "1-1": 0.105,
     "2-0": 0.045,
-    "0-3": 0.016,
+    "0-3": 0.02,
     "1-2": 0.05,
     "2-1": 0.055,
     "3-0": 0.025,
     "1-3": 0.0235,
     "2-2": 0.045,
     "3-1": 0.0315,
-    "2-3": 0.02,
+    "2-3": 0.026,
     "3-2": 0.0235,
     "3-3": 0.0155,
     "Other": 0.48
@@ -3785,9 +3722,9 @@
      {
       "sel": "Under 3.5",
       "prob": 0.7951,
-      "price": 0.645,
+      "price": 0.65,
       "stake": 200.0,
-      "ev_pct": 23.3
+      "ev_pct": 22.3
      },
      {
       "sel": "Over 1.5",
