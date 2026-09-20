@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-09-20T03:27:06.955619Z",
- "slate_generated_utc": "2026-09-20T03:23:04.239172Z",
+ "generated_utc": "2026-09-20T03:32:14.532372Z",
+ "slate_generated_utc": "2026-09-20T03:29:38.354652Z",
  "date": "2026-09-19",
  "source": "board",
  "games": [
@@ -271,69 +271,6 @@
    "edge_bets": [],
    "cur_home": 0,
    "cur_away": 0,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
-   "home": "Atlas FC",
-   "away": "Pumas de la UNAM",
-   "league_name": "Liga MX",
-   "kickoff_utc": "2026-09-19T23:00Z",
-   "kickoff_local": "7:00 PM",
-   "status": "post",
-   "pm_slug": "mex-atl-pum-2026-09-19-exact-score",
-   "lamH": 1.516,
-   "lamA": 1.628,
-   "hasModel": true,
-   "news_adj": null,
-   "top_scores": [
-    {
-     "score": "1-1",
-     "prob": 0.1131
-    },
-    {
-     "score": "1-2",
-     "prob": 0.0868
-    },
-    {
-     "score": "2-1",
-     "prob": 0.0808
-    },
-    {
-     "score": "2-2",
-     "prob": 0.0658
-    },
-    {
-     "score": "0-1",
-     "prob": 0.064
-    }
-   ],
-   "provisional": false,
-   "market": {
-    "0-0": 0.0005,
-    "0-1": 0.0005,
-    "1-0": 0.0005,
-    "0-2": 0.0005,
-    "1-1": 0.9995,
-    "2-0": 0.0005,
-    "0-3": 0.0005,
-    "1-2": 0.0005,
-    "2-1": 0.0005,
-    "3-0": 0.0005,
-    "1-3": 0.0005,
-    "2-2": 0.0005,
-    "3-1": 0.0005,
-    "2-3": 0.0005,
-    "3-2": 0.0005,
-    "3-3": 0.0005,
-    "Other": 0.0005
-   },
-   "edge_bets": [],
-   "cur_home": 1,
-   "cur_away": 1,
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
@@ -838,7 +775,7 @@
    "edge_bets": [],
    "cur_home": 2,
    "cur_away": 1,
-   "minute": 73,
+   "minute": 77,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
@@ -929,16 +866,16 @@
     "1-1": 0.005,
     "2-0": 0.0005,
     "0-3": 0.3615,
-    "1-2": 0.495,
+    "1-2": 0.5,
     "2-1": 0.005,
     "3-0": 0.0005,
-    "1-3": 0.4995,
-    "2-2": 0.4995,
+    "1-3": 0.5,
+    "2-2": 0.5,
     "3-1": 0.005,
-    "2-3": 0.4995,
-    "3-2": 0.4995,
-    "3-3": 0.4995,
-    "Other": 0.495
+    "2-3": 0.5,
+    "3-2": 0.5,
+    "3-3": 0.5,
+    "Other": 0.5
    },
    "edge_bets": [],
    "cur_home": 0,
@@ -955,7 +892,7 @@
    "league_name": "Liga MX",
    "kickoff_utc": "2026-09-20T03:15Z",
    "kickoff_local": "11:15 PM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "mex-ame-gua-2026-09-19-exact-score",
    "lamH": 1.34,
    "lamA": 0.737,
@@ -985,28 +922,28 @@
    ],
    "provisional": false,
    "market": {
-    "0-0": 0.065,
+    "0-0": 0.06,
     "0-1": 0.08,
-    "1-0": 0.08,
-    "0-2": 0.0785,
-    "1-1": 0.1,
+    "1-0": 0.085,
+    "0-2": 0.0595,
+    "1-1": 0.12,
     "2-0": 0.06,
-    "0-3": 0.095,
-    "1-2": 0.11,
+    "0-3": 0.0255,
+    "1-2": 0.09,
     "2-1": 0.09,
-    "3-0": 0.095,
-    "1-3": 0.139,
-    "2-2": 0.051,
-    "3-1": 0.1725,
-    "2-3": 0.1,
-    "3-2": 0.1115,
-    "3-3": 0.095,
-    "Other": 0.455
+    "3-0": 0.025,
+    "1-3": 0.039,
+    "2-2": 0.053,
+    "3-1": 0.041,
+    "2-3": 0.028,
+    "3-2": 0.03,
+    "3-3": 0.0105,
+    "Other": 0.495
    },
    "edge_bets": [],
    "cur_home": 0,
    "cur_away": 0,
-   "minute": null,
+   "minute": 3,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
@@ -1453,14 +1390,14 @@
     "totals": [
      {
       "sel": "Under 3.5",
-      "prob": 0.7843,
+      "prob": 0.7839,
       "price": 0.635,
       "stake": 200.0,
-      "ev_pct": 23.5
+      "ev_pct": 23.4
      },
      {
       "sel": "Over 1.5",
-      "prob": 0.7649,
+      "prob": 0.765,
       "price": 0.815,
       "stake": 200.0,
       "ev_pct": -6.1
@@ -1475,10 +1412,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.7941,
+      "prob": 0.7944,
       "price": 0.82,
       "stake": 200.0,
-      "ev_pct": -3.2
+      "ev_pct": -3.1
      }
     ]
    }
