@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-09-21T04:05:28.423271Z",
- "slate_generated_utc": "2026-09-21T04:00:54.023743Z",
+ "generated_utc": "2026-09-21T04:10:47.337590Z",
+ "slate_generated_utc": "2026-09-21T04:08:27.027805Z",
  "date": "2026-09-21",
  "source": "board",
  "games": [],
@@ -440,10 +440,25 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.7805,
+      "prob": 0.7821,
       "price": 0.815,
       "stake": 200.0,
-      "ev_pct": -4.2
+      "ev_pct": -4.0
+     }
+    ]
+   },
+   {
+    "home": "Atlante FC",
+    "away": "CF Monterrey",
+    "league": "Liga MX",
+    "kickoff_utc": "2026-09-26T01:00:00Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.7419,
+      "price": 0.81,
+      "stake": 200.0,
+      "ev_pct": -8.4
      }
     ]
    }
