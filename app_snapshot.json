@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-09-22T00:02:03.403397Z",
- "slate_generated_utc": "2026-09-21T23:57:09.121343Z",
+ "generated_utc": "2026-09-22T00:07:05.302147Z",
+ "slate_generated_utc": "2026-09-22T00:06:17.972269Z",
  "date": "2026-09-21",
  "source": "board",
  "games": [],
@@ -436,14 +436,14 @@
     "home": "Seattle Sounders FC",
     "away": "Real Salt Lake",
     "league": "MLS",
-    "kickoff_utc": "2026-09-24T01:30:00Z",
+    "kickoff_utc": "2026-09-24T01:30Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.7903,
+      "prob": 0.79,
       "price": 0.815,
       "stake": 200.0,
-      "ev_pct": -3.0
+      "ev_pct": -3.1
      }
     ]
    },
@@ -455,10 +455,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.7744,
-      "price": 0.78,
+      "prob": 0.784,
+      "price": 0.775,
       "stake": 200.0,
-      "ev_pct": -0.7
+      "ev_pct": 1.2
      }
     ]
    }
