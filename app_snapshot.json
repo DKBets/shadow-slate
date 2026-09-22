@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-09-22T00:44:03.687606Z",
- "slate_generated_utc": "2026-09-22T00:39:43.195209Z",
+ "generated_utc": "2026-09-22T00:49:05.046588Z",
+ "slate_generated_utc": "2026-09-22T00:47:58.358180Z",
  "date": "2026-09-21",
  "source": "board",
  "games": [],
@@ -440,10 +440,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.7876,
+      "prob": 0.7903,
       "price": 0.815,
       "stake": 200.0,
-      "ev_pct": -3.4
+      "ev_pct": -3.0
      }
     ]
    },
@@ -455,10 +455,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.7786,
+      "prob": 0.7742,
       "price": 0.78,
       "stake": 200.0,
-      "ev_pct": -0.2
+      "ev_pct": -0.7
      }
     ]
    }
