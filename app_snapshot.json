@@ -1,9 +1,122 @@
 {
- "generated_utc": "2026-09-23T03:57:42.075392Z",
- "slate_generated_utc": "2026-09-23T03:53:32.364851Z",
- "date": "2026-09-22",
+ "generated_utc": "2026-09-23T04:03:05.120142Z",
+ "slate_generated_utc": "2026-09-23T04:01:27.426884Z",
+ "date": "2026-09-23",
  "source": "board",
- "games": [],
+ "games": [
+  {
+   "home": "Birmingham Legion FC",
+   "away": "Brooklyn FC",
+   "league_name": "USL Championship",
+   "kickoff_utc": "2026-09-23T16:00:00Z",
+   "kickoff_local": "12:00 PM",
+   "status": "pre",
+   "pm_slug": "uslc-bir-bro-2026-09-23-exact-score",
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
+   "news_adj": null,
+   "top_scores": [],
+   "provisional": false,
+   "market": {
+    "0-0": 0.0365,
+    "0-1": 0.0475,
+    "1-0": 0.075,
+    "0-2": 0.0305,
+    "1-1": 0.095,
+    "2-0": 0.075,
+    "0-3": 0.014,
+    "1-2": 0.06,
+    "2-1": 0.105,
+    "3-0": 0.049,
+    "1-3": 0.0265,
+    "2-2": 0.065,
+    "3-1": 0.065,
+    "2-3": 0.0255,
+    "3-2": 0.0415,
+    "3-3": 0.0185,
+    "Other": 0.115
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Seattle Sounders FC",
+   "away": "Real Salt Lake",
+   "league_name": "MLS",
+   "kickoff_utc": "2026-09-24T01:30Z",
+   "kickoff_local": "9:30 PM",
+   "status": "pre",
+   "pm_slug": "mls-sea-rsl-2026-04-12-exact-score",
+   "lamH": 1.295,
+   "lamA": 1.31,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-1",
+     "prob": 0.133
+    },
+    {
+     "score": "0-1",
+     "prob": 0.0894
+    },
+    {
+     "score": "1-0",
+     "prob": 0.0883
+    },
+    {
+     "score": "1-2",
+     "prob": 0.0822
+    },
+    {
+     "score": "0-0",
+     "prob": 0.0815
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "2-1": 0.105,
+    "1-1": 0.11,
+    "1-0": 0.085,
+    "2-0": 0.075,
+    "3-1": 0.059,
+    "3-0": 0.046,
+    "2-2": 0.065,
+    "1-2": 0.065,
+    "0-0": 0.0465,
+    "0-1": 0.0525,
+    "3-2": 0.0385,
+    "0-2": 0.031,
+    "1-3": 0.025,
+    "2-3": 0.0245,
+    "3-3": 0.0175,
+    "0-3": 0.0135,
+    "Other": 0.145
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": true,
+   "shadow_totals": [
+    {
+     "sel": "Over 1.5",
+     "prob": 0.7867,
+     "price": 0.825,
+     "stake": 200.0
+    }
+   ]
+  }
+ ],
  "shadow": {
   "recent": [
    {
