@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-09-23T08:42:53.381543Z",
- "slate_generated_utc": "2026-09-23T08:39:35.429933Z",
+ "generated_utc": "2026-09-23T08:48:04.125395Z",
+ "slate_generated_utc": "2026-09-23T08:47:37.144866Z",
  "date": "2026-09-23",
  "source": "board",
  "games": [
@@ -110,7 +110,7 @@
    "shadow_totals": [
     {
      "sel": "Over 1.5",
-     "prob": 0.7966,
+     "prob": 0.7967,
      "price": 0.835,
      "stake": 200.0
     }
@@ -553,7 +553,7 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.7966,
+      "prob": 0.7967,
       "price": 0.835,
       "stake": 200.0,
       "ev_pct": -4.6
@@ -568,10 +568,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.7387,
+      "prob": 0.735,
       "price": 0.76,
       "stake": 200.0,
-      "ev_pct": -2.8
+      "ev_pct": -3.3
      }
     ]
    }
