@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-09-23T23:59:03.456621Z",
- "slate_generated_utc": "2026-09-23T23:54:08.646367Z",
+ "generated_utc": "2026-09-24T00:04:33.341309Z",
+ "slate_generated_utc": "2026-09-24T00:01:59.593105Z",
  "date": "2026-09-23",
  "source": "board",
  "games": [
@@ -46,7 +46,7 @@
     "2-0": 0.075,
     "3-1": 0.0645,
     "3-0": 0.051,
-    "2-2": 0.065,
+    "2-2": 0.075,
     "1-2": 0.055,
     "0-0": 0.041,
     "0-1": 0.041,
@@ -68,7 +68,7 @@
    "shadow_totals": [
     {
      "sel": "Over 1.5",
-     "prob": 0.803,
+     "prob": 0.8047,
      "price": 0.845,
      "stake": 200.0
     }
@@ -511,10 +511,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.803,
+      "prob": 0.8047,
       "price": 0.845,
       "stake": 200.0,
-      "ev_pct": -5.0
+      "ev_pct": -4.8
      }
     ]
    },
@@ -522,7 +522,7 @@
     "home": "Club Tijuana",
     "away": "Atlas FC",
     "league": "Liga MX",
-    "kickoff_utc": "2026-09-26T03:00:00Z",
+    "kickoff_utc": "2026-09-26T03:00Z",
     "totals": [
      {
       "sel": "Over 1.5",
