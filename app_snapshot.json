@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-09-24T03:39:53.455320Z",
- "slate_generated_utc": "2026-09-24T03:35:23.824871Z",
+ "generated_utc": "2026-09-24T03:45:05.263241Z",
+ "slate_generated_utc": "2026-09-24T03:43:20.065736Z",
  "date": "2026-09-23",
  "source": "board",
  "games": [
@@ -10,7 +10,7 @@
    "league_name": "MLS",
    "kickoff_utc": "2026-09-24T01:30Z",
    "kickoff_local": "9:30 PM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "mls-sea-rsl-2026-04-12-exact-score",
    "lamH": 1.295,
    "lamA": 1.31,
@@ -40,10 +40,10 @@
    ],
    "provisional": false,
    "market": {
-    "2-1": 0.005,
+    "2-1": 0.0005,
     "1-1": 0.0005,
     "1-0": 0.0005,
-    "2-0": 0.995,
+    "2-0": 0.9995,
     "3-1": 0.0005,
     "3-0": 0.0005,
     "2-2": 0.0005,
@@ -56,12 +56,12 @@
     "2-3": 0.0005,
     "3-3": 0.0005,
     "0-3": 0.0005,
-    "Other": 0.005
+    "Other": 0.0005
    },
    "edge_bets": [],
    "cur_home": 2,
    "cur_away": 0,
-   "minute": 96,
+   "minute": null,
    "shadow_bet": true,
    "shadow_status": "settled",
    "shadow_pending": false,
@@ -508,10 +508,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.7404,
+      "prob": 0.7387,
       "price": 0.76,
       "stake": 200.0,
-      "ev_pct": -2.6
+      "ev_pct": -2.8
      }
     ]
    }
