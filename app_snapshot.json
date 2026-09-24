@@ -1,73 +1,9 @@
 {
- "generated_utc": "2026-09-24T03:55:53.401600Z",
- "slate_generated_utc": "2026-09-24T03:51:27.985103Z",
- "date": "2026-09-23",
+ "generated_utc": "2026-09-24T04:01:04.348434Z",
+ "slate_generated_utc": "2026-09-24T03:59:16.633908Z",
+ "date": "2026-09-24",
  "source": "board",
- "games": [
-  {
-   "home": "Seattle Sounders FC",
-   "away": "Real Salt Lake",
-   "league_name": "MLS",
-   "kickoff_utc": "2026-09-24T01:30Z",
-   "kickoff_local": "9:30 PM",
-   "status": "post",
-   "pm_slug": "mls-sea-rsl-2026-04-12-exact-score",
-   "lamH": 1.295,
-   "lamA": 1.31,
-   "hasModel": true,
-   "news_adj": null,
-   "top_scores": [
-    {
-     "score": "1-1",
-     "prob": 0.133
-    },
-    {
-     "score": "0-1",
-     "prob": 0.0894
-    },
-    {
-     "score": "1-0",
-     "prob": 0.0883
-    },
-    {
-     "score": "1-2",
-     "prob": 0.0822
-    },
-    {
-     "score": "0-0",
-     "prob": 0.0815
-    }
-   ],
-   "provisional": false,
-   "market": {
-    "2-1": 0.0005,
-    "1-1": 0.0005,
-    "1-0": 0.0005,
-    "2-0": 0.9995,
-    "3-1": 0.0005,
-    "3-0": 0.0005,
-    "2-2": 0.0005,
-    "1-2": 0.0005,
-    "0-0": 0.0005,
-    "0-1": 0.0005,
-    "3-2": 0.0005,
-    "0-2": 0.0005,
-    "1-3": 0.0005,
-    "2-3": 0.0005,
-    "3-3": 0.0005,
-    "0-3": 0.0005,
-    "Other": 0.0005
-   },
-   "edge_bets": [],
-   "cur_home": 2,
-   "cur_away": 0,
-   "minute": null,
-   "shadow_bet": true,
-   "shadow_status": "settled",
-   "shadow_pending": false,
-   "shadow_totals": []
-  }
- ],
+ "games": [],
  "shadow": {
   "recent": [
    {
@@ -508,10 +444,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.7452,
+      "prob": 0.7439,
       "price": 0.76,
       "stake": 200.0,
-      "ev_pct": -1.9
+      "ev_pct": -2.1
      }
     ]
    }
