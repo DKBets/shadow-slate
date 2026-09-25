@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-09-25T19:10:44.132423Z",
- "slate_generated_utc": "2026-09-25T19:06:14.524459Z",
+ "generated_utc": "2026-09-25T19:15:53.071498Z",
+ "slate_generated_utc": "2026-09-25T19:13:06.278475Z",
  "date": "2026-09-25",
  "source": "board",
  "games": [
@@ -166,7 +166,7 @@
    "top_scores": [],
    "provisional": false,
    "market": {
-    "0-0": 0.019,
+    "0-0": 0.024,
     "0-1": 0.021,
     "1-0": 0.085,
     "0-2": 0.0105,
