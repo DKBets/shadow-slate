@@ -1,72 +1,9 @@
 {
- "generated_utc": "2026-09-26T02:46:14.330914Z",
- "slate_generated_utc": "2026-09-26T02:43:05.947848Z",
+ "generated_utc": "2026-09-26T02:51:29.629277Z",
+ "slate_generated_utc": "2026-09-26T02:51:03.341324Z",
  "date": "2026-09-25",
  "source": "board",
  "games": [
-  {
-   "home": "Racing Louisville FC",
-   "away": "San Diego Wave FC",
-   "league_name": "NWSL",
-   "kickoff_utc": "2026-09-25T22:30Z",
-   "kickoff_local": "6:30 PM",
-   "status": "post",
-   "pm_slug": "nwsl-rac-wav-2026-09-25-exact-score",
-   "lamH": 1.473,
-   "lamA": 1.211,
-   "hasModel": true,
-   "news_adj": null,
-   "top_scores": [
-    {
-     "score": "1-1",
-     "prob": 0.1293
-    },
-    {
-     "score": "1-0",
-     "prob": 0.0934
-    },
-    {
-     "score": "2-1",
-     "prob": 0.0898
-    },
-    {
-     "score": "0-0",
-     "prob": 0.0757
-    },
-    {
-     "score": "0-1",
-     "prob": 0.0755
-    }
-   ],
-   "provisional": false,
-   "market": {
-    "0-0": 0.0045,
-    "0-1": 0.0045,
-    "1-0": 0.0045,
-    "0-2": 0.9955,
-    "1-1": 0.5,
-    "2-0": 0.0045,
-    "0-3": 0.0045,
-    "1-2": 0.5,
-    "2-1": 0.5,
-    "3-0": 0.5,
-    "1-3": 0.0035,
-    "2-2": 0.0045,
-    "3-1": 0.0045,
-    "2-3": 0.5,
-    "3-2": 0.0045,
-    "3-3": 0.5,
-    "Other": 0.0045
-   },
-   "edge_bets": [],
-   "cur_home": 0,
-   "cur_away": 2,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
   {
    "home": "Hartford Athletic",
    "away": "Louisville City FC",
@@ -325,16 +262,16 @@
     "3-0": 0.0005,
     "1-3": 0.0005,
     "2-2": 0.0015,
-    "3-1": 0.562,
+    "3-1": 0.0045,
     "2-3": 0.0005,
-    "3-2": 0.201,
-    "3-3": 0.074,
+    "3-2": 0.5005,
+    "3-3": 0.1425,
     "Other": 0.5
    },
    "edge_bets": [],
    "cur_home": 3,
-   "cur_away": 1,
-   "minute": 79,
+   "cur_away": 2,
+   "minute": 85,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
@@ -385,12 +322,12 @@
     "0-3": 0.0175,
     "1-2": 0.075,
     "2-1": 0.095,
-    "3-0": 0.036,
+    "3-0": 0.0355,
     "1-3": 0.027,
     "2-2": 0.065,
-    "3-1": 0.0455,
-    "2-3": 0.0235,
-    "3-2": 0.031,
+    "3-1": 0.045,
+    "2-3": 0.023,
+    "3-2": 0.0305,
     "3-3": 0.013,
     "Other": 0.09
    },
