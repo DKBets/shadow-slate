@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-09-27T14:22:06.476920Z",
- "slate_generated_utc": "2026-09-27T14:17:17.643730Z",
+ "generated_utc": "2026-09-27T14:27:07.068785Z",
+ "slate_generated_utc": "2026-09-27T14:23:09.975775Z",
  "date": "2026-09-27",
  "source": "board",
  "games": [
@@ -266,7 +266,7 @@
     "2-3": 0.017,
     "3-2": 0.038,
     "3-3": 0.013,
-    "Other": 0.205
+    "Other": 0.2
    },
    "edge_bets": [],
    "cur_home": 0,
@@ -788,10 +788,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8421,
+      "prob": 0.8393,
       "price": 0.875,
       "stake": 200.0,
-      "ev_pct": -3.8
+      "ev_pct": -4.1
      }
     ]
    },
