@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-09-27T11:49:53.948551Z",
- "slate_generated_utc": "2026-09-27T11:47:31.185005Z",
+ "generated_utc": "2026-09-27T11:55:06.390815Z",
+ "slate_generated_utc": "2026-09-27T11:50:15.834848Z",
  "date": "2026-09-27",
  "source": "board",
  "games": [
@@ -40,7 +40,7 @@
    "edge_bets": [],
    "cur_home": 0,
    "cur_away": 0,
-   "minute": 87,
+   "minute": 90,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
@@ -97,7 +97,7 @@
     "3-1": 0.05,
     "2-3": 0.0235,
     "3-2": 0.0325,
-    "3-3": 0.014,
+    "3-3": 0.0135,
     "Other": 0.11
    },
    "edge_bets": [],
