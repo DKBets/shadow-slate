@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-09-28T00:46:03.785427Z",
- "slate_generated_utc": "2026-09-28T00:42:05.886863Z",
+ "generated_utc": "2026-09-28T00:51:39.979737Z",
+ "slate_generated_utc": "2026-09-28T00:50:13.618932Z",
  "date": "2026-09-27",
  "source": "board",
  "games": [
@@ -86,19 +86,19 @@
     "0-1": 0.0005,
     "1-0": 0.0025,
     "0-2": 0.002,
-    "1-1": 0.26,
+    "1-1": 0.295,
     "2-0": 0.002,
     "0-3": 0.0005,
-    "1-2": 0.195,
+    "1-2": 0.26,
     "2-1": 0.175,
     "3-0": 0.0005,
-    "1-3": 0.0655,
-    "2-2": 0.13,
-    "3-1": 0.052,
-    "2-3": 0.1015,
-    "3-2": 0.035,
-    "3-3": 0.111,
-    "Other": 0.5
+    "1-3": 0.072,
+    "2-2": 0.1,
+    "3-1": 0.0895,
+    "2-3": 0.1045,
+    "3-2": 0.115,
+    "3-3": 0.09,
+    "Other": 0.4
    },
    "edge_bets": [],
    "cur_home": 1,
@@ -128,15 +128,15 @@
     "0-1": 0.0045,
     "1-0": 0.0045,
     "0-2": 0.0045,
-    "1-1": 0.5,
+    "1-1": 0.005,
     "2-0": 0.0045,
     "0-3": 0.0045,
-    "1-2": 0.5,
-    "2-1": 0.5,
+    "1-2": 0.005,
+    "2-1": 0.495,
     "3-0": 0.0045,
-    "1-3": 0.5,
-    "2-2": 0.5,
-    "3-1": 0.5,
+    "1-3": 0.005,
+    "2-2": 0.1655,
+    "3-1": 0.187,
     "2-3": 0.5,
     "3-2": 0.5,
     "3-3": 0.5,
@@ -196,30 +196,23 @@
     "0-3": 0.0065,
     "1-2": 0.0425,
     "2-1": 0.105,
-    "3-0": 0.0735,
+    "3-0": 0.0715,
     "1-3": 0.0115,
     "2-2": 0.0515,
-    "3-1": 0.0685,
+    "3-1": 0.0675,
     "2-3": 0.0145,
-    "3-2": 0.0345,
-    "3-3": 0.011,
+    "3-2": 0.035,
+    "3-3": 0.0105,
     "Other": 0.15
    },
    "edge_bets": [],
    "cur_home": 0,
    "cur_away": 0,
    "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": true,
-   "shadow_totals": [
-    {
-     "sel": "Over 1.5",
-     "prob": 0.7647,
-     "price": 0.795,
-     "stake": 200.0
-    }
-   ]
+   "shadow_bet": true,
+   "shadow_status": "open",
+   "shadow_pending": false,
+   "shadow_totals": []
   },
   {
    "home": "Club Necaxa",
@@ -287,41 +280,6 @@
  ],
  "shadow": {
   "recent": [
-   {
-    "home": "Chelsea FC",
-    "away": "Hull City AFC",
-    "league": "Premier League",
-    "kickoff_utc": "2026-09-12T14:00Z",
-    "status": "settled",
-    "stake": 500.0,
-    "hit_pre": 0.475,
-    "legs": [
-     {
-      "score": "2-0",
-      "price": 0.12
-     },
-     {
-      "score": "2-1",
-      "price": 0.1
-     },
-     {
-      "score": "3-0",
-      "price": 0.11
-     },
-     {
-      "score": "3-1",
-      "price": 0.09
-     },
-     {
-      "score": "1-0",
-      "price": 0.08
-     }
-    ],
-    "won": false,
-    "pnl": -500.0,
-    "final": "2-2",
-    "reason": "top-of-day pick — Core 60%"
-   },
    {
     "home": "Vancouver Whitecaps FC",
     "away": "Austin FC",
@@ -714,6 +672,45 @@
     "pnl": 390.68,
     "final": "1-0",
     "reason": "top-of-day pick — Core 56%"
+   },
+   {
+    "home": "Club León FC",
+    "away": "FC Juárez",
+    "league": "Liga MX",
+    "kickoff_utc": "2026-09-28T01:00Z",
+    "status": "open",
+    "stake": 500.0,
+    "hit_pre": 0.5585,
+    "legs": [
+     {
+      "score": "1-0",
+      "price": 0.12
+     },
+     {
+      "score": "1-1",
+      "price": 0.11
+     },
+     {
+      "score": "2-1",
+      "price": 0.11
+     },
+     {
+      "score": "2-0",
+      "price": 0.11
+     },
+     {
+      "score": "3-0",
+      "price": 0.072
+     },
+     {
+      "score": "3-1",
+      "price": 0.068
+     }
+    ],
+    "won": null,
+    "pnl": null,
+    "final": null,
+    "reason": "top-of-day pick — Core 54%"
    }
   ],
   "pending": [
@@ -725,25 +722,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8456,
+      "prob": 0.846,
       "price": 0.875,
       "stake": 200.0,
-      "ev_pct": -3.4
-     }
-    ]
-   },
-   {
-    "home": "Club León FC",
-    "away": "FC Juárez",
-    "league": "Liga MX",
-    "kickoff_utc": "2026-09-28T01:00Z",
-    "totals": [
-     {
-      "sel": "Over 1.5",
-      "prob": 0.7647,
-      "price": 0.795,
-      "stake": 200.0,
-      "ev_pct": -3.8
+      "ev_pct": -3.3
      }
     ]
    }
