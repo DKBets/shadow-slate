@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-09-28T23:59:17.662227Z",
- "slate_generated_utc": "2026-09-28T23:55:16.457065Z",
+ "generated_utc": "2026-09-29T00:04:20.696476Z",
+ "slate_generated_utc": "2026-09-29T00:02:25.634828Z",
  "date": "2026-09-28",
  "source": "board",
  "games": [],
@@ -441,6 +441,21 @@
   ],
   "pending": [
    {
+    "home": "New York Red Bulls",
+    "away": "St. Louis City SC",
+    "league": "MLS",
+    "kickoff_utc": "2026-09-30T23:30Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.8265,
+      "price": 0.875,
+      "stake": 200.0,
+      "ev_pct": -5.5
+     }
+    ]
+   },
+   {
     "home": "Seattle Sounders FC",
     "away": "Sporting Kansas City",
     "league": "MLS",
@@ -448,7 +463,7 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8374,
+      "prob": 0.8371,
       "price": 0.875,
       "stake": 200.0,
       "ev_pct": -4.3
