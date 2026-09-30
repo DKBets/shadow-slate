@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-09-30T00:09:11.891390Z",
- "slate_generated_utc": "2026-09-30T00:08:59.800003Z",
+ "generated_utc": "2026-09-30T00:14:19.786315Z",
+ "slate_generated_utc": "2026-09-30T00:10:09.542316Z",
  "date": "2026-09-29",
  "source": "board",
  "games": [],
@@ -448,7 +448,7 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.821,
+      "prob": 0.8206,
       "price": 0.865,
       "stake": 200.0,
       "ev_pct": -5.1
@@ -459,7 +459,7 @@
     "home": "Seattle Sounders FC",
     "away": "Sporting Kansas City",
     "league": "MLS",
-    "kickoff_utc": "2026-10-02T01:30:00Z",
+    "kickoff_utc": "2026-10-02T01:30Z",
     "totals": [
      {
       "sel": "Over 1.5",
