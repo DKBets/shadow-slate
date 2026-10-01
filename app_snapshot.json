@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-01T08:01:08.309089Z",
- "slate_generated_utc": "2026-10-01T07:59:48.961302Z",
+ "generated_utc": "2026-10-01T08:06:10.622084Z",
+ "slate_generated_utc": "2026-10-01T08:02:05.992496Z",
  "date": "2026-10-01",
  "source": "board",
  "games": [
@@ -56,7 +56,7 @@
     "2-3": 0.0225,
     "3-2": 0.0505,
     "3-3": 0.02,
-    "Other": 0.25
+    "Other": 0.245
    },
    "edge_bets": [],
    "cur_home": 0,
