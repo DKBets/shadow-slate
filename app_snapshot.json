@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-02T21:22:53.620385Z",
- "slate_generated_utc": "2026-10-02T21:21:10.194826Z",
+ "generated_utc": "2026-10-02T21:28:06.751191Z",
+ "slate_generated_utc": "2026-10-02T21:26:19.103316Z",
  "date": "2026-10-02",
  "source": "board",
  "games": [
@@ -12,8 +12,8 @@
    "kickoff_local": "7:00 PM",
    "status": "pre",
    "pm_slug": "bra-sao-san-2026-10-02-exact-score",
-   "lamH": 1.513,
-   "lamA": 1.146,
+   "lamH": 1.534,
+   "lamA": 1.076,
    "hasModel": true,
    "news_adj": null,
    "top_scores": [
@@ -23,19 +23,19 @@
     },
     {
      "score": "1-0",
-     "prob": 0.0988
+     "prob": 0.1056
     },
     {
      "score": "2-1",
-     "prob": 0.0919
+     "prob": 0.0932
     },
     {
      "score": "2-0",
-     "prob": 0.0802
+     "prob": 0.0866
     },
     {
      "score": "0-0",
-     "prob": 0.0774
+     "prob": 0.0809
     }
    ],
    "provisional": false,
@@ -98,7 +98,7 @@
     "2-3": 0.022,
     "3-2": 0.02,
     "3-3": 0.013,
-    "Other": 0.37
+    "Other": 0.375
    },
    "edge_bets": [],
    "cur_home": 0,
@@ -140,7 +140,7 @@
     "2-3": 0.0275,
     "3-2": 0.03,
     "3-3": 0.0135,
-    "Other": 0.125
+    "Other": 0.205
    },
    "edge_bets": [],
    "cur_home": 0,
@@ -619,10 +619,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8177,
+      "prob": 0.8132,
       "price": 0.85,
       "stake": 200.0,
-      "ev_pct": -3.8
+      "ev_pct": -4.3
      }
     ]
    }
