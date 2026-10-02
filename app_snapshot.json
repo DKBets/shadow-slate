@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-02T00:07:08.763709Z",
- "slate_generated_utc": "2026-10-02T00:06:58.709204Z",
+ "generated_utc": "2026-10-02T00:12:47.503088Z",
+ "slate_generated_utc": "2026-10-02T00:08:11.291666Z",
  "date": "2026-10-01",
  "source": "board",
  "games": [
@@ -12,30 +12,30 @@
    "kickoff_local": "9:30 PM",
    "status": "pre",
    "pm_slug": "mls-sea-skc-2026-10-01-exact-score",
-   "lamH": 2.025,
-   "lamA": 1.104,
+   "lamH": 2.105,
+   "lamA": 1.344,
    "hasModel": true,
    "news_adj": null,
    "top_scores": [
     {
      "score": "1-1",
-     "prob": 0.1042
+     "prob": 0.0959
     },
     {
      "score": "2-1",
-     "prob": 0.0996
+     "prob": 0.0952
     },
     {
      "score": "2-0",
-     "prob": 0.0902
-    },
-    {
-     "score": "1-0",
-     "prob": 0.0832
+     "prob": 0.0709
     },
     {
      "score": "3-1",
-     "prob": 0.0672
+     "prob": 0.0668
+    },
+    {
+     "score": "2-2",
+     "prob": 0.064
     }
    ],
    "provisional": false,
@@ -47,16 +47,16 @@
     "1-1": 0.085,
     "2-0": 0.065,
     "0-3": 0.0095,
-    "1-2": 0.0475,
+    "1-2": 0.048,
     "2-1": 0.095,
     "3-0": 0.055,
     "1-3": 0.0205,
     "2-2": 0.0655,
     "3-1": 0.075,
-    "2-3": 0.0255,
-    "3-2": 0.052,
+    "2-3": 0.026,
+    "3-2": 0.0515,
     "3-3": 0.023,
-    "Other": 0.25
+    "Other": 0.255
    },
    "edge_bets": [],
    "cur_home": 0,
@@ -68,7 +68,7 @@
    "shadow_totals": [
     {
      "sel": "Over 1.5",
-     "prob": 0.8363,
+     "prob": 0.837,
      "price": 0.885,
      "stake": 200.0
     }
@@ -538,10 +538,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8363,
+      "prob": 0.837,
       "price": 0.885,
       "stake": 200.0,
-      "ev_pct": -5.5
+      "ev_pct": -5.4
      }
     ]
    }
