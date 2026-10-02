@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-02T20:16:07.138768Z",
- "slate_generated_utc": "2026-10-02T20:04:06.571572Z",
+ "generated_utc": "2026-10-02T20:21:15.476749Z",
+ "slate_generated_utc": "2026-10-02T20:18:52.307270Z",
  "date": "2026-10-02",
  "source": "files",
  "games": [
@@ -522,17 +522,17 @@
   ],
   "pending": [
    {
-    "home": "BV Borussia 09 Dortmund",
-    "away": "SV Werder Bremen",
-    "league": "Bundesliga",
-    "kickoff_utc": "2026-10-09T18:30:00Z",
+    "home": "Málaga CF",
+    "away": "RCD Espanyol de Barcelona",
+    "league": "La Liga",
+    "kickoff_utc": "2026-10-09T19:00:00Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8935,
-      "price": 0.88,
+      "prob": 0.8533,
+      "price": 0.72,
       "stake": 200.0,
-      "ev_pct": 1.5
+      "ev_pct": 18.5
      }
     ]
    },
@@ -544,10 +544,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8184,
-      "price": 0.85,
+      "prob": 0.8117,
+      "price": 0.845,
       "stake": 200.0,
-      "ev_pct": -3.7
+      "ev_pct": -3.9
      }
     ]
    }
