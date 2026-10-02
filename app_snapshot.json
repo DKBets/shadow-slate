@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-02T20:47:05.077292Z",
- "slate_generated_utc": "2026-10-02T20:33:25.804640Z",
+ "generated_utc": "2026-10-02T20:52:05.239977Z",
+ "slate_generated_utc": "2026-10-02T20:47:32.763636Z",
  "date": "2026-10-02",
  "source": "files",
  "games": [
@@ -522,21 +522,6 @@
   ],
   "pending": [
    {
-    "home": "BV Borussia 09 Dortmund",
-    "away": "SV Werder Bremen",
-    "league": "Bundesliga",
-    "kickoff_utc": "2026-10-09T18:30:00Z",
-    "totals": [
-     {
-      "sel": "Over 1.5",
-      "prob": 0.8926,
-      "price": 0.88,
-      "stake": 200.0,
-      "ev_pct": 1.4
-     }
-    ]
-   },
-   {
     "home": "Chicago Fire FC",
     "away": "Vancouver Whitecaps FC",
     "league": "MLS",
@@ -544,10 +529,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8177,
+      "prob": 0.8133,
       "price": 0.845,
       "stake": 200.0,
-      "ev_pct": -3.2
+      "ev_pct": -3.8
      }
     ]
    }
