@@ -1,72 +1,9 @@
 {
- "generated_utc": "2026-10-03T03:33:44.698580Z",
- "slate_generated_utc": "2026-10-03T03:29:19.823352Z",
+ "generated_utc": "2026-10-03T03:39:06.582531Z",
+ "slate_generated_utc": "2026-10-03T03:36:46.870810Z",
  "date": "2026-10-02",
  "source": "board",
  "games": [
-  {
-   "home": "São Paulo FC",
-   "away": "Santos FC",
-   "league_name": "Brasileirao",
-   "kickoff_utc": "2026-10-02T23:00Z",
-   "kickoff_local": "7:00 PM",
-   "status": "post",
-   "pm_slug": "bra-sao-san-2026-10-02-exact-score",
-   "lamH": 1.534,
-   "lamA": 1.075,
-   "hasModel": true,
-   "news_adj": null,
-   "top_scores": [
-    {
-     "score": "1-1",
-     "prob": 0.1288
-    },
-    {
-     "score": "1-0",
-     "prob": 0.1058
-    },
-    {
-     "score": "2-1",
-     "prob": 0.0932
-    },
-    {
-     "score": "2-0",
-     "prob": 0.0867
-    },
-    {
-     "score": "0-0",
-     "prob": 0.081
-    }
-   ],
-   "provisional": false,
-   "market": {
-    "0-0": 0.0,
-    "0-1": 0.5,
-    "1-0": 0.0005,
-    "0-2": 0.0005,
-    "1-1": 0.0005,
-    "2-0": 0.0005,
-    "0-3": 0.0,
-    "1-2": 0.9995,
-    "2-1": 0.0005,
-    "3-0": 0.0005,
-    "1-3": 0.0005,
-    "2-2": 0.0005,
-    "3-1": 0.0,
-    "2-3": 0.0005,
-    "3-2": 0.0,
-    "3-3": 0.0005,
-    "Other": 0.0
-   },
-   "edge_bets": [],
-   "cur_home": 1,
-   "cur_away": 2,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
   {
    "home": "Orlando Pride",
    "away": "San Diego Wave FC",
@@ -125,27 +62,27 @@
    "provisional": false,
    "market": {
     "0-0": 0.0045,
-    "0-1": 0.235,
-    "1-0": 0.0045,
-    "0-2": 0.563,
-    "1-1": 0.125,
-    "2-0": 0.0045,
-    "0-3": 0.5115,
-    "1-2": 0.493,
-    "2-1": 0.0545,
-    "3-0": 0.0045,
-    "1-3": 0.384,
-    "2-2": 0.2815,
-    "3-1": 0.4965,
+    "0-1": 0.475,
+    "1-0": 0.0035,
+    "0-2": 0.135,
+    "1-1": 0.22,
+    "2-0": 0.0035,
+    "0-3": 0.016,
+    "1-2": 0.05,
+    "2-1": 0.0375,
+    "3-0": 0.0035,
+    "1-3": 0.004,
+    "2-2": 0.169,
+    "3-1": 0.4985,
     "2-3": 0.4985,
-    "3-2": 0.5,
+    "3-2": 0.0375,
     "3-3": 0.4985,
     "Other": 0.5
    },
    "edge_bets": [],
    "cur_home": 0,
    "cur_away": 1,
-   "minute": 64,
+   "minute": 69,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
@@ -604,10 +541,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.813,
+      "prob": 0.8134,
       "price": 0.85,
       "stake": 200.0,
-      "ev_pct": -4.4
+      "ev_pct": -4.3
      }
     ]
    },
@@ -619,7 +556,7 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8359,
+      "prob": 0.836,
       "price": 0.76,
       "stake": 200.0,
       "ev_pct": 10.0
