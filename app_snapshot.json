@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-03T01:01:34.145628Z",
- "slate_generated_utc": "2026-10-03T00:59:32.957227Z",
+ "generated_utc": "2026-10-03T01:06:50.174359Z",
+ "slate_generated_utc": "2026-10-03T01:06:15.204377Z",
  "date": "2026-10-02",
  "source": "board",
  "games": [
@@ -47,21 +47,21 @@
     "1-1": 0.002,
     "2-0": 0.0005,
     "0-3": 0.0005,
-    "1-2": 0.735,
+    "1-2": 0.905,
     "2-1": 0.002,
     "3-0": 0.0005,
-    "1-3": 0.0705,
-    "2-2": 0.1595,
+    "1-3": 0.0825,
+    "2-2": 0.093,
     "3-1": 0.002,
-    "2-3": 0.1455,
-    "3-2": 0.014,
+    "2-3": 0.012,
+    "3-2": 0.058,
     "3-3": 0.0625,
     "Other": 0.44
    },
    "edge_bets": [],
    "cur_home": 1,
    "cur_away": 2,
-   "minute": 86,
+   "minute": 92,
    "shadow_bet": false,
    "shadow_status": null,
    "shadow_pending": false,
@@ -127,7 +127,7 @@
     "0-0": 0.055,
     "0-1": 0.075,
     "1-0": 0.075,
-    "0-2": 0.0515,
+    "0-2": 0.051,
     "1-1": 0.13,
     "2-0": 0.0545,
     "0-3": 0.023,
@@ -140,7 +140,7 @@
     "2-3": 0.0275,
     "3-2": 0.03,
     "3-3": 0.0135,
-    "Other": 0.23
+    "Other": 0.135
    },
    "edge_bets": [],
    "cur_home": 0,
@@ -597,21 +597,6 @@
   ],
   "pending": [
    {
-    "home": "BV Borussia 09 Dortmund",
-    "away": "SV Werder Bremen",
-    "league": "Bundesliga",
-    "kickoff_utc": "2026-10-09T18:30:00Z",
-    "totals": [
-     {
-      "sel": "Over 1.5",
-      "prob": 0.8915,
-      "price": 0.88,
-      "stake": 200.0,
-      "ev_pct": 1.3
-     }
-    ]
-   },
-   {
     "home": "Chicago Fire FC",
     "away": "Vancouver Whitecaps FC",
     "league": "MLS",
@@ -619,10 +604,25 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8134,
+      "prob": 0.813,
       "price": 0.85,
       "stake": 200.0,
-      "ev_pct": -4.3
+      "ev_pct": -4.4
+     }
+    ]
+   },
+   {
+    "home": "Club Puebla",
+    "away": "Club León FC",
+    "league": "Liga MX",
+    "kickoff_utc": "2026-10-10T01:00:00Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.836,
+      "price": 0.76,
+      "stake": 200.0,
+      "ev_pct": 10.0
      }
     ]
    }
