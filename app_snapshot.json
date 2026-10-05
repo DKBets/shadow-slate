@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-05T09:02:39.848858Z",
- "slate_generated_utc": "2026-10-05T08:57:48.773547Z",
+ "generated_utc": "2026-10-05T09:07:44.764336Z",
+ "slate_generated_utc": "2026-10-05T09:04:19.443470Z",
  "date": "2026-10-05",
  "source": "board",
  "games": [],
@@ -456,25 +456,40 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8585,
+      "prob": 0.8533,
       "price": 0.72,
       "stake": 200.0,
-      "ev_pct": 19.2
+      "ev_pct": 18.5
      }
     ]
    },
    {
-    "home": "SSC Napoli",
-    "away": "Frosinone Calcio",
-    "league": "Serie A",
-    "kickoff_utc": "2026-10-10T18:45:00Z",
+    "home": "Deportivo Alavés",
+    "away": "Club Atlético de Madrid",
+    "league": "La Liga",
+    "kickoff_utc": "2026-10-10T14:15:00Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8447,
-      "price": 0.845,
+      "prob": 0.8674,
+      "price": 0.765,
       "stake": 200.0,
-      "ev_pct": -0.0
+      "ev_pct": 13.4
+     }
+    ]
+   },
+   {
+    "home": "Cagliari Calcio",
+    "away": "Juventus FC",
+    "league": "Serie A",
+    "kickoff_utc": "2026-10-11T18:45:00Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.8672,
+      "price": 0.725,
+      "stake": 200.0,
+      "ev_pct": 19.6
      }
     ]
    },
@@ -486,10 +501,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8176,
+      "prob": 0.8161,
       "price": 0.855,
       "stake": 200.0,
-      "ev_pct": -4.4
+      "ev_pct": -4.5
      }
     ]
    }
