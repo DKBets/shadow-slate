@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-05T01:38:03.356552Z",
- "slate_generated_utc": "2026-10-05T01:33:54.674140Z",
+ "generated_utc": "2026-10-05T01:43:06.584881Z",
+ "slate_generated_utc": "2026-10-05T01:40:47.953865Z",
  "date": "2026-10-04",
  "source": "board",
  "games": [
@@ -561,10 +561,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8446,
+      "prob": 0.839,
       "price": 0.72,
       "stake": 200.0,
-      "ev_pct": 17.3
+      "ev_pct": 16.5
      }
     ]
    },
