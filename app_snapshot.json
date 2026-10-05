@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-05T09:28:23.736545Z",
- "slate_generated_utc": "2026-10-05T09:24:13.055109Z",
+ "generated_utc": "2026-10-05T09:34:03.561340Z",
+ "slate_generated_utc": "2026-10-05T09:30:50.345542Z",
  "date": "2026-10-05",
  "source": "board",
  "games": [],
@@ -456,25 +456,25 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8508,
+      "prob": 0.8459,
       "price": 0.72,
       "stake": 200.0,
-      "ev_pct": 18.2
+      "ev_pct": 17.5
      }
     ]
    },
    {
-    "home": "Deportivo Alavés",
-    "away": "Club Atlético de Madrid",
+    "home": "Rayo Vallecano de Madrid",
+    "away": "Athletic Club",
     "league": "La Liga",
-    "kickoff_utc": "2026-10-10T14:15:00Z",
+    "kickoff_utc": "2026-10-10T12:00:00Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8697,
-      "price": 0.765,
+      "prob": 0.8705,
+      "price": 0.745,
       "stake": 200.0,
-      "ev_pct": 13.7
+      "ev_pct": 16.8
      }
     ]
    },
