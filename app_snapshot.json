@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-05T09:39:07.730971Z",
- "slate_generated_utc": "2026-10-05T09:34:45.160487Z",
+ "generated_utc": "2026-10-05T09:44:37.073532Z",
+ "slate_generated_utc": "2026-10-05T09:40:27.737810Z",
  "date": "2026-10-05",
  "source": "board",
  "games": [],
@@ -456,7 +456,7 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8459,
+      "prob": 0.8457,
       "price": 0.72,
       "stake": 200.0,
       "ev_pct": 17.5
@@ -464,17 +464,17 @@
     ]
    },
    {
-    "home": "Rayo Vallecano de Madrid",
-    "away": "Athletic Club",
-    "league": "La Liga",
-    "kickoff_utc": "2026-10-10T12:00:00Z",
+    "home": "TSG 1899 Hoffenheim",
+    "away": "Hamburger SV",
+    "league": "Bundesliga",
+    "kickoff_utc": "2026-10-10T13:30:00Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8705,
-      "price": 0.745,
+      "prob": 0.831,
+      "price": 0.875,
       "stake": 200.0,
-      "ev_pct": 16.8
+      "ev_pct": -5.0
      }
     ]
    },
@@ -486,10 +486,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8672,
+      "prob": 0.8643,
       "price": 0.725,
       "stake": 200.0,
-      "ev_pct": 19.6
+      "ev_pct": 19.2
      }
     ]
    },
@@ -501,7 +501,7 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8162,
+      "prob": 0.8163,
       "price": 0.855,
       "stake": 200.0,
       "ev_pct": -4.5
