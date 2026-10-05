@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-05T04:50:33.833631Z",
- "slate_generated_utc": "2026-10-05T04:46:47.564132Z",
+ "generated_utc": "2026-10-05T04:56:06.122342Z",
+ "slate_generated_utc": "2026-10-05T04:54:17.522943Z",
  "date": "2026-10-05",
  "source": "board",
  "games": [],
@@ -456,10 +456,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8316,
+      "prob": 0.8312,
       "price": 0.72,
       "stake": 200.0,
-      "ev_pct": 15.5
+      "ev_pct": 15.4
      }
     ]
    },
@@ -475,21 +475,6 @@
       "price": 0.945,
       "stake": 200.0,
       "ev_pct": -12.3
-     }
-    ]
-   },
-   {
-    "home": "Cagliari Calcio",
-    "away": "Juventus FC",
-    "league": "Serie A",
-    "kickoff_utc": "2026-10-11T18:45:00Z",
-    "totals": [
-     {
-      "sel": "Over 1.5",
-      "prob": 0.867,
-      "price": 0.725,
-      "stake": 200.0,
-      "ev_pct": 19.6
      }
     ]
    },
