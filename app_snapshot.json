@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-05T10:15:54.911305Z",
- "slate_generated_utc": "2026-10-05T10:15:40.595195Z",
+ "generated_utc": "2026-10-05T10:21:01.776882Z",
+ "slate_generated_utc": "2026-10-05T10:17:08.451633Z",
  "date": "2026-10-05",
  "source": "board",
  "games": [],
@@ -456,25 +456,25 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8422,
+      "prob": 0.842,
       "price": 0.72,
       "stake": 200.0,
-      "ev_pct": 17.0
+      "ev_pct": 16.9
      }
     ]
    },
    {
-    "home": "SC Paderborn 07",
-    "away": "VfB Stuttgart",
+    "home": "TSG 1899 Hoffenheim",
+    "away": "Hamburger SV",
     "league": "Bundesliga",
     "kickoff_utc": "2026-10-10T13:30:00Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8761,
+      "prob": 0.8306,
       "price": 0.875,
       "stake": 200.0,
-      "ev_pct": 0.1
+      "ev_pct": -5.1
      }
     ]
    },
@@ -486,7 +486,7 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8162,
+      "prob": 0.8163,
       "price": 0.855,
       "stake": 200.0,
       "ev_pct": -4.5
