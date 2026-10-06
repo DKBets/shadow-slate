@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-06T00:20:55.028200Z",
- "slate_generated_utc": "2026-10-06T00:17:04.367207Z",
+ "generated_utc": "2026-10-06T00:26:07.042843Z",
+ "slate_generated_utc": "2026-10-06T00:23:44.726476Z",
  "date": "2026-10-05",
  "source": "board",
  "games": [],
@@ -449,6 +449,21 @@
   ],
   "pending": [
    {
+    "home": "Ipswich Town FC",
+    "away": "Fulham FC",
+    "league": "Premier League",
+    "kickoff_utc": "2026-10-10T14:00:00Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.8668,
+      "price": 0.78,
+      "stake": 200.0,
+      "ev_pct": 11.1
+     }
+    ]
+   },
+   {
     "home": "Málaga CF",
     "away": "RCD Espanyol de Barcelona",
     "league": "La Liga",
@@ -456,25 +471,25 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8669,
+      "prob": 0.8579,
       "price": 0.72,
       "stake": 200.0,
-      "ev_pct": 20.4
+      "ev_pct": 19.2
      }
     ]
    },
    {
-    "home": "Stade Brestois 29",
-    "away": "Angers SCO",
-    "league": "Ligue 1",
-    "kickoff_utc": "2026-10-10T18:45:00Z",
+    "home": "Como 1907",
+    "away": "AS Roma",
+    "league": "Serie A",
+    "kickoff_utc": "2026-10-11T10:30:00Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.9558,
-      "price": 0.775,
+      "prob": 0.8777,
+      "price": 0.8,
       "stake": 200.0,
-      "ev_pct": 23.3
+      "ev_pct": 9.7
      }
     ]
    },
@@ -486,7 +501,7 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8102,
+      "prob": 0.8106,
       "price": 0.855,
       "stake": 200.0,
       "ev_pct": -5.2
