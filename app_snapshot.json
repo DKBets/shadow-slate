@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-06T11:22:53.442819Z",
- "slate_generated_utc": "2026-10-06T11:18:21.189366Z",
+ "generated_utc": "2026-10-06T11:27:51.394806Z",
+ "slate_generated_utc": "2026-10-06T11:24:51.825071Z",
  "date": "2026-10-06",
  "source": "board",
  "games": [
@@ -47,7 +47,7 @@
     "1-1": 0.105,
     "2-0": 0.039,
     "0-3": 0.0325,
-    "1-2": 0.09,
+    "1-2": 0.0905,
     "2-1": 0.074,
     "3-0": 0.021,
     "1-3": 0.0525,
@@ -68,7 +68,7 @@
    "shadow_totals": [
     {
      "sel": "Over 1.5",
-     "prob": 0.8155,
+     "prob": 0.8151,
      "price": 0.855,
      "stake": 200.0
     }
@@ -520,32 +520,47 @@
   ],
   "pending": [
    {
-    "home": "Ipswich Town FC",
-    "away": "Fulham FC",
+    "home": "Aston Villa FC",
+    "away": "Brentford FC",
     "league": "Premier League",
     "kickoff_utc": "2026-10-10T14:00:00Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8623,
-      "price": 0.775,
+      "prob": 0.8564,
+      "price": 0.79,
       "stake": 200.0,
-      "ev_pct": 11.3
+      "ev_pct": 8.4
      }
     ]
    },
    {
-    "home": "Málaga CF",
-    "away": "RCD Espanyol de Barcelona",
-    "league": "La Liga",
-    "kickoff_utc": "2026-10-09T19:00:00Z",
+    "home": "BV Borussia 09 Dortmund",
+    "away": "SV Werder Bremen",
+    "league": "Bundesliga",
+    "kickoff_utc": "2026-10-09T18:30:00Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8296,
-      "price": 0.715,
+      "prob": 0.8888,
+      "price": 0.87,
       "stake": 200.0,
-      "ev_pct": 16.0
+      "ev_pct": 2.2
+     }
+    ]
+   },
+   {
+    "home": "Como 1907",
+    "away": "AS Roma",
+    "league": "Serie A",
+    "kickoff_utc": "2026-10-11T10:30:00Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.8607,
+      "price": 0.805,
+      "stake": 200.0,
+      "ev_pct": 6.9
      }
     ]
    },
@@ -557,10 +572,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8155,
+      "prob": 0.8151,
       "price": 0.855,
       "stake": 200.0,
-      "ev_pct": -4.6
+      "ev_pct": -4.7
      }
     ]
    }
