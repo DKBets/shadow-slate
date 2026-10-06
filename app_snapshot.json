@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-06T11:02:08.918968Z",
- "slate_generated_utc": "2026-10-06T10:58:32.451028Z",
+ "generated_utc": "2026-10-06T11:07:36.138880Z",
+ "slate_generated_utc": "2026-10-06T11:06:03.888533Z",
  "date": "2026-10-06",
  "source": "board",
  "games": [
@@ -56,7 +56,7 @@
     "2-3": 0.0425,
     "3-2": 0.035,
     "3-3": 0.0225,
-    "Other": 0.177
+    "Other": 0.1795
    },
    "edge_bets": [],
    "cur_home": 0,
@@ -527,25 +527,25 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8634,
+      "prob": 0.8628,
       "price": 0.775,
       "stake": 200.0,
-      "ev_pct": 11.4
+      "ev_pct": 11.3
      }
     ]
    },
    {
-    "home": "Málaga CF",
-    "away": "RCD Espanyol de Barcelona",
-    "league": "La Liga",
-    "kickoff_utc": "2026-10-09T19:00:00Z",
+    "home": "BV Borussia 09 Dortmund",
+    "away": "SV Werder Bremen",
+    "league": "Bundesliga",
+    "kickoff_utc": "2026-10-09T18:30:00Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8306,
-      "price": 0.715,
+      "prob": 0.8826,
+      "price": 0.87,
       "stake": 200.0,
-      "ev_pct": 16.2
+      "ev_pct": 1.4
      }
     ]
    },
