@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-06T16:00:29.933642Z",
- "slate_generated_utc": "2026-10-06T15:55:56.225123Z",
+ "generated_utc": "2026-10-06T16:05:21.916063Z",
+ "slate_generated_utc": "2026-10-06T16:01:51.864590Z",
  "date": "2026-10-06",
  "source": "board",
  "games": [
@@ -42,7 +42,7 @@
    "market": {
     "0-0": 0.0345,
     "0-1": 0.054,
-    "1-0": 0.0435,
+    "1-0": 0.044,
     "0-2": 0.051,
     "1-1": 0.095,
     "2-0": 0.0365,
@@ -68,7 +68,7 @@
    "shadow_totals": [
     {
      "sel": "Over 1.5",
-     "prob": 0.8289,
+     "prob": 0.8285,
      "price": 0.875,
      "stake": 200.0
     }
@@ -520,6 +520,21 @@
   ],
   "pending": [
    {
+    "home": "Ipswich Town FC",
+    "away": "Fulham FC",
+    "league": "Premier League",
+    "kickoff_utc": "2026-10-10T14:00:00Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.8604,
+      "price": 0.785,
+      "stake": 200.0,
+      "ev_pct": 9.6
+     }
+    ]
+   },
+   {
     "home": "Málaga CF",
     "away": "RCD Espanyol de Barcelona",
     "league": "La Liga",
@@ -527,25 +542,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8518,
+      "prob": 0.8411,
       "price": 0.715,
       "stake": 200.0,
-      "ev_pct": 19.1
-     }
-    ]
-   },
-   {
-    "home": "Stade Brestois 29",
-    "away": "Angers SCO",
-    "league": "Ligue 1",
-    "kickoff_utc": "2026-10-10T18:45:00Z",
-    "totals": [
-     {
-      "sel": "Over 1.5",
-      "prob": 0.9559,
-      "price": 0.77,
-      "stake": 200.0,
-      "ev_pct": 24.1
+      "ev_pct": 17.6
      }
     ]
    },
@@ -557,7 +557,7 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8289,
+      "prob": 0.8285,
       "price": 0.875,
       "stake": 200.0,
       "ev_pct": -5.3
