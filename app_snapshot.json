@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-07T16:04:15.742262Z",
- "slate_generated_utc": "2026-10-07T15:59:45.332107Z",
+ "generated_utc": "2026-10-07T16:09:33.660462Z",
+ "slate_generated_utc": "2026-10-07T16:05:52.384700Z",
  "date": "2026-10-07",
  "source": "board",
  "games": [
@@ -370,7 +370,7 @@
     "3-1": 0.0525,
     "2-3": 0.0155,
     "3-2": 0.0275,
-    "3-3": 0.008,
+    "3-3": 0.0085,
     "Other": 0.09
    },
    "edge_bets": [],
@@ -839,10 +839,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8145,
+      "prob": 0.8351,
       "price": 0.725,
       "stake": 200.0,
-      "ev_pct": 12.3
+      "ev_pct": 15.2
      }
     ]
    },
@@ -854,25 +854,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.9528,
+      "prob": 0.9526,
       "price": 0.78,
       "stake": 200.0,
-      "ev_pct": 22.2
-     }
-    ]
-   },
-   {
-    "home": "Sabah FK",
-    "away": "SK Slavia Praha",
-    "league": "Champions League",
-    "kickoff_utc": "2026-10-13T16:45:00Z",
-    "totals": [
-     {
-      "sel": "Over 1.5",
-      "prob": 0.871,
-      "price": 0.805,
-      "stake": 200.0,
-      "ev_pct": 8.2
+      "ev_pct": 22.1
      }
     ]
    }
