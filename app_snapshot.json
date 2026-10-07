@@ -1,9 +1,388 @@
 {
- "generated_utc": "2026-10-07T03:58:10.909274Z",
- "slate_generated_utc": "2026-10-07T03:53:39.648745Z",
- "date": "2026-10-06",
+ "generated_utc": "2026-10-07T04:03:56.803673Z",
+ "slate_generated_utc": "2026-10-07T03:59:28.795263Z",
+ "date": "2026-10-07",
  "source": "board",
- "games": [],
+ "games": [
+  {
+   "home": "Red Bull Bragantino",
+   "away": "Mirassol FC",
+   "league_name": "Brasileirao",
+   "kickoff_utc": "2026-10-07T22:30Z",
+   "kickoff_local": "6:30 PM",
+   "status": "pre",
+   "pm_slug": "bra-bra-mir-2026-10-07-exact-score",
+   "lamH": 1.209,
+   "lamA": 1.036,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-1",
+     "prob": 0.1407
+    },
+    {
+     "score": "1-0",
+     "prob": 0.1201
+    },
+    {
+     "score": "0-0",
+     "prob": 0.1139
+    },
+    {
+     "score": "0-1",
+     "prob": 0.1018
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0802
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.06,
+    "0-1": 0.06,
+    "1-0": 0.105,
+    "0-2": 0.0305,
+    "1-1": 0.12,
+    "2-0": 0.09,
+    "0-3": 0.01,
+    "1-2": 0.06,
+    "2-1": 0.105,
+    "3-0": 0.051,
+    "1-3": 0.0195,
+    "2-2": 0.0605,
+    "3-1": 0.056,
+    "2-3": 0.018,
+    "3-2": 0.0345,
+    "3-3": 0.0115,
+    "Other": 0.145
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Clube do Remo",
+   "away": "Grêmio FBPA",
+   "league_name": "Brasileirao",
+   "kickoff_utc": "2026-10-07T22:30Z",
+   "kickoff_local": "6:30 PM",
+   "status": "pre",
+   "pm_slug": "bra-cre-gre-2026-10-07-exact-score",
+   "lamH": 1.614,
+   "lamA": 1.022,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-1",
+     "prob": 0.1255
+    },
+    {
+     "score": "1-0",
+     "prob": 0.1087
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0955
+    },
+    {
+     "score": "2-0",
+     "prob": 0.0935
+    },
+    {
+     "score": "0-0",
+     "prob": 0.0789
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.075,
+    "0-1": 0.08,
+    "1-0": 0.1,
+    "0-2": 0.045,
+    "1-1": 0.135,
+    "2-0": 0.065,
+    "0-3": 0.02,
+    "1-2": 0.075,
+    "2-1": 0.09,
+    "3-0": 0.033,
+    "1-3": 0.0295,
+    "2-2": 0.062,
+    "3-1": 0.0405,
+    "2-3": 0.024,
+    "3-2": 0.0285,
+    "3-3": 0.013,
+    "Other": 0.085
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "SC Internacional",
+   "away": "SC Corinthians Paulista",
+   "league_name": "Brasileirao",
+   "kickoff_utc": "2026-10-07T22:30Z",
+   "kickoff_local": "6:30 PM",
+   "status": "pre",
+   "pm_slug": "bra-int-cor1-2026-10-07-exact-score",
+   "lamH": 1.099,
+   "lamA": 1.182,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-1",
+     "prob": 0.1408
+    },
+    {
+     "score": "0-1",
+     "prob": 0.1129
+    },
+    {
+     "score": "0-0",
+     "prob": 0.1102
+    },
+    {
+     "score": "1-0",
+     "prob": 0.1044
+    },
+    {
+     "score": "1-2",
+     "prob": 0.0785
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.09,
+    "0-1": 0.085,
+    "1-0": 0.115,
+    "0-2": 0.045,
+    "1-1": 0.145,
+    "2-0": 0.08,
+    "0-3": 0.0155,
+    "1-2": 0.067,
+    "2-1": 0.095,
+    "3-0": 0.0365,
+    "1-3": 0.0225,
+    "2-2": 0.0525,
+    "3-1": 0.042,
+    "2-3": 0.0175,
+    "3-2": 0.0245,
+    "3-3": 0.01,
+    "Other": 0.07
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "EC Vitória",
+   "away": "Associação Chapecoense de Futebol",
+   "league_name": "Brasileirao",
+   "kickoff_utc": "2026-10-07T23:00Z",
+   "kickoff_local": "7:00 PM",
+   "status": "pre",
+   "pm_slug": "bra-vit-cha-2026-10-07-exact-score",
+   "lamH": 1.222,
+   "lamA": 1.262,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-1",
+     "prob": 0.1364
+    },
+    {
+     "score": "0-1",
+     "prob": 0.0976
+    },
+    {
+     "score": "1-0",
+     "prob": 0.0943
+    },
+    {
+     "score": "0-0",
+     "prob": 0.0912
+    },
+    {
+     "score": "1-2",
+     "prob": 0.0812
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.07,
+    "0-1": 0.057,
+    "1-0": 0.125,
+    "0-2": 0.0245,
+    "1-1": 0.115,
+    "2-0": 0.1,
+    "0-3": 0.0075,
+    "1-2": 0.05,
+    "2-1": 0.1,
+    "3-0": 0.06,
+    "1-3": 0.0135,
+    "2-2": 0.0505,
+    "3-1": 0.058,
+    "2-3": 0.0145,
+    "3-2": 0.031,
+    "3-3": 0.0095,
+    "Other": 0.11
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Botafogo FR",
+   "away": "CR Vasco da Gama",
+   "league_name": "Brasileirao",
+   "kickoff_utc": "2026-10-07T23:30Z",
+   "kickoff_local": "7:30 PM",
+   "status": "pre",
+   "pm_slug": "bra-bot-vas-2026-10-07-exact-score",
+   "lamH": 1.373,
+   "lamA": 0.866,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-0",
+     "prob": 0.1388
+    },
+    {
+     "score": "1-1",
+     "prob": 0.1344
+    },
+    {
+     "score": "0-0",
+     "prob": 0.1142
+    },
+    {
+     "score": "2-0",
+     "prob": 0.1005
+    },
+    {
+     "score": "2-1",
+     "prob": 0.087
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.0615,
+    "0-1": 0.085,
+    "1-0": 0.075,
+    "0-2": 0.0615,
+    "1-1": 0.13,
+    "2-0": 0.049,
+    "0-3": 0.031,
+    "1-2": 0.09,
+    "2-1": 0.085,
+    "3-0": 0.023,
+    "1-3": 0.042,
+    "2-2": 0.065,
+    "3-1": 0.034,
+    "2-3": 0.031,
+    "3-2": 0.0275,
+    "3-3": 0.0145,
+    "Other": 0.11
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Cruzeiro EC",
+   "away": "São Paulo FC",
+   "league_name": "Brasileirao",
+   "kickoff_utc": "2026-10-08T00:30Z",
+   "kickoff_local": "8:30 PM",
+   "status": "pre",
+   "pm_slug": "bra-cru-sao-2026-10-07-exact-score",
+   "lamH": 1.824,
+   "lamA": 0.698,
+   "hasModel": true,
+   "news_adj": null,
+   "top_scores": [
+    {
+     "score": "1-0",
+     "prob": 0.1407
+    },
+    {
+     "score": "2-0",
+     "prob": 0.1339
+    },
+    {
+     "score": "1-1",
+     "prob": 0.1087
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0935
+    },
+    {
+     "score": "0-0",
+     "prob": 0.0867
+    }
+   ],
+   "provisional": false,
+   "market": {
+    "0-0": 0.075,
+    "0-1": 0.07,
+    "1-0": 0.12,
+    "0-2": 0.0315,
+    "1-1": 0.13,
+    "2-0": 0.095,
+    "0-3": 0.009,
+    "1-2": 0.06,
+    "2-1": 0.105,
+    "3-0": 0.0485,
+    "1-3": 0.0185,
+    "2-2": 0.053,
+    "3-1": 0.0525,
+    "2-3": 0.017,
+    "3-2": 0.028,
+    "3-3": 0.009,
+    "Other": 0.09
+   },
+   "edge_bets": [],
+   "cur_home": 0,
+   "cur_away": 0,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  }
+ ],
  "shadow": {
   "recent": [
    {
@@ -475,7 +854,7 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8065,
+      "prob": 0.8063,
       "price": 0.715,
       "stake": 200.0,
       "ev_pct": 12.8
