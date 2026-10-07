@@ -1,73 +1,9 @@
 {
- "generated_utc": "2026-10-07T03:00:43.754627Z",
- "slate_generated_utc": "2026-10-07T02:56:55.556972Z",
+ "generated_utc": "2026-10-07T03:06:07.020234Z",
+ "slate_generated_utc": "2026-10-07T03:03:39.901791Z",
  "date": "2026-10-06",
  "source": "board",
- "games": [
-  {
-   "home": "Chicago Fire FC",
-   "away": "Vancouver Whitecaps FC",
-   "league_name": "MLS",
-   "kickoff_utc": "2026-10-07T00:30Z",
-   "kickoff_local": "8:30 PM",
-   "status": "post",
-   "pm_slug": "mls-chi-vwh-2026-07-16-exact-score",
-   "lamH": 1.053,
-   "lamA": 1.929,
-   "hasModel": true,
-   "news_adj": null,
-   "top_scores": [
-    {
-     "score": "1-1",
-     "prob": 0.1096
-    },
-    {
-     "score": "1-2",
-     "prob": 0.0997
-    },
-    {
-     "score": "0-2",
-     "prob": 0.0947
-    },
-    {
-     "score": "0-1",
-     "prob": 0.092
-    },
-    {
-     "score": "1-3",
-     "prob": 0.0641
-    }
-   ],
-   "provisional": false,
-   "market": {
-    "0-0": 0.0005,
-    "0-1": 0.0005,
-    "1-0": 0.0005,
-    "0-2": 0.0005,
-    "1-1": 0.0005,
-    "2-0": 0.0005,
-    "0-3": 0.0005,
-    "1-2": 0.0005,
-    "2-1": 0.0005,
-    "3-0": 0.0005,
-    "1-3": 0.0005,
-    "2-2": 0.0005,
-    "3-1": 0.9995,
-    "2-3": 0.0005,
-    "3-2": 0.0005,
-    "3-3": 0.0005,
-    "Other": 0.0005
-   },
-   "edge_bets": [],
-   "cur_home": 3,
-   "cur_away": 1,
-   "minute": null,
-   "shadow_bet": true,
-   "shadow_status": "settled",
-   "shadow_pending": false,
-   "shadow_totals": []
-  }
- ],
+ "games": [],
  "shadow": {
   "recent": [
    {
@@ -539,7 +475,7 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8075,
+      "prob": 0.8073,
       "price": 0.715,
       "stake": 200.0,
       "ev_pct": 12.9
