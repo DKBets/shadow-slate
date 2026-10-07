@@ -1,8 +1,8 @@
 {
- "generated_utc": "2026-10-07T17:07:27.770342Z",
+ "generated_utc": "2026-10-07T17:13:04.247501Z",
  "slate_generated_utc": "2026-10-07T17:02:50.958501Z",
  "date": "2026-10-07",
- "source": "board",
+ "source": "files",
  "games": [
   {
    "home": "Red Bull Bragantino",
@@ -12,55 +12,16 @@
    "kickoff_local": "6:30 PM",
    "status": "pre",
    "pm_slug": "bra-bra-mir-2026-10-07-exact-score",
-   "lamH": 1.209,
-   "lamA": 1.036,
-   "hasModel": true,
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
    "news_adj": null,
-   "top_scores": [
-    {
-     "score": "1-1",
-     "prob": 0.1407
-    },
-    {
-     "score": "1-0",
-     "prob": 0.1201
-    },
-    {
-     "score": "0-0",
-     "prob": 0.1139
-    },
-    {
-     "score": "0-1",
-     "prob": 0.1018
-    },
-    {
-     "score": "2-1",
-     "prob": 0.0802
-    }
-   ],
+   "top_scores": [],
    "provisional": false,
-   "market": {
-    "0-0": 0.055,
-    "0-1": 0.045,
-    "1-0": 0.095,
-    "0-2": 0.024,
-    "1-1": 0.105,
-    "2-0": 0.095,
-    "0-3": 0.0085,
-    "1-2": 0.053,
-    "2-1": 0.105,
-    "3-0": 0.0615,
-    "1-3": 0.0175,
-    "2-2": 0.0565,
-    "3-1": 0.0645,
-    "2-3": 0.017,
-    "3-2": 0.0355,
-    "3-3": 0.012,
-    "Other": 0.14
-   },
+   "market": null,
    "edge_bets": [],
-   "cur_home": 0,
-   "cur_away": 0,
+   "cur_home": null,
+   "cur_away": null,
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
@@ -75,55 +36,16 @@
    "kickoff_local": "6:30 PM",
    "status": "pre",
    "pm_slug": "bra-cre-gre-2026-10-07-exact-score",
-   "lamH": 1.614,
-   "lamA": 1.022,
-   "hasModel": true,
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
    "news_adj": null,
-   "top_scores": [
-    {
-     "score": "1-1",
-     "prob": 0.1255
-    },
-    {
-     "score": "1-0",
-     "prob": 0.1087
-    },
-    {
-     "score": "2-1",
-     "prob": 0.0955
-    },
-    {
-     "score": "2-0",
-     "prob": 0.0935
-    },
-    {
-     "score": "0-0",
-     "prob": 0.0789
-    }
-   ],
+   "top_scores": [],
    "provisional": false,
-   "market": {
-    "0-0": 0.075,
-    "0-1": 0.075,
-    "1-0": 0.105,
-    "0-2": 0.0375,
-    "1-1": 0.125,
-    "2-0": 0.085,
-    "0-3": 0.014,
-    "1-2": 0.065,
-    "2-1": 0.095,
-    "3-0": 0.0425,
-    "1-3": 0.022,
-    "2-2": 0.0565,
-    "3-1": 0.049,
-    "2-3": 0.019,
-    "3-2": 0.0285,
-    "3-3": 0.011,
-    "Other": 0.09
-   },
+   "market": null,
    "edge_bets": [],
-   "cur_home": 0,
-   "cur_away": 0,
+   "cur_home": null,
+   "cur_away": null,
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
@@ -138,55 +60,16 @@
    "kickoff_local": "6:30 PM",
    "status": "pre",
    "pm_slug": "bra-int-cor1-2026-10-07-exact-score",
-   "lamH": 1.099,
-   "lamA": 1.182,
-   "hasModel": true,
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
    "news_adj": null,
-   "top_scores": [
-    {
-     "score": "1-1",
-     "prob": 0.1408
-    },
-    {
-     "score": "0-1",
-     "prob": 0.1129
-    },
-    {
-     "score": "0-0",
-     "prob": 0.1102
-    },
-    {
-     "score": "1-0",
-     "prob": 0.1044
-    },
-    {
-     "score": "1-2",
-     "prob": 0.0785
-    }
-   ],
+   "top_scores": [],
    "provisional": false,
-   "market": {
-    "0-0": 0.135,
-    "0-1": 0.115,
-    "1-0": 0.145,
-    "0-2": 0.045,
-    "1-1": 0.155,
-    "2-0": 0.075,
-    "0-3": 0.0145,
-    "1-2": 0.0635,
-    "2-1": 0.085,
-    "3-0": 0.0265,
-    "1-3": 0.0175,
-    "2-2": 0.041,
-    "3-1": 0.027,
-    "2-3": 0.0125,
-    "3-2": 0.0155,
-    "3-3": 0.0065,
-    "Other": 0.04
-   },
+   "market": null,
    "edge_bets": [],
-   "cur_home": 0,
-   "cur_away": 0,
+   "cur_home": null,
+   "cur_away": null,
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
@@ -201,55 +84,16 @@
    "kickoff_local": "7:00 PM",
    "status": "pre",
    "pm_slug": "bra-vit-cha-2026-10-07-exact-score",
-   "lamH": 1.222,
-   "lamA": 1.262,
-   "hasModel": true,
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
    "news_adj": null,
-   "top_scores": [
-    {
-     "score": "1-1",
-     "prob": 0.1364
-    },
-    {
-     "score": "0-1",
-     "prob": 0.0976
-    },
-    {
-     "score": "1-0",
-     "prob": 0.0943
-    },
-    {
-     "score": "0-0",
-     "prob": 0.0912
-    },
-    {
-     "score": "1-2",
-     "prob": 0.0812
-    }
-   ],
+   "top_scores": [],
    "provisional": false,
-   "market": {
-    "0-0": 0.065,
-    "0-1": 0.0475,
-    "1-0": 0.125,
-    "0-2": 0.019,
-    "1-1": 0.105,
-    "2-0": 0.115,
-    "0-3": 0.006,
-    "1-2": 0.0425,
-    "2-1": 0.105,
-    "3-0": 0.073,
-    "1-3": 0.011,
-    "2-2": 0.047,
-    "3-1": 0.063,
-    "2-3": 0.01,
-    "3-2": 0.03,
-    "3-3": 0.0085,
-    "Other": 0.13
-   },
+   "market": null,
    "edge_bets": [],
-   "cur_home": 0,
-   "cur_away": 0,
+   "cur_home": null,
+   "cur_away": null,
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
@@ -264,55 +108,16 @@
    "kickoff_local": "7:30 PM",
    "status": "pre",
    "pm_slug": "bra-bot-vas-2026-10-07-exact-score",
-   "lamH": 1.373,
-   "lamA": 0.866,
-   "hasModel": true,
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
    "news_adj": null,
-   "top_scores": [
-    {
-     "score": "1-0",
-     "prob": 0.1388
-    },
-    {
-     "score": "1-1",
-     "prob": 0.1344
-    },
-    {
-     "score": "0-0",
-     "prob": 0.1142
-    },
-    {
-     "score": "2-0",
-     "prob": 0.1005
-    },
-    {
-     "score": "2-1",
-     "prob": 0.087
-    }
-   ],
+   "top_scores": [],
    "provisional": false,
-   "market": {
-    "0-0": 0.052,
-    "0-1": 0.08,
-    "1-0": 0.065,
-    "0-2": 0.0625,
-    "1-1": 0.125,
-    "2-0": 0.0435,
-    "0-3": 0.0345,
-    "1-2": 0.095,
-    "2-1": 0.075,
-    "3-0": 0.0205,
-    "1-3": 0.0475,
-    "2-2": 0.07,
-    "3-1": 0.0335,
-    "2-3": 0.0345,
-    "3-2": 0.0275,
-    "3-3": 0.018,
-    "Other": 0.12
-   },
+   "market": null,
    "edge_bets": [],
-   "cur_home": 0,
-   "cur_away": 0,
+   "cur_home": null,
+   "cur_away": null,
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
@@ -327,55 +132,16 @@
    "kickoff_local": "8:30 PM",
    "status": "pre",
    "pm_slug": "bra-cru-sao-2026-10-07-exact-score",
-   "lamH": 1.824,
-   "lamA": 0.698,
-   "hasModel": true,
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
    "news_adj": null,
-   "top_scores": [
-    {
-     "score": "1-0",
-     "prob": 0.1407
-    },
-    {
-     "score": "2-0",
-     "prob": 0.1339
-    },
-    {
-     "score": "1-1",
-     "prob": 0.1087
-    },
-    {
-     "score": "2-1",
-     "prob": 0.0935
-    },
-    {
-     "score": "0-0",
-     "prob": 0.0867
-    }
-   ],
+   "top_scores": [],
    "provisional": false,
-   "market": {
-    "0-0": 0.075,
-    "0-1": 0.065,
-    "1-0": 0.12,
-    "0-2": 0.0295,
-    "1-1": 0.125,
-    "2-0": 0.095,
-    "0-3": 0.01,
-    "1-2": 0.055,
-    "2-1": 0.105,
-    "3-0": 0.0515,
-    "1-3": 0.0175,
-    "2-2": 0.053,
-    "3-1": 0.0525,
-    "2-3": 0.014,
-    "3-2": 0.0275,
-    "3-3": 0.008,
-    "Other": 0.095
-   },
+   "market": null,
    "edge_bets": [],
-   "cur_home": 0,
-   "cur_away": 0,
+   "cur_home": null,
+   "cur_away": null,
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
