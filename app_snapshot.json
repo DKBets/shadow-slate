@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-07T02:35:09.959274Z",
- "slate_generated_utc": "2026-10-07T02:30:48.444520Z",
+ "generated_utc": "2026-10-07T02:40:27.063750Z",
+ "slate_generated_utc": "2026-10-07T02:36:42.632870Z",
  "date": "2026-10-06",
  "source": "board",
  "games": [
@@ -42,26 +42,26 @@
    "market": {
     "0-0": 0.0005,
     "0-1": 0.0005,
-    "1-0": 0.004,
-    "0-2": 0.002,
-    "1-1": 0.004,
-    "2-0": 0.004,
+    "1-0": 0.0005,
+    "0-2": 0.0005,
+    "1-1": 0.0005,
+    "2-0": 0.0005,
     "0-3": 0.0005,
-    "1-2": 0.004,
-    "2-1": 0.005,
-    "3-0": 0.004,
-    "1-3": 0.004,
-    "2-2": 0.005,
-    "3-1": 0.772,
-    "2-3": 0.005,
-    "3-2": 0.138,
-    "3-3": 0.0155,
-    "Other": 0.498
+    "1-2": 0.0005,
+    "2-1": 0.0005,
+    "3-0": 0.0005,
+    "1-3": 0.0005,
+    "2-2": 0.0005,
+    "3-1": 0.994,
+    "2-3": 0.0005,
+    "3-2": 0.0005,
+    "3-3": 0.0005,
+    "Other": 0.0005
    },
    "edge_bets": [],
-   "cur_home": 2,
+   "cur_home": 3,
    "cur_away": 1,
-   "minute": 87,
+   "minute": 93,
    "shadow_bet": true,
    "shadow_status": "open",
    "shadow_pending": false,
@@ -517,6 +517,21 @@
   ],
   "pending": [
    {
+    "home": "Ipswich Town FC",
+    "away": "Fulham FC",
+    "league": "Premier League",
+    "kickoff_utc": "2026-10-10T14:00:00Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.8607,
+      "price": 0.785,
+      "stake": 200.0,
+      "ev_pct": 9.6
+     }
+    ]
+   },
+   {
     "home": "Málaga CF",
     "away": "RCD Espanyol de Barcelona",
     "league": "La Liga",
@@ -524,25 +539,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8062,
+      "prob": 0.8078,
       "price": 0.715,
       "stake": 200.0,
-      "ev_pct": 12.8
-     }
-    ]
-   },
-   {
-    "home": "Stade Brestois 29",
-    "away": "Angers SCO",
-    "league": "Ligue 1",
-    "kickoff_utc": "2026-10-10T18:45:00Z",
-    "totals": [
-     {
-      "sel": "Over 1.5",
-      "prob": 0.9522,
-      "price": 0.78,
-      "stake": 200.0,
-      "ev_pct": 22.1
+      "ev_pct": 13.0
      }
     ]
    }
