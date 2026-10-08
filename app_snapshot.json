@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-08T03:46:10.375354Z",
- "slate_generated_utc": "2026-10-08T03:41:31.903803Z",
+ "generated_utc": "2026-10-08T03:52:06.101675Z",
+ "slate_generated_utc": "2026-10-08T03:47:57.135814Z",
  "date": "2026-10-07",
  "source": "board",
  "games": [
@@ -587,10 +587,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8098,
+      "prob": 0.7992,
       "price": 0.725,
       "stake": 200.0,
-      "ev_pct": 11.7
+      "ev_pct": 10.2
      }
     ]
    },
@@ -603,24 +603,9 @@
      {
       "sel": "Over 1.5",
       "prob": 0.9347,
-      "price": 0.775,
+      "price": 0.78,
       "stake": 200.0,
-      "ev_pct": 20.6
-     }
-    ]
-   },
-   {
-    "home": "Como 1907",
-    "away": "AS Roma",
-    "league": "Serie A",
-    "kickoff_utc": "2026-10-11T10:30:00Z",
-    "totals": [
-     {
-      "sel": "Over 1.5",
-      "prob": 0.8441,
-      "price": 0.805,
-      "stake": 200.0,
-      "ev_pct": 4.9
+      "ev_pct": 19.8
      }
     ]
    }
