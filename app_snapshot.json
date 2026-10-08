@@ -1,135 +1,9 @@
 {
- "generated_utc": "2026-10-08T02:43:43.746890Z",
- "slate_generated_utc": "2026-10-08T02:40:36.342800Z",
+ "generated_utc": "2026-10-08T02:48:49.458013Z",
+ "slate_generated_utc": "2026-10-08T02:44:23.001817Z",
  "date": "2026-10-07",
  "source": "board",
  "games": [
-  {
-   "home": "Clube do Remo",
-   "away": "Grêmio FBPA",
-   "league_name": "Brasileirao",
-   "kickoff_utc": "2026-10-07T22:30Z",
-   "kickoff_local": "6:30 PM",
-   "status": "post",
-   "pm_slug": "bra-cre-gre-2026-10-07-exact-score",
-   "lamH": 1.612,
-   "lamA": 1.022,
-   "hasModel": true,
-   "news_adj": null,
-   "top_scores": [
-    {
-     "score": "1-1",
-     "prob": 0.1256
-    },
-    {
-     "score": "1-0",
-     "prob": 0.1088
-    },
-    {
-     "score": "2-1",
-     "prob": 0.0955
-    },
-    {
-     "score": "2-0",
-     "prob": 0.0934
-    },
-    {
-     "score": "0-0",
-     "prob": 0.079
-    }
-   ],
-   "provisional": false,
-   "market": {
-    "0-0": 0.0005,
-    "0-1": 0.0005,
-    "1-0": 0.0005,
-    "0-2": 0.0005,
-    "1-1": 0.9995,
-    "2-0": 0.0005,
-    "0-3": 0.0005,
-    "1-2": 0.0005,
-    "2-1": 0.0005,
-    "3-0": 0.0005,
-    "1-3": 0.0005,
-    "2-2": 0.0005,
-    "3-1": 0.0005,
-    "2-3": 0.0005,
-    "3-2": 0.0005,
-    "3-3": 0.0005,
-    "Other": 0.0005
-   },
-   "edge_bets": [],
-   "cur_home": 1,
-   "cur_away": 1,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
-   "home": "SC Internacional",
-   "away": "SC Corinthians Paulista",
-   "league_name": "Brasileirao",
-   "kickoff_utc": "2026-10-07T22:30Z",
-   "kickoff_local": "6:30 PM",
-   "status": "post",
-   "pm_slug": "bra-int-cor1-2026-10-07-exact-score",
-   "lamH": 1.098,
-   "lamA": 1.182,
-   "hasModel": true,
-   "news_adj": null,
-   "top_scores": [
-    {
-     "score": "1-1",
-     "prob": 0.1408
-    },
-    {
-     "score": "0-1",
-     "prob": 0.113
-    },
-    {
-     "score": "0-0",
-     "prob": 0.1103
-    },
-    {
-     "score": "1-0",
-     "prob": 0.1044
-    },
-    {
-     "score": "1-2",
-     "prob": 0.0785
-    }
-   ],
-   "provisional": false,
-   "market": {
-    "0-0": 0.0,
-    "0-1": 0.0,
-    "1-0": 0.0,
-    "0-2": 0.0,
-    "1-1": 0.0,
-    "2-0": 0.0,
-    "0-3": 0.0005,
-    "1-2": 0.0005,
-    "2-1": 1.0,
-    "3-0": 0.0,
-    "1-3": 0.0,
-    "2-2": 0.0,
-    "3-1": 0.0,
-    "2-3": 0.0,
-    "3-2": 0.0,
-    "3-3": 0.5,
-    "Other": 0.5
-   },
-   "edge_bets": [],
-   "cur_home": 2,
-   "cur_away": 1,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
   {
    "home": "EC Vitória",
    "away": "Associação Chapecoense de Futebol",
@@ -308,7 +182,7 @@
     "2-3": 0.0005,
     "3-2": 0.0005,
     "3-3": 0.0005,
-    "Other": 0.0035
+    "Other": 0.0045
    },
    "edge_bets": [],
    "cur_home": 2,
