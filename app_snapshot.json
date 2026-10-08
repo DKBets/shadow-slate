@@ -1,72 +1,9 @@
 {
- "generated_utc": "2026-10-08T03:24:47.832304Z",
- "slate_generated_utc": "2026-10-08T03:21:03.838276Z",
+ "generated_utc": "2026-10-08T03:30:08.943602Z",
+ "slate_generated_utc": "2026-10-08T03:28:10.607013Z",
  "date": "2026-10-07",
  "source": "board",
  "games": [
-  {
-   "home": "EC Vitória",
-   "away": "Associação Chapecoense de Futebol",
-   "league_name": "Brasileirao",
-   "kickoff_utc": "2026-10-07T23:00Z",
-   "kickoff_local": "7:00 PM",
-   "status": "post",
-   "pm_slug": "bra-vit-cha-2026-10-07-exact-score",
-   "lamH": 1.222,
-   "lamA": 1.262,
-   "hasModel": true,
-   "news_adj": null,
-   "top_scores": [
-    {
-     "score": "1-1",
-     "prob": 0.1364
-    },
-    {
-     "score": "0-1",
-     "prob": 0.0976
-    },
-    {
-     "score": "1-0",
-     "prob": 0.0943
-    },
-    {
-     "score": "0-0",
-     "prob": 0.0912
-    },
-    {
-     "score": "1-2",
-     "prob": 0.0812
-    }
-   ],
-   "provisional": false,
-   "market": {
-    "0-0": 0.0005,
-    "0-1": 0.0005,
-    "1-0": 0.0005,
-    "0-2": 0.0005,
-    "1-1": 0.0005,
-    "2-0": 0.0005,
-    "0-3": 0.0005,
-    "1-2": 0.0005,
-    "2-1": 0.0005,
-    "3-0": 0.0005,
-    "1-3": 0.0005,
-    "2-2": 0.0005,
-    "3-1": 0.0005,
-    "2-3": 0.0005,
-    "3-2": 0.0005,
-    "3-3": 0.0005,
-    "Other": 0.9995
-   },
-   "edge_bets": [],
-   "cur_home": 4,
-   "cur_away": 0,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
   {
    "home": "Botafogo FR",
    "away": "CR Vasco da Gama",
@@ -650,10 +587,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8071,
+      "prob": 0.8163,
       "price": 0.725,
       "stake": 200.0,
-      "ev_pct": 11.3
+      "ev_pct": 12.6
      }
     ]
    },
@@ -665,10 +602,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.9335,
-      "price": 0.78,
+      "prob": 0.9347,
+      "price": 0.775,
       "stake": 200.0,
-      "ev_pct": 19.7
+      "ev_pct": 20.6
      }
     ]
    }
