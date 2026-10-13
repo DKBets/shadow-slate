@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-13T23:45:40.704680Z",
- "slate_generated_utc": "2026-10-13T23:41:26.611850Z",
+ "generated_utc": "2026-10-13T23:51:05.540928Z",
+ "slate_generated_utc": "2026-10-13T23:48:15.316769Z",
  "date": "2026-10-13",
  "source": "board",
  "games": [
@@ -59,7 +59,7 @@
     "1-4": 0.1375,
     "2-3": 0.0095,
     "3-2": 0.015,
-    "4-1": 0.2255,
+    "4-1": 0.2245,
     "5-0": 0.085,
     "1-5": 0.09,
     "2-4": 0.0495,
@@ -662,25 +662,25 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8777,
+      "prob": 0.8798,
       "price": 0.745,
       "stake": 200.0,
-      "ev_pct": 17.8
+      "ev_pct": 18.1
      }
     ]
    },
    {
-    "home": "ACF Fiorentina",
-    "away": "Como 1907",
+    "home": "Juventus FC",
+    "away": "SS Lazio",
     "league": "Serie A",
-    "kickoff_utc": "2026-10-18T13:00:00Z",
+    "kickoff_utc": "2026-10-18T18:45:00Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8605,
-      "price": 0.805,
+      "prob": 0.8532,
+      "price": 0.735,
       "stake": 200.0,
-      "ev_pct": 6.9
+      "ev_pct": 16.1
      }
     ]
    },
@@ -692,10 +692,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8521,
+      "prob": 0.8517,
       "price": 0.885,
       "stake": 200.0,
-      "ev_pct": -3.7
+      "ev_pct": -3.8
      }
     ]
    },
@@ -707,10 +707,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.9311,
+      "prob": 0.9339,
       "price": 0.85,
       "stake": 200.0,
-      "ev_pct": 9.5
+      "ev_pct": 9.9
      }
     ]
    }
