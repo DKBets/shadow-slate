@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-13T03:49:03.843664Z",
- "slate_generated_utc": "2026-10-13T03:45:32.270383Z",
+ "generated_utc": "2026-10-13T03:54:19.474561Z",
+ "slate_generated_utc": "2026-10-13T03:53:34.638900Z",
  "date": "2026-10-12",
  "source": "board",
  "games": [
@@ -43,7 +43,7 @@
     "0-0": 0.055,
     "0-1": 0.07,
     "1-0": 0.075,
-    "0-2": 0.0495,
+    "0-2": 0.049,
     "1-1": 0.12,
     "2-0": 0.059,
     "0-3": 0.023,
@@ -643,10 +643,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.9309,
+      "prob": 0.9382,
       "price": 0.75,
       "stake": 200.0,
-      "ev_pct": 24.1
+      "ev_pct": 25.1
      }
     ]
    },
@@ -658,10 +658,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.9465,
+      "prob": 0.95,
       "price": 0.795,
       "stake": 200.0,
-      "ev_pct": 19.1
+      "ev_pct": 19.5
      }
     ]
    },
@@ -673,10 +673,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8642,
+      "prob": 0.8652,
       "price": 0.805,
       "stake": 200.0,
-      "ev_pct": 7.4
+      "ev_pct": 7.5
      }
     ]
    },
@@ -688,7 +688,7 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8125,
+      "prob": 0.8122,
       "price": 0.805,
       "stake": 200.0,
       "ev_pct": 0.9
@@ -696,17 +696,17 @@
     ]
    },
    {
-    "home": "SC União Torreense",
-    "away": "Sunderland AFC",
+    "home": "AZ",
+    "away": "MH Hapoel Be'er Sheva",
     "league": "Europa League",
     "kickoff_utc": "2026-10-15T16:45:00Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.9393,
-      "price": 0.835,
+      "prob": 0.9533,
+      "price": 0.845,
       "stake": 200.0,
-      "ev_pct": 12.5
+      "ev_pct": 12.8
      }
     ]
    }
