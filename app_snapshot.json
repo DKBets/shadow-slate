@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-13T00:03:07.858398Z",
+ "generated_utc": "2026-10-13T00:08:10.688963Z",
  "slate_generated_utc": "2026-10-13T00:01:44.126833Z",
  "date": "2026-10-12",
  "source": "board",
@@ -622,7 +622,7 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.9469,
+      "prob": 0.9471,
       "price": 0.79,
       "stake": 200.0,
       "ev_pct": 19.9
@@ -630,17 +630,17 @@
     ]
    },
    {
-    "home": "ACF Fiorentina",
-    "away": "Como 1907",
+    "home": "Juventus FC",
+    "away": "SS Lazio",
     "league": "Serie A",
-    "kickoff_utc": "2026-10-18T13:00:00Z",
+    "kickoff_utc": "2026-10-18T18:45:00Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8653,
-      "price": 0.8,
+      "prob": 0.8601,
+      "price": 0.735,
       "stake": 200.0,
-      "ev_pct": 8.2
+      "ev_pct": 17.0
      }
     ]
    },
@@ -667,10 +667,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.952,
+      "prob": 0.9562,
       "price": 0.845,
       "stake": 200.0,
-      "ev_pct": 12.7
+      "ev_pct": 13.2
      }
     ]
    }
