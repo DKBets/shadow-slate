@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-13T22:28:49.043496Z",
- "slate_generated_utc": "2026-10-13T22:25:37.774019Z",
+ "generated_utc": "2026-10-13T22:33:55.870963Z",
+ "slate_generated_utc": "2026-10-13T22:32:45.187217Z",
  "date": "2026-10-13",
  "source": "board",
  "games": [
@@ -65,7 +65,7 @@
     "2-4": 0.0495,
     "3-3": 0.0035,
     "4-2": 0.087,
-    "5-1": 0.125,
+    "5-1": 0.12,
     "2-5": 0.045,
     "3-4": 0.095,
     "4-3": 0.087,
@@ -640,17 +640,17 @@
   ],
   "pending": [
    {
-    "home": "Fulham FC",
-    "away": "Hull City AFC",
+    "home": "Everton FC",
+    "away": "Chelsea FC",
     "league": "Premier League",
-    "kickoff_utc": "2026-10-17T14:00:00Z",
+    "kickoff_utc": "2026-10-17T11:30:00Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8585,
-      "price": 0.785,
+      "prob": 0.8497,
+      "price": 0.795,
       "stake": 200.0,
-      "ev_pct": 9.4
+      "ev_pct": 6.9
      }
     ]
    },
@@ -662,10 +662,25 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8546,
+      "prob": 0.8533,
       "price": 0.855,
       "stake": 200.0,
-      "ev_pct": -0.0
+      "ev_pct": -0.2
+     }
+    ]
+   },
+   {
+    "home": "ŠK Slovan Bratislava",
+    "away": "VfB Stuttgart",
+    "league": "Champions League",
+    "kickoff_utc": "2026-10-14T19:00Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.8547,
+      "price": 0.885,
+      "stake": 200.0,
+      "ev_pct": -3.4
      }
     ]
    },
@@ -677,10 +692,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.9037,
+      "prob": 0.8914,
       "price": 0.805,
       "stake": 200.0,
-      "ev_pct": 12.3
+      "ev_pct": 10.7
      }
     ]
    }
