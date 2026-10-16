@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-16T22:20:42.353501Z",
- "slate_generated_utc": "2026-10-16T22:17:13.611433Z",
+ "generated_utc": "2026-10-16T22:25:55.664858Z",
+ "slate_generated_utc": "2026-10-16T22:24:27.063939Z",
  "date": "2026-10-16",
  "source": "board",
  "games": [
@@ -145,7 +145,7 @@
     "4-1": 0.0175,
     "5-0": 0.0045,
     "1-5": 0.005,
-    "2-4": 0.0125,
+    "2-4": 0.0145,
     "3-3": 0.013,
     "4-2": 0.0105,
     "5-1": 0.012,
@@ -186,13 +186,13 @@
    "provisional": false,
    "market": {
     "0-0": 0.033,
-    "0-1": 0.039,
+    "0-1": 0.0405,
     "1-0": 0.065,
     "0-2": 0.0295,
     "1-1": 0.09,
     "2-0": 0.065,
     "0-3": 0.0155,
-    "1-2": 0.06,
+    "1-2": 0.0595,
     "2-1": 0.09,
     "3-0": 0.0455,
     "0-4": 0.015,
@@ -273,7 +273,7 @@
     "1-0": 0.065,
     "0-2": 0.061,
     "1-1": 0.125,
-    "2-0": 0.045,
+    "2-0": 0.0455,
     "0-3": 0.034,
     "1-2": 0.095,
     "2-1": 0.075,
@@ -312,8 +312,15 @@
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
+   "shadow_pending": true,
+   "shadow_totals": [
+    {
+     "sel": "Over 1.5",
+     "prob": 0.8478,
+     "price": 0.795,
+     "stake": 200.0
+    }
+   ]
   },
   {
    "home": "Atlante FC",
@@ -478,15 +485,8 @@
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
-   "shadow_pending": true,
-   "shadow_totals": [
-    {
-     "sel": "Over 1.5",
-     "prob": 0.8377,
-     "price": 0.785,
-     "stake": 200.0
-    }
-   ]
+   "shadow_pending": false,
+   "shadow_totals": []
   }
  ],
  "shadow": {
@@ -958,17 +958,17 @@
   ],
   "pending": [
    {
-    "home": "Club Tijuana",
-    "away": "Club Puebla",
+    "home": "Club Necaxa",
+    "away": "Atlas FC",
     "league": "Liga MX",
-    "kickoff_utc": "2026-10-17T03:05Z",
+    "kickoff_utc": "2026-10-17T01:00Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8377,
-      "price": 0.785,
+      "prob": 0.8478,
+      "price": 0.795,
       "stake": 200.0,
-      "ev_pct": 6.7
+      "ev_pct": 6.6
      }
     ]
    }
