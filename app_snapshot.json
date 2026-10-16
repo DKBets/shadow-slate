@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-16T00:12:41.615560Z",
- "slate_generated_utc": "2026-10-16T00:08:37.198920Z",
+ "generated_utc": "2026-10-16T00:18:08.550002Z",
+ "slate_generated_utc": "2026-10-16T00:13:46.639744Z",
  "date": "2026-10-15",
  "source": "board",
  "games": [
@@ -76,7 +76,7 @@
     "4-5": 0.0,
     "5-4": 0.5,
     "5-5": 0.0,
-    "Other": 0.095
+    "Other": 0.0
    },
    "edge_bets": [],
    "cur_home": 0,
@@ -178,30 +178,30 @@
    "kickoff_local": "3:00 PM",
    "status": "post",
    "pm_slug": "col-kob-scb-2026-10-15-exact-score",
-   "lamH": 1.832,
-   "lamA": 1.117,
+   "lamH": 1.934,
+   "lamA": 0.845,
    "hasModel": true,
    "news_adj": null,
    "top_scores": [
     {
+     "score": "2-0",
+     "prob": 0.1166
+    },
+    {
+     "score": "1-0",
+     "prob": 0.1145
+    },
+    {
      "score": "1-1",
-     "prob": 0.114
+     "prob": 0.108
     },
     {
      "score": "2-1",
      "prob": 0.0985
     },
     {
-     "score": "1-0",
-     "prob": 0.0898
-    },
-    {
-     "score": "2-0",
-     "prob": 0.0882
-    },
-    {
-     "score": "3-1",
-     "prob": 0.0602
+     "score": "3-0",
+     "prob": 0.0752
     }
    ],
    "provisional": false,
@@ -242,7 +242,7 @@
     "4-5": 0.0,
     "5-4": 0.0,
     "5-5": 0.0,
-    "Other": 0.0005
+    "Other": 0.0
    },
    "edge_bets": [],
    "cur_home": 3,
@@ -261,30 +261,30 @@
    "kickoff_local": "3:00 PM",
    "status": "post",
    "pm_slug": "col-hmi-nor-2026-10-15-exact-score",
-   "lamH": 1.716,
-   "lamA": 1.169,
+   "lamH": 2.86,
+   "lamA": 0.863,
    "hasModel": true,
    "news_adj": null,
    "top_scores": [
     {
-     "score": "1-1",
-     "prob": 0.119
+     "score": "2-0",
+     "prob": 0.1016
+    },
+    {
+     "score": "3-0",
+     "prob": 0.0968
     },
     {
      "score": "2-1",
-     "prob": 0.0963
+     "prob": 0.0876
     },
     {
-     "score": "1-0",
-     "prob": 0.0893
+     "score": "3-1",
+     "prob": 0.0836
     },
     {
-     "score": "2-0",
-     "prob": 0.0824
-    },
-    {
-     "score": "1-2",
-     "prob": 0.0656
+     "score": "4-0",
+     "prob": 0.0692
     }
    ],
    "provisional": false,
@@ -408,7 +408,7 @@
     "4-5": 0.0,
     "5-4": 0.0,
     "5-5": 0.0,
-    "Other": 0.03
+    "Other": 0.0005
    },
    "edge_bets": [],
    "cur_home": 3,
@@ -491,7 +491,7 @@
     "4-5": 0.0,
     "5-4": 0.0,
     "5-5": 0.0,
-    "Other": 0.095
+    "Other": 0.0
    },
    "edge_bets": [],
    "cur_home": 1,
@@ -558,23 +558,23 @@
     "2-3": 0.023,
     "3-2": 0.039,
     "4-1": 0.0215,
-    "5-0": 0.24,
-    "1-5": 0.365,
+    "5-0": 0.235,
+    "1-5": 0.205,
     "2-4": 0.045,
     "3-3": 0.045,
     "4-2": 0.016,
-    "5-1": 0.245,
+    "5-1": 0.24,
     "2-5": 0.055,
-    "3-4": 0.31,
+    "3-4": 0.295,
     "4-3": 0.205,
     "5-2": 0.25,
     "3-5": 0.19,
     "4-4": 0.0345,
     "5-3": 0.215,
-    "4-5": 0.325,
+    "4-5": 0.185,
     "5-4": 0.25,
     "5-5": 0.05,
-    "Other": 0.285
+    "Other": 0.28
    },
    "edge_bets": [],
    "cur_home": 3,
@@ -738,30 +738,30 @@
    "kickoff_local": "8:30 PM",
    "status": "pre",
    "pm_slug": "lib-est-fla-2026-10-15-exact-score",
-   "lamH": 1.24,
-   "lamA": 1.365,
+   "lamH": 1.372,
+   "lamA": 1.171,
    "hasModel": true,
    "news_adj": null,
    "top_scores": [
     {
      "score": "1-1",
-     "prob": 0.1327
-    },
-    {
-     "score": "0-1",
-     "prob": 0.0935
-    },
-    {
-     "score": "1-2",
-     "prob": 0.0854
+     "prob": 0.134
     },
     {
      "score": "1-0",
-     "prob": 0.0842
+     "prob": 0.1004
+    },
+    {
+     "score": "2-1",
+     "prob": 0.0867
     },
     {
      "score": "0-0",
-     "prob": 0.0815
+     "prob": 0.0863
+    },
+    {
+     "score": "0-1",
+     "prob": 0.0846
     }
    ],
    "provisional": false,
@@ -784,7 +784,7 @@
     "0-5": 0.06,
     "1-4": 0.014,
     "2-3": 0.0155,
-    "3-2": 0.0095,
+    "3-2": 0.01,
     "4-1": 0.06,
     "5-0": 0.065,
     "1-5": 0.06,
@@ -821,30 +821,30 @@
    "kickoff_local": "8:30 PM",
    "status": "pre",
    "pm_slug": "lib-fla-est-2026-10-22-exact-score",
-   "lamH": 1.775,
-   "lamA": 0.954,
+   "lamH": 1.92,
+   "lamA": 0.509,
    "hasModel": true,
    "news_adj": null,
    "top_scores": [
     {
-     "score": "1-1",
-     "prob": 0.1175
-    },
-    {
      "score": "1-0",
-     "prob": 0.1095
+     "prob": 0.1646
     },
     {
      "score": "2-0",
-     "prob": 0.1031
+     "prob": 0.163
     },
     {
-     "score": "2-1",
-     "prob": 0.0984
+     "score": "3-0",
+     "prob": 0.1043
     },
     {
      "score": "0-0",
-     "prob": 0.0721
+     "prob": 0.0936
+    },
+    {
+     "score": "1-1",
+     "prob": 0.0916
     }
    ],
    "provisional": false,
