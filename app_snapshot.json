@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-16T00:02:12.574418Z",
+ "generated_utc": "2026-10-16T00:07:34.673597Z",
  "slate_generated_utc": "2026-10-16T00:01:15.957782Z",
  "date": "2026-10-15",
  "source": "board",
@@ -1448,21 +1448,6 @@
    }
   ],
   "pending": [
-   {
-    "home": "Lille OSC",
-    "away": "Stade Brestois 29",
-    "league": "Ligue 1",
-    "kickoff_utc": "2026-10-17T18:45:00Z",
-    "totals": [
-     {
-      "sel": "Over 1.5",
-      "prob": 0.8923,
-      "price": 0.79,
-      "stake": 200.0,
-      "ev_pct": 12.9
-     }
-    ]
-   },
    {
     "home": "Frosinone Calcio",
     "away": "US Sassuolo Calcio",
