@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-20T03:46:16.415032Z",
- "slate_generated_utc": "2026-10-20T03:42:51.863779Z",
+ "generated_utc": "2026-10-20T03:51:34.754009Z",
+ "slate_generated_utc": "2026-10-20T03:48:43.327746Z",
  "date": "2026-10-19",
  "source": "board",
  "games": [],
@@ -492,21 +492,6 @@
     ]
    },
    {
-    "home": "Deportivo Alavés",
-    "away": "Málaga CF",
-    "league": "La Liga",
-    "kickoff_utc": "2026-10-23T19:00:00Z",
-    "totals": [
-     {
-      "sel": "Over 1.5",
-      "prob": 0.857,
-      "price": 0.72,
-      "stake": 200.0,
-      "ev_pct": 19.0
-     }
-    ]
-   },
-   {
     "home": "Club Atlético de Madrid",
     "away": "RC Deportivo A Coruña",
     "league": "La Liga",
@@ -514,10 +499,40 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.9536,
+      "prob": 0.9534,
       "price": 0.835,
       "stake": 200.0,
       "ev_pct": 14.2
+     }
+    ]
+   },
+   {
+    "home": "Stade Brestois 29",
+    "away": "OGC Nice",
+    "league": "Ligue 1",
+    "kickoff_utc": "2026-10-23T18:45:00Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.9499,
+      "price": 0.79,
+      "stake": 200.0,
+      "ev_pct": 20.2
+     }
+    ]
+   },
+   {
+    "home": "GNK Dinamo Zagreb",
+    "away": "NEC",
+    "league": "Europa League",
+    "kickoff_utc": "2026-10-22T16:45:00Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.9655,
+      "price": 0.835,
+      "stake": 200.0,
+      "ev_pct": 15.6
      }
     ]
    }
