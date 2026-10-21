@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-21T22:22:49.399931Z",
+ "generated_utc": "2026-10-21T22:27:53.581438Z",
  "slate_generated_utc": "2026-10-21T22:22:43.302505Z",
  "date": "2026-10-21",
  "source": "board",
@@ -1710,10 +1710,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8265,
+      "prob": 0.8238,
       "price": 0.715,
       "stake": 200.0,
-      "ev_pct": 15.6
+      "ev_pct": 15.2
      }
     ]
    },
