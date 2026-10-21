@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-21T06:15:23.820976Z",
- "slate_generated_utc": "2026-10-21T06:11:56.247051Z",
+ "generated_utc": "2026-10-21T06:20:33.839597Z",
+ "slate_generated_utc": "2026-10-21T06:17:19.990176Z",
  "date": "2026-10-21",
  "source": "board",
  "games": [
@@ -1022,7 +1022,7 @@
    "shadow_totals": [
     {
      "sel": "Over 1.5",
-     "prob": 0.7276,
+     "prob": 0.7273,
      "price": 0.735,
      "stake": 200.0
     }
@@ -2734,7 +2734,7 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.7276,
+      "prob": 0.7273,
       "price": 0.735,
       "stake": 200.0,
       "ev_pct": -1.0
@@ -2749,7 +2749,7 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.9488,
+      "prob": 0.9486,
       "price": 0.835,
       "stake": 200.0,
       "ev_pct": 13.6
@@ -2764,25 +2764,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.9223,
+      "prob": 0.9218,
       "price": 0.785,
       "stake": 200.0,
-      "ev_pct": 17.5
-     }
-    ]
-   },
-   {
-    "home": "GNK Dinamo Zagreb",
-    "away": "NEC",
-    "league": "Europa League",
-    "kickoff_utc": "2026-10-22T16:45Z",
-    "totals": [
-     {
-      "sel": "Over 1.5",
-      "prob": 0.9248,
-      "price": 0.83,
-      "stake": 200.0,
-      "ev_pct": 11.4
+      "ev_pct": 17.4
      }
     ]
    }
