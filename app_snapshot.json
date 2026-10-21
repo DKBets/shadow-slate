@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-21T07:39:52.259878Z",
- "slate_generated_utc": "2026-10-21T07:39:36.454275Z",
+ "generated_utc": "2026-10-21T07:45:05.245354Z",
+ "slate_generated_utc": "2026-10-21T07:41:26.694644Z",
  "date": "2026-10-21",
  "source": "board",
  "games": [
@@ -1018,15 +1018,8 @@
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
-   "shadow_pending": true,
-   "shadow_totals": [
-    {
-     "sel": "Over 1.5",
-     "prob": 0.7204,
-     "price": 0.735,
-     "stake": 200.0
-    }
-   ]
+   "shadow_pending": false,
+   "shadow_totals": []
   },
   {
    "home": "Real Betis Balompié",
@@ -1502,8 +1495,15 @@
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
+   "shadow_pending": true,
+   "shadow_totals": [
+    {
+     "sel": "Over 1.5",
+     "prob": 0.9592,
+     "price": 0.905,
+     "stake": 200.0
+    }
+   ]
   },
   {
    "home": "FC Bayern München",
@@ -2727,21 +2727,6 @@
   ],
   "pending": [
    {
-    "home": "Levante UD",
-    "away": "Athletic Club",
-    "league": "La Liga",
-    "kickoff_utc": "2026-10-21T18:00Z",
-    "totals": [
-     {
-      "sel": "Over 1.5",
-      "prob": 0.7204,
-      "price": 0.735,
-      "stake": 200.0,
-      "ev_pct": -2.0
-     }
-    ]
-   },
-   {
     "home": "Club Atlético de Madrid",
     "away": "RC Deportivo A Coruña",
     "league": "La Liga",
@@ -2749,10 +2734,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.9403,
+      "prob": 0.9441,
       "price": 0.835,
       "stake": 200.0,
-      "ev_pct": 12.6
+      "ev_pct": 13.1
      }
     ]
    },
@@ -2764,10 +2749,25 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.923,
+      "prob": 0.9281,
       "price": 0.785,
       "stake": 200.0,
-      "ev_pct": 17.6
+      "ev_pct": 18.2
+     }
+    ]
+   },
+   {
+    "home": "FC Internazionale Milano",
+    "away": "FK Shakhtar Donetsk",
+    "league": "Champions League",
+    "kickoff_utc": "2026-10-21T19:00Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.9592,
+      "price": 0.905,
+      "stake": 200.0,
+      "ev_pct": 6.0
      }
     ]
    },
@@ -2779,7 +2779,7 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.9322,
+      "prob": 0.9319,
       "price": 0.845,
       "stake": 200.0,
       "ev_pct": 10.3
