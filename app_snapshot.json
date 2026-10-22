@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-22T07:35:55.703011Z",
- "slate_generated_utc": "2026-10-22T07:20:29.793244Z",
+ "generated_utc": "2026-10-22T07:41:06.400901Z",
+ "slate_generated_utc": "2026-10-22T07:37:40.783817Z",
  "date": "2026-10-22",
  "source": "files",
  "games": [
@@ -385,8 +385,15 @@
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
+   "shadow_pending": true,
+   "shadow_totals": [
+    {
+     "sel": "Over 1.5",
+     "prob": 0.9217,
+     "price": 0.845,
+     "stake": 200.0
+    }
+   ]
   },
   {
    "home": "Juventus FC",
@@ -1061,10 +1068,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.9371,
+      "prob": 0.9334,
       "price": 0.82,
       "stake": 200.0,
-      "ev_pct": 14.3
+      "ev_pct": 13.8
      }
     ]
    },
@@ -1076,10 +1083,25 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8915,
+      "prob": 0.8952,
       "price": 0.785,
       "stake": 200.0,
-      "ev_pct": 13.6
+      "ev_pct": 14.0
+     }
+    ]
+   },
+   {
+    "home": "RU Saint-Gilloise",
+    "away": "MH Hapoel Be'er Sheva",
+    "league": "Europa League",
+    "kickoff_utc": "2026-10-22T16:45Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.9217,
+      "price": 0.845,
+      "stake": 200.0,
+      "ev_pct": 9.1
      }
     ]
    }
