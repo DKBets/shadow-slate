@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-23T20:32:52.186939Z",
- "slate_generated_utc": "2026-10-23T20:22:36.222805Z",
+ "generated_utc": "2026-10-23T20:37:54.446735Z",
+ "slate_generated_utc": "2026-10-23T20:35:24.136169Z",
  "date": "2026-10-23",
  "source": "files",
  "games": [
@@ -130,7 +130,7 @@
    "league_name": "Bundesliga",
    "kickoff_utc": "2026-10-23T18:30Z",
    "kickoff_local": "2:30 PM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "bun-stu-moe-2026-10-23-exact-score",
    "lamH": null,
    "lamA": null,
@@ -917,7 +917,7 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8221,
+      "prob": 0.8222,
       "price": 0.785,
       "stake": 200.0,
       "ev_pct": 4.7
