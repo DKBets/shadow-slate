@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-23T05:49:52.598763Z",
- "slate_generated_utc": "2026-10-23T05:35:08.355776Z",
+ "generated_utc": "2026-10-23T05:54:54.506000Z",
+ "slate_generated_utc": "2026-10-23T05:52:04.787652Z",
  "date": "2026-10-23",
  "source": "files",
  "games": [
@@ -917,17 +917,17 @@
   ],
   "pending": [
    {
-    "home": "Club Atlético de Madrid",
-    "away": "RC Deportivo A Coruña",
-    "league": "La Liga",
-    "kickoff_utc": "2026-10-24T19:00:00Z",
+    "home": "RB Leipzig",
+    "away": "SV 07 Elversberg",
+    "league": "Bundesliga",
+    "kickoff_utc": "2026-10-24T13:30Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.9228,
-      "price": 0.83,
+      "prob": 0.8924,
+      "price": 0.905,
       "stake": 200.0,
-      "ev_pct": 11.2
+      "ev_pct": -1.4
      }
     ]
    },
