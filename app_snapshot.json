@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-23T19:14:24.864815Z",
- "slate_generated_utc": "2026-10-23T18:17:14.145840Z",
+ "generated_utc": "2026-10-23T19:20:01.136847Z",
+ "slate_generated_utc": "2026-10-23T19:16:20.286511Z",
  "date": "2026-10-23",
  "source": "files",
  "games": [
@@ -10,7 +10,7 @@
    "league_name": "Super Lig",
    "kickoff_utc": "2026-10-23T17:00Z",
    "kickoff_local": "1:00 PM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "tur-ala-koc-2026-10-23-exact-score",
    "lamH": null,
    "lamA": null,
@@ -34,7 +34,7 @@
    "league_name": "Allsvenskan",
    "kickoff_utc": "2026-10-23T17:00Z",
    "kickoff_local": "1:00 PM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "swe-elf-mal-2026-10-23-exact-score",
    "lamH": null,
    "lamA": null,
@@ -58,7 +58,7 @@
    "league_name": "Allsvenskan",
    "kickoff_utc": "2026-10-23T17:00Z",
    "kickoff_local": "1:00 PM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "swe-vas-hal-2026-10-23-exact-score",
    "lamH": null,
    "lamA": null,
@@ -82,7 +82,7 @@
    "league_name": "Danish Superliga",
    "kickoff_utc": "2026-10-23T17:00Z",
    "kickoff_local": "1:00 PM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "den-ran-bro-2026-10-23-exact-score",
    "lamH": null,
    "lamA": null,
@@ -130,7 +130,7 @@
    "league_name": "Bundesliga",
    "kickoff_utc": "2026-10-23T18:30Z",
    "kickoff_local": "2:30 PM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "bun-stu-moe-2026-10-23-exact-score",
    "lamH": null,
    "lamA": null,
@@ -154,7 +154,7 @@
    "league_name": "Ligue 1",
    "kickoff_utc": "2026-10-23T18:45:00Z",
    "kickoff_local": "2:45 PM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "fl1-sbr-ogc-2026-10-23-exact-score",
    "lamH": null,
    "lamA": null,
@@ -202,7 +202,7 @@
    "league_name": "Serie A",
    "kickoff_utc": "2026-10-23T18:45Z",
    "kickoff_local": "2:45 PM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "sea-tor-mon-2026-10-23-exact-score",
    "lamH": null,
    "lamA": null,
@@ -226,7 +226,7 @@
    "league_name": "Premier League",
    "kickoff_utc": "2026-10-23T19:00Z",
    "kickoff_local": "3:00 PM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "epl-ips-not-2026-10-23-exact-score",
    "lamH": null,
    "lamA": null,
@@ -250,7 +250,7 @@
    "league_name": "La Liga",
    "kickoff_utc": "2026-10-23T19:00Z",
    "kickoff_local": "3:00 PM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "lal-ala-mala-2026-10-23-exact-score",
    "lamH": null,
    "lamA": null,
@@ -908,7 +908,23 @@
     "reason": "top-of-day pick — Core 52%"
    }
   ],
-  "pending": [],
+  "pending": [
+   {
+    "home": "Club Atlético de Madrid",
+    "away": "RC Deportivo A Coruña",
+    "league": "La Liga",
+    "kickoff_utc": "2026-10-24T19:00:00Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.9347,
+      "price": 0.835,
+      "stake": 200.0,
+      "ev_pct": 11.9
+     }
+    ]
+   }
+  ],
   "net": -9049.16,
   "n_settled": 475,
   "n_won": 253
