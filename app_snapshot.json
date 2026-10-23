@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-23T16:19:55.482050Z",
- "slate_generated_utc": "2026-10-23T15:46:20.001180Z",
+ "generated_utc": "2026-10-23T16:24:59.403633Z",
+ "slate_generated_utc": "2026-10-23T16:23:02.981111Z",
  "date": "2026-10-23",
  "source": "files",
  "games": [
@@ -169,15 +169,8 @@
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
-   "shadow_pending": true,
-   "shadow_totals": [
-    {
-     "sel": "Over 1.5",
-     "prob": 0.9267,
-     "price": 0.795,
-     "stake": 200.0
-    }
-   ]
+   "shadow_pending": false,
+   "shadow_totals": []
   },
   {
    "home": "Torino FC",
@@ -272,8 +265,15 @@
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
+   "shadow_pending": true,
+   "shadow_totals": [
+    {
+     "sel": "Over 1.5",
+     "prob": 0.7493,
+     "price": 0.725,
+     "stake": 200.0
+    }
+   ]
   },
   {
    "home": "Vitória SC",
@@ -917,17 +917,32 @@
   ],
   "pending": [
    {
-    "home": "Stade Brestois 29",
-    "away": "OGC Nice",
-    "league": "Ligue 1",
-    "kickoff_utc": "2026-10-23T18:45:00Z",
+    "home": "Aston Villa FC",
+    "away": "Manchester City FC",
+    "league": "Premier League",
+    "kickoff_utc": "2026-10-24T11:30Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.9267,
-      "price": 0.795,
+      "prob": 0.8686,
+      "price": 0.845,
       "stake": 200.0,
-      "ev_pct": 16.6
+      "ev_pct": 2.8
+     }
+    ]
+   },
+   {
+    "home": "Deportivo Alavés",
+    "away": "Málaga CF",
+    "league": "La Liga",
+    "kickoff_utc": "2026-10-23T19:00Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.7493,
+      "price": 0.725,
+      "stake": 200.0,
+      "ev_pct": 3.4
      }
     ]
    }
