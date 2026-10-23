@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-23T23:30:06.255204Z",
- "slate_generated_utc": "2026-10-23T23:12:37.421896Z",
+ "generated_utc": "2026-10-23T23:35:14.337886Z",
+ "slate_generated_utc": "2026-10-23T23:30:53.879181Z",
  "date": "2026-10-23",
  "source": "files",
  "games": [
@@ -670,17 +670,17 @@
   ],
   "pending": [
    {
-    "home": "Valencia CF",
-    "away": "Villarreal CF",
-    "league": "La Liga",
-    "kickoff_utc": "2026-10-24T16:30Z",
+    "home": "Aston Villa FC",
+    "away": "Manchester City FC",
+    "league": "Premier League",
+    "kickoff_utc": "2026-10-24T11:30Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8211,
-      "price": 0.785,
+      "prob": 0.8629,
+      "price": 0.845,
       "stake": 200.0,
-      "ev_pct": 4.6
+      "ev_pct": 2.1
      }
     ]
    }
