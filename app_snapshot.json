@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-23T19:56:45.866522Z",
- "slate_generated_utc": "2026-10-23T19:35:14.544839Z",
+ "generated_utc": "2026-10-23T20:01:46.661108Z",
+ "slate_generated_utc": "2026-10-23T19:56:52.619038Z",
  "date": "2026-10-23",
  "source": "files",
  "games": [
@@ -274,7 +274,7 @@
    "league_name": "Primeira Liga",
    "kickoff_utc": "2026-10-23T19:45Z",
    "kickoff_local": "3:45 PM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "por-gui-csm-2026-10-23-exact-score",
    "lamH": null,
    "lamA": null,
@@ -910,17 +910,17 @@
   ],
   "pending": [
    {
-    "home": "Club Atlético de Madrid",
-    "away": "RC Deportivo A Coruña",
-    "league": "La Liga",
-    "kickoff_utc": "2026-10-24T19:00:00Z",
+    "home": "Coventry City FC",
+    "away": "Fulham FC",
+    "league": "Premier League",
+    "kickoff_utc": "2026-10-24T14:00Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.9347,
-      "price": 0.835,
+      "prob": 0.8221,
+      "price": 0.785,
       "stake": 200.0,
-      "ev_pct": 11.9
+      "ev_pct": 4.7
      }
     ]
    }
