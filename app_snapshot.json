@@ -1,33 +1,9 @@
 {
- "generated_utc": "2026-10-23T22:17:51.987018Z",
- "slate_generated_utc": "2026-10-23T22:00:28.140787Z",
+ "generated_utc": "2026-10-23T22:23:04.802544Z",
+ "slate_generated_utc": "2026-10-23T22:19:09.723338Z",
  "date": "2026-10-23",
  "source": "files",
  "games": [
-  {
-   "home": "Go Ahead Eagles",
-   "away": "Telstar 1963",
-   "league_name": "Eredivisie",
-   "kickoff_utc": "2026-10-23T18:00Z",
-   "kickoff_local": "2:00 PM",
-   "status": "post",
-   "pm_slug": "ere-goa-tel-2026-10-23-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
   {
    "home": "KV Kortrijk",
    "away": "Yellow-Red KV Mechelen",
@@ -694,17 +670,17 @@
   ],
   "pending": [
    {
-    "home": "Valencia CF",
-    "away": "Villarreal CF",
-    "league": "La Liga",
-    "kickoff_utc": "2026-10-24T16:30Z",
+    "home": "Coventry City FC",
+    "away": "Fulham FC",
+    "league": "Premier League",
+    "kickoff_utc": "2026-10-24T14:00Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8466,
+      "prob": 0.8218,
       "price": 0.785,
       "stake": 200.0,
-      "ev_pct": 7.8
+      "ev_pct": 4.7
      }
     ]
    }
