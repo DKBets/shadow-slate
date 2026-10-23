@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-23T17:54:22.425285Z",
- "slate_generated_utc": "2026-10-23T17:00:35.414798Z",
+ "generated_utc": "2026-10-23T17:59:55.151666Z",
+ "slate_generated_utc": "2026-10-23T17:57:54.841567Z",
  "date": "2026-10-23",
  "source": "files",
  "games": [
@@ -10,7 +10,7 @@
    "league_name": "Super Lig",
    "kickoff_utc": "2026-10-23T17:00Z",
    "kickoff_local": "1:00 PM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "tur-ala-koc-2026-10-23-exact-score",
    "lamH": null,
    "lamA": null,
@@ -34,7 +34,7 @@
    "league_name": "Allsvenskan",
    "kickoff_utc": "2026-10-23T17:00Z",
    "kickoff_local": "1:00 PM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "swe-elf-mal-2026-10-23-exact-score",
    "lamH": null,
    "lamA": null,
@@ -58,7 +58,7 @@
    "league_name": "Allsvenskan",
    "kickoff_utc": "2026-10-23T17:00Z",
    "kickoff_local": "1:00 PM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "swe-vas-hal-2026-10-23-exact-score",
    "lamH": null,
    "lamA": null,
@@ -82,7 +82,7 @@
    "league_name": "Danish Superliga",
    "kickoff_utc": "2026-10-23T17:00Z",
    "kickoff_local": "1:00 PM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "den-ran-bro-2026-10-23-exact-score",
    "lamH": null,
    "lamA": null,
@@ -169,17 +169,24 @@
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
+   "shadow_pending": true,
+   "shadow_totals": [
+    {
+     "sel": "Over 1.5",
+     "prob": 0.901,
+     "price": 0.8,
+     "stake": 200.0
+    }
+   ]
   },
   {
-   "home": "Torino FC",
-   "away": "AC Monza",
-   "league_name": "Serie A",
-   "kickoff_utc": "2026-10-23T18:45Z",
+   "home": "KV Kortrijk",
+   "away": "Yellow-Red KV Mechelen",
+   "league_name": "Belgian Pro League",
+   "kickoff_utc": "2026-10-23T18:45:00Z",
    "kickoff_local": "2:45 PM",
    "status": "pre",
-   "pm_slug": "sea-tor-mon-2026-10-23-exact-score",
+   "pm_slug": "bel1-kor-yrm-2026-10-23-exact-score",
    "lamH": null,
    "lamA": null,
    "hasModel": false,
@@ -197,13 +204,13 @@
    "shadow_totals": []
   },
   {
-   "home": "KV Kortrijk",
-   "away": "Yellow-Red KV Mechelen",
-   "league_name": "Belgian Pro League",
+   "home": "Torino FC",
+   "away": "AC Monza",
+   "league_name": "Serie A",
    "kickoff_utc": "2026-10-23T18:45Z",
    "kickoff_local": "2:45 PM",
    "status": "pre",
-   "pm_slug": "bel1-kor-yrm-2026-10-23-exact-score",
+   "pm_slug": "sea-tor-mon-2026-10-23-exact-score",
    "lamH": null,
    "lamA": null,
    "hasModel": false,
@@ -265,15 +272,8 @@
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
-   "shadow_pending": true,
-   "shadow_totals": [
-    {
-     "sel": "Over 1.5",
-     "prob": 0.75,
-     "price": 0.725,
-     "stake": 200.0
-    }
-   ]
+   "shadow_pending": false,
+   "shadow_totals": []
   },
   {
    "home": "Vitória SC",
@@ -917,17 +917,17 @@
   ],
   "pending": [
    {
-    "home": "Deportivo Alavés",
-    "away": "Málaga CF",
-    "league": "La Liga",
-    "kickoff_utc": "2026-10-23T19:00Z",
+    "home": "Stade Brestois 29",
+    "away": "OGC Nice",
+    "league": "Ligue 1",
+    "kickoff_utc": "2026-10-23T18:45:00Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.75,
-      "price": 0.725,
+      "prob": 0.901,
+      "price": 0.8,
       "stake": 200.0,
-      "ev_pct": 3.4
+      "ev_pct": 12.6
      }
     ]
    }
