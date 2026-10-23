@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-23T01:06:06.797109Z",
- "slate_generated_utc": "2026-10-23T00:59:39.296944Z",
+ "generated_utc": "2026-10-23T01:11:24.635226Z",
+ "slate_generated_utc": "2026-10-23T01:08:11.607982Z",
  "date": "2026-10-22",
  "source": "files",
  "games": [
@@ -550,21 +550,6 @@
   ],
   "pending": [
    {
-    "home": "Club Atlético de Madrid",
-    "away": "RC Deportivo A Coruña",
-    "league": "La Liga",
-    "kickoff_utc": "2026-10-24T19:00:00Z",
-    "totals": [
-     {
-      "sel": "Over 1.5",
-      "prob": 0.9329,
-      "price": 0.83,
-      "stake": 200.0,
-      "ev_pct": 12.4
-     }
-    ]
-   },
-   {
     "home": "Stade Brestois 29",
     "away": "OGC Nice",
     "league": "Ligue 1",
@@ -572,10 +557,25 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8797,
+      "prob": 0.8734,
       "price": 0.79,
       "stake": 200.0,
-      "ev_pct": 11.4
+      "ev_pct": 10.6
+     }
+    ]
+   },
+   {
+    "home": "Cagliari Calcio",
+    "away": "Bologna FC 1909",
+    "league": "Serie A",
+    "kickoff_utc": "2026-10-24T13:00Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.7823,
+      "price": 0.705,
+      "stake": 200.0,
+      "ev_pct": 11.0
      }
     ]
    }
