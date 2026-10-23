@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-23T17:02:04.386615Z",
+ "generated_utc": "2026-10-23T17:07:08.811878Z",
  "slate_generated_utc": "2026-10-23T17:00:35.414798Z",
  "date": "2026-10-23",
  "source": "files",
@@ -269,7 +269,7 @@
    "shadow_totals": [
     {
      "sel": "Over 1.5",
-     "prob": 0.7493,
+     "prob": 0.75,
      "price": 0.725,
      "stake": 200.0
     }
@@ -917,21 +917,6 @@
   ],
   "pending": [
    {
-    "home": "Aston Villa FC",
-    "away": "Manchester City FC",
-    "league": "Premier League",
-    "kickoff_utc": "2026-10-24T11:30Z",
-    "totals": [
-     {
-      "sel": "Over 1.5",
-      "prob": 0.8686,
-      "price": 0.845,
-      "stake": 200.0,
-      "ev_pct": 2.8
-     }
-    ]
-   },
-   {
     "home": "Deportivo Alavés",
     "away": "Málaga CF",
     "league": "La Liga",
@@ -939,7 +924,7 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.7493,
+      "prob": 0.75,
       "price": 0.725,
       "stake": 200.0,
       "ev_pct": 3.4
