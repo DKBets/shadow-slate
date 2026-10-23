@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-23T00:14:36.479721Z",
- "slate_generated_utc": "2026-10-22T23:55:51.697149Z",
+ "generated_utc": "2026-10-23T00:19:38.852002Z",
+ "slate_generated_utc": "2026-10-23T00:15:24.026860Z",
  "date": "2026-10-22",
  "source": "files",
  "games": [
@@ -36,54 +36,6 @@
    "kickoff_local": "12:45 PM",
    "status": "post",
    "pm_slug": "nor-lil-bra-2026-10-25-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
-   "home": "TSG 1899 Hoffenheim",
-   "away": "Olympique Lyonnais",
-   "league_name": "Europa League",
-   "kickoff_utc": "2026-10-22T19:00Z",
-   "kickoff_local": "3:00 PM",
-   "status": "post",
-   "pm_slug": "uel-hof-lyo-2026-10-22-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
-   "home": "Pumas de la UNAM",
-   "away": "Tigres de la UANL",
-   "league_name": "Copa Libertadores",
-   "kickoff_utc": "2026-10-23T00:30Z",
-   "kickoff_local": "8:30 PM",
-   "status": "pre",
-   "pm_slug": "mex-pum-tig-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
    "hasModel": false,
@@ -605,10 +557,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.9304,
+      "prob": 0.9294,
       "price": 0.83,
       "stake": 200.0,
-      "ev_pct": 12.1
+      "ev_pct": 12.0
      }
     ]
    },
