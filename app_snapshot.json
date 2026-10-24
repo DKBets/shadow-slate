@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-24T22:54:47.676560Z",
- "slate_generated_utc": "2026-10-24T22:40:46.653801Z",
+ "generated_utc": "2026-10-24T22:59:54.276668Z",
+ "slate_generated_utc": "2026-10-24T22:57:01.677501Z",
  "date": "2026-10-24",
  "source": "files",
  "games": [
@@ -108,30 +108,6 @@
    "kickoff_local": "2:45 PM",
    "status": "post",
    "pm_slug": "bel1-raal-zul-2026-10-24-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
-   "home": "Club Atlético de Madrid",
-   "away": "RC Deportivo A Coruña",
-   "league_name": "La Liga",
-   "kickoff_utc": "2026-10-24T19:00:00Z",
-   "kickoff_local": "3:00 PM",
-   "status": "in",
-   "pm_slug": "lal-mad-dep-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
    "hasModel": false,
@@ -797,6 +773,30 @@
    "shadow_totals": []
   },
   {
+   "home": "Colorado Rapids SC",
+   "away": "Vancouver Whitecaps FC",
+   "league_name": "MLS",
+   "kickoff_utc": "2026-10-25T01:30Z",
+   "kickoff_local": "9:30 PM",
+   "status": "pre",
+   "pm_slug": "mls-col-vwh-2026-10-24-exact-score",
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
+   "news_adj": null,
+   "top_scores": [],
+   "provisional": false,
+   "market": null,
+   "edge_bets": [],
+   "cur_home": null,
+   "cur_away": null,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
    "home": "Monterey Bay FC",
    "away": "Las Vegas Lights",
    "league_name": "USL Championship",
@@ -1373,7 +1373,7 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8275,
+      "prob": 0.8277,
       "price": 0.695,
       "stake": 200.0,
       "ev_pct": 19.1
@@ -1381,17 +1381,17 @@
     ]
    },
    {
-    "home": "FC Internazionale Milano",
-    "away": "ACF Fiorentina",
+    "home": "Genoa CFC",
+    "away": "Venezia FC",
     "league": "Serie A",
-    "kickoff_utc": "2026-10-25T11:30Z",
+    "kickoff_utc": "2026-10-25T14:00Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8715,
-      "price": 0.865,
+      "prob": 0.7678,
+      "price": 0.745,
       "stake": 200.0,
-      "ev_pct": 0.8
+      "ev_pct": 3.1
      }
     ]
    },
