@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-24T20:57:06.443175Z",
- "slate_generated_utc": "2026-10-24T20:38:20.636895Z",
+ "generated_utc": "2026-10-24T21:01:52.416064Z",
+ "slate_generated_utc": "2026-10-24T20:56:15.255477Z",
  "date": "2026-10-24",
  "source": "files",
  "games": [
@@ -250,7 +250,7 @@
    "league_name": "Ligue 1",
    "kickoff_utc": "2026-10-24T18:45Z",
    "kickoff_local": "2:45 PM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "fl1-rcl-pfc-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -274,7 +274,7 @@
    "league_name": "Serie A",
    "kickoff_utc": "2026-10-24T18:45Z",
    "kickoff_local": "2:45 PM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "sea-laz-par-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -322,7 +322,7 @@
    "league_name": "Belgian Pro League",
    "kickoff_utc": "2026-10-24T18:45Z",
    "kickoff_local": "2:45 PM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "bel1-raal-zul-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -876,6 +876,30 @@
    "kickoff_local": "8:30 PM",
    "status": "pre",
    "pm_slug": "mls-dal-sje-2026-10-24-exact-score",
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
+   "news_adj": null,
+   "top_scores": [],
+   "provisional": false,
+   "market": null,
+   "edge_bets": [],
+   "cur_home": null,
+   "cur_away": null,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "Houston Dynamo",
+   "away": "Minnesota United FC",
+   "league_name": "MLS",
+   "kickoff_utc": "2026-10-25T00:30Z",
+   "kickoff_local": "8:30 PM",
+   "status": "pre",
+   "pm_slug": "mls-hou-min-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
    "hasModel": false,
@@ -1565,10 +1589,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.834,
+      "prob": 0.8306,
       "price": 0.695,
       "stake": 200.0,
-      "ev_pct": 20.0
+      "ev_pct": 19.5
      }
     ]
    },
@@ -1580,10 +1604,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8523,
+      "prob": 0.8521,
       "price": 0.87,
       "stake": 200.0,
-      "ev_pct": -2.0
+      "ev_pct": -2.1
      }
     ]
    },
@@ -1596,9 +1620,9 @@
      {
       "sel": "Over 1.5",
       "prob": 0.7698,
-      "price": 0.825,
+      "price": 0.84,
       "stake": 200.0,
-      "ev_pct": -6.7
+      "ev_pct": -8.4
      }
     ]
    }
