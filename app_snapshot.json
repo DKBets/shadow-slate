@@ -1,81 +1,9 @@
 {
- "generated_utc": "2026-10-24T09:42:54.275949Z",
- "slate_generated_utc": "2026-10-24T09:23:46.549279Z",
+ "generated_utc": "2026-10-24T09:48:04.583748Z",
+ "slate_generated_utc": "2026-10-24T09:42:11.335635Z",
  "date": "2026-10-24",
  "source": "files",
  "games": [
-  {
-   "home": "Bucheon FC 1995",
-   "away": "Gwangju FC",
-   "league_name": "K-League",
-   "kickoff_utc": "2026-10-24T05:00:00Z",
-   "kickoff_local": "1:00 AM",
-   "status": "in",
-   "pm_slug": "kor-bch-gwa-2026-10-24-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
-   "home": "FC Anyang",
-   "away": "Jeonbuk Hyundai Motors FC",
-   "league_name": "K-League",
-   "kickoff_utc": "2026-10-24T05:00:00Z",
-   "kickoff_local": "1:00 AM",
-   "status": "in",
-   "pm_slug": "kor-any-jeo-2026-10-24-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
-   "home": "Gamba Ōsaka",
-   "away": "Kyōto Sanga FC",
-   "league_name": "J-League",
-   "kickoff_utc": "2026-10-24T07:00Z",
-   "kickoff_local": "3:00 AM",
-   "status": "post",
-   "pm_slug": "jap-gam-kyo-2026-10-24-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
   {
    "home": "Eyüpspor",
    "away": "Kasımpaşa SK",
@@ -413,7 +341,7 @@
    "shadow_totals": [
     {
      "sel": "Over 1.5",
-     "prob": 0.8482,
+     "prob": 0.8423,
      "price": 0.775,
      "stake": 200.0
     }
@@ -2268,10 +2196,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8482,
+      "prob": 0.8423,
       "price": 0.775,
       "stake": 200.0,
-      "ev_pct": 9.4
+      "ev_pct": 8.7
      }
     ]
    }
