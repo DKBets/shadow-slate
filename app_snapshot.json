@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-24T04:16:55.594277Z",
- "slate_generated_utc": "2026-10-24T03:59:59.288788Z",
+ "generated_utc": "2026-10-24T04:22:04.753395Z",
+ "slate_generated_utc": "2026-10-24T04:20:20.903579Z",
  "date": "2026-10-24",
  "source": "files",
  "games": [
@@ -409,15 +409,8 @@
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
-   "shadow_pending": true,
-   "shadow_totals": [
-    {
-     "sel": "Over 1.5",
-     "prob": 0.7955,
-     "price": 0.715,
-     "stake": 200.0
-    }
-   ]
+   "shadow_pending": false,
+   "shadow_totals": []
   },
   {
    "home": "BK Hacken",
@@ -1208,8 +1201,15 @@
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
+   "shadow_pending": true,
+   "shadow_totals": [
+    {
+     "sel": "Over 1.5",
+     "prob": 0.8093,
+     "price": 0.755,
+     "stake": 200.0
+    }
+   ]
   },
   {
    "home": "KVC Westerlo",
@@ -2453,17 +2453,17 @@
   ],
   "pending": [
    {
-    "home": "Cagliari Calcio",
-    "away": "Bologna FC 1909",
+    "home": "SS Lazio",
+    "away": "Parma Calcio 1913",
     "league": "Serie A",
-    "kickoff_utc": "2026-10-24T13:00Z",
+    "kickoff_utc": "2026-10-24T18:45Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.7955,
-      "price": 0.715,
+      "prob": 0.8093,
+      "price": 0.755,
       "stake": 200.0,
-      "ev_pct": 11.3
+      "ev_pct": 7.2
      }
     ]
    }
