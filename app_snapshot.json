@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-24T23:10:06.207722Z",
- "slate_generated_utc": "2026-10-24T22:57:01.677501Z",
+ "generated_utc": "2026-10-24T23:15:19.695646Z",
+ "slate_generated_utc": "2026-10-24T23:12:25.013898Z",
  "date": "2026-10-24",
  "source": "files",
  "games": [
@@ -36,30 +36,6 @@
    "kickoff_local": "10:00 AM",
    "status": "post",
    "pm_slug": "uslc-lc-det-2026-10-24-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
-   "home": "FC Alverca",
-   "away": "FC Arouca",
-   "league_name": "Primeira Liga",
-   "kickoff_utc": "2026-10-24T17:00Z",
-   "kickoff_local": "1:00 PM",
-   "status": "post",
-   "pm_slug": "por-alv-aro-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
    "hasModel": false,
@@ -180,30 +156,6 @@
    "kickoff_local": "3:30 PM",
    "status": "post",
    "pm_slug": "por-gil-por-2026-10-24-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
-   "home": "Columbus Crew",
-   "away": "Toronto FC",
-   "league_name": "MLS",
-   "kickoff_utc": "2026-10-24T19:30Z",
-   "kickoff_local": "3:30 PM",
-   "status": "post",
-   "pm_slug": "mls-clb-tor-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
    "hasModel": false,
@@ -490,7 +442,7 @@
    "league_name": "Liga MX",
    "kickoff_utc": "2026-10-24T23:00Z",
    "kickoff_local": "7:00 PM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "mex-leo-tol-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -1388,10 +1340,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.7678,
+      "prob": 0.7715,
       "price": 0.745,
       "stake": 200.0,
-      "ev_pct": 3.1
+      "ev_pct": 3.6
      }
     ]
    },
@@ -1403,7 +1355,7 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.7699,
+      "prob": 0.7696,
       "price": 0.825,
       "stake": 200.0,
       "ev_pct": -6.7
