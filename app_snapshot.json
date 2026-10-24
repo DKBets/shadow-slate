@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-24T19:07:55.783891Z",
- "slate_generated_utc": "2026-10-24T18:28:47.121155Z",
+ "generated_utc": "2026-10-24T19:13:04.880136Z",
+ "slate_generated_utc": "2026-10-24T19:07:08.503991Z",
  "date": "2026-10-24",
  "source": "files",
  "games": [
@@ -389,30 +389,6 @@
    "shadow_totals": []
   },
   {
-   "home": "SSC Napoli",
-   "away": "AS Roma",
-   "league_name": "Serie A",
-   "kickoff_utc": "2026-10-24T16:00Z",
-   "kickoff_local": "12:00 PM",
-   "status": "post",
-   "pm_slug": "sea-nap-rom-2026-10-24-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
    "home": "Samsunspor",
    "away": "Amed Sportif",
    "league_name": "Super Lig",
@@ -490,7 +466,7 @@
    "league_name": "Premier League",
    "kickoff_utc": "2026-10-24T16:30Z",
    "kickoff_local": "12:30 PM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "epl-che-tot-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -514,7 +490,7 @@
    "league_name": "La Liga",
    "kickoff_utc": "2026-10-24T16:30Z",
    "kickoff_local": "12:30 PM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "lal-val-vil-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -538,7 +514,7 @@
    "league_name": "Bundesliga",
    "kickoff_utc": "2026-10-24T16:30Z",
    "kickoff_local": "12:30 PM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "bun-dor-ein-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -562,7 +538,7 @@
    "league_name": "Eredivisie",
    "kickoff_utc": "2026-10-24T16:45Z",
    "kickoff_local": "12:45 PM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "ere-wii-cam-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -586,7 +562,7 @@
    "league_name": "Primeira Liga",
    "kickoff_utc": "2026-10-24T17:00Z",
    "kickoff_local": "1:00 PM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "por-alv-aro-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -634,7 +610,7 @@
    "league_name": "Ligue 1",
    "kickoff_utc": "2026-10-24T18:45Z",
    "kickoff_local": "2:45 PM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "fl1-rcl-pfc-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -658,7 +634,7 @@
    "league_name": "Serie A",
    "kickoff_utc": "2026-10-24T18:45Z",
    "kickoff_local": "2:45 PM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "sea-laz-par-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -682,7 +658,7 @@
    "league_name": "Belgian Pro League",
    "kickoff_utc": "2026-10-24T18:45Z",
    "kickoff_local": "2:45 PM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "bel1-wes-bev-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -706,7 +682,7 @@
    "league_name": "Belgian Pro League",
    "kickoff_utc": "2026-10-24T18:45Z",
    "kickoff_local": "2:45 PM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "bel1-raal-zul-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -1918,21 +1894,6 @@
   ],
   "pending": [
    {
-    "home": "Crystal Palace FC",
-    "away": "Newcastle United FC",
-    "league": "Premier League",
-    "kickoff_utc": "2026-10-25T14:00Z",
-    "totals": [
-     {
-      "sel": "Over 1.5",
-      "prob": 0.8526,
-      "price": 0.835,
-      "stake": 200.0,
-      "ev_pct": 2.1
-     }
-    ]
-   },
-   {
     "home": "SV 07 Elversberg",
     "away": "1. FSV Mainz 05",
     "league": "Bundesliga",
@@ -1940,7 +1901,7 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.886,
+      "prob": 0.8857,
       "price": 0.83,
       "stake": 200.0,
       "ev_pct": 6.7
@@ -1955,10 +1916,25 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8835,
+      "prob": 0.8763,
       "price": 0.875,
       "stake": 200.0,
-      "ev_pct": 1.0
+      "ev_pct": 0.1
+     }
+    ]
+   },
+   {
+    "home": "Atalanta BC",
+    "away": "Frosinone Calcio",
+    "league": "Serie A",
+    "kickoff_utc": "2026-10-25T14:00Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.8524,
+      "price": 0.87,
+      "stake": 200.0,
+      "ev_pct": -2.0
      }
     ]
    },
@@ -1970,7 +1946,7 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.7704,
+      "prob": 0.7709,
       "price": 0.825,
       "stake": 200.0,
       "ev_pct": -6.6
