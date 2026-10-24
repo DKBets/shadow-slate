@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-24T07:34:05.971730Z",
- "slate_generated_utc": "2026-10-24T07:16:36.729147Z",
+ "generated_utc": "2026-10-24T07:39:21.178070Z",
+ "slate_generated_utc": "2026-10-24T07:35:00.428896Z",
  "date": "2026-10-24",
  "source": "files",
  "games": [
@@ -10,7 +10,7 @@
    "league_name": "K-League",
    "kickoff_utc": "2026-10-24T05:00:00Z",
    "kickoff_local": "1:00 AM",
-   "status": "post",
+   "status": "in",
    "pm_slug": "kor-uls-poh-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -34,7 +34,7 @@
    "league_name": "K-League",
    "kickoff_utc": "2026-10-24T05:00:00Z",
    "kickoff_local": "1:00 AM",
-   "status": "post",
+   "status": "in",
    "pm_slug": "kor-san-dae1-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -58,7 +58,7 @@
    "league_name": "K-League",
    "kickoff_utc": "2026-10-24T05:00:00Z",
    "kickoff_local": "1:00 AM",
-   "status": "post",
+   "status": "in",
    "pm_slug": "kor-seo-gwo-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -82,7 +82,7 @@
    "league_name": "K-League",
    "kickoff_utc": "2026-10-24T05:00:00Z",
    "kickoff_local": "1:00 AM",
-   "status": "post",
+   "status": "in",
    "pm_slug": "kor-bch-gwa-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -106,7 +106,7 @@
    "league_name": "K-League",
    "kickoff_utc": "2026-10-24T05:00:00Z",
    "kickoff_local": "1:00 AM",
-   "status": "post",
+   "status": "in",
    "pm_slug": "kor-inc-jej-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -130,32 +130,8 @@
    "league_name": "K-League",
    "kickoff_utc": "2026-10-24T05:00:00Z",
    "kickoff_local": "1:00 AM",
-   "status": "post",
+   "status": "in",
    "pm_slug": "kor-any-jeo-2026-10-24-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
-   "home": "Sanfrecce Hiroshima",
-   "away": "Shimizu S-Pulse",
-   "league_name": "J-League",
-   "kickoff_utc": "2026-10-24T05:00Z",
-   "kickoff_local": "1:00 AM",
-   "status": "post",
-   "pm_slug": "jap-san-ssp-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
    "hasModel": false,
@@ -1277,7 +1253,7 @@
    "shadow_totals": [
     {
      "sel": "Over 1.5",
-     "prob": 0.931,
+     "prob": 0.9359,
      "price": 0.835,
      "stake": 200.0
     }
@@ -2460,10 +2436,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.931,
+      "prob": 0.9359,
       "price": 0.835,
       "stake": 200.0,
-      "ev_pct": 11.5
+      "ev_pct": 12.1
      }
     ]
    }
