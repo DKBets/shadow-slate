@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-24T09:01:55.853380Z",
- "slate_generated_utc": "2026-10-24T08:48:10.113661Z",
+ "generated_utc": "2026-10-24T09:07:03.493742Z",
+ "slate_generated_utc": "2026-10-24T09:04:41.012670Z",
  "date": "2026-10-24",
  "source": "files",
  "games": [
@@ -313,15 +313,8 @@
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
-   "shadow_pending": true,
-   "shadow_totals": [
-    {
-     "sel": "Over 1.5",
-     "prob": 0.7604,
-     "price": 0.685,
-     "stake": 200.0
-    }
-   ]
+   "shadow_pending": false,
+   "shadow_totals": []
   },
   {
    "home": "BK Hacken",
@@ -536,8 +529,15 @@
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
+   "shadow_pending": true,
+   "shadow_totals": [
+    {
+     "sel": "Over 1.5",
+     "prob": 0.8321,
+     "price": 0.785,
+     "stake": 200.0
+    }
+   ]
   },
   {
    "home": "Rangers FC",
@@ -2357,17 +2357,17 @@
   ],
   "pending": [
    {
-    "home": "Cagliari Calcio",
-    "away": "Bologna FC 1909",
-    "league": "Serie A",
-    "kickoff_utc": "2026-10-24T13:00Z",
+    "home": "Coventry City FC",
+    "away": "Fulham FC",
+    "league": "Premier League",
+    "kickoff_utc": "2026-10-24T14:00Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.7604,
-      "price": 0.685,
+      "prob": 0.8321,
+      "price": 0.785,
       "stake": 200.0,
-      "ev_pct": 11.0
+      "ev_pct": 6.0
      }
     ]
    }
