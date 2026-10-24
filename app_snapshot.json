@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-24T15:06:55.383977Z",
- "slate_generated_utc": "2026-10-24T14:52:12.294237Z",
+ "generated_utc": "2026-10-24T15:11:55.914776Z",
+ "slate_generated_utc": "2026-10-24T15:09:01.179441Z",
  "date": "2026-10-24",
  "source": "files",
  "games": [
@@ -34,7 +34,7 @@
    "league_name": "Serie A",
    "kickoff_utc": "2026-10-24T13:00Z",
    "kickoff_local": "9:00 AM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "sea-com-sas-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -58,7 +58,7 @@
    "league_name": "Serie A",
    "kickoff_utc": "2026-10-24T13:00Z",
    "kickoff_local": "9:00 AM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "sea-cag-bol-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -72,7 +72,7 @@
    "cur_away": null,
    "minute": null,
    "shadow_bet": true,
-   "shadow_status": "open",
+   "shadow_status": "settled",
    "shadow_pending": false,
    "shadow_totals": []
   },
@@ -82,7 +82,7 @@
    "league_name": "Allsvenskan",
    "kickoff_utc": "2026-10-24T13:00Z",
    "kickoff_local": "9:00 AM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "swe-hac-deg-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -106,7 +106,7 @@
    "league_name": "Allsvenskan",
    "kickoff_utc": "2026-10-24T13:00Z",
    "kickoff_local": "9:00 AM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "swe-sir-aik-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -2073,7 +2073,7 @@
     "away": "Bologna FC 1909",
     "league": "Serie A",
     "kickoff_utc": "2026-10-24T13:00Z",
-    "status": "open",
+    "status": "settled",
     "stake": 500.0,
     "hit_pre": 0.625,
     "legs": [
@@ -2102,9 +2102,9 @@
       "price": 0.09
      }
     ],
-    "won": null,
-    "pnl": null,
-    "final": null,
+    "won": false,
+    "pnl": -500.0,
+    "final": "0-2",
     "reason": "top-of-day pick — Core 40%"
    }
   ],
@@ -2117,10 +2117,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8844,
-      "price": 0.88,
+      "prob": 0.8787,
+      "price": 0.875,
       "stake": 200.0,
-      "ev_pct": 0.5
+      "ev_pct": 0.4
      }
     ]
    },
@@ -2132,16 +2132,16 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.7727,
-      "price": 0.825,
+      "prob": 0.7728,
+      "price": 0.82,
       "stake": 200.0,
-      "ev_pct": -6.3
+      "ev_pct": -5.8
      }
     ]
    }
   ],
-  "net": -8765.56,
-  "n_settled": 476,
+  "net": -9265.56,
+  "n_settled": 477,
   "n_won": 254
  }
 }
