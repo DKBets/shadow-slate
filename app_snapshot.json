@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-24T02:37:06.284997Z",
- "slate_generated_utc": "2026-10-24T02:30:51.030190Z",
+ "generated_utc": "2026-10-24T02:42:22.501155Z",
+ "slate_generated_utc": "2026-10-24T02:38:21.882076Z",
  "date": "2026-10-23",
  "source": "files",
  "games": [
@@ -694,17 +694,17 @@
   ],
   "pending": [
    {
-    "home": "SS Lazio",
-    "away": "Parma Calcio 1913",
+    "home": "Cagliari Calcio",
+    "away": "Bologna FC 1909",
     "league": "Serie A",
-    "kickoff_utc": "2026-10-24T18:45Z",
+    "kickoff_utc": "2026-10-24T13:00Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8097,
-      "price": 0.755,
+      "prob": 0.7959,
+      "price": 0.715,
       "stake": 200.0,
-      "ev_pct": 7.2
+      "ev_pct": 11.3
      }
     ]
    }
