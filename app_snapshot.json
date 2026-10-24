@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-24T06:41:17.838522Z",
+ "generated_utc": "2026-10-24T06:46:34.507586Z",
  "slate_generated_utc": "2026-10-24T06:39:55.336792Z",
  "date": "2026-10-24",
  "source": "files",
@@ -409,15 +409,8 @@
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
-   "shadow_pending": true,
-   "shadow_totals": [
-    {
-     "sel": "Over 1.5",
-     "prob": 0.7704,
-     "price": 0.675,
-     "stake": 200.0
-    }
-   ]
+   "shadow_pending": false,
+   "shadow_totals": []
   },
   {
    "home": "BK Hacken",
@@ -1280,8 +1273,15 @@
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
+   "shadow_pending": true,
+   "shadow_totals": [
+    {
+     "sel": "Over 1.5",
+     "prob": 0.9318,
+     "price": 0.835,
+     "stake": 200.0
+    }
+   ]
   },
   {
    "home": "ADO Den Haag",
@@ -2453,17 +2453,17 @@
   ],
   "pending": [
    {
-    "home": "Cagliari Calcio",
-    "away": "Bologna FC 1909",
-    "league": "Serie A",
-    "kickoff_utc": "2026-10-24T13:00Z",
+    "home": "Club Atlético de Madrid",
+    "away": "RC Deportivo A Coruña",
+    "league": "La Liga",
+    "kickoff_utc": "2026-10-24T19:00:00Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.7704,
-      "price": 0.675,
+      "prob": 0.9318,
+      "price": 0.835,
       "stake": 200.0,
-      "ev_pct": 14.1
+      "ev_pct": 11.6
      }
     ]
    }
