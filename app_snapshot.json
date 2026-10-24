@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-24T03:14:06.014725Z",
- "slate_generated_utc": "2026-10-24T03:02:16.191825Z",
+ "generated_utc": "2026-10-24T03:19:11.120594Z",
+ "slate_generated_utc": "2026-10-24T03:15:24.158783Z",
  "date": "2026-10-23",
  "source": "files",
  "games": [
@@ -202,7 +202,7 @@
    "league_name": "Liga MX",
    "kickoff_utc": "2026-10-24T03:00Z",
    "kickoff_local": "11:00 PM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "mex-atla-asl-2026-10-23-exact-score",
    "lamH": null,
    "lamA": null,
