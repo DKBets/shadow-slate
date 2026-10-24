@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-24T11:10:39.963281Z",
- "slate_generated_utc": "2026-10-24T10:55:35.883834Z",
+ "generated_utc": "2026-10-24T11:15:59.604146Z",
+ "slate_generated_utc": "2026-10-24T11:14:15.442182Z",
  "date": "2026-10-24",
  "source": "files",
  "games": [
@@ -145,15 +145,8 @@
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
-   "shadow_pending": true,
-   "shadow_totals": [
-    {
-     "sel": "Over 1.5",
-     "prob": 0.7835,
-     "price": 0.685,
-     "stake": 200.0
-    }
-   ]
+   "shadow_pending": false,
+   "shadow_totals": []
   },
   {
    "home": "BK Hacken",
@@ -344,8 +337,15 @@
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
+   "shadow_pending": true,
+   "shadow_totals": [
+    {
+     "sel": "Over 1.5",
+     "prob": 0.8356,
+     "price": 0.775,
+     "stake": 200.0
+    }
+   ]
   },
   {
    "home": "Coventry City FC",
@@ -2189,6 +2189,21 @@
   ],
   "pending": [
    {
+    "home": "Arsenal FC",
+    "away": "Everton FC",
+    "league": "Premier League",
+    "kickoff_utc": "2026-10-24T14:00Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.8356,
+      "price": 0.775,
+      "stake": 200.0,
+      "ev_pct": 7.8
+     }
+    ]
+   },
+   {
     "home": "Paris Saint-Germain FC",
     "away": "Olympique Lyonnais",
     "league": "Ligue 1",
@@ -2196,25 +2211,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8901,
+      "prob": 0.8878,
       "price": 0.875,
       "stake": 200.0,
-      "ev_pct": 1.7
-     }
-    ]
-   },
-   {
-    "home": "Cagliari Calcio",
-    "away": "Bologna FC 1909",
-    "league": "Serie A",
-    "kickoff_utc": "2026-10-24T13:00Z",
-    "totals": [
-     {
-      "sel": "Over 1.5",
-      "prob": 0.7835,
-      "price": 0.685,
-      "stake": 200.0,
-      "ev_pct": 14.4
+      "ev_pct": 1.5
      }
     ]
    }
