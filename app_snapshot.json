@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-24T05:14:14.298584Z",
- "slate_generated_utc": "2026-10-24T04:56:48.801370Z",
+ "generated_utc": "2026-10-24T05:19:14.340471Z",
+ "slate_generated_utc": "2026-10-24T05:14:02.229748Z",
  "date": "2026-10-24",
  "source": "files",
  "games": [
@@ -154,7 +154,7 @@
    "league_name": "J-League",
    "kickoff_utc": "2026-10-24T05:00Z",
    "kickoff_local": "1:00 AM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "jap-san-ssp-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -1277,8 +1277,8 @@
    "shadow_totals": [
     {
      "sel": "Over 1.5",
-     "prob": 0.9413,
-     "price": 0.835,
+     "prob": 0.9389,
+     "price": 0.845,
      "stake": 200.0
     }
    ]
@@ -2460,10 +2460,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.9413,
-      "price": 0.835,
+      "prob": 0.9389,
+      "price": 0.845,
       "stake": 200.0,
-      "ev_pct": 12.7
+      "ev_pct": 11.1
      }
     ]
    }
