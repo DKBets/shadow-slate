@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-24T20:20:44.049724Z",
+ "generated_utc": "2026-10-24T20:26:13.037515Z",
  "slate_generated_utc": "2026-10-24T20:18:44.225157Z",
  "date": "2026-10-24",
  "source": "files",
@@ -1565,25 +1565,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8352,
+      "prob": 0.8349,
       "price": 0.695,
       "stake": 200.0,
-      "ev_pct": 20.2
-     }
-    ]
-   },
-   {
-    "home": "SV 07 Elversberg",
-    "away": "1. FSV Mainz 05",
-    "league": "Bundesliga",
-    "kickoff_utc": "2026-10-30T19:30:00Z",
-    "totals": [
-     {
-      "sel": "Over 1.5",
-      "prob": 0.8869,
-      "price": 0.83,
-      "stake": 200.0,
-      "ev_pct": 6.9
+      "ev_pct": 20.1
      }
     ]
    },
@@ -1595,10 +1580,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8521,
+      "prob": 0.8523,
       "price": 0.87,
       "stake": 200.0,
-      "ev_pct": -2.1
+      "ev_pct": -2.0
      }
     ]
    },
