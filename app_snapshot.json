@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-24T15:53:39.277427Z",
- "slate_generated_utc": "2026-10-24T15:43:51.306141Z",
+ "generated_utc": "2026-10-24T15:58:43.491844Z",
+ "slate_generated_utc": "2026-10-24T15:52:56.679896Z",
  "date": "2026-10-24",
  "source": "files",
  "games": [
@@ -2062,21 +2062,6 @@
   ],
   "pending": [
    {
-    "home": "Manchester United FC",
-    "away": "AFC Bournemouth",
-    "league": "Premier League",
-    "kickoff_utc": "2026-10-25T14:00Z",
-    "totals": [
-     {
-      "sel": "Over 1.5",
-      "prob": 0.8147,
-      "price": 0.815,
-      "stake": 200.0,
-      "ev_pct": -0.0
-     }
-    ]
-   },
-   {
     "home": "Paris Saint-Germain FC",
     "away": "Olympique Lyonnais",
     "league": "Ligue 1",
@@ -2084,10 +2069,25 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8763,
+      "prob": 0.878,
       "price": 0.875,
       "stake": 200.0,
-      "ev_pct": 0.1
+      "ev_pct": 0.3
+     }
+    ]
+   },
+   {
+    "home": "Atalanta BC",
+    "away": "Frosinone Calcio",
+    "league": "Serie A",
+    "kickoff_utc": "2026-10-25T14:00Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.8531,
+      "price": 0.87,
+      "stake": 200.0,
+      "ev_pct": -1.9
      }
     ]
    },
