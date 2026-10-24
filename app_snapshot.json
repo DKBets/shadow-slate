@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-24T00:25:05.942593Z",
+ "generated_utc": "2026-10-24T00:30:53.772408Z",
  "slate_generated_utc": "2026-10-24T00:25:03.584754Z",
  "date": "2026-10-23",
  "source": "board",
@@ -1162,17 +1162,17 @@
   ],
   "pending": [
    {
-    "home": "SS Lazio",
-    "away": "Parma Calcio 1913",
+    "home": "Como 1907",
+    "away": "US Sassuolo Calcio",
     "league": "Serie A",
-    "kickoff_utc": "2026-10-24T18:45Z",
+    "kickoff_utc": "2026-10-24T13:00Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8098,
-      "price": 0.755,
+      "prob": 0.8617,
+      "price": 0.865,
       "stake": 200.0,
-      "ev_pct": 7.3
+      "ev_pct": -0.4
      }
     ]
    }
