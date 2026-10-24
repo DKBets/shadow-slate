@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-24T02:21:31.170730Z",
- "slate_generated_utc": "2026-10-24T02:05:47.428137Z",
+ "generated_utc": "2026-10-24T02:26:57.480909Z",
+ "slate_generated_utc": "2026-10-24T02:22:45.883956Z",
  "date": "2026-10-23",
  "source": "files",
  "games": [
@@ -106,7 +106,7 @@
    "league_name": "NWSL",
    "kickoff_utc": "2026-10-24T00:00Z",
    "kickoff_local": "8:00 PM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "nwsl-chi-das-2026-10-23-exact-score",
    "lamH": null,
    "lamA": null,
@@ -178,7 +178,7 @@
    "league_name": "NWSL",
    "kickoff_utc": "2026-10-24T02:00Z",
    "kickoff_local": "10:00 PM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "nwsl-tho-cou-2026-10-23-exact-score",
    "lamH": null,
    "lamA": null,
@@ -701,7 +701,7 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8094,
+      "prob": 0.8097,
       "price": 0.755,
       "stake": 200.0,
       "ev_pct": 7.2
