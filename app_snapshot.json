@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-24T16:09:04.557952Z",
- "slate_generated_utc": "2026-10-24T15:52:56.679896Z",
+ "generated_utc": "2026-10-24T16:14:05.057729Z",
+ "slate_generated_utc": "2026-10-24T16:11:52.004014Z",
  "date": "2026-10-24",
  "source": "files",
  "games": [
@@ -173,36 +173,12 @@
    "shadow_totals": []
   },
   {
-   "home": "RB Leipzig",
-   "away": "SV 07 Elversberg",
-   "league_name": "Bundesliga",
-   "kickoff_utc": "2026-10-24T13:30Z",
-   "kickoff_local": "9:30 AM",
-   "status": "post",
-   "pm_slug": "bun-lei-elv-2026-10-24-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
    "home": "Arsenal FC",
    "away": "Everton FC",
    "league_name": "Premier League",
    "kickoff_utc": "2026-10-24T14:00Z",
    "kickoff_local": "10:00 AM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "epl-ars-eve-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -226,7 +202,7 @@
    "league_name": "Premier League",
    "kickoff_utc": "2026-10-24T14:00Z",
    "kickoff_local": "10:00 AM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "epl-cov-ful-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -250,7 +226,7 @@
    "league_name": "Scottish Premiership",
    "kickoff_utc": "2026-10-24T14:00Z",
    "kickoff_local": "10:00 AM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "scop-ran-joh-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -274,7 +250,7 @@
    "league_name": "Scottish Premiership",
    "kickoff_utc": "2026-10-24T14:00Z",
    "kickoff_local": "10:00 AM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "scop-dun-abe-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -298,7 +274,7 @@
    "league_name": "Scottish Premiership",
    "kickoff_utc": "2026-10-24T14:00Z",
    "kickoff_local": "10:00 AM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "scop-fal-kil-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -322,7 +298,7 @@
    "league_name": "Scottish Premiership",
    "kickoff_utc": "2026-10-24T14:00Z",
    "kickoff_local": "10:00 AM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "scop-stm-dfc-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -346,7 +322,7 @@
    "league_name": "Belgian Pro League",
    "kickoff_utc": "2026-10-24T14:00Z",
    "kickoff_local": "10:00 AM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "bel1-rafc-rch-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -370,7 +346,7 @@
    "league_name": "Eliteserien",
    "kickoff_utc": "2026-10-24T14:00Z",
    "kickoff_local": "10:00 AM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "nor-bog-vif-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -394,7 +370,7 @@
    "league_name": "Championship",
    "kickoff_utc": "2026-10-24T14:00Z",
    "kickoff_local": "10:00 AM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "mls-orl-nyc-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -538,7 +514,7 @@
    "league_name": "Serie A",
    "kickoff_utc": "2026-10-24T16:00Z",
    "kickoff_local": "12:00 PM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "sea-nap-rom-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -562,7 +538,7 @@
    "league_name": "Super Lig",
    "kickoff_utc": "2026-10-24T16:00Z",
    "kickoff_local": "12:00 PM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "tur-sam-ame-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -586,7 +562,7 @@
    "league_name": "Eliteserien",
    "kickoff_utc": "2026-10-24T16:00Z",
    "kickoff_local": "12:00 PM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "nor-ham-rbk-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -2062,6 +2038,21 @@
   ],
   "pending": [
    {
+    "home": "SV 07 Elversberg",
+    "away": "1. FSV Mainz 05",
+    "league": "Bundesliga",
+    "kickoff_utc": "2026-10-30T19:30:00Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.8869,
+      "price": 0.835,
+      "stake": 200.0,
+      "ev_pct": 6.2
+     }
+    ]
+   },
+   {
     "home": "Paris Saint-Germain FC",
     "away": "Olympique Lyonnais",
     "league": "Ligue 1",
@@ -2069,25 +2060,25 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.878,
+      "prob": 0.8765,
       "price": 0.875,
       "stake": 200.0,
-      "ev_pct": 0.3
+      "ev_pct": 0.2
      }
     ]
    },
    {
-    "home": "Atalanta BC",
-    "away": "Frosinone Calcio",
+    "home": "Udinese Calcio",
+    "away": "AC Milan",
     "league": "Serie A",
-    "kickoff_utc": "2026-10-25T14:00Z",
+    "kickoff_utc": "2026-10-25T19:45Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8531,
-      "price": 0.87,
+      "prob": 0.8006,
+      "price": 0.755,
       "stake": 200.0,
-      "ev_pct": -1.9
+      "ev_pct": 6.0
      }
     ]
    },
@@ -2099,10 +2090,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.7727,
+      "prob": 0.7759,
       "price": 0.825,
       "stake": 200.0,
-      "ev_pct": -6.3
+      "ev_pct": -6.0
      }
     ]
    }
