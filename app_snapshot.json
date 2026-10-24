@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-24T22:22:35.515110Z",
- "slate_generated_utc": "2026-10-24T22:16:24.636059Z",
+ "generated_utc": "2026-10-24T22:28:04.783887Z",
+ "slate_generated_utc": "2026-10-24T22:24:23.032802Z",
  "date": "2026-10-24",
  "source": "files",
  "games": [
@@ -36,30 +36,6 @@
    "kickoff_local": "10:00 AM",
    "status": "post",
    "pm_slug": "uslc-lc-det-2026-10-24-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
-   "home": "Willem II Tilburg",
-   "away": "SC Cambuur-Leeuwarden",
-   "league_name": "Eredivisie",
-   "kickoff_utc": "2026-10-24T16:45Z",
-   "kickoff_local": "12:45 PM",
-   "status": "post",
-   "pm_slug": "ere-wii-cam-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
    "hasModel": false,
@@ -1397,25 +1373,25 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8306,
+      "prob": 0.8277,
       "price": 0.695,
       "stake": 200.0,
-      "ev_pct": 19.5
+      "ev_pct": 19.1
      }
     ]
    },
    {
-    "home": "FC Internazionale Milano",
-    "away": "ACF Fiorentina",
+    "home": "Genoa CFC",
+    "away": "Venezia FC",
     "league": "Serie A",
-    "kickoff_utc": "2026-10-25T11:30Z",
+    "kickoff_utc": "2026-10-25T14:00Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8714,
-      "price": 0.865,
+      "prob": 0.8294,
+      "price": 0.745,
       "stake": 200.0,
-      "ev_pct": 0.7
+      "ev_pct": 11.3
      }
     ]
    },
@@ -1428,9 +1404,9 @@
      {
       "sel": "Over 1.5",
       "prob": 0.7699,
-      "price": 0.825,
+      "price": 0.83,
       "stake": 200.0,
-      "ev_pct": -6.7
+      "ev_pct": -7.2
      }
     ]
    }
