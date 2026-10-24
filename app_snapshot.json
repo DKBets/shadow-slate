@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-24T16:29:53.607635Z",
+ "generated_utc": "2026-10-24T16:35:05.784983Z",
  "slate_generated_utc": "2026-10-24T16:28:47.287307Z",
  "date": "2026-10-24",
  "source": "files",
@@ -1973,7 +1973,7 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8869,
+      "prob": 0.8867,
       "price": 0.835,
       "stake": 200.0,
       "ev_pct": 6.2
@@ -1988,7 +1988,7 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8765,
+      "prob": 0.8767,
       "price": 0.875,
       "stake": 200.0,
       "ev_pct": 0.2
@@ -1996,17 +1996,17 @@
     ]
    },
    {
-    "home": "Udinese Calcio",
-    "away": "AC Milan",
+    "home": "Atalanta BC",
+    "away": "Frosinone Calcio",
     "league": "Serie A",
-    "kickoff_utc": "2026-10-25T19:45Z",
+    "kickoff_utc": "2026-10-25T14:00Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8006,
-      "price": 0.755,
+      "prob": 0.853,
+      "price": 0.87,
       "stake": 200.0,
-      "ev_pct": 6.0
+      "ev_pct": -2.0
      }
     ]
    },
@@ -2018,10 +2018,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.7759,
-      "price": 0.825,
+      "prob": 0.7721,
+      "price": 0.82,
       "stake": 200.0,
-      "ev_pct": -6.0
+      "ev_pct": -5.8
      }
     ]
    }
