@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-24T12:26:46.236019Z",
- "slate_generated_utc": "2026-10-24T11:49:15.718978Z",
+ "generated_utc": "2026-10-24T12:32:02.034727Z",
+ "slate_generated_utc": "2026-10-24T12:28:25.230892Z",
  "date": "2026-10-24",
  "source": "files",
  "games": [
@@ -58,7 +58,7 @@
    "league_name": "La Liga",
    "kickoff_utc": "2026-10-24T12:00Z",
    "kickoff_local": "8:00 AM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "lal-ray-elc-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -143,17 +143,10 @@
    "cur_home": null,
    "cur_away": null,
    "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": true,
-   "shadow_totals": [
-    {
-     "sel": "Over 1.5",
-     "prob": 0.7769,
-     "price": 0.695,
-     "stake": 200.0
-    }
-   ]
+   "shadow_bet": true,
+   "shadow_status": "open",
+   "shadow_pending": false,
+   "shadow_totals": []
   },
   {
    "home": "BK Hacken",
@@ -1719,45 +1712,6 @@
  "shadow": {
   "recent": [
    {
-    "home": "Arsenal FC",
-    "away": "Leeds United FC",
-    "league": "Premier League",
-    "kickoff_utc": "2026-10-10T11:30Z",
-    "status": "settled",
-    "stake": 500.0,
-    "hit_pre": 0.61,
-    "legs": [
-     {
-      "score": "1-0",
-      "price": 0.14
-     },
-     {
-      "score": "2-0",
-      "price": 0.13
-     },
-     {
-      "score": "1-1",
-      "price": 0.1
-     },
-     {
-      "score": "2-1",
-      "price": 0.11
-     },
-     {
-      "score": "3-0",
-      "price": 0.09
-     },
-     {
-      "score": "0-0",
-      "price": 0.07
-     }
-    ],
-    "won": true,
-    "pnl": 300.96,
-    "final": "2-1",
-    "reason": "top-of-day pick — Core 48%"
-   },
-   {
     "home": "US Lecce",
     "away": "Bologna FC 1909",
     "league": "Serie A",
@@ -2185,6 +2139,45 @@
     "pnl": 283.6,
     "final": "1-1",
     "reason": "top-of-day pick — Core 52%"
+   },
+   {
+    "home": "Cagliari Calcio",
+    "away": "Bologna FC 1909",
+    "league": "Serie A",
+    "kickoff_utc": "2026-10-24T13:00Z",
+    "status": "open",
+    "stake": 500.0,
+    "hit_pre": 0.625,
+    "legs": [
+     {
+      "score": "1-1",
+      "price": 0.16
+     },
+     {
+      "score": "1-0",
+      "price": 0.11
+     },
+     {
+      "score": "0-0",
+      "price": 0.11
+     },
+     {
+      "score": "0-1",
+      "price": 0.11
+     },
+     {
+      "score": "2-1",
+      "price": 0.08
+     },
+     {
+      "score": "1-2",
+      "price": 0.09
+     }
+    ],
+    "won": null,
+    "pnl": null,
+    "final": null,
+    "reason": "top-of-day pick — Core 40%"
    }
   ],
   "pending": [
@@ -2196,25 +2189,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8872,
+      "prob": 0.8871,
       "price": 0.875,
       "stake": 200.0,
       "ev_pct": 1.4
-     }
-    ]
-   },
-   {
-    "home": "Cagliari Calcio",
-    "away": "Bologna FC 1909",
-    "league": "Serie A",
-    "kickoff_utc": "2026-10-24T13:00Z",
-    "totals": [
-     {
-      "sel": "Over 1.5",
-      "prob": 0.7769,
-      "price": 0.695,
-      "stake": 200.0,
-      "ev_pct": 11.8
      }
     ]
    }
