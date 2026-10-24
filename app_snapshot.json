@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-24T19:59:56.299328Z",
- "slate_generated_utc": "2026-10-24T19:41:59.525843Z",
+ "generated_utc": "2026-10-24T20:04:56.180967Z",
+ "slate_generated_utc": "2026-10-24T20:02:00.870619Z",
  "date": "2026-10-24",
  "source": "files",
  "games": [
@@ -466,7 +466,7 @@
    "league_name": "Brasileirao",
    "kickoff_utc": "2026-10-24T19:30:00Z",
    "kickoff_local": "3:30 PM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "bra-vit-cap-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -514,7 +514,7 @@
    "league_name": "MLS",
    "kickoff_utc": "2026-10-24T19:30Z",
    "kickoff_local": "3:30 PM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "mls-clb-tor-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -1613,10 +1613,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8321,
+      "prob": 0.8352,
       "price": 0.695,
       "stake": 200.0,
-      "ev_pct": 19.7
+      "ev_pct": 20.2
      }
     ]
    },
@@ -1628,10 +1628,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8812,
+      "prob": 0.8869,
       "price": 0.83,
       "stake": 200.0,
-      "ev_pct": 6.2
+      "ev_pct": 6.9
      }
     ]
    },
@@ -1643,10 +1643,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8522,
+      "prob": 0.8521,
       "price": 0.87,
       "stake": 200.0,
-      "ev_pct": -2.0
+      "ev_pct": -2.1
      }
     ]
    },
@@ -1658,10 +1658,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.7704,
-      "price": 0.835,
+      "prob": 0.7698,
+      "price": 0.825,
       "stake": 200.0,
-      "ev_pct": -7.7
+      "ev_pct": -6.7
      }
     ]
    }
