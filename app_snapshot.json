@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-24T08:46:06.357845Z",
- "slate_generated_utc": "2026-10-24T08:11:46.427544Z",
+ "generated_utc": "2026-10-24T08:51:05.096409Z",
+ "slate_generated_utc": "2026-10-24T08:48:10.113661Z",
  "date": "2026-10-24",
  "source": "files",
  "games": [
@@ -132,78 +132,6 @@
    "kickoff_local": "1:00 AM",
    "status": "in",
    "pm_slug": "kor-any-jeo-2026-10-24-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
-   "home": "Vissel Kōbe",
-   "away": "FC Machida Zelvia",
-   "league_name": "J-League",
-   "kickoff_utc": "2026-10-24T06:00Z",
-   "kickoff_local": "2:00 AM",
-   "status": "post",
-   "pm_slug": "jap-vis-zel-2026-10-24-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
-   "home": "Kashima Antlers",
-   "away": "Kashiwa Reysol",
-   "league_name": "J-League",
-   "kickoff_utc": "2026-10-24T06:00Z",
-   "kickoff_local": "2:00 AM",
-   "status": "post",
-   "pm_slug": "jap-kas-rey-2026-10-24-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
-   "home": "Tōkyō Verdy",
-   "away": "Avispa Fukuoka",
-   "league_name": "J-League",
-   "kickoff_utc": "2026-10-24T06:00Z",
-   "kickoff_local": "2:00 AM",
-   "status": "post",
-   "pm_slug": "jap-fct1-avi-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
    "hasModel": false,
@@ -389,7 +317,7 @@
    "shadow_totals": [
     {
      "sel": "Over 1.5",
-     "prob": 0.766,
+     "prob": 0.7604,
      "price": 0.685,
      "stake": 200.0
     }
@@ -2436,10 +2364,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.766,
+      "prob": 0.7604,
       "price": 0.685,
       "stake": 200.0,
-      "ev_pct": 11.8
+      "ev_pct": 11.0
      }
     ]
    }
