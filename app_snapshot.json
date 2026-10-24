@@ -1,81 +1,9 @@
 {
- "generated_utc": "2026-10-24T09:23:25.421334Z",
- "slate_generated_utc": "2026-10-24T09:04:41.012670Z",
+ "generated_utc": "2026-10-24T09:27:09.154312Z",
+ "slate_generated_utc": "2026-10-24T09:23:46.549279Z",
  "date": "2026-10-24",
  "source": "files",
  "games": [
-  {
-   "home": "Ulsan HD FC",
-   "away": "Pohang Steelers FC",
-   "league_name": "K-League",
-   "kickoff_utc": "2026-10-24T05:00:00Z",
-   "kickoff_local": "1:00 AM",
-   "status": "in",
-   "pm_slug": "kor-uls-poh-2026-10-24-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
-   "home": "Gimcheon Sangmu FC",
-   "away": "Daejeon Hana Citizen FC",
-   "league_name": "K-League",
-   "kickoff_utc": "2026-10-24T05:00:00Z",
-   "kickoff_local": "1:00 AM",
-   "status": "in",
-   "pm_slug": "kor-san-dae1-2026-10-24-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
-   "home": "FC Seoul",
-   "away": "Gangwon FC",
-   "league_name": "K-League",
-   "kickoff_utc": "2026-10-24T05:00:00Z",
-   "kickoff_local": "1:00 AM",
-   "status": "in",
-   "pm_slug": "kor-seo-gwo-2026-10-24-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
   {
    "home": "Bucheon FC 1995",
    "away": "Gwangju FC",
@@ -84,30 +12,6 @@
    "kickoff_local": "1:00 AM",
    "status": "in",
    "pm_slug": "kor-bch-gwa-2026-10-24-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
-   "home": "Incheon United FC",
-   "away": "Jeju SK FC",
-   "league_name": "K-League",
-   "kickoff_utc": "2026-10-24T05:00:00Z",
-   "kickoff_local": "1:00 AM",
-   "status": "in",
-   "pm_slug": "kor-inc-jej-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
    "hasModel": false,
@@ -154,7 +58,7 @@
    "league_name": "J-League",
    "kickoff_utc": "2026-10-24T07:00Z",
    "kickoff_local": "3:00 AM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "jap-gam-kyo-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -505,8 +409,15 @@
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
+   "shadow_pending": true,
+   "shadow_totals": [
+    {
+     "sel": "Over 1.5",
+     "prob": 0.8482,
+     "price": 0.775,
+     "stake": 200.0
+    }
+   ]
   },
   {
    "home": "Coventry City FC",
@@ -529,15 +440,8 @@
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
-   "shadow_pending": true,
-   "shadow_totals": [
-    {
-     "sel": "Over 1.5",
-     "prob": 0.8321,
-     "price": 0.785,
-     "stake": 200.0
-    }
-   ]
+   "shadow_pending": false,
+   "shadow_totals": []
   },
   {
    "home": "Rangers FC",
@@ -2357,17 +2261,17 @@
   ],
   "pending": [
    {
-    "home": "Coventry City FC",
-    "away": "Fulham FC",
+    "home": "Arsenal FC",
+    "away": "Everton FC",
     "league": "Premier League",
     "kickoff_utc": "2026-10-24T14:00Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8321,
-      "price": 0.785,
+      "prob": 0.8482,
+      "price": 0.775,
       "stake": 200.0,
-      "ev_pct": 6.0
+      "ev_pct": 9.4
      }
     ]
    }
