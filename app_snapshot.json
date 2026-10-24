@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-24T03:40:25.729955Z",
- "slate_generated_utc": "2026-10-24T03:22:41.435148Z",
+ "generated_utc": "2026-10-24T03:45:13.399987Z",
+ "slate_generated_utc": "2026-10-24T03:40:39.568260Z",
  "date": "2026-10-23",
  "source": "files",
  "games": [
@@ -130,7 +130,7 @@
    "league_name": "NWSL",
    "kickoff_utc": "2026-10-24T01:30Z",
    "kickoff_local": "9:30 PM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "nwsl-roy-rei-2026-10-23-exact-score",
    "lamH": null,
    "lamA": null,
@@ -670,17 +670,17 @@
   ],
   "pending": [
    {
-    "home": "Cagliari Calcio",
-    "away": "Bologna FC 1909",
+    "home": "SS Lazio",
+    "away": "Parma Calcio 1913",
     "league": "Serie A",
-    "kickoff_utc": "2026-10-24T13:00Z",
+    "kickoff_utc": "2026-10-24T18:45Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.796,
-      "price": 0.715,
+      "prob": 0.809,
+      "price": 0.755,
       "stake": 200.0,
-      "ev_pct": 11.3
+      "ev_pct": 7.2
      }
     ]
    }
