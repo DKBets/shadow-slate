@@ -1,57 +1,9 @@
 {
- "generated_utc": "2026-10-24T19:23:33.033896Z",
- "slate_generated_utc": "2026-10-24T19:07:08.503991Z",
+ "generated_utc": "2026-10-24T19:28:50.712638Z",
+ "slate_generated_utc": "2026-10-24T19:25:18.558981Z",
  "date": "2026-10-24",
  "source": "files",
  "games": [
-  {
-   "home": "Gaziantep FK",
-   "away": "Erzurumspor FK",
-   "league_name": "Super Lig",
-   "kickoff_utc": "2026-10-24T13:00:00Z",
-   "kickoff_local": "9:00 AM",
-   "status": "in",
-   "pm_slug": "tur-gfk-erz-2026-10-24-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
-   "home": "BK Hacken",
-   "away": "Degerfors IF",
-   "league_name": "Allsvenskan",
-   "kickoff_utc": "2026-10-24T13:00Z",
-   "kickoff_local": "9:00 AM",
-   "status": "post",
-   "pm_slug": "swe-hac-deg-2026-10-24-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
   {
    "home": "Arsenal FC",
    "away": "Everton FC",
@@ -149,30 +101,6 @@
    "shadow_totals": []
   },
   {
-   "home": "Falkirk FC",
-   "away": "Kilmarnock FC",
-   "league_name": "Scottish Premiership",
-   "kickoff_utc": "2026-10-24T14:00Z",
-   "kickoff_local": "10:00 AM",
-   "status": "post",
-   "pm_slug": "scop-fal-kil-2026-10-24-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
    "home": "St Mirren FC",
    "away": "Dundee FC",
    "league_name": "Scottish Premiership",
@@ -252,30 +180,6 @@
    "kickoff_local": "10:00 AM",
    "status": "post",
    "pm_slug": "mls-orl-nyc-2026-10-24-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
-   "home": "Real Racing Club",
-   "away": "RCD Espanyol de Barcelona",
-   "league_name": "La Liga",
-   "kickoff_utc": "2026-10-24T14:15Z",
-   "kickoff_local": "10:15 AM",
-   "status": "post",
-   "pm_slug": "lal-rrc-esp-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
    "hasModel": false,
@@ -509,30 +413,6 @@
    "shadow_totals": []
   },
   {
-   "home": "BV Borussia 09 Dortmund",
-   "away": "Eintracht Frankfurt",
-   "league_name": "Bundesliga",
-   "kickoff_utc": "2026-10-24T16:30Z",
-   "kickoff_local": "12:30 PM",
-   "status": "post",
-   "pm_slug": "bun-dor-ein-2026-10-24-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
    "home": "Willem II Tilburg",
    "away": "SC Cambuur-Leeuwarden",
    "league_name": "Eredivisie",
@@ -706,7 +586,7 @@
    "league_name": "La Liga",
    "kickoff_utc": "2026-10-24T19:00:00Z",
    "kickoff_local": "3:00 PM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "lal-mad-dep-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -730,7 +610,7 @@
    "league_name": "Eredivisie",
    "kickoff_utc": "2026-10-24T19:00Z",
    "kickoff_local": "3:00 PM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "ere-ado-her1-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -1894,6 +1774,21 @@
   ],
   "pending": [
    {
+    "home": "Sevilla FC",
+    "away": "CA Osasuna",
+    "league": "La Liga",
+    "kickoff_utc": "2026-10-26T20:00:00Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.836,
+      "price": 0.695,
+      "stake": 200.0,
+      "ev_pct": 20.3
+     }
+    ]
+   },
+   {
     "home": "SV 07 Elversberg",
     "away": "1. FSV Mainz 05",
     "league": "Bundesliga",
@@ -1901,7 +1796,7 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8857,
+      "prob": 0.8855,
       "price": 0.83,
       "stake": 200.0,
       "ev_pct": 6.7
@@ -1909,32 +1804,17 @@
     ]
    },
    {
-    "home": "Paris Saint-Germain FC",
-    "away": "Olympique Lyonnais",
-    "league": "Ligue 1",
-    "kickoff_utc": "2026-10-26T19:30:00Z",
-    "totals": [
-     {
-      "sel": "Over 1.5",
-      "prob": 0.8763,
-      "price": 0.875,
-      "stake": 200.0,
-      "ev_pct": 0.1
-     }
-    ]
-   },
-   {
-    "home": "Atalanta BC",
-    "away": "Frosinone Calcio",
+    "home": "Genoa CFC",
+    "away": "Venezia FC",
     "league": "Serie A",
     "kickoff_utc": "2026-10-25T14:00Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8524,
-      "price": 0.87,
+      "prob": 0.8452,
+      "price": 0.735,
       "stake": 200.0,
-      "ev_pct": -2.0
+      "ev_pct": 15.0
      }
     ]
    },
@@ -1946,10 +1826,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.7709,
-      "price": 0.825,
+      "prob": 0.7703,
+      "price": 0.83,
       "stake": 200.0,
-      "ev_pct": -6.6
+      "ev_pct": -7.2
      }
     ]
    }
