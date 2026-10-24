@@ -1,33 +1,9 @@
 {
- "generated_utc": "2026-10-24T14:51:05.799529Z",
- "slate_generated_utc": "2026-10-24T14:35:31.545269Z",
+ "generated_utc": "2026-10-24T14:56:34.243845Z",
+ "slate_generated_utc": "2026-10-24T14:52:12.294237Z",
  "date": "2026-10-24",
  "source": "files",
  "games": [
-  {
-   "home": "Eyüpspor",
-   "away": "Kasımpaşa SK",
-   "league_name": "Super Lig",
-   "kickoff_utc": "2026-10-24T10:30:00Z",
-   "kickoff_local": "6:30 AM",
-   "status": "in",
-   "pm_slug": "tur-eyu-kas-2026-10-24-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
   {
    "home": "Gaziantep FK",
    "away": "Erzurumspor FK",
@@ -514,7 +490,7 @@
    "league_name": "Eredivisie",
    "kickoff_utc": "2026-10-24T14:30Z",
    "kickoff_local": "10:30 AM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "ere-utr-zwo-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -538,7 +514,7 @@
    "league_name": "Primeira Liga",
    "kickoff_utc": "2026-10-24T14:30Z",
    "kickoff_local": "10:30 AM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "por-ama-cas-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -2141,10 +2117,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8895,
-      "price": 0.875,
+      "prob": 0.8844,
+      "price": 0.88,
       "stake": 200.0,
-      "ev_pct": 1.7
+      "ev_pct": 0.5
      }
     ]
    },
@@ -2157,9 +2133,9 @@
      {
       "sel": "Over 1.5",
       "prob": 0.7727,
-      "price": 0.82,
+      "price": 0.825,
       "stake": 200.0,
-      "ev_pct": -5.8
+      "ev_pct": -6.3
      }
     ]
    }
