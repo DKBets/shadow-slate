@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-24T01:13:25.315230Z",
- "slate_generated_utc": "2026-10-24T00:59:37.325171Z",
+ "generated_utc": "2026-10-24T01:19:03.309754Z",
+ "slate_generated_utc": "2026-10-24T01:16:11.289829Z",
  "date": "2026-10-23",
  "source": "files",
  "games": [
@@ -82,7 +82,7 @@
    "league_name": "Brasileirao",
    "kickoff_utc": "2026-10-23T23:00Z",
    "kickoff_local": "7:00 PM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "bra-cru-cre-2026-10-23-exact-score",
    "lamH": null,
    "lamA": null,
@@ -130,7 +130,7 @@
    "league_name": "Liga MX",
    "kickoff_utc": "2026-10-24T01:00Z",
    "kickoff_local": "9:00 PM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "mex-nec-jua-2026-10-23-exact-score",
    "lamH": null,
    "lamA": null,
@@ -701,10 +701,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8103,
+      "prob": 0.807,
       "price": 0.755,
       "stake": 200.0,
-      "ev_pct": 7.3
+      "ev_pct": 6.9
      }
     ]
    }
