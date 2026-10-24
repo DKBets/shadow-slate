@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-24T05:29:51.816804Z",
- "slate_generated_utc": "2026-10-24T05:14:02.229748Z",
+ "generated_utc": "2026-10-24T05:34:46.205187Z",
+ "slate_generated_utc": "2026-10-24T05:30:58.221904Z",
  "date": "2026-10-24",
  "source": "files",
  "games": [
@@ -10,7 +10,7 @@
    "league_name": "K-League",
    "kickoff_utc": "2026-10-24T05:00:00Z",
    "kickoff_local": "1:00 AM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "kor-uls-poh-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -34,7 +34,7 @@
    "league_name": "K-League",
    "kickoff_utc": "2026-10-24T05:00:00Z",
    "kickoff_local": "1:00 AM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "kor-san-dae1-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -58,7 +58,7 @@
    "league_name": "K-League",
    "kickoff_utc": "2026-10-24T05:00:00Z",
    "kickoff_local": "1:00 AM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "kor-seo-gwo-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -82,7 +82,7 @@
    "league_name": "K-League",
    "kickoff_utc": "2026-10-24T05:00:00Z",
    "kickoff_local": "1:00 AM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "kor-bch-gwa-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -106,7 +106,7 @@
    "league_name": "K-League",
    "kickoff_utc": "2026-10-24T05:00:00Z",
    "kickoff_local": "1:00 AM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "kor-inc-jej-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -130,7 +130,7 @@
    "league_name": "K-League",
    "kickoff_utc": "2026-10-24T05:00:00Z",
    "kickoff_local": "1:00 AM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "kor-any-jeo-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -1277,7 +1277,7 @@
    "shadow_totals": [
     {
      "sel": "Over 1.5",
-     "prob": 0.9389,
+     "prob": 0.9365,
      "price": 0.845,
      "stake": 200.0
     }
@@ -2460,10 +2460,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.9389,
+      "prob": 0.9365,
       "price": 0.845,
       "stake": 200.0,
-      "ev_pct": 11.1
+      "ev_pct": 10.8
      }
     ]
    }
