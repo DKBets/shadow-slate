@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-24T21:29:55.363736Z",
- "slate_generated_utc": "2026-10-24T20:56:15.255477Z",
+ "generated_utc": "2026-10-24T21:35:05.126099Z",
+ "slate_generated_utc": "2026-10-24T21:29:00.918844Z",
  "date": "2026-10-24",
  "source": "files",
  "games": [
@@ -53,54 +53,6 @@
    "shadow_totals": []
   },
   {
-   "home": "Djurgardens IF",
-   "away": "Orgryte IS",
-   "league_name": "Allsvenskan",
-   "kickoff_utc": "2026-10-24T15:30:00Z",
-   "kickoff_local": "11:30 AM",
-   "status": "in",
-   "pm_slug": "swe-dju-org-2026-10-24-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
-   "home": "Kalmar FF",
-   "away": "IF Brommapojkarna",
-   "league_name": "Allsvenskan",
-   "kickoff_utc": "2026-10-24T15:30Z",
-   "kickoff_local": "11:30 AM",
-   "status": "post",
-   "pm_slug": "swe-kal-bro-2026-10-24-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
    "home": "Samsunspor",
    "away": "Amed Sportif",
    "league_name": "Super Lig",
@@ -108,54 +60,6 @@
    "kickoff_local": "12:00 PM",
    "status": "post",
    "pm_slug": "tur-sam-ame-2026-10-24-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
-   "home": "Hamarkameratene",
-   "away": "Rosenborg BK",
-   "league_name": "Eliteserien",
-   "kickoff_utc": "2026-10-24T16:00Z",
-   "kickoff_local": "12:00 PM",
-   "status": "post",
-   "pm_slug": "nor-ham-rbk-2026-10-24-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
-   "home": "Oud-Heverlee Leuven",
-   "away": "Lommel SK",
-   "league_name": "Belgian Pro League",
-   "kickoff_utc": "2026-10-24T16:15Z",
-   "kickoff_local": "12:15 PM",
-   "status": "post",
-   "pm_slug": "bel1-ohl-lom-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
    "hasModel": false,
@@ -204,30 +108,6 @@
    "kickoff_local": "1:00 PM",
    "status": "post",
    "pm_slug": "por-alv-aro-2026-10-24-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
-   "home": "CF Montréal",
-   "away": "Nashville SC",
-   "league_name": "MLS",
-   "kickoff_utc": "2026-10-24T17:30Z",
-   "kickoff_local": "1:30 PM",
-   "status": "post",
-   "pm_slug": "mls-mim-nas-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
    "hasModel": false,
@@ -298,7 +178,7 @@
    "league_name": "Belgian Pro League",
    "kickoff_utc": "2026-10-24T18:45Z",
    "kickoff_local": "2:45 PM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "bel1-wes-bev-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -370,7 +250,7 @@
    "league_name": "Eredivisie",
    "kickoff_utc": "2026-10-24T19:00Z",
    "kickoff_local": "3:00 PM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "ere-ado-her1-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -1589,10 +1469,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8306,
+      "prob": 0.8291,
       "price": 0.695,
       "stake": 200.0,
-      "ev_pct": 19.5
+      "ev_pct": 19.3
      }
     ]
    },
@@ -1604,10 +1484,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8521,
+      "prob": 0.8522,
       "price": 0.87,
       "stake": 200.0,
-      "ev_pct": -2.1
+      "ev_pct": -2.0
      }
     ]
    },
@@ -1619,10 +1499,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.7698,
-      "price": 0.84,
+      "prob": 0.7699,
+      "price": 0.825,
       "stake": 200.0,
-      "ev_pct": -8.4
+      "ev_pct": -6.7
      }
     ]
    }
