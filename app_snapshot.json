@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-24T22:38:55.427940Z",
- "slate_generated_utc": "2026-10-24T22:24:23.032802Z",
+ "generated_utc": "2026-10-24T22:44:04.558157Z",
+ "slate_generated_utc": "2026-10-24T22:40:46.653801Z",
  "date": "2026-10-24",
  "source": "files",
  "games": [
@@ -418,7 +418,7 @@
    "league_name": "Brasileirao",
    "kickoff_utc": "2026-10-24T22:30Z",
    "kickoff_local": "6:30 PM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "bra-cha-flu-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -442,7 +442,7 @@
    "league_name": "NWSL",
    "kickoff_utc": "2026-10-24T22:30Z",
    "kickoff_local": "6:30 PM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "nwsl-den-rac-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -1373,7 +1373,7 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8277,
+      "prob": 0.8275,
       "price": 0.695,
       "stake": 200.0,
       "ev_pct": 19.1
@@ -1381,17 +1381,17 @@
     ]
    },
    {
-    "home": "Genoa CFC",
-    "away": "Venezia FC",
+    "home": "FC Internazionale Milano",
+    "away": "ACF Fiorentina",
     "league": "Serie A",
-    "kickoff_utc": "2026-10-25T14:00Z",
+    "kickoff_utc": "2026-10-25T11:30Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8294,
-      "price": 0.745,
+      "prob": 0.8715,
+      "price": 0.865,
       "stake": 200.0,
-      "ev_pct": 11.3
+      "ev_pct": 0.8
      }
     ]
    },
@@ -1404,9 +1404,9 @@
      {
       "sel": "Over 1.5",
       "prob": 0.7699,
-      "price": 0.83,
+      "price": 0.825,
       "stake": 200.0,
-      "ev_pct": -7.2
+      "ev_pct": -6.7
      }
     ]
    }
