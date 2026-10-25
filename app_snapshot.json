@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-25T14:28:25.879846Z",
+ "generated_utc": "2026-10-25T14:33:29.727523Z",
  "slate_generated_utc": "2026-10-25T14:26:58.066801Z",
  "date": "2026-10-25",
  "source": "files",
@@ -1853,10 +1853,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8416,
+      "prob": 0.843,
       "price": 0.695,
       "stake": 200.0,
-      "ev_pct": 21.1
+      "ev_pct": 21.3
      }
     ]
    },
@@ -1869,9 +1869,9 @@
      {
       "sel": "Over 1.5",
       "prob": 0.8537,
-      "price": 0.815,
+      "price": 0.82,
       "stake": 200.0,
-      "ev_pct": 4.7
+      "ev_pct": 4.1
      }
     ]
    },
@@ -1883,7 +1883,7 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8628,
+      "prob": 0.8627,
       "price": 0.79,
       "stake": 200.0,
       "ev_pct": 9.2
@@ -1899,9 +1899,9 @@
      {
       "sel": "Over 1.5",
       "prob": 0.7743,
-      "price": 0.83,
+      "price": 0.84,
       "stake": 200.0,
-      "ev_pct": -6.7
+      "ev_pct": -7.8
      }
     ]
    }
