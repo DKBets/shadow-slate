@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-25T14:07:36.370734Z",
- "slate_generated_utc": "2026-10-25T13:49:03.055986Z",
+ "generated_utc": "2026-10-25T14:12:42.014472Z",
+ "slate_generated_utc": "2026-10-25T14:09:07.670376Z",
  "date": "2026-10-25",
  "source": "files",
  "games": [
@@ -29,36 +29,12 @@
    "shadow_totals": []
   },
   {
-   "home": "FC Internazionale Milano",
-   "away": "ACF Fiorentina",
-   "league_name": "Serie A",
-   "kickoff_utc": "2026-10-25T11:30Z",
-   "kickoff_local": "7:30 AM",
-   "status": "post",
-   "pm_slug": "sea-int-fio-2026-10-25-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
    "home": "Hibernian FC",
    "away": "Celtic FC",
    "league_name": "Scottish Premiership",
    "kickoff_utc": "2026-10-25T12:00Z",
    "kickoff_local": "8:00 AM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "scop-hib-cel-2026-10-25-exact-score",
    "lamH": null,
    "lamA": null,
@@ -1877,7 +1853,7 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8419,
+      "prob": 0.8416,
       "price": 0.695,
       "stake": 200.0,
       "ev_pct": 21.1
@@ -1892,10 +1868,25 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8532,
+      "prob": 0.8537,
       "price": 0.815,
       "stake": 200.0,
       "ev_pct": 4.7
+     }
+    ]
+   },
+   {
+    "home": "US Sassuolo Calcio",
+    "away": "SS Lazio",
+    "league": "Serie A",
+    "kickoff_utc": "2026-10-27T17:30:00Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.8628,
+      "price": 0.79,
+      "stake": 200.0,
+      "ev_pct": 9.2
      }
     ]
    },
@@ -1908,9 +1899,9 @@
      {
       "sel": "Over 1.5",
       "prob": 0.7743,
-      "price": 0.82,
+      "price": 0.83,
       "stake": 200.0,
-      "ev_pct": -5.6
+      "ev_pct": -6.7
      }
     ]
    }
