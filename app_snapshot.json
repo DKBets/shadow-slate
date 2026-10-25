@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-25T06:51:17.466645Z",
- "slate_generated_utc": "2026-10-25T06:29:38.625602Z",
+ "generated_utc": "2026-10-25T06:56:24.175982Z",
+ "slate_generated_utc": "2026-10-25T06:50:37.492869Z",
  "date": "2026-10-25",
  "source": "files",
  "games": [
@@ -1445,7 +1445,7 @@
    "shadow_totals": [
     {
      "sel": "Over 1.5",
-     "prob": 0.9282,
+     "prob": 0.9299,
      "price": 0.865,
      "stake": 200.0
     }
@@ -1997,17 +1997,32 @@
   ],
   "pending": [
    {
-    "home": "Paris Saint-Germain FC",
-    "away": "Olympique Lyonnais",
-    "league": "Ligue 1",
-    "kickoff_utc": "2026-10-26T19:30Z",
+    "home": "Sevilla FC",
+    "away": "CA Osasuna",
+    "league": "La Liga",
+    "kickoff_utc": "2026-10-26T20:00Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8725,
-      "price": 0.885,
+      "prob": 0.8323,
+      "price": 0.695,
       "stake": 200.0,
-      "ev_pct": -1.4
+      "ev_pct": 19.8
+     }
+    ]
+   },
+   {
+    "home": "Villarreal CF",
+    "away": "RCD Espanyol de Barcelona",
+    "league": "La Liga",
+    "kickoff_utc": "2026-10-30T20:00:00Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.853,
+      "price": 0.82,
+      "stake": 200.0,
+      "ev_pct": 4.0
      }
     ]
    },
@@ -2019,10 +2034,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.9282,
+      "prob": 0.9299,
       "price": 0.865,
       "stake": 200.0,
-      "ev_pct": 7.3
+      "ev_pct": 7.5
      }
     ]
    },
@@ -2034,10 +2049,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.7718,
+      "prob": 0.7725,
       "price": 0.835,
       "stake": 200.0,
-      "ev_pct": -7.6
+      "ev_pct": -7.5
      }
     ]
    }
