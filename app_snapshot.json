@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-25T14:44:05.126851Z",
- "slate_generated_utc": "2026-10-25T14:26:58.066801Z",
+ "generated_utc": "2026-10-25T14:49:35.573724Z",
+ "slate_generated_utc": "2026-10-25T14:45:27.246625Z",
  "date": "2026-10-25",
  "source": "files",
  "games": [
@@ -58,7 +58,7 @@
    "league_name": "Belgian Pro League",
    "kickoff_utc": "2026-10-25T12:30Z",
    "kickoff_local": "8:30 AM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "bel1-gen-sta-2026-10-25-exact-score",
    "lamH": null,
    "lamA": null,
@@ -466,7 +466,7 @@
    "league_name": "Bundesliga",
    "kickoff_utc": "2026-10-25T14:30Z",
    "kickoff_local": "10:30 AM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "bun-hof-b04-2026-10-25-exact-score",
    "lamH": null,
    "lamA": null,
@@ -1846,32 +1846,17 @@
   ],
   "pending": [
    {
-    "home": "Sevilla FC",
-    "away": "CA Osasuna",
-    "league": "La Liga",
-    "kickoff_utc": "2026-10-26T20:00Z",
+    "home": "Paris Saint-Germain FC",
+    "away": "Olympique Lyonnais",
+    "league": "Ligue 1",
+    "kickoff_utc": "2026-10-26T19:30Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.843,
-      "price": 0.695,
+      "prob": 0.8649,
+      "price": 0.885,
       "stake": 200.0,
-      "ev_pct": 21.3
-     }
-    ]
-   },
-   {
-    "home": "Villarreal CF",
-    "away": "RCD Espanyol de Barcelona",
-    "league": "La Liga",
-    "kickoff_utc": "2026-10-30T20:00:00Z",
-    "totals": [
-     {
-      "sel": "Over 1.5",
-      "prob": 0.8537,
-      "price": 0.82,
-      "stake": 200.0,
-      "ev_pct": 4.1
+      "ev_pct": -2.3
      }
     ]
    },
@@ -1883,10 +1868,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8627,
+      "prob": 0.8644,
       "price": 0.79,
       "stake": 200.0,
-      "ev_pct": 9.2
+      "ev_pct": 9.4
      }
     ]
    },
@@ -1899,9 +1884,9 @@
      {
       "sel": "Over 1.5",
       "prob": 0.7743,
-      "price": 0.84,
+      "price": 0.835,
       "stake": 200.0,
-      "ev_pct": -7.8
+      "ev_pct": -7.3
      }
     ]
    }
