@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-25T21:16:06.062765Z",
- "slate_generated_utc": "2026-10-25T21:05:32.508133Z",
+ "generated_utc": "2026-10-25T21:21:06.944465Z",
+ "slate_generated_utc": "2026-10-25T21:18:48.566809Z",
  "date": "2026-10-25",
  "source": "files",
  "games": [
@@ -202,7 +202,7 @@
    "league_name": "NWSL",
    "kickoff_utc": "2026-10-25T19:00Z",
    "kickoff_local": "3:00 PM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "nwsl-pri-got-2026-10-25-exact-score",
    "lamH": null,
    "lamA": null,
@@ -941,10 +941,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8159,
+      "prob": 0.8006,
       "price": 0.695,
       "stake": 200.0,
-      "ev_pct": 17.4
+      "ev_pct": 15.2
      }
     ]
    },
@@ -956,10 +956,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8153,
-      "price": 0.915,
+      "prob": 0.8156,
+      "price": 0.925,
       "stake": 200.0,
-      "ev_pct": -10.9
+      "ev_pct": -11.8
      }
     ]
    },
@@ -971,10 +971,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8462,
+      "prob": 0.8418,
       "price": 0.795,
       "stake": 200.0,
-      "ev_pct": 6.4
+      "ev_pct": 5.9
      }
     ]
    },
