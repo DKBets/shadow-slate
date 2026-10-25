@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-25T00:44:05.812028Z",
- "slate_generated_utc": "2026-10-25T00:26:36.182850Z",
+ "generated_utc": "2026-10-25T00:49:34.216577Z",
+ "slate_generated_utc": "2026-10-25T00:44:49.023117Z",
  "date": "2026-10-24",
  "source": "files",
  "games": [
@@ -101,30 +101,6 @@
    "shadow_totals": []
   },
   {
-   "home": "EC Vitória",
-   "away": "CA Paranaense",
-   "league_name": "Brasileirao",
-   "kickoff_utc": "2026-10-24T19:30:00Z",
-   "kickoff_local": "3:30 PM",
-   "status": "in",
-   "pm_slug": "bra-vit-cap-2026-10-24-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
    "home": "Gil Vicente FC",
    "away": "FC Porto",
    "league_name": "Primeira Liga",
@@ -156,30 +132,6 @@
    "kickoff_local": "3:30 PM",
    "status": "post",
    "pm_slug": "bra-mir-sao-2026-10-24-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
-   "home": "SC Internacional",
-   "away": "Botafogo FR",
-   "league_name": "Brasileirao",
-   "kickoff_utc": "2026-10-24T19:30Z",
-   "kickoff_local": "3:30 PM",
-   "status": "post",
-   "pm_slug": "bra-int-bot-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
    "hasModel": false,
@@ -322,7 +274,7 @@
    "league_name": "Brasileirao",
    "kickoff_utc": "2026-10-24T22:30Z",
    "kickoff_local": "6:30 PM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "bra-cha-flu-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -346,7 +298,7 @@
    "league_name": "NWSL",
    "kickoff_utc": "2026-10-24T22:30Z",
    "kickoff_local": "6:30 PM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "nwsl-den-rac-2026-10-24-exact-score",
    "lamH": null,
    "lamA": null,
@@ -1301,7 +1253,7 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8216,
+      "prob": 0.8217,
       "price": 0.695,
       "stake": 200.0,
       "ev_pct": 18.2
@@ -1316,10 +1268,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.7949,
+      "prob": 0.7878,
       "price": 0.745,
       "stake": 200.0,
-      "ev_pct": 6.7
+      "ev_pct": 5.7
      }
     ]
    },
@@ -1332,9 +1284,9 @@
      {
       "sel": "Over 1.5",
       "prob": 0.7697,
-      "price": 0.84,
+      "price": 0.835,
       "stake": 200.0,
-      "ev_pct": -8.4
+      "ev_pct": -7.8
      }
     ]
    }
