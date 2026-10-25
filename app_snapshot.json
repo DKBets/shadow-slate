@@ -1,33 +1,9 @@
 {
- "generated_utc": "2026-10-25T17:55:55.536167Z",
- "slate_generated_utc": "2026-10-25T17:39:33.939445Z",
+ "generated_utc": "2026-10-25T18:01:05.413375Z",
+ "slate_generated_utc": "2026-10-25T17:57:52.132922Z",
  "date": "2026-10-25",
  "source": "files",
  "games": [
-  {
-   "home": "GAIS",
-   "away": "IFK Goteborg",
-   "league_name": "Allsvenskan",
-   "kickoff_utc": "2026-10-25T13:00Z",
-   "kickoff_local": "9:00 AM",
-   "status": "post",
-   "pm_slug": "swe-gais-ifk-2026-10-25-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
   {
    "home": "FC Midtjylland",
    "away": "Lyngby BK",
@@ -60,54 +36,6 @@
    "kickoff_local": "9:30 AM",
    "status": "in",
    "pm_slug": "nor-vik-tro-2026-10-25-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
-   "home": "PSV",
-   "away": "Feyenoord Rotterdam",
-   "league_name": "Eredivisie",
-   "kickoff_utc": "2026-10-25T13:30Z",
-   "kickoff_local": "9:30 AM",
-   "status": "post",
-   "pm_slug": "ere-psv-fey-2026-10-25-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
-   "home": "NEC",
-   "away": "FC Groningen",
-   "league_name": "Eredivisie",
-   "kickoff_utc": "2026-10-25T13:30Z",
-   "kickoff_local": "9:30 AM",
-   "status": "post",
-   "pm_slug": "ere-nec-gro-2026-10-25-exact-score",
    "lamH": null,
    "lamA": null,
    "hasModel": false,
@@ -221,30 +149,6 @@
    "shadow_totals": []
   },
   {
-   "home": "RC Celta de Vigo",
-   "away": "Real Betis Balompié",
-   "league_name": "La Liga",
-   "kickoff_utc": "2026-10-25T15:15Z",
-   "kickoff_local": "11:15 AM",
-   "status": "post",
-   "pm_slug": "lal-cel-bet-2026-10-25-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
    "home": "Estoril Praia",
    "away": "Moreirense FC",
    "league_name": "Primeira Liga",
@@ -298,7 +202,7 @@
    "league_name": "Eredivisie",
    "kickoff_utc": "2026-10-25T15:45Z",
    "kickoff_local": "11:45 AM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "ere-spa-aja-2026-10-25-exact-score",
    "lamH": null,
    "lamA": null,
@@ -634,7 +538,7 @@
    "league_name": "La Liga",
    "kickoff_utc": "2026-10-25T17:30Z",
    "kickoff_local": "1:30 PM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "lal-rso-lev-2026-10-25-exact-score",
    "lamH": null,
    "lamA": null,
@@ -658,7 +562,7 @@
    "league_name": "Belgian Pro League",
    "kickoff_utc": "2026-10-25T17:30Z",
    "kickoff_local": "1:30 PM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "bel1-kaa-rsc-2026-10-25-exact-score",
    "lamH": null,
    "lamA": null,
@@ -1541,10 +1445,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8168,
+      "prob": 0.8265,
       "price": 0.695,
       "stake": 200.0,
-      "ev_pct": 17.5
+      "ev_pct": 18.9
      }
     ]
    },
@@ -1557,9 +1461,9 @@
      {
       "sel": "Over 1.5",
       "prob": 0.8541,
-      "price": 0.835,
+      "price": 0.83,
       "stake": 200.0,
-      "ev_pct": 2.3
+      "ev_pct": 2.9
      }
     ]
    },
@@ -1571,10 +1475,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8342,
+      "prob": 0.8332,
       "price": 0.79,
       "stake": 200.0,
-      "ev_pct": 5.6
+      "ev_pct": 5.5
      }
     ]
    },
