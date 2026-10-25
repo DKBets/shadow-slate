@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-25T08:51:46.072672Z",
- "slate_generated_utc": "2026-10-25T08:35:19.849954Z",
+ "generated_utc": "2026-10-25T08:56:55.158398Z",
+ "slate_generated_utc": "2026-10-25T08:53:13.751097Z",
  "date": "2026-10-25",
  "source": "files",
  "games": [
@@ -817,8 +817,15 @@
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
+   "shadow_pending": true,
+   "shadow_totals": [
+    {
+     "sel": "Over 1.5",
+     "prob": 0.8529,
+     "price": 0.825,
+     "stake": 200.0
+    }
+   ]
   },
   {
    "home": "Angers SCO",
@@ -1369,15 +1376,8 @@
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
-   "shadow_pending": true,
-   "shadow_totals": [
-    {
-     "sel": "Over 1.5",
-     "prob": 0.9221,
-     "price": 0.865,
-     "stake": 200.0
-    }
-   ]
+   "shadow_pending": false,
+   "shadow_totals": []
   },
   {
    "home": "Querétaro FC",
@@ -1932,10 +1932,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8332,
+      "prob": 0.8339,
       "price": 0.695,
       "stake": 200.0,
-      "ev_pct": 19.9
+      "ev_pct": 20.0
      }
     ]
    },
@@ -1947,7 +1947,7 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8523,
+      "prob": 0.852,
       "price": 0.82,
       "stake": 200.0,
       "ev_pct": 3.9
@@ -1955,17 +1955,17 @@
     ]
    },
    {
-    "home": "Los Angeles FC",
-    "away": "Los Angeles Galaxy",
-    "league": "MLS",
-    "kickoff_utc": "2026-10-26T01:00:00Z",
+    "home": "Toulouse FC",
+    "away": "ES Troyes AC",
+    "league": "Ligue 1",
+    "kickoff_utc": "2026-10-25T16:15Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.9221,
-      "price": 0.865,
+      "prob": 0.8529,
+      "price": 0.825,
       "stake": 200.0,
-      "ev_pct": 6.6
+      "ev_pct": 3.4
      }
     ]
    },
@@ -1977,7 +1977,7 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.7718,
+      "prob": 0.7716,
       "price": 0.82,
       "stake": 200.0,
       "ev_pct": -5.9
