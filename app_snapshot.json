@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-25T11:19:17.450310Z",
- "slate_generated_utc": "2026-10-25T11:19:11.598819Z",
+ "generated_utc": "2026-10-25T11:25:10.373639Z",
+ "slate_generated_utc": "2026-10-25T11:23:43.400814Z",
  "date": "2026-10-25",
  "source": "board",
  "games": [
@@ -2657,8 +2657,15 @@
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
+   "shadow_pending": true,
+   "shadow_totals": [
+    {
+     "sel": "Over 1.5",
+     "prob": 0.8486,
+     "price": 0.825,
+     "stake": 200.0
+    }
+   ]
   },
   {
    "home": "Angers SCO",
@@ -4482,15 +4489,8 @@
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
-   "shadow_pending": true,
-   "shadow_totals": [
-    {
-     "sel": "Over 1.5",
-     "prob": 0.9215,
-     "price": 0.865,
-     "stake": 200.0
-    }
-   ]
+   "shadow_pending": false,
+   "shadow_totals": []
   },
   {
    "home": "Querétaro FC",
@@ -5215,6 +5215,36 @@
   ],
   "pending": [
    {
+    "home": "Villarreal CF",
+    "away": "RCD Espanyol de Barcelona",
+    "league": "La Liga",
+    "kickoff_utc": "2026-10-30T20:00:00Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.8525,
+      "price": 0.82,
+      "stake": 200.0,
+      "ev_pct": 4.0
+     }
+    ]
+   },
+   {
+    "home": "Toulouse FC",
+    "away": "ES Troyes AC",
+    "league": "Ligue 1",
+    "kickoff_utc": "2026-10-25T16:15Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.8486,
+      "price": 0.825,
+      "stake": 200.0,
+      "ev_pct": 2.9
+     }
+    ]
+   },
+   {
     "home": "Paris Saint-Germain FC",
     "away": "Olympique Lyonnais",
     "league": "Ligue 1",
@@ -5222,25 +5252,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8653,
-      "price": 0.885,
+      "prob": 0.8658,
+      "price": 0.88,
       "stake": 200.0,
-      "ev_pct": -2.2
-     }
-    ]
-   },
-   {
-    "home": "Los Angeles FC",
-    "away": "Los Angeles Galaxy",
-    "league": "MLS",
-    "kickoff_utc": "2026-10-26T01:00:00Z",
-    "totals": [
-     {
-      "sel": "Over 1.5",
-      "prob": 0.9215,
-      "price": 0.865,
-      "stake": 200.0,
-      "ev_pct": 6.5
+      "ev_pct": -1.6
      }
     ]
    },
@@ -5253,9 +5268,9 @@
      {
       "sel": "Over 1.5",
       "prob": 0.7719,
-      "price": 0.84,
+      "price": 0.82,
       "stake": 200.0,
-      "ev_pct": -8.1
+      "ev_pct": -5.9
      }
     ]
    }
