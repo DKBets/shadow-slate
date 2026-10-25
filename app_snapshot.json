@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-25T20:55:43.327297Z",
- "slate_generated_utc": "2026-10-25T20:38:37.306861Z",
+ "generated_utc": "2026-10-25T21:00:59.321305Z",
+ "slate_generated_utc": "2026-10-25T20:59:21.137956Z",
  "date": "2026-10-25",
  "source": "files",
  "games": [
@@ -178,7 +178,7 @@
    "league_name": "Eredivisie",
    "kickoff_utc": "2026-10-25T19:00Z",
    "kickoff_local": "3:00 PM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "ere-az-twe-2026-10-25-exact-score",
    "lamH": null,
    "lamA": null,
@@ -274,7 +274,7 @@
    "league_name": "Primeira Liga",
    "kickoff_utc": "2026-10-25T20:30Z",
    "kickoff_local": "4:30 PM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "por-spo-acv-2026-10-25-exact-score",
    "lamH": null,
    "lamA": null,
