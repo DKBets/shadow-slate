@@ -1,33 +1,9 @@
 {
- "generated_utc": "2026-10-25T07:38:14.158461Z",
- "slate_generated_utc": "2026-10-25T06:50:37.492869Z",
+ "generated_utc": "2026-10-25T07:43:29.759346Z",
+ "slate_generated_utc": "2026-10-25T07:39:40.292650Z",
  "date": "2026-10-25",
  "source": "files",
  "games": [
-  {
-   "home": "Nagoya Grampus",
-   "away": "Yokohama F·Marinos",
-   "league_name": "J-League",
-   "kickoff_utc": "2026-10-25T05:00Z",
-   "kickoff_local": "1:00 AM",
-   "status": "in",
-   "pm_slug": "jap-ngr-yom-2026-10-25-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
   {
    "home": "Cerezo Ōsaka",
    "away": "JEF United Ichihara Chiba",
@@ -82,7 +58,7 @@
    "league_name": "J-League",
    "kickoff_utc": "2026-10-25T07:00Z",
    "kickoff_local": "3:00 AM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "jap-fct-hol-2026-10-25-exact-score",
    "lamH": null,
    "lamA": null,
@@ -106,7 +82,7 @@
    "league_name": "J-League",
    "kickoff_utc": "2026-10-25T07:00Z",
    "kickoff_local": "3:00 AM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "jap-kaw-fag-2026-10-25-exact-score",
    "lamH": null,
    "lamA": null,
@@ -1445,7 +1421,7 @@
    "shadow_totals": [
     {
      "sel": "Over 1.5",
-     "prob": 0.9299,
+     "prob": 0.9286,
      "price": 0.865,
      "stake": 200.0
     }
@@ -2004,10 +1980,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8323,
+      "prob": 0.8289,
       "price": 0.695,
       "stake": 200.0,
-      "ev_pct": 19.8
+      "ev_pct": 19.3
      }
     ]
    },
@@ -2019,10 +1995,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.853,
-      "price": 0.82,
+      "prob": 0.8523,
+      "price": 0.815,
       "stake": 200.0,
-      "ev_pct": 4.0
+      "ev_pct": 4.6
      }
     ]
    },
@@ -2034,10 +2010,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.9299,
+      "prob": 0.9286,
       "price": 0.865,
       "stake": 200.0,
-      "ev_pct": 7.5
+      "ev_pct": 7.4
      }
     ]
    },
@@ -2049,10 +2025,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.7725,
+      "prob": 0.7718,
       "price": 0.835,
       "stake": 200.0,
-      "ev_pct": -7.5
+      "ev_pct": -7.6
      }
     ]
    }
