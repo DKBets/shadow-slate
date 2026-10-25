@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-25T22:13:06.447497Z",
- "slate_generated_utc": "2026-10-25T21:18:48.566809Z",
+ "generated_utc": "2026-10-25T22:18:24.526776Z",
+ "slate_generated_utc": "2026-10-25T22:15:55.129646Z",
  "date": "2026-10-25",
  "source": "files",
  "games": [
@@ -12,54 +12,6 @@
    "kickoff_local": "10:00 AM",
    "status": "post",
    "pm_slug": "epl-bou-lee-2026-10-31-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
-   "home": "Aarhus GF",
-   "away": "Viborg FF",
-   "league_name": "Danish Superliga",
-   "kickoff_utc": "2026-10-25T17:00:00Z",
-   "kickoff_local": "1:00 PM",
-   "status": "in",
-   "pm_slug": "den-agf-vib-2026-10-25-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
-   "home": "KAA Gent",
-   "away": "RSC Anderlecht",
-   "league_name": "Belgian Pro League",
-   "kickoff_utc": "2026-10-25T17:30Z",
-   "kickoff_local": "1:30 PM",
-   "status": "post",
-   "pm_slug": "bel1-kaa-rsc-2026-10-25-exact-score",
    "lamH": null,
    "lamA": null,
    "hasModel": false,
@@ -221,36 +173,12 @@
    "shadow_totals": []
   },
   {
-   "home": "Udinese Calcio",
-   "away": "AC Milan",
-   "league_name": "Serie A",
-   "kickoff_utc": "2026-10-25T19:45Z",
-   "kickoff_local": "3:45 PM",
-   "status": "in",
-   "pm_slug": "sea-udi-mil-2026-10-25-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
    "home": "FC Barcelona",
    "away": "Real Madrid CF",
    "league_name": "La Liga",
    "kickoff_utc": "2026-10-25T20:00Z",
    "kickoff_local": "4:00 PM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "lal-bar-rea-2026-10-25-exact-score",
    "lamH": null,
    "lamA": null,
@@ -298,7 +226,7 @@
    "league_name": "NWSL",
    "kickoff_utc": "2026-10-25T21:00Z",
    "kickoff_local": "5:00 PM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "nwsl-kcc-spi-2026-10-25-exact-score",
    "lamH": null,
    "lamA": null,
@@ -941,10 +869,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8006,
+      "prob": 0.7992,
       "price": 0.695,
       "stake": 200.0,
-      "ev_pct": 15.2
+      "ev_pct": 15.0
      }
     ]
    },
@@ -956,7 +884,7 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8156,
+      "prob": 0.8157,
       "price": 0.925,
       "stake": 200.0,
       "ev_pct": -11.8
@@ -971,10 +899,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8418,
+      "prob": 0.8325,
       "price": 0.795,
       "stake": 200.0,
-      "ev_pct": 5.9
+      "ev_pct": 4.7
      }
     ]
    },
