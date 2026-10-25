@@ -1,57 +1,9 @@
 {
- "generated_utc": "2026-10-25T08:36:09.465924Z",
- "slate_generated_utc": "2026-10-25T07:57:15.513643Z",
+ "generated_utc": "2026-10-25T08:40:58.190789Z",
+ "slate_generated_utc": "2026-10-25T08:35:19.849954Z",
  "date": "2026-10-25",
  "source": "files",
  "games": [
-  {
-   "home": "Cerezo Ōsaka",
-   "away": "JEF United Ichihara Chiba",
-   "league_name": "J-League",
-   "kickoff_utc": "2026-10-25T06:00Z",
-   "kickoff_local": "2:00 AM",
-   "status": "in",
-   "pm_slug": "jap-cer-jef-2026-10-25-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
-   "home": "Urawa Red Diamonds",
-   "away": "V-Varen Nagasaki",
-   "league_name": "J-League",
-   "kickoff_utc": "2026-10-25T06:00Z",
-   "kickoff_local": "2:00 AM",
-   "status": "in",
-   "pm_slug": "jap-ura-vva-2026-10-25-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
   {
    "home": "FC Tōkyō",
    "away": "FC Mito Holly Hock",
@@ -1421,7 +1373,7 @@
    "shadow_totals": [
     {
      "sel": "Over 1.5",
-     "prob": 0.9284,
+     "prob": 0.9221,
      "price": 0.865,
      "stake": 200.0
     }
@@ -1980,10 +1932,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8244,
+      "prob": 0.8332,
       "price": 0.695,
       "stake": 200.0,
-      "ev_pct": 18.6
+      "ev_pct": 19.9
      }
     ]
    },
@@ -1995,10 +1947,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8522,
-      "price": 0.815,
+      "prob": 0.8523,
+      "price": 0.82,
       "stake": 200.0,
-      "ev_pct": 4.6
+      "ev_pct": 3.9
      }
     ]
    },
@@ -2010,10 +1962,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.9284,
+      "prob": 0.9221,
       "price": 0.865,
       "stake": 200.0,
-      "ev_pct": 7.3
+      "ev_pct": 6.6
      }
     ]
    },
@@ -2026,9 +1978,9 @@
      {
       "sel": "Over 1.5",
       "prob": 0.7718,
-      "price": 0.835,
+      "price": 0.82,
       "stake": 200.0,
-      "ev_pct": -7.6
+      "ev_pct": -5.9
      }
     ]
    }
