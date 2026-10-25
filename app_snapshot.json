@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-25T13:47:03.033285Z",
- "slate_generated_utc": "2026-10-25T13:32:24.532892Z",
+ "generated_utc": "2026-10-25T13:52:05.358136Z",
+ "slate_generated_utc": "2026-10-25T13:49:03.055986Z",
  "date": "2026-10-25",
  "source": "files",
  "games": [
@@ -34,7 +34,7 @@
    "league_name": "Serie A",
    "kickoff_utc": "2026-10-25T11:30Z",
    "kickoff_local": "7:30 AM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "sea-int-fio-2026-10-25-exact-score",
    "lamH": null,
    "lamA": null,
@@ -226,7 +226,7 @@
    "league_name": "Eliteserien",
    "kickoff_utc": "2026-10-25T13:30:00Z",
    "kickoff_local": "9:30 AM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "nor-vik-tro-2026-10-25-exact-score",
    "lamH": null,
    "lamA": null,
@@ -250,7 +250,7 @@
    "league_name": "Eredivisie",
    "kickoff_utc": "2026-10-25T13:30Z",
    "kickoff_local": "9:30 AM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "ere-psv-fey-2026-10-25-exact-score",
    "lamH": null,
    "lamA": null,
@@ -274,7 +274,7 @@
    "league_name": "Eredivisie",
    "kickoff_utc": "2026-10-25T13:30Z",
    "kickoff_local": "9:30 AM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "ere-nec-gro-2026-10-25-exact-score",
    "lamH": null,
    "lamA": null,
@@ -1133,6 +1133,30 @@
    "shadow_totals": []
   },
   {
+   "home": "Orlando Pride",
+   "away": "NJ/NY Gotham FC",
+   "league_name": "NWSL",
+   "kickoff_utc": "2026-10-25T19:00Z",
+   "kickoff_local": "3:00 PM",
+   "status": "pre",
+   "pm_slug": "nwsl-pri-got-2026-10-25-exact-score",
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
+   "news_adj": null,
+   "top_scores": [],
+   "provisional": false,
+   "market": null,
+   "edge_bets": [],
+   "cur_home": null,
+   "cur_away": null,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
    "home": "Udinese Calcio",
    "away": "AC Milan",
    "league_name": "Serie A",
@@ -1205,6 +1229,30 @@
    "shadow_totals": []
   },
   {
+   "home": "Kansas City Current",
+   "away": "Washington Spirit",
+   "league_name": "NWSL",
+   "kickoff_utc": "2026-10-25T21:00Z",
+   "kickoff_local": "5:00 PM",
+   "status": "pre",
+   "pm_slug": "nwsl-kcc-spi-2026-10-25-exact-score",
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
+   "news_adj": null,
+   "top_scores": [],
+   "provisional": false,
+   "market": null,
+   "edge_bets": [],
+   "cur_home": null,
+   "cur_away": null,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
    "home": "Atlas FC",
    "away": "Club Puebla",
    "league_name": "Liga MX",
@@ -1212,6 +1260,30 @@
    "kickoff_local": "7:00 PM",
    "status": "pre",
    "pm_slug": "mex-atl-pue-2026-10-25-exact-score",
+   "lamH": null,
+   "lamA": null,
+   "hasModel": false,
+   "news_adj": null,
+   "top_scores": [],
+   "provisional": false,
+   "market": null,
+   "edge_bets": [],
+   "cur_home": null,
+   "cur_away": null,
+   "minute": null,
+   "shadow_bet": false,
+   "shadow_status": null,
+   "shadow_pending": false,
+   "shadow_totals": []
+  },
+  {
+   "home": "San Diego Wave FC",
+   "away": "Boston Legacy FC",
+   "league_name": "NWSL",
+   "kickoff_utc": "2026-10-25T23:00Z",
+   "kickoff_local": "7:00 PM",
+   "status": "pre",
+   "pm_slug": "nwsl-wav-bos-2026-10-25-exact-score",
    "lamH": null,
    "lamA": null,
    "hasModel": false,
@@ -1805,10 +1877,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8408,
+      "prob": 0.8419,
       "price": 0.695,
       "stake": 200.0,
-      "ev_pct": 21.0
+      "ev_pct": 21.1
      }
     ]
    },
@@ -1820,7 +1892,7 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8536,
+      "prob": 0.8532,
       "price": 0.815,
       "stake": 200.0,
       "ev_pct": 4.7
@@ -1835,7 +1907,7 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.7739,
+      "prob": 0.7743,
       "price": 0.82,
       "stake": 200.0,
       "ev_pct": -5.6
