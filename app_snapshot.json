@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-25T20:00:07.488549Z",
- "slate_generated_utc": "2026-10-25T19:40:52.688331Z",
+ "generated_utc": "2026-10-25T20:05:24.597183Z",
+ "slate_generated_utc": "2026-10-25T19:59:35.892316Z",
  "date": "2026-10-25",
  "source": "files",
  "games": [
@@ -36,30 +36,6 @@
    "kickoff_local": "11:30 AM",
    "status": "post",
    "pm_slug": "por-est-mor-2026-10-25-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
-   "home": "Mjallby AIF",
-   "away": "Hammarby IF",
-   "league_name": "Allsvenskan",
-   "kickoff_utc": "2026-10-25T15:30Z",
-   "kickoff_local": "11:30 AM",
-   "status": "post",
-   "pm_slug": "swe-mja-hif-2026-10-25-exact-score",
    "lamH": null,
    "lamA": null,
    "hasModel": false,
@@ -418,7 +394,7 @@
    "league_name": "Serie A",
    "kickoff_utc": "2026-10-25T19:45Z",
    "kickoff_local": "3:45 PM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "sea-udi-mil-2026-10-25-exact-score",
    "lamH": null,
    "lamA": null,
@@ -1133,10 +1109,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8055,
+      "prob": 0.8012,
       "price": 0.695,
       "stake": 200.0,
-      "ev_pct": 15.9
+      "ev_pct": 15.3
      }
     ]
    },
@@ -1148,10 +1124,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8536,
+      "prob": 0.854,
       "price": 0.83,
       "stake": 200.0,
-      "ev_pct": 2.8
+      "ev_pct": 2.9
      }
     ]
    },
@@ -1178,10 +1154,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8313,
+      "prob": 0.8248,
       "price": 0.79,
       "stake": 200.0,
-      "ev_pct": 5.2
+      "ev_pct": 4.4
      }
     ]
    },
@@ -1193,10 +1169,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.7734,
+      "prob": 0.772,
       "price": 0.83,
       "stake": 200.0,
-      "ev_pct": -6.8
+      "ev_pct": -7.0
      }
     ]
    }
