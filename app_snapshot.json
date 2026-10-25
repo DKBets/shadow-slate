@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-25T12:34:35.663673Z",
- "slate_generated_utc": "2026-10-25T12:07:27.491048Z",
+ "generated_utc": "2026-10-25T12:39:45.659253Z",
+ "slate_generated_utc": "2026-10-25T12:36:25.212153Z",
  "date": "2026-10-25",
  "source": "files",
  "games": [
@@ -58,7 +58,7 @@
    "league_name": "Scottish Premiership",
    "kickoff_utc": "2026-10-25T12:00Z",
    "kickoff_local": "8:00 AM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "scop-hib-cel-2026-10-25-exact-score",
    "lamH": null,
    "lamA": null,
@@ -119,8 +119,8 @@
    "cur_home": null,
    "cur_away": null,
    "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
+   "shadow_bet": true,
+   "shadow_status": "open",
    "shadow_pending": false,
    "shadow_totals": []
   },
@@ -769,15 +769,8 @@
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
-   "shadow_pending": true,
-   "shadow_totals": [
-    {
-     "sel": "Over 1.5",
-     "prob": 0.8486,
-     "price": 0.825,
-     "stake": 200.0
-    }
-   ]
+   "shadow_pending": false,
+   "shadow_totals": []
   },
   {
    "home": "Angers SCO",
@@ -1407,45 +1400,6 @@
  "shadow": {
   "recent": [
    {
-    "home": "US Lecce",
-    "away": "Bologna FC 1909",
-    "league": "Serie A",
-    "kickoff_utc": "2026-10-11T13:00Z",
-    "status": "settled",
-    "stake": 500.0,
-    "hit_pre": 0.63,
-    "legs": [
-     {
-      "score": "1-1",
-      "price": 0.15
-     },
-     {
-      "score": "0-1",
-      "price": 0.13
-     },
-     {
-      "score": "0-0",
-      "price": 0.1
-     },
-     {
-      "score": "1-0",
-      "price": 0.08
-     },
-     {
-      "score": "1-2",
-      "price": 0.1
-     },
-     {
-      "score": "0-2",
-      "price": 0.1
-     }
-    ],
-    "won": true,
-    "pnl": 230.07,
-    "final": "1-2",
-    "reason": "top-of-day pick — Core 43%"
-   },
-   {
     "home": "Torino FC",
     "away": "Udinese Calcio",
     "league": "Serie A",
@@ -1873,9 +1827,63 @@
     "pnl": -500.0,
     "final": "0-2",
     "reason": "top-of-day pick — Core 40%"
+   },
+   {
+    "home": "Athletic Club",
+    "away": "Getafe CF",
+    "league": "La Liga",
+    "kickoff_utc": "2026-10-25T13:00Z",
+    "status": "open",
+    "stake": 500.0,
+    "hit_pre": 0.63,
+    "legs": [
+     {
+      "score": "1-1",
+      "price": 0.12
+     },
+     {
+      "score": "1-0",
+      "price": 0.15
+     },
+     {
+      "score": "2-0",
+      "price": 0.14
+     },
+     {
+      "score": "2-1",
+      "price": 0.11
+     },
+     {
+      "score": "0-0",
+      "price": 0.09
+     },
+     {
+      "score": "0-1",
+      "price": 0.06
+     }
+    ],
+    "won": null,
+    "pnl": null,
+    "final": null,
+    "reason": "top-of-day pick — Core 41%"
    }
   ],
   "pending": [
+   {
+    "home": "Sevilla FC",
+    "away": "CA Osasuna",
+    "league": "La Liga",
+    "kickoff_utc": "2026-10-26T20:00Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.8399,
+      "price": 0.695,
+      "stake": 200.0,
+      "ev_pct": 20.8
+     }
+    ]
+   },
    {
     "home": "Villarreal CF",
     "away": "RCD Espanyol de Barcelona",
@@ -1884,40 +1892,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8525,
+      "prob": 0.8529,
       "price": 0.82,
       "stake": 200.0,
       "ev_pct": 4.0
-     }
-    ]
-   },
-   {
-    "home": "Toulouse FC",
-    "away": "ES Troyes AC",
-    "league": "Ligue 1",
-    "kickoff_utc": "2026-10-25T16:15Z",
-    "totals": [
-     {
-      "sel": "Over 1.5",
-      "prob": 0.8486,
-      "price": 0.825,
-      "stake": 200.0,
-      "ev_pct": 2.9
-     }
-    ]
-   },
-   {
-    "home": "Paris Saint-Germain FC",
-    "away": "Olympique Lyonnais",
-    "league": "Ligue 1",
-    "kickoff_utc": "2026-10-26T19:30Z",
-    "totals": [
-     {
-      "sel": "Over 1.5",
-      "prob": 0.8658,
-      "price": 0.88,
-      "stake": 200.0,
-      "ev_pct": -1.6
      }
     ]
    },
@@ -1929,10 +1907,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.7719,
-      "price": 0.82,
+      "prob": 0.7717,
+      "price": 0.825,
       "stake": 200.0,
-      "ev_pct": -5.9
+      "ev_pct": -6.5
      }
     ]
    }
