@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-26T01:54:41.621737Z",
- "slate_generated_utc": "2026-10-26T01:18:13.087833Z",
+ "generated_utc": "2026-10-26T01:59:53.919800Z",
+ "slate_generated_utc": "2026-10-26T01:56:59.188762Z",
  "date": "2026-10-25",
  "source": "files",
  "games": [
@@ -53,54 +53,6 @@
    "shadow_totals": []
   },
   {
-   "home": "Sporting CP",
-   "away": "Académico de Viseu FC",
-   "league_name": "Primeira Liga",
-   "kickoff_utc": "2026-10-25T20:30Z",
-   "kickoff_local": "4:30 PM",
-   "status": "post",
-   "pm_slug": "por-spo-acv-2026-10-25-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
-   "home": "Kansas City Current",
-   "away": "Washington Spirit",
-   "league_name": "NWSL",
-   "kickoff_utc": "2026-10-25T21:00Z",
-   "kickoff_local": "5:00 PM",
-   "status": "post",
-   "pm_slug": "nwsl-kcc-spi-2026-10-25-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
    "home": "Atlas FC",
    "away": "Club Puebla",
    "league_name": "Liga MX",
@@ -130,7 +82,7 @@
    "league_name": "NWSL",
    "kickoff_utc": "2026-10-25T23:00Z",
    "kickoff_local": "7:00 PM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "nwsl-wav-bos-2026-10-25-exact-score",
    "lamH": null,
    "lamA": null,
@@ -154,7 +106,7 @@
    "league_name": "MLS",
    "kickoff_utc": "2026-10-26T01:00:00Z",
    "kickoff_local": "9:00 PM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "mls-laf-lag-2026-10-25-exact-score",
    "lamH": null,
    "lamA": null,
@@ -725,10 +677,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8049,
+      "prob": 0.7974,
       "price": 0.695,
       "stake": 200.0,
-      "ev_pct": 15.8
+      "ev_pct": 14.7
      }
     ]
    },
@@ -740,10 +692,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.9287,
+      "prob": 0.9259,
       "price": 0.755,
       "stake": 200.0,
-      "ev_pct": 23.0
+      "ev_pct": 22.6
      }
     ]
    },
@@ -755,10 +707,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.847,
+      "prob": 0.8416,
       "price": 0.795,
       "stake": 200.0,
-      "ev_pct": 6.5
+      "ev_pct": 5.9
      }
     ]
    },
@@ -770,10 +722,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.7749,
+      "prob": 0.7744,
       "price": 0.83,
       "stake": 200.0,
-      "ev_pct": -6.6
+      "ev_pct": -6.7
      }
     ]
    }
