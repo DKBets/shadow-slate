@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-26T21:04:41.636809Z",
- "slate_generated_utc": "2026-10-26T20:45:17.304414Z",
+ "generated_utc": "2026-10-26T21:10:05.602862Z",
+ "slate_generated_utc": "2026-10-26T21:06:15.759267Z",
  "date": "2026-10-26",
  "source": "files",
  "games": [
@@ -58,7 +58,7 @@
    "league_name": "Primeira Liga",
    "kickoff_utc": "2026-10-26T18:45Z",
    "kickoff_local": "2:45 PM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "por-cds-ben-2026-10-26-exact-score",
    "lamH": null,
    "lamA": null,
