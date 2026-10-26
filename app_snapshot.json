@@ -1,33 +1,9 @@
 {
- "generated_utc": "2026-10-26T23:06:26.096730Z",
- "slate_generated_utc": "2026-10-26T22:49:20.325793Z",
+ "generated_utc": "2026-10-26T23:12:03.779300Z",
+ "slate_generated_utc": "2026-10-26T23:07:35.230236Z",
  "date": "2026-10-26",
  "source": "files",
  "games": [
-  {
-   "home": "CD Santa Clara",
-   "away": "Sport Lisboa e Benfica",
-   "league_name": "Primeira Liga",
-   "kickoff_utc": "2026-10-26T18:45Z",
-   "kickoff_local": "2:45 PM",
-   "status": "post",
-   "pm_slug": "por-cds-ben-2026-10-26-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
   {
    "home": "Coritiba FBC",
    "away": "Grêmio FBPA",
@@ -557,10 +533,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8418,
+      "prob": 0.8405,
       "price": 0.765,
       "stake": 200.0,
-      "ev_pct": 10.0
+      "ev_pct": 9.9
      }
     ]
    },
@@ -572,7 +548,7 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8904,
+      "prob": 0.8906,
       "price": 0.845,
       "stake": 200.0,
       "ev_pct": 5.4
@@ -587,10 +563,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8278,
-      "price": 0.805,
+      "prob": 0.8159,
+      "price": 0.81,
       "stake": 200.0,
-      "ev_pct": 2.8
+      "ev_pct": 0.7
      }
     ]
    },
@@ -602,10 +578,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8135,
+      "prob": 0.8129,
       "price": 0.85,
       "stake": 200.0,
-      "ev_pct": -4.3
+      "ev_pct": -4.4
      }
     ]
    }
