@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-26T06:28:57.786896Z",
+ "generated_utc": "2026-10-26T06:34:05.566750Z",
  "slate_generated_utc": "2026-10-26T06:27:26.569042Z",
  "date": "2026-10-26",
  "source": "files",
@@ -173,7 +173,7 @@
    "shadow_totals": [
     {
      "sel": "Over 1.5",
-     "prob": 0.8005,
+     "prob": 0.7984,
      "price": 0.695,
      "stake": 200.0
     }
@@ -701,21 +701,6 @@
   ],
   "pending": [
    {
-    "home": "Aston Villa FC",
-    "away": "Fulham FC",
-    "league": "Premier League",
-    "kickoff_utc": "2026-10-31T20:00:00Z",
-    "totals": [
-     {
-      "sel": "Over 1.5",
-      "prob": 0.8627,
-      "price": 0.79,
-      "stake": 200.0,
-      "ev_pct": 9.2
-     }
-    ]
-   },
-   {
     "home": "Sevilla FC",
     "away": "CA Osasuna",
     "league": "La Liga",
@@ -723,10 +708,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8005,
+      "prob": 0.7984,
       "price": 0.695,
       "stake": 200.0,
-      "ev_pct": 15.2
+      "ev_pct": 14.9
      }
     ]
    },
@@ -738,10 +723,25 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8712,
+      "prob": 0.8667,
       "price": 0.785,
       "stake": 200.0,
-      "ev_pct": 11.0
+      "ev_pct": 10.4
+     }
+    ]
+   },
+   {
+    "home": "FC Lorient",
+    "away": "Stade Brestois 29",
+    "league": "Ligue 1",
+    "kickoff_utc": "2026-10-31T19:45:00Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.9105,
+      "price": 0.73,
+      "stake": 200.0,
+      "ev_pct": 24.7
      }
     ]
    },
@@ -753,10 +753,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8368,
-      "price": 0.8,
+      "prob": 0.8367,
+      "price": 0.795,
       "stake": 200.0,
-      "ev_pct": 4.6
+      "ev_pct": 5.2
      }
     ]
    },
@@ -768,10 +768,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.7712,
+      "prob": 0.8196,
       "price": 0.85,
       "stake": 200.0,
-      "ev_pct": -9.3
+      "ev_pct": -3.6
      }
     ]
    }
