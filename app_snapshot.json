@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-26T06:44:35.575756Z",
- "slate_generated_utc": "2026-10-26T06:27:26.569042Z",
+ "generated_utc": "2026-10-26T06:50:05.373530Z",
+ "slate_generated_utc": "2026-10-26T06:44:41.125384Z",
  "date": "2026-10-26",
  "source": "files",
  "games": [
@@ -173,7 +173,7 @@
    "shadow_totals": [
     {
      "sel": "Over 1.5",
-     "prob": 0.7984,
+     "prob": 0.7979,
      "price": 0.695,
      "stake": 200.0
     }
@@ -701,6 +701,21 @@
   ],
   "pending": [
    {
+    "home": "Aston Villa FC",
+    "away": "Fulham FC",
+    "league": "Premier League",
+    "kickoff_utc": "2026-10-31T20:00:00Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.8626,
+      "price": 0.79,
+      "stake": 200.0,
+      "ev_pct": 9.2
+     }
+    ]
+   },
+   {
     "home": "Sevilla FC",
     "away": "CA Osasuna",
     "league": "La Liga",
@@ -708,10 +723,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.7984,
+      "prob": 0.7979,
       "price": 0.695,
       "stake": 200.0,
-      "ev_pct": 14.9
+      "ev_pct": 14.8
      }
     ]
    },
@@ -723,25 +738,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8667,
+      "prob": 0.8654,
       "price": 0.785,
       "stake": 200.0,
-      "ev_pct": 10.4
-     }
-    ]
-   },
-   {
-    "home": "FC Lorient",
-    "away": "Stade Brestois 29",
-    "league": "Ligue 1",
-    "kickoff_utc": "2026-10-31T19:45:00Z",
-    "totals": [
-     {
-      "sel": "Over 1.5",
-      "prob": 0.9105,
-      "price": 0.73,
-      "stake": 200.0,
-      "ev_pct": 24.7
+      "ev_pct": 10.2
      }
     ]
    },
@@ -753,10 +753,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8367,
+      "prob": 0.8359,
       "price": 0.795,
       "stake": 200.0,
-      "ev_pct": 5.2
+      "ev_pct": 5.1
      }
     ]
    },
@@ -768,10 +768,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8196,
+      "prob": 0.8205,
       "price": 0.85,
       "stake": 200.0,
-      "ev_pct": -3.6
+      "ev_pct": -3.5
      }
     ]
    }
