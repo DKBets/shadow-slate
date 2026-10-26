@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-26T17:56:42.663002Z",
- "slate_generated_utc": "2026-10-26T17:39:27.264770Z",
+ "generated_utc": "2026-10-26T18:01:55.374746Z",
+ "slate_generated_utc": "2026-10-26T17:58:26.286219Z",
  "date": "2026-10-26",
  "source": "files",
  "games": [
@@ -173,7 +173,7 @@
    "shadow_totals": [
     {
      "sel": "Over 1.5",
-     "prob": 0.7621,
+     "prob": 0.7794,
      "price": 0.695,
      "stake": 200.0
     }
@@ -708,40 +708,40 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.7621,
+      "prob": 0.7794,
       "price": 0.695,
       "stake": 200.0,
-      "ev_pct": 9.7
+      "ev_pct": 12.1
      }
     ]
    },
    {
-    "home": "Villarreal CF",
-    "away": "RCD Espanyol de Barcelona",
-    "league": "La Liga",
-    "kickoff_utc": "2026-10-30T20:00:00Z",
+    "home": "SV 07 Elversberg",
+    "away": "1. FSV Mainz 05",
+    "league": "Bundesliga",
+    "kickoff_utc": "2026-10-30T19:30:00Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.9629,
-      "price": 0.835,
+      "prob": 0.8912,
+      "price": 0.845,
       "stake": 200.0,
-      "ev_pct": 15.3
+      "ev_pct": 5.5
      }
     ]
    },
    {
-    "home": "OGC Nice",
-    "away": "Stade Rennais FC 1901",
+    "home": "FC Lorient",
+    "away": "Stade Brestois 29",
     "league": "Ligue 1",
-    "kickoff_utc": "2026-10-31T16:15:00Z",
+    "kickoff_utc": "2026-10-31T19:45:00Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.9547,
-      "price": 0.835,
+      "prob": 0.9135,
+      "price": 0.73,
       "stake": 200.0,
-      "ev_pct": 14.3
+      "ev_pct": 25.1
      }
     ]
    },
@@ -753,10 +753,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.804,
+      "prob": 0.8079,
       "price": 0.805,
       "stake": 200.0,
-      "ev_pct": -0.1
+      "ev_pct": 0.4
      }
     ]
    },
@@ -768,10 +768,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8105,
+      "prob": 0.8157,
       "price": 0.85,
       "stake": 200.0,
-      "ev_pct": -4.6
+      "ev_pct": -4.0
      }
     ]
    }
