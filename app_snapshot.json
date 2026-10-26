@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-26T18:48:36.048759Z",
- "slate_generated_utc": "2026-10-26T18:37:54.294579Z",
+ "generated_utc": "2026-10-26T18:53:52.496037Z",
+ "slate_generated_utc": "2026-10-26T18:48:24.129555Z",
  "date": "2026-10-26",
  "source": "files",
  "games": [
@@ -82,7 +82,7 @@
    "league_name": "Super Lig",
    "kickoff_utc": "2026-10-26T18:30Z",
    "kickoff_local": "2:30 PM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "tur-gal-fen-2026-10-26-exact-score",
    "lamH": null,
    "lamA": null,
