@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-26T19:35:44.658771Z",
- "slate_generated_utc": "2026-10-26T19:30:47.724087Z",
+ "generated_utc": "2026-10-26T19:40:51.170399Z",
+ "slate_generated_utc": "2026-10-26T19:39:49.291417Z",
  "date": "2026-10-26",
  "source": "files",
  "games": [
@@ -130,7 +130,7 @@
    "league_name": "Ligue 1",
    "kickoff_utc": "2026-10-26T19:30Z",
    "kickoff_local": "3:30 PM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "fl1-psg-lyo-2026-10-25-exact-score",
    "lamH": null,
    "lamA": null,
