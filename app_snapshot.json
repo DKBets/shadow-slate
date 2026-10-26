@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-26T07:26:18.242739Z",
- "slate_generated_utc": "2026-10-26T07:10:57.515933Z",
+ "generated_utc": "2026-10-26T07:32:24.906511Z",
+ "slate_generated_utc": "2026-10-26T07:30:24.428124Z",
  "date": "2026-10-26",
  "source": "files",
  "games": [
@@ -173,7 +173,7 @@
    "shadow_totals": [
     {
      "sel": "Over 1.5",
-     "prob": 0.7984,
+     "prob": 0.8009,
      "price": 0.695,
      "stake": 200.0
     }
@@ -723,10 +723,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.7984,
+      "prob": 0.8009,
       "price": 0.695,
       "stake": 200.0,
-      "ev_pct": 14.9
+      "ev_pct": 15.2
      }
     ]
    },
@@ -746,17 +746,17 @@
     ]
    },
    {
-    "home": "US Sassuolo Calcio",
-    "away": "SS Lazio",
+    "home": "AS Roma",
+    "away": "Cagliari Calcio",
     "league": "Serie A",
-    "kickoff_utc": "2026-10-27T17:30Z",
+    "kickoff_utc": "2026-10-27T19:45Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8355,
-      "price": 0.8,
+      "prob": 0.8372,
+      "price": 0.805,
       "stake": 200.0,
-      "ev_pct": 4.4
+      "ev_pct": 4.0
      }
     ]
    },
@@ -768,10 +768,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8174,
+      "prob": 0.8204,
       "price": 0.85,
       "stake": 200.0,
-      "ev_pct": -3.8
+      "ev_pct": -3.5
      }
     ]
    }
