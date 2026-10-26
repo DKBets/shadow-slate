@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-26T20:43:38.853468Z",
- "slate_generated_utc": "2026-10-26T20:18:37.273851Z",
+ "generated_utc": "2026-10-26T20:48:39.699731Z",
+ "slate_generated_utc": "2026-10-26T20:45:17.304414Z",
  "date": "2026-10-26",
  "source": "files",
  "games": [
@@ -34,7 +34,7 @@
    "league_name": "Super Lig",
    "kickoff_utc": "2026-10-26T18:30Z",
    "kickoff_local": "2:30 PM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "tur-gal-fen-2026-10-26-exact-score",
    "lamH": null,
    "lamA": null,
@@ -653,10 +653,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8403,
+      "prob": 0.8381,
       "price": 0.71,
       "stake": 200.0,
-      "ev_pct": 18.4
+      "ev_pct": 18.0
      }
     ]
    },
@@ -668,10 +668,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8309,
-      "price": 0.81,
+      "prob": 0.8303,
+      "price": 0.805,
       "stake": 200.0,
-      "ev_pct": 2.6
+      "ev_pct": 3.1
      }
     ]
    },
@@ -683,10 +683,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8127,
+      "prob": 0.8119,
       "price": 0.85,
       "stake": 200.0,
-      "ev_pct": -4.4
+      "ev_pct": -4.5
      }
     ]
    },
