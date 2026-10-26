@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-26T13:48:27.255220Z",
- "slate_generated_utc": "2026-10-26T12:52:55.901049Z",
+ "generated_utc": "2026-10-26T13:53:34.791476Z",
+ "slate_generated_utc": "2026-10-26T13:50:18.693063Z",
  "date": "2026-10-26",
  "source": "files",
  "games": [
@@ -173,7 +173,7 @@
    "shadow_totals": [
     {
      "sel": "Over 1.5",
-     "prob": 0.8004,
+     "prob": 0.7932,
      "price": 0.695,
      "stake": 200.0
     }
@@ -708,10 +708,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8004,
+      "prob": 0.7932,
       "price": 0.695,
       "stake": 200.0,
-      "ev_pct": 15.2
+      "ev_pct": 14.1
      }
     ]
    },
@@ -723,10 +723,25 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8718,
+      "prob": 0.8695,
       "price": 0.785,
       "stake": 200.0,
-      "ev_pct": 11.1
+      "ev_pct": 10.8
+     }
+    ]
+   },
+   {
+    "home": "FC Lorient",
+    "away": "Stade Brestois 29",
+    "league": "Ligue 1",
+    "kickoff_utc": "2026-10-31T19:45:00Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.9252,
+      "price": 0.725,
+      "stake": 200.0,
+      "ev_pct": 27.6
      }
     ]
    },
@@ -738,10 +753,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.827,
+      "prob": 0.8279,
       "price": 0.805,
       "stake": 200.0,
-      "ev_pct": 2.7
+      "ev_pct": 2.8
      }
     ]
    },
@@ -753,10 +768,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8176,
+      "prob": 0.821,
       "price": 0.85,
       "stake": 200.0,
-      "ev_pct": -3.8
+      "ev_pct": -3.4
      }
     ]
    }
