@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-26T02:15:06.277602Z",
- "slate_generated_utc": "2026-10-26T01:56:59.188762Z",
+ "generated_utc": "2026-10-26T02:20:35.995746Z",
+ "slate_generated_utc": "2026-10-26T02:15:54.621834Z",
  "date": "2026-10-25",
  "source": "files",
  "games": [
@@ -677,10 +677,25 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.7974,
+      "prob": 0.8108,
       "price": 0.695,
       "stake": 200.0,
-      "ev_pct": 14.7
+      "ev_pct": 16.7
+     }
+    ]
+   },
+   {
+    "home": "Lille OSC",
+    "away": "Racing Club de Lens",
+    "league": "Ligue 1",
+    "kickoff_utc": "2026-10-30T20:05:00Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.8657,
+      "price": 0.79,
+      "stake": 200.0,
+      "ev_pct": 9.6
      }
     ]
    },
@@ -692,10 +707,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.9259,
+      "prob": 0.9153,
       "price": 0.755,
       "stake": 200.0,
-      "ev_pct": 22.6
+      "ev_pct": 21.2
      }
     ]
    },
@@ -707,10 +722,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8416,
+      "prob": 0.8402,
       "price": 0.795,
       "stake": 200.0,
-      "ev_pct": 5.9
+      "ev_pct": 5.7
      }
     ]
    },
@@ -723,9 +738,9 @@
      {
       "sel": "Over 1.5",
       "prob": 0.7744,
-      "price": 0.83,
+      "price": 0.845,
       "stake": 200.0,
-      "ev_pct": -6.7
+      "ev_pct": -8.4
      }
     ]
    }
