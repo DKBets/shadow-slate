@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-26T02:31:06.160964Z",
- "slate_generated_utc": "2026-10-26T02:15:54.621834Z",
+ "generated_utc": "2026-10-26T02:36:14.676982Z",
+ "slate_generated_utc": "2026-10-26T02:33:19.857841Z",
  "date": "2026-10-25",
  "source": "files",
  "games": [
@@ -677,10 +677,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8108,
+      "prob": 0.7976,
       "price": 0.695,
       "stake": 200.0,
-      "ev_pct": 16.7
+      "ev_pct": 14.8
      }
     ]
    },
@@ -692,10 +692,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8657,
+      "prob": 0.8652,
       "price": 0.79,
       "stake": 200.0,
-      "ev_pct": 9.6
+      "ev_pct": 9.5
      }
     ]
    },
@@ -707,25 +707,25 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.9153,
+      "prob": 0.9143,
       "price": 0.755,
       "stake": 200.0,
-      "ev_pct": 21.2
+      "ev_pct": 21.1
      }
     ]
    },
    {
-    "home": "US Sassuolo Calcio",
-    "away": "SS Lazio",
+    "home": "Torino FC",
+    "away": "Como 1907",
     "league": "Serie A",
-    "kickoff_utc": "2026-10-27T17:30Z",
+    "kickoff_utc": "2026-10-27T19:45Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8402,
-      "price": 0.795,
+      "prob": 0.8369,
+      "price": 0.8,
       "stake": 200.0,
-      "ev_pct": 5.7
+      "ev_pct": 4.6
      }
     ]
    },
@@ -738,9 +738,9 @@
      {
       "sel": "Over 1.5",
       "prob": 0.7744,
-      "price": 0.845,
+      "price": 0.84,
       "stake": 200.0,
-      "ev_pct": -8.4
+      "ev_pct": -7.8
      }
     ]
    }
