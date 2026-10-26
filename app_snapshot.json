@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-26T16:22:15.415730Z",
+ "generated_utc": "2026-10-26T16:27:50.027189Z",
  "slate_generated_utc": "2026-10-26T16:20:18.906454Z",
  "date": "2026-10-26",
  "source": "files",
@@ -173,7 +173,7 @@
    "shadow_totals": [
     {
      "sel": "Over 1.5",
-     "prob": 0.7926,
+     "prob": 0.8011,
      "price": 0.695,
      "stake": 200.0
     }
@@ -708,10 +708,25 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.7926,
+      "prob": 0.8011,
       "price": 0.695,
       "stake": 200.0,
-      "ev_pct": 14.0
+      "ev_pct": 15.3
+     }
+    ]
+   },
+   {
+    "home": "Lille OSC",
+    "away": "Racing Club de Lens",
+    "league": "Ligue 1",
+    "kickoff_utc": "2026-10-30T20:05:00Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.869,
+      "price": 0.785,
+      "stake": 200.0,
+      "ev_pct": 10.7
      }
     ]
    },
@@ -723,10 +738,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.829,
+      "prob": 0.8387,
       "price": 0.81,
       "stake": 200.0,
-      "ev_pct": 2.3
+      "ev_pct": 3.5
      }
     ]
    },
@@ -738,25 +753,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8187,
+      "prob": 0.8144,
       "price": 0.85,
       "stake": 200.0,
-      "ev_pct": -3.7
-     }
-    ]
-   },
-   {
-    "home": "Club Puebla",
-    "away": "Pumas de la UNAM",
-    "league": "Liga MX",
-    "kickoff_utc": "2026-10-31T03:00:00Z",
-    "totals": [
-     {
-      "sel": "Over 1.5",
-      "prob": 0.884,
-      "price": 0.775,
-      "stake": 200.0,
-      "ev_pct": 14.1
+      "ev_pct": -4.2
      }
     ]
    }
