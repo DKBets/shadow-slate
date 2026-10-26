@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-26T01:19:05.324161Z",
- "slate_generated_utc": "2026-10-26T00:39:05.673856Z",
+ "generated_utc": "2026-10-26T01:24:27.900824Z",
+ "slate_generated_utc": "2026-10-26T01:18:13.087833Z",
  "date": "2026-10-25",
  "source": "files",
  "games": [
@@ -106,7 +106,7 @@
    "league_name": "Liga MX",
    "kickoff_utc": "2026-10-25T23:00Z",
    "kickoff_local": "7:00 PM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "mex-atl-pue-2026-10-25-exact-score",
    "lamH": null,
    "lamA": null,
@@ -178,7 +178,7 @@
    "league_name": "Liga MX",
    "kickoff_utc": "2026-10-26T01:00Z",
    "kickoff_local": "9:00 PM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "mex-que-caz-2026-10-25-exact-score",
    "lamH": null,
    "lamA": null,
@@ -202,7 +202,7 @@
    "league_name": "Liga MX",
    "kickoff_utc": "2026-10-26T01:05Z",
    "kickoff_local": "9:05 PM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "mex-ame-pac-2026-10-25-exact-score",
    "lamH": null,
    "lamA": null,
@@ -725,10 +725,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8291,
+      "prob": 0.8049,
       "price": 0.695,
       "stake": 200.0,
-      "ev_pct": 19.3
+      "ev_pct": 15.8
      }
     ]
    },
@@ -740,10 +740,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.9328,
+      "prob": 0.9287,
       "price": 0.755,
       "stake": 200.0,
-      "ev_pct": 23.5
+      "ev_pct": 23.0
      }
     ]
    },
@@ -755,10 +755,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.839,
+      "prob": 0.847,
       "price": 0.795,
       "stake": 200.0,
-      "ev_pct": 5.5
+      "ev_pct": 6.5
      }
     ]
    },
@@ -770,7 +770,7 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.7751,
+      "prob": 0.7749,
       "price": 0.83,
       "stake": 200.0,
       "ev_pct": -6.6
