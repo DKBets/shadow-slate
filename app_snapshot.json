@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-26T15:15:50.640667Z",
- "slate_generated_utc": "2026-10-26T14:47:55.931757Z",
+ "generated_utc": "2026-10-26T15:21:05.762057Z",
+ "slate_generated_utc": "2026-10-26T15:17:43.132511Z",
  "date": "2026-10-26",
  "source": "files",
  "games": [
@@ -173,7 +173,7 @@
    "shadow_totals": [
     {
      "sel": "Over 1.5",
-     "prob": 0.7906,
+     "prob": 0.7984,
      "price": 0.695,
      "stake": 200.0
     }
@@ -708,10 +708,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.7906,
+      "prob": 0.7984,
       "price": 0.695,
       "stake": 200.0,
-      "ev_pct": 13.8
+      "ev_pct": 14.9
      }
     ]
    },
@@ -723,40 +723,25 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8717,
+      "prob": 0.8705,
       "price": 0.785,
       "stake": 200.0,
-      "ev_pct": 11.0
+      "ev_pct": 10.9
      }
     ]
    },
    {
-    "home": "FC Lorient",
-    "away": "Stade Brestois 29",
-    "league": "Ligue 1",
-    "kickoff_utc": "2026-10-31T19:45:00Z",
-    "totals": [
-     {
-      "sel": "Over 1.5",
-      "prob": 0.924,
-      "price": 0.725,
-      "stake": 200.0,
-      "ev_pct": 27.4
-     }
-    ]
-   },
-   {
-    "home": "US Sassuolo Calcio",
-    "away": "SS Lazio",
+    "home": "AS Roma",
+    "away": "Cagliari Calcio",
     "league": "Serie A",
-    "kickoff_utc": "2026-10-27T17:30Z",
+    "kickoff_utc": "2026-10-27T19:45Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.828,
-      "price": 0.805,
+      "prob": 0.8384,
+      "price": 0.81,
       "stake": 200.0,
-      "ev_pct": 2.9
+      "ev_pct": 3.5
      }
     ]
    },
@@ -768,10 +753,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8213,
+      "prob": 0.8202,
       "price": 0.85,
       "stake": 200.0,
-      "ev_pct": -3.4
+      "ev_pct": -3.5
      }
     ]
    }
