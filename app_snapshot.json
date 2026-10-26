@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-26T21:25:15.888032Z",
+ "generated_utc": "2026-10-26T21:33:06.875737Z",
  "slate_generated_utc": "2026-10-26T21:23:35.866033Z",
  "date": "2026-10-26",
  "source": "files",
@@ -653,10 +653,25 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8381,
+      "prob": 0.8338,
       "price": 0.71,
       "stake": 200.0,
-      "ev_pct": 18.0
+      "ev_pct": 17.4
+     }
+    ]
+   },
+   {
+    "home": "SV 07 Elversberg",
+    "away": "1. FSV Mainz 05",
+    "league": "Bundesliga",
+    "kickoff_utc": "2026-10-30T19:30:00Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.8919,
+      "price": 0.845,
+      "stake": 200.0,
+      "ev_pct": 5.6
      }
     ]
    },
@@ -668,7 +683,7 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8303,
+      "prob": 0.8302,
       "price": 0.805,
       "stake": 200.0,
       "ev_pct": 3.1
@@ -683,25 +698,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8119,
+      "prob": 0.8107,
       "price": 0.85,
       "stake": 200.0,
-      "ev_pct": -4.5
-     }
-    ]
-   },
-   {
-    "home": "Club Puebla",
-    "away": "Pumas de la UNAM",
-    "league": "Liga MX",
-    "kickoff_utc": "2026-10-31T03:00:00Z",
-    "totals": [
-     {
-      "sel": "Over 1.5",
-      "prob": 0.884,
-      "price": 0.78,
-      "stake": 200.0,
-      "ev_pct": 13.3
+      "ev_pct": -4.6
      }
     ]
    }
