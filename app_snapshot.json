@@ -1,64 +1,16 @@
 {
- "generated_utc": "2026-10-26T20:17:32.110747Z",
- "slate_generated_utc": "2026-10-26T19:49:31.248679Z",
+ "generated_utc": "2026-10-26T20:22:44.660056Z",
+ "slate_generated_utc": "2026-10-26T20:18:37.273851Z",
  "date": "2026-10-26",
  "source": "files",
  "games": [
-  {
-   "home": "Çaykur Rizespor",
-   "away": "Trabzonspor",
-   "league_name": "Super Lig",
-   "kickoff_utc": "2026-10-26T16:00Z",
-   "kickoff_local": "12:00 PM",
-   "status": "post",
-   "pm_slug": "tur-riz-tra-2026-10-26-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
-   "home": "Beşiktaş JK",
-   "away": "Rams Başakşehir FK",
-   "league_name": "Super Lig",
-   "kickoff_utc": "2026-10-26T16:00Z",
-   "kickoff_local": "12:00 PM",
-   "status": "post",
-   "pm_slug": "tur-bes-iba-2026-10-26-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
   {
    "home": "FC København",
    "away": "Odense BK",
    "league_name": "Danish Superliga",
    "kickoff_utc": "2026-10-26T18:00Z",
    "kickoff_local": "2:00 PM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "den-kob-ode-2026-10-26-exact-score",
    "lamH": null,
    "lamA": null,
@@ -154,7 +106,7 @@
    "league_name": "La Liga",
    "kickoff_utc": "2026-10-26T20:00Z",
    "kickoff_local": "4:00 PM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "lal-sev-osa-2026-10-26-exact-score",
    "lamH": null,
    "lamA": null,
@@ -701,7 +653,7 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8405,
+      "prob": 0.8403,
       "price": 0.71,
       "stake": 200.0,
       "ev_pct": 18.4
@@ -716,10 +668,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8205,
-      "price": 0.815,
+      "prob": 0.8309,
+      "price": 0.81,
       "stake": 200.0,
-      "ev_pct": 0.7
+      "ev_pct": 2.6
      }
     ]
    },
@@ -731,10 +683,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.814,
+      "prob": 0.8127,
       "price": 0.85,
       "stake": 200.0,
-      "ev_pct": -4.2
+      "ev_pct": -4.4
      }
     ]
    },
@@ -746,10 +698,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8853,
+      "prob": 0.884,
       "price": 0.78,
       "stake": 200.0,
-      "ev_pct": 13.5
+      "ev_pct": 13.3
      }
     ]
    }
