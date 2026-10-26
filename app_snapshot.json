@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-26T08:24:22.108767Z",
+ "generated_utc": "2026-10-26T08:29:24.611010Z",
  "slate_generated_utc": "2026-10-26T08:23:04.106790Z",
  "date": "2026-10-26",
  "source": "files",
@@ -173,7 +173,7 @@
    "shadow_totals": [
     {
      "sel": "Over 1.5",
-     "prob": 0.7873,
+     "prob": 0.7878,
      "price": 0.695,
      "stake": 200.0
     }
@@ -708,10 +708,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.7873,
+      "prob": 0.7878,
       "price": 0.695,
       "stake": 200.0,
-      "ev_pct": 13.3
+      "ev_pct": 13.4
      }
     ]
    },
@@ -731,6 +731,21 @@
     ]
    },
    {
+    "home": "FC Lorient",
+    "away": "Stade Brestois 29",
+    "league": "Ligue 1",
+    "kickoff_utc": "2026-10-31T19:45:00Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.92,
+      "price": 0.73,
+      "stake": 200.0,
+      "ev_pct": 26.0
+     }
+    ]
+   },
+   {
     "home": "US Sassuolo Calcio",
     "away": "SS Lazio",
     "league": "Serie A",
@@ -738,7 +753,7 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8385,
+      "prob": 0.8387,
       "price": 0.8,
       "stake": 200.0,
       "ev_pct": 4.8
@@ -753,10 +768,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8174,
+      "prob": 0.821,
       "price": 0.85,
       "stake": 200.0,
-      "ev_pct": -3.8
+      "ev_pct": -3.4
      }
     ]
    }
