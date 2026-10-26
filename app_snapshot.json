@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-26T19:30:29.566946Z",
- "slate_generated_utc": "2026-10-26T18:48:24.129555Z",
+ "generated_utc": "2026-10-26T19:35:44.658771Z",
+ "slate_generated_utc": "2026-10-26T19:30:47.724087Z",
  "date": "2026-10-26",
  "source": "files",
  "games": [
@@ -106,7 +106,7 @@
    "league_name": "Primeira Liga",
    "kickoff_utc": "2026-10-26T18:45Z",
    "kickoff_local": "2:45 PM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "por-cds-ben-2026-10-26-exact-score",
    "lamH": null,
    "lamA": null,
@@ -167,17 +167,10 @@
    "cur_home": null,
    "cur_away": null,
    "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": true,
-   "shadow_totals": [
-    {
-     "sel": "Over 1.5",
-     "prob": 0.7794,
-     "price": 0.695,
-     "stake": 200.0
-    }
-   ]
+   "shadow_bet": true,
+   "shadow_status": "open",
+   "shadow_pending": false,
+   "shadow_totals": []
   },
   {
    "home": "Coritiba FBC",
@@ -230,45 +223,6 @@
  ],
  "shadow": {
   "recent": [
-   {
-    "home": "Torino FC",
-    "away": "Udinese Calcio",
-    "league": "Serie A",
-    "kickoff_utc": "2026-10-12T18:45Z",
-    "status": "settled",
-    "stake": 500.0,
-    "hit_pre": 0.63,
-    "legs": [
-     {
-      "score": "1-1",
-      "price": 0.16
-     },
-     {
-      "score": "1-0",
-      "price": 0.12
-     },
-     {
-      "score": "0-0",
-      "price": 0.11
-     },
-     {
-      "score": "2-1",
-      "price": 0.09
-     },
-     {
-      "score": "0-1",
-      "price": 0.1
-     },
-     {
-      "score": "1-2",
-      "price": 0.08
-     }
-    ],
-    "won": true,
-    "pnl": 321.67,
-    "final": "2-1",
-    "reason": "top-of-day pick — Core 45%"
-   },
    {
     "home": "Club Atlético de Madrid",
     "away": "Manchester United FC",
@@ -697,51 +651,60 @@
     "pnl": -500.0,
     "final": "4-0",
     "reason": "top-of-day pick — Core 41%"
-   }
-  ],
-  "pending": [
+   },
    {
     "home": "Sevilla FC",
     "away": "CA Osasuna",
     "league": "La Liga",
     "kickoff_utc": "2026-10-26T20:00Z",
-    "totals": [
+    "status": "open",
+    "stake": 500.0,
+    "hit_pre": 0.62,
+    "legs": [
      {
-      "sel": "Over 1.5",
-      "prob": 0.7794,
-      "price": 0.695,
-      "stake": 200.0,
-      "ev_pct": 12.1
+      "score": "1-1",
+      "price": 0.14
+     },
+     {
+      "score": "1-0",
+      "price": 0.14
+     },
+     {
+      "score": "2-1",
+      "price": 0.1
+     },
+     {
+      "score": "2-0",
+      "price": 0.1
+     },
+     {
+      "score": "0-0",
+      "price": 0.09
+     },
+     {
+      "score": "0-1",
+      "price": 0.08
      }
-    ]
-   },
+    ],
+    "won": null,
+    "pnl": null,
+    "final": null,
+    "reason": "top-of-day pick — Core 43%"
+   }
+  ],
+  "pending": [
    {
-    "home": "SV 07 Elversberg",
-    "away": "1. FSV Mainz 05",
-    "league": "Bundesliga",
-    "kickoff_utc": "2026-10-30T19:30:00Z",
+    "home": "Rayo Vallecano de Madrid",
+    "away": "RC Celta de Vigo",
+    "league": "La Liga",
+    "kickoff_utc": "2026-10-31T15:15:00Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8912,
-      "price": 0.845,
+      "prob": 0.8407,
+      "price": 0.71,
       "stake": 200.0,
-      "ev_pct": 5.5
-     }
-    ]
-   },
-   {
-    "home": "FC Lorient",
-    "away": "Stade Brestois 29",
-    "league": "Ligue 1",
-    "kickoff_utc": "2026-10-31T19:45:00Z",
-    "totals": [
-     {
-      "sel": "Over 1.5",
-      "prob": 0.9135,
-      "price": 0.73,
-      "stake": 200.0,
-      "ev_pct": 25.1
+      "ev_pct": 18.4
      }
     ]
    },
@@ -753,10 +716,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8079,
-      "price": 0.805,
+      "prob": 0.8054,
+      "price": 0.815,
       "stake": 200.0,
-      "ev_pct": 0.4
+      "ev_pct": -1.2
      }
     ]
    },
@@ -768,10 +731,25 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8157,
+      "prob": 0.8112,
       "price": 0.85,
       "stake": 200.0,
-      "ev_pct": -4.0
+      "ev_pct": -4.6
+     }
+    ]
+   },
+   {
+    "home": "Club Puebla",
+    "away": "Pumas de la UNAM",
+    "league": "Liga MX",
+    "kickoff_utc": "2026-10-31T03:00:00Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.884,
+      "price": 0.78,
+      "stake": 200.0,
+      "ev_pct": 13.3
      }
     ]
    }
