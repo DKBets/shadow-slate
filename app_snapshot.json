@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-26T03:29:26.818184Z",
- "slate_generated_utc": "2026-10-26T02:53:03.238050Z",
+ "generated_utc": "2026-10-26T03:35:05.474933Z",
+ "slate_generated_utc": "2026-10-26T03:30:41.209470Z",
  "date": "2026-10-25",
  "source": "files",
  "games": [
@@ -53,60 +53,12 @@
    "shadow_totals": []
   },
   {
-   "home": "Atlas FC",
-   "away": "Club Puebla",
-   "league_name": "Liga MX",
-   "kickoff_utc": "2026-10-25T23:00Z",
-   "kickoff_local": "7:00 PM",
-   "status": "post",
-   "pm_slug": "mex-atl-pue-2026-10-25-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
-   "home": "San Diego Wave FC",
-   "away": "Boston Legacy FC",
-   "league_name": "NWSL",
-   "kickoff_utc": "2026-10-25T23:00Z",
-   "kickoff_local": "7:00 PM",
-   "status": "post",
-   "pm_slug": "nwsl-wav-bos-2026-10-25-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
-  {
    "home": "Los Angeles FC",
    "away": "Los Angeles Galaxy",
    "league_name": "MLS",
    "kickoff_utc": "2026-10-26T01:00:00Z",
    "kickoff_local": "9:00 PM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "mls-laf-lag-2026-10-25-exact-score",
    "lamH": null,
    "lamA": null,
@@ -130,7 +82,7 @@
    "league_name": "Liga MX",
    "kickoff_utc": "2026-10-26T01:00Z",
    "kickoff_local": "9:00 PM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "mex-que-caz-2026-10-25-exact-score",
    "lamH": null,
    "lamA": null,
@@ -154,7 +106,7 @@
    "league_name": "Liga MX",
    "kickoff_utc": "2026-10-26T01:05Z",
    "kickoff_local": "9:05 PM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "mex-ame-pac-2026-10-25-exact-score",
    "lamH": null,
    "lamA": null,
@@ -178,7 +130,7 @@
    "league_name": "Liga MX",
    "kickoff_utc": "2026-10-26T03:10Z",
    "kickoff_local": "11:10 PM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "mex-tij-san-2026-10-25-exact-score",
    "lamH": null,
    "lamA": null,
@@ -677,25 +629,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8044,
+      "prob": 0.8011,
       "price": 0.695,
       "stake": 200.0,
-      "ev_pct": 15.7
-     }
-    ]
-   },
-   {
-    "home": "Lille OSC",
-    "away": "Racing Club de Lens",
-    "league": "Ligue 1",
-    "kickoff_utc": "2026-10-30T20:05:00Z",
-    "totals": [
-     {
-      "sel": "Over 1.5",
-      "prob": 0.8661,
-      "price": 0.79,
-      "stake": 200.0,
-      "ev_pct": 9.6
+      "ev_pct": 15.3
      }
     ]
    },
@@ -707,25 +644,25 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.9218,
+      "prob": 0.9144,
       "price": 0.73,
       "stake": 200.0,
-      "ev_pct": 26.3
+      "ev_pct": 25.3
      }
     ]
    },
    {
-    "home": "US Sassuolo Calcio",
-    "away": "SS Lazio",
+    "home": "Torino FC",
+    "away": "Como 1907",
     "league": "Serie A",
-    "kickoff_utc": "2026-10-27T17:30Z",
+    "kickoff_utc": "2026-10-27T19:45Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8388,
-      "price": 0.795,
+      "prob": 0.8361,
+      "price": 0.8,
       "stake": 200.0,
-      "ev_pct": 5.5
+      "ev_pct": 4.5
      }
     ]
    },
@@ -737,10 +674,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.775,
-      "price": 0.835,
+      "prob": 0.7395,
+      "price": 0.85,
       "stake": 200.0,
-      "ev_pct": -7.2
+      "ev_pct": -13.0
      }
     ]
    }
