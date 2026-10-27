@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-27T00:21:52.258933Z",
- "slate_generated_utc": "2026-10-26T23:07:35.230236Z",
+ "generated_utc": "2026-10-27T00:27:03.550642Z",
+ "slate_generated_utc": "2026-10-27T00:21:03.092159Z",
  "date": "2026-10-26",
  "source": "files",
  "games": [
@@ -34,7 +34,7 @@
    "league_name": "Brasileirao",
    "kickoff_utc": "2026-10-26T23:00:00Z",
    "kickoff_local": "7:00 PM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "bra-fla-cam-2026-10-26-exact-score",
    "lamH": null,
    "lamA": null,
