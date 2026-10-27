@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-27T05:21:50.268179Z",
+ "generated_utc": "2026-10-27T05:26:56.640491Z",
  "slate_generated_utc": "2026-10-27T05:19:58.752138Z",
  "date": "2026-10-27",
  "source": "files",
@@ -77,7 +77,7 @@
    "shadow_totals": [
     {
      "sel": "Over 1.5",
-     "prob": 0.8291,
+     "prob": 0.8261,
      "price": 0.815,
      "stake": 200.0
     }
@@ -581,6 +581,21 @@
   ],
   "pending": [
    {
+    "home": "Villarreal CF",
+    "away": "RCD Espanyol de Barcelona",
+    "league": "La Liga",
+    "kickoff_utc": "2026-10-30T20:00:00Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.8842,
+      "price": 0.835,
+      "stake": 200.0,
+      "ev_pct": 5.9
+     }
+    ]
+   },
+   {
     "home": "Real Betis Balompié",
     "away": "Málaga CF",
     "league": "La Liga",
@@ -588,25 +603,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8614,
+      "prob": 0.8605,
       "price": 0.835,
       "stake": 200.0,
-      "ev_pct": 3.2
-     }
-    ]
-   },
-   {
-    "home": "Lille OSC",
-    "away": "Racing Club de Lens",
-    "league": "Ligue 1",
-    "kickoff_utc": "2026-10-30T20:05:00Z",
-    "totals": [
-     {
-      "sel": "Over 1.5",
-      "prob": 0.8704,
-      "price": 0.785,
-      "stake": 200.0,
-      "ev_pct": 10.9
+      "ev_pct": 3.1
      }
     ]
    },
@@ -618,10 +618,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8291,
+      "prob": 0.8261,
       "price": 0.815,
       "stake": 200.0,
-      "ev_pct": 1.7
+      "ev_pct": 1.4
      }
     ]
    },
@@ -633,10 +633,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8082,
+      "prob": 0.8049,
       "price": 0.85,
       "stake": 200.0,
-      "ev_pct": -4.9
+      "ev_pct": -5.3
      }
     ]
    }
