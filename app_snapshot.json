@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-27T00:31:55.993452Z",
- "slate_generated_utc": "2026-10-27T00:21:03.092159Z",
+ "generated_utc": "2026-10-27T00:37:06.238182Z",
+ "slate_generated_utc": "2026-10-27T00:34:16.492781Z",
  "date": "2026-10-26",
  "source": "files",
  "games": [
@@ -10,7 +10,7 @@
    "league_name": "Brasileirao",
    "kickoff_utc": "2026-10-26T22:30Z",
    "kickoff_local": "6:30 PM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "bra-cor-gre-2026-10-26-exact-score",
    "lamH": null,
    "lamA": null,
@@ -526,62 +526,32 @@
   ],
   "pending": [
    {
-    "home": "Hull City AFC",
-    "away": "Ipswich Town FC",
-    "league": "Premier League",
-    "kickoff_utc": "2026-10-31T15:00:00Z",
-    "totals": [
-     {
-      "sel": "Over 1.5",
-      "prob": 0.8405,
-      "price": 0.765,
-      "stake": 200.0,
-      "ev_pct": 9.9
-     }
-    ]
-   },
-   {
-    "home": "SV 07 Elversberg",
-    "away": "1. FSV Mainz 05",
-    "league": "Bundesliga",
-    "kickoff_utc": "2026-10-30T19:30:00Z",
-    "totals": [
-     {
-      "sel": "Over 1.5",
-      "prob": 0.8906,
-      "price": 0.845,
-      "stake": 200.0,
-      "ev_pct": 5.4
-     }
-    ]
-   },
-   {
-    "home": "AS Roma",
-    "away": "Cagliari Calcio",
-    "league": "Serie A",
-    "kickoff_utc": "2026-10-27T19:45Z",
-    "totals": [
-     {
-      "sel": "Over 1.5",
-      "prob": 0.8159,
-      "price": 0.81,
-      "stake": 200.0,
-      "ev_pct": 0.7
-     }
-    ]
-   },
-   {
     "home": "CF América",
     "away": "Club Tijuana",
     "league": "Liga MX",
-    "kickoff_utc": "2026-10-29T03:00:00Z",
+    "kickoff_utc": "2026-10-29T03:00Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8129,
+      "prob": 0.8137,
       "price": 0.85,
       "stake": 200.0,
-      "ev_pct": -4.4
+      "ev_pct": -4.3
+     }
+    ]
+   },
+   {
+    "home": "Club Puebla",
+    "away": "Pumas de la UNAM",
+    "league": "Liga MX",
+    "kickoff_utc": "2026-10-31T03:00:00Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.8839,
+      "price": 0.78,
+      "stake": 200.0,
+      "ev_pct": 13.3
      }
     ]
    }
