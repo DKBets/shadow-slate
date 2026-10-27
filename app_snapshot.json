@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-27T06:55:01.309733Z",
- "slate_generated_utc": "2026-10-27T06:39:00.985392Z",
+ "generated_utc": "2026-10-27T07:00:05.479197Z",
+ "slate_generated_utc": "2026-10-27T06:55:52.801871Z",
  "date": "2026-10-27",
  "source": "files",
  "games": [
@@ -77,7 +77,7 @@
    "shadow_totals": [
     {
      "sel": "Over 1.5",
-     "prob": 0.8099,
+     "prob": 0.8097,
      "price": 0.815,
      "stake": 200.0
     }
@@ -588,25 +588,25 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8849,
+      "prob": 0.8843,
       "price": 0.835,
       "stake": 200.0,
-      "ev_pct": 6.0
+      "ev_pct": 5.9
      }
     ]
    },
    {
-    "home": "Rayo Vallecano de Madrid",
-    "away": "RC Celta de Vigo",
-    "league": "La Liga",
-    "kickoff_utc": "2026-10-31T15:15:00Z",
+    "home": "FC Lorient",
+    "away": "Stade Brestois 29",
+    "league": "Ligue 1",
+    "kickoff_utc": "2026-10-31T19:45:00Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8304,
-      "price": 0.71,
+      "prob": 0.899,
+      "price": 0.73,
       "stake": 200.0,
-      "ev_pct": 17.0
+      "ev_pct": 23.2
      }
     ]
    },
@@ -618,10 +618,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8099,
+      "prob": 0.8097,
       "price": 0.815,
       "stake": 200.0,
-      "ev_pct": -0.6
+      "ev_pct": -0.7
      }
     ]
    },
@@ -633,7 +633,7 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8062,
+      "prob": 0.8065,
       "price": 0.845,
       "stake": 200.0,
       "ev_pct": -4.6
