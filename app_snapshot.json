@@ -1,40 +1,16 @@
 {
- "generated_utc": "2026-10-27T22:11:41.295750Z",
- "slate_generated_utc": "2026-10-27T16:21:37.765535Z",
+ "generated_utc": "2026-10-27T22:16:44.435749Z",
+ "slate_generated_utc": "2026-10-27T22:12:36.846578Z",
  "date": "2026-10-27",
  "source": "files",
  "games": [
-  {
-   "home": "US Sassuolo Calcio",
-   "away": "SS Lazio",
-   "league_name": "Serie A",
-   "kickoff_utc": "2026-10-27T17:30Z",
-   "kickoff_local": "1:30 PM",
-   "status": "pre",
-   "pm_slug": "sea-sas-laz-2026-10-27-exact-score",
-   "lamH": null,
-   "lamA": null,
-   "hasModel": false,
-   "news_adj": null,
-   "top_scores": [],
-   "provisional": false,
-   "market": null,
-   "edge_bets": [],
-   "cur_home": null,
-   "cur_away": null,
-   "minute": null,
-   "shadow_bet": false,
-   "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
-  },
   {
    "home": "AIK",
    "away": "IF Elfsborg",
    "league_name": "Allsvenskan",
    "kickoff_utc": "2026-10-27T18:00Z",
    "kickoff_local": "2:00 PM",
-   "status": "pre",
+   "status": "post",
    "pm_slug": "swe-aik-elf-2026-10-27-exact-score",
    "lamH": null,
    "lamA": null,
@@ -58,7 +34,7 @@
    "league_name": "Serie A",
    "kickoff_utc": "2026-10-27T19:45Z",
    "kickoff_local": "3:45 PM",
-   "status": "pre",
+   "status": "post",
    "pm_slug": "sea-rom-cag-2026-10-27-exact-score",
    "lamH": null,
    "lamA": null,
@@ -73,15 +49,8 @@
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
-   "shadow_pending": true,
-   "shadow_totals": [
-    {
-     "sel": "Over 1.5",
-     "prob": 0.7909,
-     "price": 0.785,
-     "stake": 200.0
-    }
-   ]
+   "shadow_pending": false,
+   "shadow_totals": []
   },
   {
    "home": "Torino FC",
@@ -89,7 +58,7 @@
    "league_name": "Serie A",
    "kickoff_utc": "2026-10-27T19:45Z",
    "kickoff_local": "3:45 PM",
-   "status": "pre",
+   "status": "post",
    "pm_slug": "sea-tor-com-2026-10-27-exact-score",
    "lamH": null,
    "lamA": null,
@@ -581,47 +550,32 @@
   ],
   "pending": [
    {
-    "home": "SV 07 Elversberg",
-    "away": "1. FSV Mainz 05",
-    "league": "Bundesliga",
-    "kickoff_utc": "2026-10-30T19:30:00Z",
+    "home": "Villarreal CF",
+    "away": "RCD Espanyol de Barcelona",
+    "league": "La Liga",
+    "kickoff_utc": "2026-10-30T20:00:00Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8893,
+      "prob": 0.8742,
       "price": 0.84,
       "stake": 200.0,
-      "ev_pct": 5.9
+      "ev_pct": 4.1
      }
     ]
    },
    {
-    "home": "FC Lorient",
-    "away": "Stade Brestois 29",
-    "league": "Ligue 1",
-    "kickoff_utc": "2026-10-31T19:45:00Z",
+    "home": "Rayo Vallecano de Madrid",
+    "away": "RC Celta de Vigo",
+    "league": "La Liga",
+    "kickoff_utc": "2026-10-31T15:15:00Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8981,
-      "price": 0.72,
+      "prob": 0.8345,
+      "price": 0.7,
       "stake": 200.0,
-      "ev_pct": 24.7
-     }
-    ]
-   },
-   {
-    "home": "AS Roma",
-    "away": "Cagliari Calcio",
-    "league": "Serie A",
-    "kickoff_utc": "2026-10-27T19:45Z",
-    "totals": [
-     {
-      "sel": "Over 1.5",
-      "prob": 0.7909,
-      "price": 0.785,
-      "stake": 200.0,
-      "ev_pct": 0.8
+      "ev_pct": 19.2
      }
     ]
    },
@@ -633,10 +587,25 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.7878,
+      "prob": 0.7869,
       "price": 0.835,
       "stake": 200.0,
-      "ev_pct": -5.7
+      "ev_pct": -5.8
+     }
+    ]
+   },
+   {
+    "home": "FK Shakhtar Donetsk",
+    "away": "Sporting CP",
+    "league": "Champions League",
+    "kickoff_utc": "2026-11-03T17:45:00Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.8688,
+      "price": 0.795,
+      "stake": 200.0,
+      "ev_pct": 9.3
      }
     ]
    }
