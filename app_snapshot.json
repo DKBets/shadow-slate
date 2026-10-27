@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-27T01:40:07.743330Z",
- "slate_generated_utc": "2026-10-27T01:24:15.810120Z",
+ "generated_utc": "2026-10-27T01:45:24.903910Z",
+ "slate_generated_utc": "2026-10-27T01:42:45.568844Z",
  "date": "2026-10-26",
  "source": "files",
  "games": [
@@ -34,7 +34,7 @@
    "league_name": "Brasileirao",
    "kickoff_utc": "2026-10-26T23:00:00Z",
    "kickoff_local": "7:00 PM",
-   "status": "post",
+   "status": "in",
    "pm_slug": "bra-fla-cam-2026-10-26-exact-score",
    "lamH": null,
    "lamA": null,
@@ -526,17 +526,17 @@
   ],
   "pending": [
    {
-    "home": "Hull City AFC",
-    "away": "Ipswich Town FC",
+    "home": "AFC Bournemouth",
+    "away": "Leeds United FC",
     "league": "Premier League",
     "kickoff_utc": "2026-10-31T15:00:00Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8397,
-      "price": 0.765,
+      "prob": 0.8425,
+      "price": 0.755,
       "stake": 200.0,
-      "ev_pct": 9.8
+      "ev_pct": 11.6
      }
     ]
    },
@@ -548,10 +548,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8675,
+      "prob": 0.8692,
       "price": 0.785,
       "stake": 200.0,
-      "ev_pct": 10.5
+      "ev_pct": 10.7
      }
     ]
    },
@@ -563,10 +563,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8256,
+      "prob": 0.8303,
       "price": 0.81,
       "stake": 200.0,
-      "ev_pct": 1.9
+      "ev_pct": 2.5
      }
     ]
    },
