@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-27T01:03:06.498769Z",
- "slate_generated_utc": "2026-10-27T00:34:16.492781Z",
+ "generated_utc": "2026-10-27T01:08:23.996647Z",
+ "slate_generated_utc": "2026-10-27T01:04:15.309803Z",
  "date": "2026-10-26",
  "source": "files",
  "games": [
@@ -526,6 +526,51 @@
   ],
   "pending": [
    {
+    "home": "Hull City AFC",
+    "away": "Ipswich Town FC",
+    "league": "Premier League",
+    "kickoff_utc": "2026-10-31T15:00:00Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.8397,
+      "price": 0.765,
+      "stake": 200.0,
+      "ev_pct": 9.8
+     }
+    ]
+   },
+   {
+    "home": "Lille OSC",
+    "away": "Racing Club de Lens",
+    "league": "Ligue 1",
+    "kickoff_utc": "2026-10-30T20:05:00Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.8675,
+      "price": 0.785,
+      "stake": 200.0,
+      "ev_pct": 10.5
+     }
+    ]
+   },
+   {
+    "home": "AS Roma",
+    "away": "Cagliari Calcio",
+    "league": "Serie A",
+    "kickoff_utc": "2026-10-27T19:45Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.8256,
+      "price": 0.81,
+      "stake": 200.0,
+      "ev_pct": 1.9
+     }
+    ]
+   },
+   {
     "home": "CF América",
     "away": "Club Tijuana",
     "league": "Liga MX",
@@ -537,21 +582,6 @@
       "price": 0.85,
       "stake": 200.0,
       "ev_pct": -4.3
-     }
-    ]
-   },
-   {
-    "home": "Club Puebla",
-    "away": "Pumas de la UNAM",
-    "league": "Liga MX",
-    "kickoff_utc": "2026-10-31T03:00:00Z",
-    "totals": [
-     {
-      "sel": "Over 1.5",
-      "prob": 0.8839,
-      "price": 0.78,
-      "stake": 200.0,
-      "ev_pct": 13.3
      }
     ]
    }
