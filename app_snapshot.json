@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-27T08:29:53.618673Z",
- "slate_generated_utc": "2026-10-27T08:11:43.671152Z",
+ "generated_utc": "2026-10-27T08:34:55.410599Z",
+ "slate_generated_utc": "2026-10-27T08:29:35.881153Z",
  "date": "2026-10-27",
  "source": "files",
  "games": [
@@ -581,17 +581,17 @@
   ],
   "pending": [
    {
-    "home": "Rayo Vallecano de Madrid",
-    "away": "RC Celta de Vigo",
+    "home": "Real Betis Balompié",
+    "away": "Málaga CF",
     "league": "La Liga",
-    "kickoff_utc": "2026-10-31T15:15:00Z",
+    "kickoff_utc": "2026-10-31T17:30:00Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8291,
-      "price": 0.71,
+      "prob": 0.8609,
+      "price": 0.83,
       "stake": 200.0,
-      "ev_pct": 16.8
+      "ev_pct": 3.7
      }
     ]
    },
