@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-28T04:27:58.550834Z",
- "slate_generated_utc": "2026-10-28T00:37:26.430816Z",
+ "generated_utc": "2026-10-28T04:33:05.468018Z",
+ "slate_generated_utc": "2026-10-28T04:28:03.196184Z",
  "date": "2026-10-28",
  "source": "files",
  "games": [
@@ -749,8 +749,8 @@
    "shadow_totals": [
     {
      "sel": "Over 1.5",
-     "prob": 0.7869,
-     "price": 0.835,
+     "prob": 0.789,
+     "price": 0.83,
      "stake": 200.0
     }
    ]
@@ -1236,10 +1236,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8742,
+      "prob": 0.8754,
       "price": 0.84,
       "stake": 200.0,
-      "ev_pct": 4.1
+      "ev_pct": 4.2
      }
     ]
    },
@@ -1251,10 +1251,25 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8345,
+      "prob": 0.8281,
       "price": 0.7,
       "stake": 200.0,
-      "ev_pct": 19.2
+      "ev_pct": 18.3
+     }
+    ]
+   },
+   {
+    "home": "ACF Fiorentina",
+    "away": "Atalanta BC",
+    "league": "Serie A",
+    "kickoff_utc": "2026-10-29T19:45Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.8467,
+      "price": 0.815,
+      "stake": 200.0,
+      "ev_pct": 3.9
      }
     ]
    },
@@ -1266,10 +1281,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.7869,
-      "price": 0.835,
+      "prob": 0.789,
+      "price": 0.83,
       "stake": 200.0,
-      "ev_pct": -5.8
+      "ev_pct": -4.9
      }
     ]
    },
@@ -1281,10 +1296,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8688,
+      "prob": 0.8696,
       "price": 0.795,
       "stake": 200.0,
-      "ev_pct": 9.3
+      "ev_pct": 9.4
      }
     ]
    }
