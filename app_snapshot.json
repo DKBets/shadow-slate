@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-29T04:29:35.985877Z",
+ "generated_utc": "2026-10-29T04:34:59.799732Z",
  "slate_generated_utc": "2026-10-29T04:28:16.644756Z",
  "date": "2026-10-29",
  "source": "files",
@@ -25,8 +25,15 @@
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
+   "shadow_pending": true,
+   "shadow_totals": [
+    {
+     "sel": "Over 1.5",
+     "prob": 0.8564,
+     "price": 0.875,
+     "stake": 200.0
+    }
+   ]
   },
   {
    "home": "Hammarby IF",
@@ -121,15 +128,8 @@
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
-   "shadow_pending": true,
-   "shadow_totals": [
-    {
-     "sel": "Over 1.5",
-     "prob": 0.825,
-     "price": 0.82,
-     "stake": 200.0
-    }
-   ]
+   "shadow_pending": false,
+   "shadow_totals": []
   },
   {
    "home": "CA Mineiro",
@@ -677,17 +677,17 @@
   ],
   "pending": [
    {
-    "home": "Villarreal CF",
-    "away": "RCD Espanyol de Barcelona",
-    "league": "La Liga",
-    "kickoff_utc": "2026-10-30T20:00:00Z",
+    "home": "Lille OSC",
+    "away": "Racing Club de Lens",
+    "league": "Ligue 1",
+    "kickoff_utc": "2026-10-30T20:05Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8678,
-      "price": 0.84,
+      "prob": 0.8426,
+      "price": 0.79,
       "stake": 200.0,
-      "ev_pct": 3.3
+      "ev_pct": 6.7
      }
     ]
    },
@@ -699,25 +699,25 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8986,
+      "prob": 0.9099,
       "price": 0.725,
       "stake": 200.0,
-      "ev_pct": 23.9
+      "ev_pct": 25.5
      }
     ]
    },
    {
-    "home": "ACF Fiorentina",
-    "away": "Atalanta BC",
+    "home": "Frosinone Calcio",
+    "away": "US Lecce",
     "league": "Serie A",
-    "kickoff_utc": "2026-10-29T19:45Z",
+    "kickoff_utc": "2026-10-29T17:30Z",
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.825,
-      "price": 0.82,
+      "prob": 0.8564,
+      "price": 0.875,
       "stake": 200.0,
-      "ev_pct": 0.6
+      "ev_pct": -2.1
      }
     ]
    },
@@ -729,25 +729,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8313,
+      "prob": 0.8305,
       "price": 0.805,
       "stake": 200.0,
-      "ev_pct": 3.3
-     }
-    ]
-   },
-   {
-    "home": "CF América",
-    "away": "Club Tijuana",
-    "league": "Liga MX",
-    "kickoff_utc": "2026-10-29T03:00Z",
-    "totals": [
-     {
-      "sel": "Over 1.5",
-      "prob": 0.7969,
-      "price": 0.835,
-      "stake": 200.0,
-      "ev_pct": -4.6
+      "ev_pct": 3.2
      }
     ]
    },
@@ -759,10 +744,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8691,
+      "prob": 0.8672,
       "price": 0.795,
       "stake": 200.0,
-      "ev_pct": 9.3
+      "ev_pct": 9.1
      }
     ]
    }
