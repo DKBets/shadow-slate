@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-30T17:37:55.856399Z",
- "slate_generated_utc": "2026-10-30T04:40:42.865639Z",
+ "generated_utc": "2026-10-30T17:43:05.794807Z",
+ "slate_generated_utc": "2026-10-30T17:38:41.944805Z",
  "date": "2026-10-30",
  "source": "files",
  "games": [
@@ -34,7 +34,7 @@
    "league_name": "Super Lig",
    "kickoff_utc": "2026-10-30T17:00Z",
    "kickoff_local": "1:00 PM",
-   "status": "pre",
+   "status": "in",
    "pm_slug": "tur-kon-gal-2026-10-30-exact-score",
    "lamH": null,
    "lamA": null,
