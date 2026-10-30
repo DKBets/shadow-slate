@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-30T04:37:51.783787Z",
- "slate_generated_utc": "2026-10-30T04:21:34.177133Z",
+ "generated_utc": "2026-10-30T04:43:05.459710Z",
+ "slate_generated_utc": "2026-10-30T04:40:42.865639Z",
  "date": "2026-10-30",
  "source": "files",
  "games": [
@@ -217,8 +217,15 @@
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
+   "shadow_pending": true,
+   "shadow_totals": [
+    {
+     "sel": "Over 1.5",
+     "prob": 0.8675,
+     "price": 0.85,
+     "stake": 200.0
+    }
+   ]
   },
   {
    "home": "Lille OSC",
@@ -433,15 +440,8 @@
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
-   "shadow_pending": true,
-   "shadow_totals": [
-    {
-     "sel": "Over 1.5",
-     "prob": 0.829,
-     "price": 0.765,
-     "stake": 200.0
-    }
-   ]
+   "shadow_pending": false,
+   "shadow_totals": []
   },
   {
    "home": "Club Puebla",
@@ -941,6 +941,21 @@
   ],
   "pending": [
    {
+    "home": "Villarreal CF",
+    "away": "RCD Espanyol de Barcelona",
+    "league": "La Liga",
+    "kickoff_utc": "2026-10-30T20:00Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.8675,
+      "price": 0.85,
+      "stake": 200.0,
+      "ev_pct": 2.1
+     }
+    ]
+   },
+   {
     "home": "FC Lorient",
     "away": "Stade Brestois 29",
     "league": "Ligue 1",
@@ -948,25 +963,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.9002,
+      "prob": 0.8936,
       "price": 0.725,
       "stake": 200.0,
-      "ev_pct": 24.2
-     }
-    ]
-   },
-   {
-    "home": "FC Juárez",
-    "away": "Querétaro FC",
-    "league": "Liga MX",
-    "kickoff_utc": "2026-10-31T01:00Z",
-    "totals": [
-     {
-      "sel": "Over 1.5",
-      "prob": 0.829,
-      "price": 0.765,
-      "stake": 200.0,
-      "ev_pct": 8.4
+      "ev_pct": 23.3
      }
     ]
    }
