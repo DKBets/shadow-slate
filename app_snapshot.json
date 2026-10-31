@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-31T16:48:25.943946Z",
+ "generated_utc": "2026-10-31T16:54:03.708259Z",
  "slate_generated_utc": "2026-10-31T16:46:52.413789Z",
  "date": "2026-10-31",
  "source": "files",
@@ -1009,8 +1009,15 @@
    "minute": null,
    "shadow_bet": false,
    "shadow_status": null,
-   "shadow_pending": false,
-   "shadow_totals": []
+   "shadow_pending": true,
+   "shadow_totals": [
+    {
+     "sel": "Over 1.5",
+     "prob": 0.7994,
+     "price": 0.775,
+     "stake": 200.0
+    }
+   ]
   },
   {
    "home": "FC Barcelona",
@@ -1702,6 +1709,21 @@
   ],
   "pending": [
    {
+    "home": "Aston Villa FC",
+    "away": "Fulham FC",
+    "league": "Premier League",
+    "kickoff_utc": "2026-10-31T20:00Z",
+    "totals": [
+     {
+      "sel": "Over 1.5",
+      "prob": 0.7994,
+      "price": 0.775,
+      "stake": 200.0,
+      "ev_pct": 3.1
+     }
+    ]
+   },
+   {
     "home": "FC Lorient",
     "away": "Stade Brestois 29",
     "league": "Ligue 1",
@@ -1709,10 +1731,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.903,
+      "prob": 0.8902,
       "price": 0.72,
       "stake": 200.0,
-      "ev_pct": 25.4
+      "ev_pct": 23.6
      }
     ]
    },
@@ -1724,10 +1746,10 @@
     "totals": [
      {
       "sel": "Over 1.5",
-      "prob": 0.8515,
+      "prob": 0.8417,
       "price": 0.79,
       "stake": 200.0,
-      "ev_pct": 7.8
+      "ev_pct": 6.5
      }
     ]
    }
