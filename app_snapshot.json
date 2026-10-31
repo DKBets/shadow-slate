@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-31T03:13:57.941352Z",
- "slate_generated_utc": "2026-10-31T01:35:25.969776Z",
+ "generated_utc": "2026-10-31T03:19:05.242642Z",
+ "slate_generated_utc": "2026-10-31T03:15:09.757389Z",
  "date": "2026-10-30",
  "source": "files",
  "games": [
@@ -178,7 +178,7 @@
    "league_name": "Liga MX",
    "kickoff_utc": "2026-10-31T01:00Z",
    "kickoff_local": "9:00 PM",
-   "status": "in",
+   "status": "post",
    "pm_slug": "mex-jua-que-2026-10-30-exact-score",
    "lamH": null,
    "lamA": null,
